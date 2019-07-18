@@ -5319,7 +5319,8 @@
             "expansion": 341,
             "house": "shadows",
             "keywords": [
-                "skirmish"
+                "skirmish",
+                "poison"
             ],
             "traits": [
                 "elf",
@@ -6240,7 +6241,9 @@
             "image": "https://cdn.keyforgegame.com/media/card_front/en/341_356_QW7GHMXR5HJ8_en.png",
             "expansion": 341,
             "house": "untamed",
-            "keywords": [],
+            "keywords": [
+                "poison"
+            ],
             "traits": [
                 "beast"
             ],

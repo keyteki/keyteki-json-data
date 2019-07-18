@@ -6319,7 +6319,9 @@
             "image": "https://cdn.keyforgegame.com/media/card_front/en/435_356_JG9R9G9RW7QQ_en.png",
             "expansion": 435,
             "house": "untamed",
-            "keywords": [],
+            "keywords": [
+                "poison"
+            ],
             "traits": [
                 "beast"
             ],
