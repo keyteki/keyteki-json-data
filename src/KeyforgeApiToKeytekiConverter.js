@@ -70,7 +70,7 @@ class KeyforgeApiToKeytekiConverter {
         let pageErrors = [];
 
         try {
-            response = await httpRequest(apiUrl, {json: true});
+            response = await httpRequest(apiUrl, { json: true });
         } catch(err) {
             console.info(err);
 
@@ -84,7 +84,7 @@ class KeyforgeApiToKeytekiConverter {
 
         for(let i = 1; i < totalPages; i++) {
             try {
-                response = await httpRequest(`${apiUrl}/?page=${i}&links=cards&page_size=${pageSize}&ordering=-date`, {json: true});
+                response = await httpRequest(`${apiUrl}/?page=${i}&links=cards&page_size=${pageSize}&ordering=-date`, { json: true });
             } catch(err) {
                 if(err.statusCode === 429) {
                     await sleep(100);
@@ -106,7 +106,7 @@ class KeyforgeApiToKeytekiConverter {
             }
 
             for(let card of response._linked.cards) {
-                if(card.expansion != pack.id || card[card.card_number]) {
+                if(card.expansion != pack.id || card[card.card_number] || card.is_maverick) {
                     continue;
                 }
 
@@ -122,7 +122,7 @@ class KeyforgeApiToKeytekiConverter {
                     type: card.card_type.toLowerCase(),
                     rarity: card.rarity,
                     amber: card.amber === '' ? 0 : parseInt(card.amber),
-                    armor: card.type === 'creature' ? (card.armor !== '' ? parseInt(card.armor) : 0) : null,
+                    armor: card.card_type.toLowerCase() === 'creature' ? (card.armor !== '' ? parseInt(card.armor) : 0) : null,
                     power: card.power === '' ? null : parseInt(card.power),
                     text: card.card_text
                 };

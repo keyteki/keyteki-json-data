@@ -54,7 +54,7 @@
             "type": "creature",
             "rarity": "Common",
             "amber": 0,
-            "armor": null,
+            "armor": 1,
             "power": 4,
             "text": "Play: Deal 2D to each enemy flank creature."
         },
@@ -1438,7 +1438,7 @@
             "type": "creature",
             "rarity": "Uncommon",
             "amber": 0,
-            "armor": null,
+            "armor": 2,
             "power": 7,
             "text": "Play: Sacrifice a friendly creature.\r"
         },
@@ -2682,7 +2682,7 @@
             "type": "creature",
             "rarity": "Rare",
             "amber": 0,
-            "armor": null,
+            "armor": 1,
             "power": 5,
             "text": "Fight/Reap: You may play one of your archived cards as if it were in your hand and in the active house.\r"
         },
@@ -2864,7 +2864,7 @@
             "type": "creature",
             "rarity": "Common",
             "amber": 0,
-            "armor": null,
+            "armor": 5,
             "power": 2,
             "text": "Fight: Archive the creature Collector Worm fights. If that creature leaves your archives, put it in its owner’s hand instead."
         },
@@ -2904,7 +2904,7 @@
             "type": "creature",
             "rarity": "Common",
             "amber": 0,
-            "armor": null,
+            "armor": 2,
             "power": 2,
             "text": "Elusive. (The first time this creature is attacked each turn, no damage is dealt.)\rEach other Martian creature gets +1 armor."
         },
@@ -3033,7 +3033,7 @@
             "type": "creature",
             "rarity": "Common",
             "amber": 0,
-            "armor": null,
+            "armor": 1,
             "power": 4,
             "text": "Play: Deal 2D to a creature and move it to either flank of its controller’s battleline."
         },
@@ -3090,7 +3090,7 @@
             "type": "creature",
             "rarity": "Common",
             "amber": 0,
-            "armor": null,
+            "armor": 1,
             "power": 9,
             "text": "Taunt. (This creature’s neighbors cannot be attacked unless they have taunt.)\rYxilx Dominator enters play stunned.\r"
         },
@@ -3109,7 +3109,7 @@
             "type": "creature",
             "rarity": "Common",
             "amber": 0,
-            "armor": null,
+            "armor": 1,
             "power": 3,
             "text": "After an enemy creature reaps, stun it.\r"
         },
@@ -3260,7 +3260,7 @@
             "type": "creature",
             "rarity": "Uncommon",
             "amber": 0,
-            "armor": null,
+            "armor": 1,
             "power": 2,
             "text": "For each neighbor Nyzyk Resonator has, your opponent’s keys cost +2A."
         },
@@ -3342,7 +3342,7 @@
             "type": "creature",
             "rarity": "Uncommon",
             "amber": 0,
-            "armor": null,
+            "armor": 1,
             "power": 6,
             "text": "Storm Crawler only deals 1D when fighting.\rAfter an enemy creature reaps, stun it."
         },
@@ -3688,7 +3688,7 @@
             "type": "creature",
             "rarity": "Rare",
             "amber": 0,
-            "armor": null,
+            "armor": 2,
             "power": 4,
             "text": "Fight: Deal 2D to a creature and move it to either flank of its controller’s battleline."
         },
@@ -3707,7 +3707,7 @@
             "type": "creature",
             "rarity": "Rare",
             "amber": 0,
-            "armor": null,
+            "armor": 1,
             "power": 3,
             "text": "Play: Archive a card. You may purge an archived card to stun a creature."
         },
@@ -3728,7 +3728,7 @@
             "type": "creature",
             "rarity": "Common",
             "amber": 0,
-            "armor": null,
+            "armor": 1,
             "power": 4,
             "text": "Deploy. (This creature can enter play anywhere in your battleline.)\r“Lion” Bautrem’s neighbors get +2 power."
         },
@@ -3765,7 +3765,7 @@
             "type": "creature",
             "rarity": "Common",
             "amber": 0,
-            "armor": null,
+            "armor": 1,
             "power": 4,
             "text": "Play: Capture 3A.\rReap: Discard 1A from Aubade the Grim."
         },
@@ -3823,7 +3823,7 @@
             "type": "creature",
             "rarity": "Common",
             "amber": 0,
-            "armor": null,
+            "armor": 2,
             "power": 4,
             "text": "Deploy. (This creature can enter play anywhere in your battleline.)\rTaunt. (This creature’s neighbors cannot be attacked unless they have taunt.)\r"
         },
@@ -3892,7 +3892,7 @@
             "type": "creature",
             "rarity": "Common",
             "amber": 0,
-            "armor": null,
+            "armor": 1,
             "power": 5,
             "text": "After Maruck the Marked prevents damage with its armor, capture 1A for each damage just prevented."
         },
@@ -3943,7 +3943,7 @@
             "type": "creature",
             "rarity": "Common",
             "amber": 0,
-            "armor": null,
+            "armor": 2,
             "power": 4,
             "text": "After your opponent gains A by reaping, Sir Marrows captures it.\r"
         },
@@ -4015,7 +4015,7 @@
             "type": "creature",
             "rarity": "Uncommon",
             "amber": 0,
-            "armor": null,
+            "armor": 1,
             "power": 6,
             "text": "After you discard a Sanctum card from your hand, Baron Mengevin captures 1A."
         },
@@ -4034,7 +4034,7 @@
             "type": "creature",
             "rarity": "Uncommon",
             "amber": 0,
-            "armor": null,
+            "armor": 1,
             "power": 5,
             "text": "Enemy creatures cannot reap.\r"
         },
@@ -4141,7 +4141,7 @@
             "type": "creature",
             "rarity": "Uncommon",
             "amber": 0,
-            "armor": null,
+            "armor": 1,
             "power": 5,
             "text": "Play: If your opponent has 7 or more A, capture all but 5 of it."
         },
@@ -4254,7 +4254,7 @@
             "type": "creature",
             "rarity": "Uncommon",
             "amber": 0,
-            "armor": null,
+            "armor": 1,
             "power": 4,
             "text": "Play: Gain 3A if you control creatures from 3 different houses."
         },
@@ -4291,7 +4291,7 @@
             "type": "creature",
             "rarity": "Uncommon",
             "amber": 0,
-            "armor": null,
+            "armor": 2,
             "power": 4,
             "text": "Taunt. (This creature’s neighbors cannot be attacked unless they have taunt.)\rHazardous 4. (Before this creature is attacked, deal 4D to the attacking enemy.)"
         },
@@ -4505,7 +4505,7 @@
             "type": "creature",
             "rarity": "Rare",
             "amber": 0,
-            "armor": null,
+            "armor": 2,
             "power": 5,
             "text": "Before Fight: Deal 3D to each neighbor of the creature Lord Golgotha fights."
         },
@@ -4648,7 +4648,7 @@
             "type": "creature",
             "rarity": "Rare",
             "amber": 0,
-            "armor": null,
+            "armor": 1,
             "power": 6,
             "text": "Taunt. (This creature’s neighbors cannot be attacked unless they have taunt.)\rFight/Reap: Swap Sanctum Guardian with another friendly creature in your battleline."
         },
@@ -4702,7 +4702,7 @@
             "type": "creature",
             "rarity": "Rare",
             "amber": 0,
-            "armor": null,
+            "armor": 1,
             "power": 4,
             "text": "Your A cannot be stolen.\r"
         },

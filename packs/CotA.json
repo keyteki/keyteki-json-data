@@ -469,7 +469,7 @@
             "type": "creature",
             "rarity": "Rare",
             "amber": 0,
-            "armor": null,
+            "armor": 0,
             "power": 5,
             "text": "After you forge a key, deal 2<D> to each enemy creature."
         },
@@ -487,7 +487,7 @@
             "type": "creature",
             "rarity": "Common",
             "amber": 0,
-            "armor": null,
+            "armor": 0,
             "power": 6,
             "text": "Valdr deals +2<D> while attacking an enemy creature on the flank."
         },
@@ -505,7 +505,7 @@
             "type": "creature",
             "rarity": "Common",
             "amber": 0,
-            "armor": null,
+            "armor": 0,
             "power": 5,
             "text": "Play: Your opponent loses 1<A>."
         },
@@ -523,7 +523,7 @@
             "type": "creature",
             "rarity": "Uncommon",
             "amber": 0,
-            "armor": null,
+            "armor": 0,
             "power": 7,
             "text": "Play: Destroy each creature with power 3 or lower."
         },
@@ -541,7 +541,7 @@
             "type": "creature",
             "rarity": "Common",
             "amber": 0,
-            "armor": null,
+            "armor": 1,
             "power": 5,
             "text": "Before Fight: Deal 1<D> to each enemy creature."
         },
@@ -559,7 +559,7 @@
             "type": "creature",
             "rarity": "Common",
             "amber": 0,
-            "armor": null,
+            "armor": 0,
             "power": 5,
             "text": "Play: You may ready and fight with a neighboring creature."
         },
@@ -577,7 +577,7 @@
             "type": "creature",
             "rarity": "Uncommon",
             "amber": 0,
-            "armor": null,
+            "armor": 0,
             "power": 2,
             "text": "Destroyed: Your opponent loses 2<A>."
         },
@@ -595,7 +595,7 @@
             "type": "creature",
             "rarity": "Common",
             "amber": 0,
-            "armor": null,
+            "armor": 0,
             "power": 5,
             "text": "Fight: Gain 1<A>."
         },
@@ -614,7 +614,7 @@
             "type": "creature",
             "rarity": "Uncommon",
             "amber": 0,
-            "armor": null,
+            "armor": 0,
             "power": 6,
             "text": "Play: Deal 2<D> to each other undamaged creature."
         },
@@ -632,7 +632,7 @@
             "type": "creature",
             "rarity": "Rare",
             "amber": 0,
-            "armor": null,
+            "armor": 0,
             "power": 12,
             "text": "Kelifi Dragon cannot be played unless you have 7<A> or more.\u000bFight/Reap: Gain 1<A>. Deal 5<D> to a creature."
         },
@@ -650,7 +650,7 @@
             "type": "creature",
             "rarity": "Rare",
             "amber": 0,
-            "armor": null,
+            "armor": 0,
             "power": 7,
             "text": "Each enemy Brobnar creature gets –2 power."
         },
@@ -668,7 +668,7 @@
             "type": "creature",
             "rarity": "Common",
             "amber": 0,
-            "armor": null,
+            "armor": 0,
             "power": 6,
             "text": "After an enemy creature is destroyed fighting Krump, its controller loses 1<A>."
         },
@@ -686,7 +686,7 @@
             "type": "creature",
             "rarity": "Uncommon",
             "amber": 0,
-            "armor": null,
+            "armor": 0,
             "power": 5,
             "text": "Play: If your opponent has 7<A> or more, they lose 2<A>."
         },
@@ -706,7 +706,7 @@
             "type": "creature",
             "rarity": "Rare",
             "amber": 0,
-            "armor": null,
+            "armor": 0,
             "power": 2,
             "text": "Elusive. (The first time this creature is attacked each turn, no damage is dealt.)\u000bReap: For the remainder of the turn, gain 1<A> each time an enemy creature is destroyed."
         },
@@ -724,7 +724,7 @@
             "type": "creature",
             "rarity": "Rare",
             "amber": 0,
-            "armor": null,
+            "armor": 0,
             "power": 6,
             "text": "After an enemy creature is destroyed fighting Mugwump, fully heal Mugwump and give it a +1 power counter."
         },
@@ -744,7 +744,7 @@
             "type": "creature",
             "rarity": "Rare",
             "amber": 0,
-            "armor": null,
+            "armor": 0,
             "power": 2,
             "text": "Elusive. (The first time this creature is attacked each turn, no damage is dealt.)\u000bDeal 1<D> to each enemy creature after it enters play."
         },
@@ -762,7 +762,7 @@
             "type": "creature",
             "rarity": "Rare",
             "amber": 0,
-            "armor": null,
+            "armor": 0,
             "power": 6,
             "text": "During your turn, each time you discard a Brobnar card from your hand, you may deal 4<D> to a creature."
         },
@@ -781,7 +781,7 @@
             "type": "creature",
             "rarity": "Rare",
             "amber": 0,
-            "armor": null,
+            "armor": 0,
             "power": 6,
             "text": "At the end of your turn, if you played exactly one card this turn, Rogue Ogre heals 2 damage and captures 1<A>."
         },
@@ -799,7 +799,7 @@
             "type": "creature",
             "rarity": "Common",
             "amber": 0,
-            "armor": null,
+            "armor": 0,
             "power": 5,
             "text": "Play: Stun a creature."
         },
@@ -817,7 +817,7 @@
             "type": "creature",
             "rarity": "Rare",
             "amber": 0,
-            "armor": null,
+            "armor": 0,
             "power": 7,
             "text": "Tireless Crocag cannot reap.\u000bYou may use Tireless Crocag as if it belonged to the active house.\u000bIf your opponent has no creatures in play, destroy Tireless Crocag."
         },
@@ -835,7 +835,7 @@
             "type": "creature",
             "rarity": "Common",
             "amber": 0,
-            "armor": null,
+            "armor": 0,
             "power": 8,
             "text": "Reap: Troll heals 3 damage."
         },
@@ -853,7 +853,7 @@
             "type": "creature",
             "rarity": "Common",
             "amber": 0,
-            "armor": null,
+            "armor": 0,
             "power": 3,
             "text": "Play: Return each other friendly Brobnar creature to your hand."
         },
@@ -1385,7 +1385,7 @@
             "type": "creature",
             "rarity": "Common",
             "amber": 0,
-            "armor": null,
+            "armor": 0,
             "power": 4,
             "text": "Play: Capture 3<A>."
         },
@@ -1405,7 +1405,7 @@
             "type": "creature",
             "rarity": "Uncommon",
             "amber": 0,
-            "armor": null,
+            "armor": 0,
             "power": 2,
             "text": "Elusive. (The first time this creature is attacked each turn, no damage is dealt.)\u000bPlay: If your opponent has 7<A> or more, capture all of it."
         },
@@ -1423,7 +1423,7 @@
             "type": "creature",
             "rarity": "Common",
             "amber": 0,
-            "armor": null,
+            "armor": 0,
             "power": 2,
             "text": "Destroyed: Gain 2<A>."
         },
@@ -1441,7 +1441,7 @@
             "type": "creature",
             "rarity": "Rare",
             "amber": 0,
-            "armor": null,
+            "armor": 0,
             "power": 4,
             "text": "Fight/Reap: Purge a creature from a discard pile. If you do, put a +1 power counter on Eater of the Dead."
         },
@@ -1459,7 +1459,7 @@
             "type": "creature",
             "rarity": "Common",
             "amber": 0,
-            "armor": null,
+            "armor": 0,
             "power": 2,
             "text": "Your opponent cannot play more than 2 cards each turn."
         },
@@ -1477,7 +1477,7 @@
             "type": "creature",
             "rarity": "Rare",
             "amber": 0,
-            "armor": null,
+            "armor": 0,
             "power": 5,
             "text": "Before Fight: Choose a creature. Gabos Longarms deals damage to that creature rather than the one it is fighting."
         },
@@ -1495,7 +1495,7 @@
             "type": "creature",
             "rarity": "Rare",
             "amber": 0,
-            "armor": null,
+            "armor": 0,
             "power": 7,
             "text": "After an enemy creature is destroyed fighting Overlord Greking, put that creature into play under your control."
         },
@@ -1513,7 +1513,7 @@
             "type": "creature",
             "rarity": "Uncommon",
             "amber": 0,
-            "armor": null,
+            "armor": 0,
             "power": 4,
             "text": "Play/Fight/Reap: Heal up to 2 damage from a creature. Deal that amount of damage to another creature."
         },
@@ -1531,7 +1531,7 @@
             "type": "creature",
             "rarity": "Rare",
             "amber": 0,
-            "armor": null,
+            "armor": 0,
             "power": 4,
             "text": "Reap: You may destroy a creature with 1 power."
         },
@@ -1549,7 +1549,7 @@
             "type": "creature",
             "rarity": "Variant",
             "amber": 0,
-            "armor": null,
+            "armor": 0,
             "power": 4,
             "text": "Reap: You may destroy a creature with 2 power."
         },
@@ -1567,7 +1567,7 @@
             "type": "creature",
             "rarity": "Variant",
             "amber": 0,
-            "armor": null,
+            "armor": 0,
             "power": 4,
             "text": "Reap: You may destroy a creature with 3 power."
         },
@@ -1585,7 +1585,7 @@
             "type": "creature",
             "rarity": "Common",
             "amber": 0,
-            "armor": null,
+            "armor": 0,
             "power": 5,
             "text": "Action: Steal 1<A>."
         },
@@ -1605,7 +1605,7 @@
             "type": "creature",
             "rarity": "Rare",
             "amber": 2,
-            "armor": null,
+            "armor": 0,
             "power": 9,
             "text": "Taunt. (This creature’s neighbors cannot be attacked unless they have taunt.)\u000bWhile Pitlord is in play you must choose Dis as your active house."
         },
@@ -1623,7 +1623,7 @@
             "type": "creature",
             "rarity": "Rare",
             "amber": 0,
-            "armor": null,
+            "armor": 0,
             "power": 1,
             "text": "Play: Choose a house. Your opponent cannot choose that house as their active house until Restringuntus leaves play."
         },
@@ -1641,7 +1641,7 @@
             "type": "creature",
             "rarity": "Uncommon",
             "amber": 0,
-            "armor": null,
+            "armor": 0,
             "power": 2,
             "text": "At the end of your turn, your opponent loses 1<A>."
         },
@@ -1659,7 +1659,7 @@
             "type": "creature",
             "rarity": "Common",
             "amber": 0,
-            "armor": null,
+            "armor": 0,
             "power": 5,
             "text": "Play: If your opponent has 4<A> or more, steal 1<A>."
         },
@@ -1677,7 +1677,7 @@
             "type": "creature",
             "rarity": "Uncommon",
             "amber": 0,
-            "armor": null,
+            "armor": 0,
             "power": 4,
             "text": "Fight/Reap: Return an artifact or flank creature to its owner’s hand."
         },
@@ -1695,7 +1695,7 @@
             "type": "creature",
             "rarity": "Uncommon",
             "amber": 0,
-            "armor": null,
+            "armor": 0,
             "power": 6,
             "text": "After an enemy creature is destroyed fighting Stealer of Souls, purge that creature and gain 1<A>."
         },
@@ -1713,7 +1713,7 @@
             "type": "creature",
             "rarity": "Common",
             "amber": 0,
-            "armor": null,
+            "armor": 0,
             "power": 3,
             "text": "During their “draw cards” step, your opponent refills their hand to 1 less card."
         },
@@ -1731,7 +1731,7 @@
             "type": "creature",
             "rarity": "Uncommon",
             "amber": 0,
-            "armor": null,
+            "armor": 0,
             "power": 5,
             "text": "Your opponent must pay you 1<A> in order to use an artifact."
         },
@@ -1750,7 +1750,7 @@
             "type": "creature",
             "rarity": "Common",
             "amber": 0,
-            "armor": null,
+            "armor": 0,
             "power": 5,
             "text": "Play: If your opponent has no <A>, gain 2<A>."
         },
@@ -1768,7 +1768,7 @@
             "type": "creature",
             "rarity": "Common",
             "amber": 0,
-            "armor": null,
+            "armor": 0,
             "power": 3,
             "text": "Reap: Your opponent discards a random card from their hand."
         },
@@ -1788,7 +1788,7 @@
             "type": "creature",
             "rarity": "Rare",
             "amber": 0,
-            "armor": null,
+            "armor": 0,
             "power": 1,
             "text": "Elusive. (The first time this creature is attacked each turn, no damage is dealt.)\u000bEach time a creature is destroyed, its opponent gains 1<A>."
         },
@@ -1808,7 +1808,7 @@
             "type": "creature",
             "rarity": "Rare",
             "amber": 0,
-            "armor": null,
+            "armor": 0,
             "power": 7,
             "text": "You must lose 3<A> in order to play Truebaru.  \u000bTaunt. (This creature’s neighbors cannot be attacked unless they have taunt.)\u000bDestroyed: Gain 5<A>. "
         },
@@ -2344,7 +2344,7 @@
             "type": "creature",
             "rarity": "Common",
             "amber": 0,
-            "armor": null,
+            "armor": 0,
             "power": 2,
             "text": "Skirmish. (When you use this creature to fight, it is dealt no damage in return.)\u000bFight: Steal 1<A>."
         },
@@ -2363,7 +2363,7 @@
             "type": "creature",
             "rarity": "Uncommon",
             "amber": 0,
-            "armor": null,
+            "armor": 0,
             "power": 6,
             "text": "After a creature is destroyed fighting Brain Eater, draw a card."
         },
@@ -2382,7 +2382,7 @@
             "type": "creature",
             "rarity": "Common",
             "amber": 0,
-            "armor": null,
+            "armor": 0,
             "power": 3,
             "text": "Play: Capture 1<A>.\u000bDestroyed: Put Dextre on top of your deck."
         },
@@ -2401,7 +2401,7 @@
             "type": "creature",
             "rarity": "Common",
             "amber": 0,
-            "armor": null,
+            "armor": 0,
             "power": 5,
             "text": "Reap: Draw a card."
         },
@@ -2420,7 +2420,7 @@
             "type": "creature",
             "rarity": "Common",
             "amber": 0,
-            "armor": null,
+            "armor": 0,
             "power": 4,
             "text": "Play: Gain 1<A> for each forged key your opponent has."
         },
@@ -2438,7 +2438,7 @@
             "type": "creature",
             "rarity": "Rare",
             "amber": 0,
-            "armor": null,
+            "armor": 0,
             "power": 4,
             "text": "Play: Your opponent discards each of their archived cards. You gain 1<A> for each card discarded this way."
         },
@@ -2457,7 +2457,7 @@
             "type": "creature",
             "rarity": "Common",
             "amber": 0,
-            "armor": null,
+            "armor": 0,
             "power": 3,
             "text": "Reap: Archive a card."
         },
@@ -2476,7 +2476,7 @@
             "type": "creature",
             "rarity": "Rare",
             "amber": 0,
-            "armor": null,
+            "armor": 0,
             "power": 1,
             "text": "Play: Take control of an enemy flank creature until Harland Mindlock leaves play."
         },
@@ -2497,7 +2497,7 @@
             "type": "creature",
             "rarity": "Common",
             "amber": 0,
-            "armor": null,
+            "armor": 0,
             "power": 3,
             "text": "Skirmish. (When you use this creature to fight, it is dealt no damage in return.)\u000bFight: Draw a card."
         },
@@ -2516,7 +2516,7 @@
             "type": "creature",
             "rarity": "Common",
             "amber": 0,
-            "armor": null,
+            "armor": 0,
             "power": 5,
             "text": "During your “draw cards” step, refill your hand to 1 additional card."
         },
@@ -2535,7 +2535,7 @@
             "type": "creature",
             "rarity": "Rare",
             "amber": 0,
-            "armor": null,
+            "armor": 0,
             "power": 1,
             "text": "Play/Fight/Reap: Destroy an enemy creature or artifact and a friendly creature or artifact. Discard the top card of your deck. If that card is not a Logos card, trigger this effect again."
         },
@@ -2554,7 +2554,7 @@
             "type": "creature",
             "rarity": "Uncommon",
             "amber": 0,
-            "armor": null,
+            "armor": 0,
             "power": 4,
             "text": "Action: Archive a card from your discard pile."
         },
@@ -2575,7 +2575,7 @@
             "type": "creature",
             "rarity": "Rare",
             "amber": 0,
-            "armor": null,
+            "armor": 0,
             "power": 2,
             "text": "Elusive. (The first time this creature is attacked each turn, no damage is dealt.)\u000bFight/Reap: Heal 3 damage from a Mars creature or stun a Mars creature. "
         },
@@ -2594,7 +2594,7 @@
             "type": "creature",
             "rarity": "Rare",
             "amber": 1,
-            "armor": null,
+            "armor": 0,
             "power": 2,
             "text": "Play/Reap: Look at your opponent’s hand."
         },
@@ -2612,7 +2612,7 @@
             "type": "creature",
             "rarity": "Rare",
             "amber": 0,
-            "armor": null,
+            "armor": 0,
             "power": 2,
             "text": "Reap: Trigger the reap effect of another creature in play as if you controlled that creature. (That creature does not exhaust.)"
         },
@@ -2630,7 +2630,7 @@
             "type": "creature",
             "rarity": "Uncommon",
             "amber": 0,
-            "armor": null,
+            "armor": 0,
             "power": 2,
             "text": "Destroyed: Archive the top card of your deck."
         },
@@ -2648,7 +2648,7 @@
             "type": "creature",
             "rarity": "Rare",
             "amber": 0,
-            "armor": null,
+            "armor": 0,
             "power": 1,
             "text": "Play: Your opponent cannot use any cards next turn. (Cards can still be played and discarded.)"
         },
@@ -2667,7 +2667,7 @@
             "type": "creature",
             "rarity": "Rare",
             "amber": 1,
-            "armor": null,
+            "armor": 0,
             "power": 2,
             "text": "Play: Draw 2 cards. \u000bAction: Shuffle Timetraveller into your deck."
         },
@@ -2686,7 +2686,7 @@
             "type": "creature",
             "rarity": "Common",
             "amber": 0,
-            "armor": null,
+            "armor": 0,
             "power": 6,
             "text": "While Titan Mechanic is on a flank, each key costs –1<A>."
         },
@@ -2707,7 +2707,7 @@
             "type": "creature",
             "rarity": "Rare",
             "amber": 0,
-            "armor": null,
+            "armor": 0,
             "power": 2,
             "text": "Elusive. (The first time this creature is attacked each turn, no damage is dealt.)\u000bReap: Choose a house. Reveal the top card of your deck. If it is of that house, archive it and gain 1<A>. Otherwise, discard it."
         },
@@ -2726,7 +2726,7 @@
             "type": "creature",
             "rarity": "Uncommon",
             "amber": 0,
-            "armor": null,
+            "armor": 0,
             "power": 2,
             "text": "Each time you use an artifact, gain 1<A>."
         },
@@ -3293,7 +3293,7 @@
             "type": "creature",
             "rarity": "Uncommon",
             "amber": 0,
-            "armor": null,
+            "armor": 0,
             "power": 2,
             "text": "Reap: The next Mars creature you play this turn enters play ready."
         },
@@ -3313,7 +3313,7 @@
             "type": "creature",
             "rarity": "Rare",
             "amber": 0,
-            "armor": null,
+            "armor": 0,
             "power": 11,
             "text": "Taunt. (This creature’s neighbors cannot be attacked unless they have taunt.)\u000bChuff Ape enters play stunned.\u000bFight/Reap: You may sacrifice another friendly creature. If you do, fully heal Chuff Ape."
         },
@@ -3331,7 +3331,7 @@
             "type": "creature",
             "rarity": "Uncommon",
             "amber": 0,
-            "armor": null,
+            "armor": 0,
             "power": 7,
             "text": "Ether Spider deals no damage when fighting.\u000bEach <A> that would be added to your opponent’s pool is captured by Ether Spider instead."
         },
@@ -3349,7 +3349,7 @@
             "type": "creature",
             "rarity": "Common",
             "amber": 0,
-            "armor": null,
+            "armor": 1,
             "power": 4,
             "text": "Your opponent’s keys cost +1<A>.\u000bFight/Reap: Capture 1<A>."
         },
@@ -3367,7 +3367,7 @@
             "type": "creature",
             "rarity": "Rare",
             "amber": 0,
-            "armor": null,
+            "armor": 0,
             "power": 10,
             "text": "You cannot play creatures.  \u000bAfter an enemy creature is destroyed fighting Grommid, your opponent loses 1<A>."
         },
@@ -3388,7 +3388,7 @@
             "type": "creature",
             "rarity": "Common",
             "amber": 0,
-            "armor": null,
+            "armor": 0,
             "power": 2,
             "text": "Elusive. (The first time this creature is attacked each turn, no damage is dealt.)\u000bFight/Reap: Ready a non-Agent Mars creature."
         },
@@ -3409,7 +3409,7 @@
             "type": "creature",
             "rarity": "Common",
             "amber": 0,
-            "armor": null,
+            "armor": 0,
             "power": 2,
             "text": "Elusive. (The first time this creature is attacked each turn, no damage is dealt.)\u000bAction: Choose an enemy creature. It captures 1<A> from its own side."
         },
@@ -3430,7 +3430,7 @@
             "type": "creature",
             "rarity": "Rare",
             "amber": 0,
-            "armor": null,
+            "armor": 0,
             "power": 1,
             "text": "Elusive. (The first time this creature is attacked each turn, no damage is dealt.)\u000bAction: Your opponent loses 1<A> for each other friendly Mars creature."
         },
@@ -3449,7 +3449,7 @@
             "type": "creature",
             "rarity": "Rare",
             "amber": 0,
-            "armor": null,
+            "armor": 0,
             "power": 3,
             "text": "Fight/Reap: Deal 3<D> to each Human creature. This damage cannot be prevented by armor."
         },
@@ -3467,7 +3467,7 @@
             "type": "creature",
             "rarity": "Common",
             "amber": 0,
-            "armor": null,
+            "armor": 1,
             "power": 6,
             "text": "After you play another Mars creature, fully heal Tunk."
         },
@@ -3486,7 +3486,7 @@
             "type": "creature",
             "rarity": "Common",
             "amber": 0,
-            "armor": null,
+            "armor": 0,
             "power": 3,
             "text": "Fight/Reap: Use a friendly non-Mars creature."
         },
@@ -3507,7 +3507,7 @@
             "type": "creature",
             "rarity": "Uncommon",
             "amber": 0,
-            "armor": null,
+            "armor": 0,
             "power": 2,
             "text": "Elusive. (The first time this creature is attacked each turn, no damage is dealt.)\u000bReap: Put an enemy creature into your archives. If that creature leaves your archives, it is put into its owner’s hand instead."
         },
@@ -3526,7 +3526,7 @@
             "type": "creature",
             "rarity": "Common",
             "amber": 0,
-            "armor": null,
+            "armor": 0,
             "power": 3,
             "text": "Reap: You may archive a friendly creature or artifact from play."
         },
@@ -3545,7 +3545,7 @@
             "type": "creature",
             "rarity": "Common",
             "amber": 0,
-            "armor": null,
+            "armor": 0,
             "power": 2,
             "text": "Yxili Marauder gets +1 power for each <A> on it.\u000bPlay: Capture 1<A> for each friendly ready Mars creature."
         },
@@ -3564,7 +3564,7 @@
             "type": "creature",
             "rarity": "Common",
             "amber": 0,
-            "armor": null,
+            "armor": 0,
             "power": 3,
             "text": "Fight/Reap: Deal 2<D> to a creature. If this damage destroys that creature, purge it."
         },
@@ -3584,7 +3584,7 @@
             "type": "creature",
             "rarity": "Common",
             "amber": 0,
-            "armor": null,
+            "armor": 1,
             "power": 9,
             "text": "Taunt. (This creature’s neighbors cannot be attacked unless they have taunt.)\u000bYxilx Dominator enters play stunned. "
         },
@@ -3602,7 +3602,7 @@
             "type": "creature",
             "rarity": "Uncommon",
             "amber": 0,
-            "armor": null,
+            "armor": 0,
             "power": 7,
             "text": "Zorg enters play stunned. \u000bBefore Fight: Stun the creature Zorg fights and each of that creature’s neighbors."
         },
@@ -3621,7 +3621,7 @@
             "type": "creature",
             "rarity": "Common",
             "amber": 0,
-            "armor": null,
+            "armor": 0,
             "power": 3,
             "text": "Fight/Reap: You may reveal a creature from your hand. If you do, archive it and Zyzzix the Many gets three +1 power counters."
         },
@@ -3791,7 +3791,7 @@
             "number": "218",
             "image": "https://cdn.keyforgegame.com/media/card_front/en/341_218_63PVJ7PJP3GP_en.png",
             "expansion": 341,
-            "house": "mars",
+            "house": "sanctum",
             "keywords": [],
             "traits": [],
             "type": "action",
@@ -4134,7 +4134,7 @@
             "type": "creature",
             "rarity": "Common",
             "amber": 0,
-            "armor": null,
+            "armor": 2,
             "power": 4,
             "text": "Each of Bulwark’s neighbors gets +2 armor."
         },
@@ -4155,7 +4155,7 @@
             "type": "creature",
             "rarity": "Common",
             "amber": 0,
-            "armor": null,
+            "armor": 1,
             "power": 6,
             "text": "Taunt. (This creature’s neighbors cannot be attacked unless they have taunt.)"
         },
@@ -4174,7 +4174,7 @@
             "type": "creature",
             "rarity": "Uncommon",
             "amber": 0,
-            "armor": null,
+            "armor": 2,
             "power": 6,
             "text": "Fight: Capture 1<A>."
         },
@@ -4193,7 +4193,7 @@
             "type": "creature",
             "rarity": "Common",
             "amber": 0,
-            "armor": null,
+            "armor": 0,
             "power": 3,
             "text": "Reap: Use a friendly non-Sanctum creature."
         },
@@ -4211,7 +4211,7 @@
             "type": "creature",
             "rarity": "Rare",
             "amber": 0,
-            "armor": null,
+            "armor": 0,
             "power": 3,
             "text": "Destroyed: Fully heal each other friendly creature and draw 2 cards."
         },
@@ -4230,7 +4230,7 @@
             "type": "creature",
             "rarity": "Uncommon",
             "amber": 0,
-            "armor": null,
+            "armor": 1,
             "power": 6,
             "text": "After an enemy creature is destroyed fighting Francus, Francus captures 1<A>."
         },
@@ -4249,7 +4249,7 @@
             "type": "creature",
             "rarity": "Uncommon",
             "amber": 0,
-            "armor": null,
+            "armor": 0,
             "power": 3,
             "text": "Each friendly creature gets +1 armor. \u000bReap: Heal 2 damage from a creature."
         },
@@ -4268,7 +4268,7 @@
             "type": "creature",
             "rarity": "Rare",
             "amber": 0,
-            "armor": null,
+            "armor": 0,
             "power": 3,
             "text": "Each time you play an artifact, gain 1<A>."
         },
@@ -4287,7 +4287,7 @@
             "type": "creature",
             "rarity": "FIXED",
             "amber": 0,
-            "armor": null,
+            "armor": 0,
             "power": 5,
             "text": "Play: Return each Horseman creature from your discard pile to your hand."
         },
@@ -4306,7 +4306,7 @@
             "type": "creature",
             "rarity": "FIXED",
             "amber": 0,
-            "armor": null,
+            "armor": 0,
             "power": 5,
             "text": "Play/Fight/Reap: Destroy the least powerful creature."
         },
@@ -4325,7 +4325,7 @@
             "type": "creature",
             "rarity": "Rare",
             "amber": 0,
-            "armor": null,
+            "armor": 0,
             "power": 5,
             "text": "Play/Fight/Reap: Deal 1<D> to each non-Horseman creature. "
         },
@@ -4344,7 +4344,7 @@
             "type": "creature",
             "rarity": "FIXED",
             "amber": 0,
-            "armor": null,
+            "armor": 0,
             "power": 5,
             "text": "Play: For the remainder of the turn, each friendly creature can be used as if they were in the active house, but can only fight."
         },
@@ -4362,7 +4362,7 @@
             "type": "creature",
             "rarity": "Rare",
             "amber": 0,
-            "armor": null,
+            "armor": 0,
             "power": 3,
             "text": "After you choose Sanctum as your active house, gain 2<A>."
         },
@@ -4381,7 +4381,7 @@
             "type": "creature",
             "rarity": "Uncommon",
             "amber": 0,
-            "armor": null,
+            "armor": 2,
             "power": 5,
             "text": "Play: Stun a creature. \u000bAction: Return Lady Maxena to its owner’s hand."
         },
@@ -4400,7 +4400,7 @@
             "type": "creature",
             "rarity": "Rare",
             "amber": 0,
-            "armor": null,
+            "armor": 2,
             "power": 5,
             "text": "Before Fight: Deal 3<D> to each neighbor of the creature Lord Golgotha fights."
         },
@@ -4418,7 +4418,7 @@
             "type": "creature",
             "rarity": "Rare",
             "amber": 0,
-            "armor": null,
+            "armor": 0,
             "power": 3,
             "text": "Play: Destroy an enemy creature. Repeat this card’s effect if your opponent still controls more creatures than you."
         },
@@ -4437,7 +4437,7 @@
             "type": "creature",
             "rarity": "Common",
             "amber": 0,
-            "armor": null,
+            "armor": 0,
             "power": 5,
             "text": "Reap: You may fully heal a creature. If you do, that creature cannot be dealt damage for the remainder of the turn."
         },
@@ -4456,7 +4456,7 @@
             "type": "creature",
             "rarity": "Common",
             "amber": 0,
-            "armor": null,
+            "armor": 2,
             "power": 4,
             "text": "Play: Capture 1<A>."
         },
@@ -4477,7 +4477,7 @@
             "type": "creature",
             "rarity": "Rare",
             "amber": 0,
-            "armor": null,
+            "armor": 1,
             "power": 6,
             "text": "Taunt. (This creature’s neighbors cannot be attacked unless they have taunt.)\u000bFight/Reap: Swap Sanctum Guardian with another friendly creature in your battleline."
         },
@@ -4496,7 +4496,7 @@
             "type": "creature",
             "rarity": "Common",
             "amber": 0,
-            "armor": null,
+            "armor": 2,
             "power": 4,
             "text": "Reap: Capture 1<A>."
         },
@@ -4515,7 +4515,7 @@
             "type": "creature",
             "rarity": "Common",
             "amber": 0,
-            "armor": null,
+            "armor": 1,
             "power": 4,
             "text": "Play: You may ready and fight with a neighboring creature."
         },
@@ -4534,7 +4534,7 @@
             "type": "creature",
             "rarity": "Common",
             "amber": 0,
-            "armor": null,
+            "armor": 2,
             "power": 4,
             "text": "Staunch Knight gets +2 power while it is on a flank."
         },
@@ -4553,7 +4553,7 @@
             "type": "creature",
             "rarity": "Uncommon",
             "amber": 0,
-            "armor": null,
+            "armor": 1,
             "power": 5,
             "text": "Play: If your opponent has 7 or more <A>, capture all but 5 of it."
         },
@@ -4572,7 +4572,7 @@
             "type": "creature",
             "rarity": "Rare",
             "amber": 0,
-            "armor": null,
+            "armor": 1,
             "power": 4,
             "text": "Your <A> cannot be stolen."
         },
@@ -4591,7 +4591,7 @@
             "type": "creature",
             "rarity": "Rare",
             "amber": 0,
-            "armor": null,
+            "armor": 0,
             "power": 6,
             "text": "Play: Destroy each elusive creature."
         },
@@ -5160,7 +5160,7 @@
             "type": "creature",
             "rarity": "Common",
             "amber": 0,
-            "armor": null,
+            "armor": 0,
             "power": 1,
             "text": "Destroyed: Return Bad Penny to your hand."
         },
@@ -5181,7 +5181,7 @@
             "type": "creature",
             "rarity": "Rare",
             "amber": 0,
-            "armor": null,
+            "armor": 0,
             "power": 2,
             "text": "Elusive. (The first time this creature is attacked each turn, no damage is dealt.)\u000bReap: Destroy a flank creature."
         },
@@ -5203,7 +5203,7 @@
             "type": "creature",
             "rarity": "Uncommon",
             "amber": 0,
-            "armor": null,
+            "armor": 0,
             "power": 1,
             "text": "Elusive. Skirmish.\u000bEach time you play an artifact, steal 1<A>."
         },
@@ -5224,7 +5224,7 @@
             "type": "creature",
             "rarity": "Rare",
             "amber": 0,
-            "armor": null,
+            "armor": 0,
             "power": 1,
             "text": "Elusive. (The first time this creature is attacked each turn, no damage is dealt.)\u000bOmni: Choose a friendly creature. You may use that creature this turn."
         },
@@ -5245,7 +5245,7 @@
             "type": "creature",
             "rarity": "Rare",
             "amber": 0,
-            "armor": null,
+            "armor": 0,
             "power": 3,
             "text": "Elusive. (The first time this creature is attacked each turn, no damage is dealt.)\u000bReap: Return an Urchin from play or from your discard pile to your hand."
         },
@@ -5265,7 +5265,7 @@
             "type": "creature",
             "rarity": "Uncommon",
             "amber": 0,
-            "armor": null,
+            "armor": 0,
             "power": 3,
             "text": "Skirmish. (When you use this creature to fight, it is dealt no damage in return.)\u000bPoison. (Any damage dealt by this creature’s power during a fight destroys the damaged creature.)"
         },
@@ -5286,7 +5286,7 @@
             "type": "creature",
             "rarity": "Rare",
             "amber": 0,
-            "armor": null,
+            "armor": 0,
             "power": 3,
             "text": "Elusive.\u000bYou may use Mack the Knife as if it belonged to the active house.\u000bAction: Deal 1<D> to a creature. If this damage destroys that creature, gain 1<A>."
         },
@@ -5307,7 +5307,7 @@
             "type": "creature",
             "rarity": "Uncommon",
             "amber": 0,
-            "armor": null,
+            "armor": 0,
             "power": 4,
             "text": "Elusive. (The first time this creature is attacked each turn, no damage is dealt.)\u000bPlay: Steal 2<A>.\u000bLeaves Play: Your opponent steals 2<A>."
         },
@@ -5328,7 +5328,7 @@
             "type": "creature",
             "rarity": "Uncommon",
             "amber": 0,
-            "armor": null,
+            "armor": 0,
             "power": 1,
             "text": "Skirmish. Poison.\u000bFight: Steal 1<A>."
         },
@@ -5349,7 +5349,7 @@
             "type": "creature",
             "rarity": "Common",
             "amber": 0,
-            "armor": null,
+            "armor": 0,
             "power": 3,
             "text": "Elusive. (The first time this creature is attacked each turn, no damage is dealt.)\u000bReap: Use an opponent’s artifact as if it were yours."
         },
@@ -5370,7 +5370,7 @@
             "type": "creature",
             "rarity": "Common",
             "amber": 0,
-            "armor": null,
+            "armor": 0,
             "power": 2,
             "text": "Elusive. (The first time this creature is attacked each turn, no damage is dealt.)\u000bAction: Steal 1<A>."
         },
@@ -5391,7 +5391,7 @@
             "type": "creature",
             "rarity": "Uncommon",
             "amber": 0,
-            "armor": null,
+            "armor": 0,
             "power": 3,
             "text": "Elusive. (The first time this creature is attacked each turn, no damage is dealt.)\u000bPlay: Capture 3<A>."
         },
@@ -5410,7 +5410,7 @@
             "type": "creature",
             "rarity": "Common",
             "amber": 0,
-            "armor": null,
+            "armor": 0,
             "power": 5,
             "text": "Fight: Steal 1<A>."
         },
@@ -5429,7 +5429,7 @@
             "type": "creature",
             "rarity": "Rare",
             "amber": 0,
-            "armor": null,
+            "armor": 0,
             "power": 3,
             "text": "Fight/Reap: Move 1<A> from one of your cards to your pool."
         },
@@ -5447,7 +5447,7 @@
             "type": "creature",
             "rarity": "Common",
             "amber": 0,
-            "armor": null,
+            "armor": 0,
             "power": 9,
             "text": "Shadow Self deals no damage when fighting.  \u000bDamage dealt to non-Specter neighbors is dealt to Shadow Self instead."
         },
@@ -5466,7 +5466,7 @@
             "type": "creature",
             "rarity": "Common",
             "amber": 0,
-            "armor": null,
+            "armor": 0,
             "power": 2,
             "text": "Silvertooth enters play ready."
         },
@@ -5487,7 +5487,7 @@
             "type": "creature",
             "rarity": "Rare",
             "amber": 0,
-            "armor": null,
+            "armor": 0,
             "power": 1,
             "text": "Elusive. (The first time this creature is attacked each turn, no damage is dealt.)\u000bReap: If you forged a key this turn, take control of an enemy flank creature."
         },
@@ -5506,7 +5506,7 @@
             "type": "creature",
             "rarity": "Rare",
             "amber": 0,
-            "armor": null,
+            "armor": 0,
             "power": 2,
             "text": "Play: Take control of an enemy artifact. While under your control, if it does not belong to one of your three houses, it is considered to be of house Shadows."
         },
@@ -5527,7 +5527,7 @@
             "type": "creature",
             "rarity": "Common",
             "amber": 0,
-            "armor": null,
+            "armor": 0,
             "power": 2,
             "text": "Skirmish. (When you use this creature to fight, it is dealt no damage in return.)\u000bFight: Steal 1<A>."
         },
@@ -5548,7 +5548,7 @@
             "type": "creature",
             "rarity": "Common",
             "amber": 0,
-            "armor": null,
+            "armor": 0,
             "power": 1,
             "text": "Elusive. (The first time this creature is attacked each turn, no damage is dealt.)\u000bPlay: Steal 1<A>."
         },
@@ -6042,7 +6042,7 @@
             "type": "creature",
             "rarity": "Common",
             "amber": 0,
-            "armor": null,
+            "armor": 0,
             "power": 5,
             "text": "Assault 2.(Before this creature attacks, deal 2<D> to the attacked enemy.)"
         },
@@ -6060,7 +6060,7 @@
             "type": "creature",
             "rarity": "Uncommon",
             "amber": 0,
-            "armor": null,
+            "armor": 0,
             "power": 7,
             "text": "Bigtwig can only fight stunned creatures. \u000bReap: Stun and exhaust a creature."
         },
@@ -6079,7 +6079,7 @@
             "type": "creature",
             "rarity": "Rare",
             "amber": 0,
-            "armor": null,
+            "armor": 0,
             "power": 4,
             "text": "During each turn in which Untamed is not your active house, you may play one Untamed card."
         },
@@ -6100,7 +6100,7 @@
             "type": "creature",
             "rarity": "Rare",
             "amber": 0,
-            "armor": null,
+            "armor": 0,
             "power": 2,
             "text": "Hazardous 5. (Before this creature is attacked, deal 5<D> to the attacking enemy.)"
         },
@@ -6119,7 +6119,7 @@
             "type": "creature",
             "rarity": "Uncommon",
             "amber": 0,
-            "armor": null,
+            "armor": 0,
             "power": 3,
             "text": "Play: Lose 1<A>. If you do, you may forge a key at current cost."
         },
@@ -6139,7 +6139,7 @@
             "type": "creature",
             "rarity": "Common",
             "amber": 0,
-            "armor": null,
+            "armor": 0,
             "power": 2,
             "text": "Elusive. (The first time this creature is attacked each turn, no damage is dealt.)\u000bReap: Gain 1<A>."
         },
@@ -6157,7 +6157,7 @@
             "type": "creature",
             "rarity": "Common",
             "amber": 2,
-            "armor": null,
+            "armor": 0,
             "power": 1,
             "text": "(Vanilla)"
         },
@@ -6175,7 +6175,7 @@
             "type": "creature",
             "rarity": "Uncommon",
             "amber": 0,
-            "armor": null,
+            "armor": 0,
             "power": 4,
             "text": "Play: Gain 2<A> if you control more creatures than your opponent."
         },
@@ -6193,7 +6193,7 @@
             "type": "creature",
             "rarity": "Rare",
             "amber": 2,
-            "armor": null,
+            "armor": 0,
             "power": 5,
             "text": "Play: Your opponent gains 1<A>."
         },
@@ -6211,7 +6211,7 @@
             "type": "creature",
             "rarity": "Rare",
             "amber": 0,
-            "armor": null,
+            "armor": 0,
             "power": 6,
             "text": "You cannot use this card unless you have discarded an Untamed card from your hand this turn.\u000bAction: Gain 3<A>."
         },
@@ -6229,7 +6229,7 @@
             "type": "creature",
             "rarity": "Uncommon",
             "amber": 0,
-            "armor": null,
+            "armor": 0,
             "power": 4,
             "text": "Each friendly flank creature gains skirmish. (When you use a creature with skirmish to fight, it is dealt no damage in return.)"
         },
@@ -6247,7 +6247,7 @@
             "type": "creature",
             "rarity": "Rare",
             "amber": 0,
-            "armor": null,
+            "armor": 0,
             "power": 1,
             "text": "Poison. (Any damage dealt by this creature’s power during a fight destroys the damaged creature.)\u000bPlay/Reap: Stun a creature."
         },
@@ -6269,7 +6269,7 @@
             "type": "creature",
             "rarity": "Rare",
             "amber": 0,
-            "armor": null,
+            "armor": 0,
             "power": 3,
             "text": "Elusive. Skirmish.\u000bReap: Deal 2<D> to a creature."
         },
@@ -6289,7 +6289,7 @@
             "type": "creature",
             "rarity": "Common",
             "amber": 0,
-            "armor": null,
+            "armor": 0,
             "power": 4,
             "text": "Skirmish. (When you use this creature to fight, it is dealt no damage in return.)"
         },
@@ -6309,7 +6309,7 @@
             "type": "creature",
             "rarity": "Rare",
             "amber": 0,
-            "armor": null,
+            "armor": 0,
             "power": 6,
             "text": "Skirmish. (When you use this creature to fight, it is dealt no damage in return.) \u000bPlay: Deal 2<D> to an enemy creature."
         },
@@ -6327,7 +6327,7 @@
             "type": "creature",
             "rarity": "Rare",
             "amber": 0,
-            "armor": null,
+            "armor": 0,
             "power": 4,
             "text": "Play: Deal 4<D> to an enemy creature."
         },
@@ -6345,7 +6345,7 @@
             "type": "creature",
             "rarity": "Common",
             "amber": 0,
-            "armor": null,
+            "armor": 0,
             "power": 3,
             "text": "Your opponent’s keys cost +1<A>."
         },
@@ -6364,7 +6364,7 @@
             "type": "creature",
             "rarity": "Uncommon",
             "amber": 0,
-            "armor": null,
+            "armor": 0,
             "power": 2,
             "text": "Mushroom Man gets +3 power for each unforged key you have."
         },
@@ -6383,7 +6383,7 @@
             "type": "creature",
             "rarity": "Common",
             "amber": 0,
-            "armor": null,
+            "armor": 0,
             "power": 3,
             "text": "While Niffle Ape is attacking, ignore taunt and elusive."
         },
@@ -6402,7 +6402,7 @@
             "type": "creature",
             "rarity": "Uncommon",
             "amber": 0,
-            "armor": null,
+            "armor": 0,
             "power": 6,
             "text": "Each other friendly Beast creature gets +1 power.\u000bEach other friendly Niffle creature gets +1 power."
         },
@@ -6420,7 +6420,7 @@
             "type": "creature",
             "rarity": "Rare",
             "amber": 0,
-            "armor": null,
+            "armor": 0,
             "power": 2,
             "text": "Play/Reap: Deal 2<D> to each other creature."
         },
@@ -6439,7 +6439,7 @@
             "type": "creature",
             "rarity": "Rare",
             "amber": 0,
-            "armor": null,
+            "armor": 0,
             "power": 3,
             "text": "Each time your opponent plays a creature, gain 1<A>."
         },
@@ -6458,7 +6458,7 @@
             "type": "creature",
             "rarity": "Common",
             "amber": 0,
-            "armor": null,
+            "armor": 0,
             "power": 2,
             "text": "Each time you play another creature, gain 1<A>."
         },
@@ -6477,7 +6477,7 @@
             "type": "creature",
             "rarity": "Common",
             "amber": 0,
-            "armor": null,
+            "armor": 0,
             "power": 3,
             "text": "Reap: Return a card from your discard pile to your hand."
         },
