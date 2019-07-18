@@ -111,7 +111,7 @@ class KeyforgeApiToKeytekiConverter {
                 }
 
                 let newCard = {
-                    id: card.card_title.toLowerCase().replace(/[?.!",]/gi, '').replace(/[ '’]/gi, '-'),
+                    id: card.card_title.toLowerCase().replace(/[?.!",“”]/gi, '').replace(/[ '’]/gi, '-'),
                     name: card.card_title,
                     number: card.card_number,
                     image: card.front_image,
