@@ -107,7 +107,7 @@ class KeyforgeApiToKeytekiConverter {
             }
 
             for(let card of response._linked.cards) {
-                if(card.expansion != pack.id || card[card.card_number] || card.is_maverick) {
+                if(card.expansion != pack.id || cards[card.card_number] || card.is_maverick) {
                     continue;
                 }
 
@@ -146,8 +146,12 @@ class KeyforgeApiToKeytekiConverter {
     }
 
     parseKeywords(text) {
-        let firstLine = text.split('\n')[0] || '';
-        let potentialKeywords = firstLine.split('.').map(k => k.toLowerCase().trim().replace(' ', ':'));
+        let lines = text.split('\u000b');
+        let potentialKeywords = [];
+
+        for(let line of lines) {
+            potentialKeywords = potentialKeywords.concat(line.split('.').map(k => k.toLowerCase().trim().replace(' ', ':')));
+        }
 
         let printedKeywords = potentialKeywords.filter(potentialKeyword => {
             return ValidKeywords.some(keyword => potentialKeyword.indexOf(keyword) === 0);
