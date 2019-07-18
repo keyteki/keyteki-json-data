@@ -3791,7 +3791,7 @@
             "number": "218",
             "image": "https://cdn.keyforgegame.com/media/card_front/en/341_218_63PVJ7PJP3GP_en.png",
             "expansion": 341,
-            "house": "sanctum",
+            "house": "mars",
             "keywords": [],
             "traits": [],
             "type": "action",
@@ -6034,7 +6034,7 @@
             "expansion": 341,
             "house": "untamed",
             "keywords": [
-                "assault 2"
+                "assault:2"
             ],
             "traits": [
                 "beast"
@@ -6091,7 +6091,7 @@
             "expansion": 341,
             "house": "untamed",
             "keywords": [
-                "hazardous 5"
+                "hazardous:5"
             ],
             "traits": [
                 "beast",

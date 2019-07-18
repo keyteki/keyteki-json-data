@@ -146,7 +146,7 @@ class KeyforgeApiToKeytekiConverter {
 
     parseKeywords(text) {
         let firstLine = text.split('\n')[0] || '';
-        let potentialKeywords = firstLine.split('.').map(k => k.toLowerCase().trim());
+        let potentialKeywords = firstLine.split('.').map(k => k.toLowerCase().trim().replace(' ', ':'));
 
         let printedKeywords = potentialKeywords.filter(potentialKeyword => {
             return ValidKeywords.some(keyword => potentialKeyword.indexOf(keyword) === 0);

@@ -5710,7 +5710,7 @@
             "expansion": 435,
             "house": "untamed",
             "keywords": [
-                "assault 3"
+                "assault:3"
             ],
             "traits": [
                 "beast"
@@ -5954,7 +5954,7 @@
             "expansion": 435,
             "house": "untamed",
             "keywords": [
-                "hazardous 3"
+                "hazardous:3"
             ],
             "traits": [
                 "beast"
