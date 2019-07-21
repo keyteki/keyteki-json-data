@@ -3814,7 +3814,8 @@
             "expansion": 435,
             "house": "sanctum",
             "keywords": [
-                "deploy"
+                "deploy",
+                "taunt"
             ],
             "traits": [
                 "human",
@@ -4282,7 +4283,8 @@
             "expansion": 435,
             "house": "sanctum",
             "keywords": [
-                "taunt"
+                "taunt",
+                "hazardous:4"
             ],
             "traits": [
                 "human",
@@ -4805,7 +4807,8 @@
             "expansion": 435,
             "house": "shadows",
             "keywords": [
-                "elusive"
+                "elusive",
+                "skirmish"
             ],
             "traits": [
                 "elf",
@@ -4826,7 +4829,8 @@
             "expansion": 435,
             "house": "shadows",
             "keywords": [
-                "deploy"
+                "deploy",
+                "elusive"
             ],
             "traits": [
                 "elf",
@@ -4932,7 +4936,8 @@
             "expansion": 435,
             "house": "shadows",
             "keywords": [
-                "alpha"
+                "alpha",
+                "omega"
             ],
             "traits": [],
             "type": "action",
@@ -5689,7 +5694,8 @@
             "expansion": 435,
             "house": "untamed",
             "keywords": [
-                "omega"
+                "omega",
+                "elusive"
             ],
             "traits": [
                 "human",
@@ -5710,7 +5716,8 @@
             "expansion": 435,
             "house": "untamed",
             "keywords": [
-                "assault:3"
+                "assault:3",
+                "hazardous:3"
             ],
             "traits": [
                 "beast"
