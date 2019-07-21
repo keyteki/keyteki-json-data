@@ -146,7 +146,7 @@ class KeyforgeApiToKeytekiConverter {
     }
 
     parseKeywords(text) {
-        let lines = text.split('\u000b');
+        let lines = text.split('\r');
         let potentialKeywords = [];
 
         for(let line of lines) {
