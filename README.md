@@ -24,4 +24,22 @@ npm run import packs/packFileName.json packcode
 # Example: npm run import packs/AoA.json AoA
 ```
 
+Optional step: To load different locales, pass the language code as an argument ('en', 'es', 'it', 'de', 'fr', 'pl', 'pt', 'zh-hans', 'zh-hant'):
+```
+npm run import packs/packFileName.json packcode
+# Examples:
+# npm run import packs/AoA.json AoA pt
+# npm run import packs/AoA.json AoA fr
+# npm run import packs/AoA.json AoA zh-hans
+# npm run import packs/AoA.json AoA zh-hant
+```
+
+English is the default language.
+
 The local pack file must already exist - the import script uses the the `id` field in the pack data to look up the corresponding data on the Keyforge website.
+
+The initial local pack does not need the locale information. Import script will complete this information.
+
+## Note
+
+There is a manual tweak needed to add "poison" to "Macis Asp (CotA 301)" keywork list. Import will override this value.
