@@ -141,9 +141,7 @@ class KeyforgeApiToKeytekiConverter {
                         text: card.card_text,
                         locale: {
                             'en': {
-                                name: card.card_title,
-                                traits: !card.traits ? [] : card.traits.split(' • ').map(trait => trait.toLowerCase()),
-                                text: card.card_text
+                                name: card.card_title
                             }
                         }
                     };
@@ -156,9 +154,7 @@ class KeyforgeApiToKeytekiConverter {
                     }
 
                     newCard.locale[language] = {
-                        name: card.card_title,
-                        traits: !card.traits ? [] : card.traits.split(' • ').map(trait => trait.toLowerCase()),
-                        text: card.card_text
+                        name: card.card_title
                     };
 
                 };
@@ -187,7 +183,7 @@ class KeyforgeApiToKeytekiConverter {
     }
 
     parseKeywords(text) {
-        let lines = text.split('\r');
+        let lines = text.split(/[\r\v]/);
         let potentialKeywords = [];
 
         for(let line of lines) {
