@@ -150,10 +150,12 @@ class KeyforgeApiToKeytekiConverter {
                     newCard = packCardMap[card.card_number];
 
                     if (!newCard.locale) {
+                        // Just a safe check, but since 'en' is supposed to be loaded first, locale
+                        // will already exist
                         newCard.locale = [];
                     }
 
-                    newCard.locale[language] = {
+                    newCard.locale[language.replace('-', '')] = {
                         name: card.card_title
                     };
 
@@ -169,13 +171,13 @@ class KeyforgeApiToKeytekiConverter {
             }
 
             if(Object.values(cards).length == pack.cardCount) {
-                console.info('Got all the cards we were expecting');
+                console.info(`Got all the cards we were expecting after ${i} pages`);
 
                 break;
             }
 
             if(i % 10 === 0) {
-                console.info(`Processed ${i} pages, ${totalPages - i} to go.  Have ${Object.values(cards).length} cards so far, expecting ${pack.cardCount}..`);
+                console.info(`Processed ${i} pages, ${totalPages - i} to go. Have ${Object.values(cards).length} cards so far, expecting ${pack.cardCount}`);
             }
         }
 
