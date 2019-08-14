@@ -42,6 +42,9 @@
                 "pt": {
                     "name": "Fúria"
                 },
+                "th": {
+                    "name": "Anger"
+                },
                 "zhhans": {
                     "name": "怒火中烧"
                 },
@@ -86,6 +89,9 @@
                 },
                 "pt": {
                     "name": "Desarmado"
+                },
+                "th": {
+                    "name": "มือเปล่า"
                 },
                 "zhhans": {
                     "name": "赤手空拳"
@@ -132,6 +138,9 @@
                 "pt": {
                     "name": "Dinheiro Sujo"
                 },
+                "th": {
+                    "name": "เงินล่อตา"
+                },
                 "zhhans": {
                     "name": "血钱"
                 },
@@ -176,6 +185,9 @@
                 },
                 "pt": {
                     "name": "Irmãos de Batalha"
+                },
+                "th": {
+                    "name": "Brothers in Battle"
                 },
                 "zhhans": {
                     "name": "铁血战友"
@@ -222,6 +234,9 @@
                 "pt": {
                     "name": "Queime o Estoque"
                 },
+                "th": {
+                    "name": "เผาสะดม"
+                },
                 "zhhans": {
                     "name": "焚毁物资"
                 },
@@ -266,6 +281,9 @@
                 },
                 "pt": {
                     "name": "Desafio dos Campeões"
+                },
+                "th": {
+                    "name": "ศึกประลองยอดนักรบ"
                 },
                 "zhhans": {
                     "name": "冠军挑战"
@@ -312,6 +330,9 @@
                 "pt": {
                     "name": "Ocaso do Covarde"
                 },
+                "th": {
+                    "name": "จุดจบคนขลาด"
+                },
                 "zhhans": {
                     "name": "懦夫末路"
                 },
@@ -356,6 +377,9 @@
                 },
                 "pt": {
                     "name": "Siga o Líder"
+                },
+                "th": {
+                    "name": "Follow the Leader"
                 },
                 "zhhans": {
                     "name": "追随领袖"
@@ -402,6 +426,9 @@
                 "pt": {
                     "name": "Bola de Lava"
                 },
+                "th": {
+                    "name": "ลูกไฟลาวา"
+                },
                 "zhhans": {
                     "name": "熔岩火球"
                 },
@@ -446,6 +473,9 @@
                 },
                 "pt": {
                     "name": "Saqueiem os Corpos"
+                },
+                "th": {
+                    "name": "Loot the Bodies"
                 },
                 "zhhans": {
                     "name": "搜刮尸体"
@@ -492,6 +522,9 @@
                 "pt": {
                     "name": "Toma essa, Sabichão"
                 },
+                "th": {
+                    "name": "รับไปซะเจ้าหุ่นงั่ง"
+                },
                 "zhhans": {
                     "name": "接招，小聪明"
                 },
@@ -536,6 +569,9 @@
                 },
                 "pt": {
                     "name": "Soco"
+                },
+                "th": {
+                    "name": "Punch"
                 },
                 "zhhans": {
                     "name": "重拳出击"
@@ -582,6 +618,9 @@
                 "pt": {
                     "name": "Ataque Implacável"
                 },
+                "th": {
+                    "name": "ยกพลบุกทะลวง"
+                },
                 "zhhans": {
                     "name": "无情突袭"
                 },
@@ -626,6 +665,9 @@
                 },
                 "pt": {
                     "name": "Forjador"
+                },
+                "th": {
+                    "name": "ตีอาวุธ"
                 },
                 "zhhans": {
                     "name": "锻制"
@@ -672,6 +714,9 @@
                 "pt": {
                     "name": "Soem as Trompas"
                 },
+                "th": {
+                    "name": "เป่าแตรศึก"
+                },
                 "zhhans": {
                     "name": "吹响号角"
                 },
@@ -716,6 +761,9 @@
                 },
                 "pt": {
                     "name": "Tremor"
+                },
+                "th": {
+                    "name": "ถล่มพสุธา"
                 },
                 "zhhans": {
                     "name": "大地震颤"
@@ -762,6 +810,9 @@
                 "pt": {
                     "name": "Acampamento Exposto"
                 },
+                "th": {
+                    "name": "Unguarded Camp"
+                },
                 "zhhans": {
                     "name": "营地失守"
                 },
@@ -806,6 +857,9 @@
                 },
                 "pt": {
                     "name": "Canção de Guerra"
+                },
+                "th": {
+                    "name": "Warsong"
                 },
                 "zhhans": {
                     "name": "战歌"
@@ -854,6 +908,9 @@
                 "pt": {
                     "name": "Canhão Automático"
                 },
+                "th": {
+                    "name": "Autocannon"
+                },
                 "zhhans": {
                     "name": "自动火炮"
                 },
@@ -900,6 +957,9 @@
                 },
                 "pt": {
                     "name": "Estandarte de Batalha"
+                },
+                "th": {
+                    "name": "Banner of Battle"
                 },
                 "zhhans": {
                     "name": "战斗旗帜"
@@ -948,6 +1008,9 @@
                 "pt": {
                     "name": "Canhão"
                 },
+                "th": {
+                    "name": "Cannon"
+                },
                 "zhhans": {
                     "name": "火炮"
                 },
@@ -994,6 +1057,9 @@
                 },
                 "pt": {
                     "name": "Manopla de Comando"
+                },
+                "th": {
+                    "name": "เกราะมือขุนพล"
                 },
                 "zhhans": {
                     "name": "律令拳套"
@@ -1042,6 +1108,9 @@
                 "pt": {
                     "name": "Obelisco de Ferro"
                 },
+                "th": {
+                    "name": "โอเบลิสก์เหล็ก"
+                },
                 "zhhans": {
                     "name": "方尖铁塔"
                 },
@@ -1088,6 +1157,9 @@
                 },
                 "pt": {
                     "name": "Dardo Poderoso"
+                },
+                "th": {
+                    "name": "Mighty Javelin"
                 },
                 "zhhans": {
                     "name": "强力标枪"
@@ -1136,6 +1208,9 @@
                 "pt": {
                     "name": "Pilha de Crânios"
                 },
+                "th": {
+                    "name": "กองกะโหลก"
+                },
                 "zhhans": {
                     "name": "颅骨堆"
                 },
@@ -1182,6 +1257,9 @@
                 },
                 "pt": {
                     "name": "Bomba Berrante"
+                },
+                "th": {
+                    "name": "ระเบิดเสียงกรีดร้อง"
                 },
                 "zhhans": {
                     "name": "尖啸炸弹"
@@ -1230,6 +1308,9 @@
                 "pt": {
                     "name": "O Baú de Guerra"
                 },
+                "th": {
+                    "name": "สินทรัพย์สงคราม"
+                },
                 "zhhans": {
                     "name": "战争宝箱"
                 },
@@ -1277,6 +1358,9 @@
                 "pt": {
                     "name": "Bilgum Avalanche"
                 },
+                "th": {
+                    "name": "บิลกัม ภูผาถล่ม"
+                },
                 "zhhans": {
                     "name": "比尔古姆·雪崩"
                 },
@@ -1322,6 +1406,9 @@
                     "name": "Valdr"
                 },
                 "pt": {
+                    "name": "Valdr"
+                },
+                "th": {
                     "name": "Valdr"
                 },
                 "zhhans": {
@@ -1371,6 +1458,9 @@
                 "pt": {
                     "name": "Quebrador"
                 },
+                "th": {
+                    "name": "Bumpsy"
+                },
                 "zhhans": {
                     "name": "阿砸"
                 },
@@ -1417,6 +1507,9 @@
                 },
                 "pt": {
                     "name": "Terremoto"
+                },
+                "th": {
+                    "name": "Earthshaker"
                 },
                 "zhhans": {
                     "name": "撼地者"
@@ -1465,6 +1558,9 @@
                 "pt": {
                     "name": "Cuspidor de Fogo"
                 },
+                "th": {
+                    "name": "Firespitter"
+                },
                 "zhhans": {
                     "name": "吐火者"
                 },
@@ -1511,6 +1607,9 @@
                 },
                 "pt": {
                     "name": "Chefe Capataz"
+                },
+                "th": {
+                    "name": "จอมทัพแกงเงอร์"
                 },
                 "zhhans": {
                     "name": "酋长头领"
@@ -1559,6 +1658,9 @@
                 "pt": {
                     "name": "Snib Granada"
                 },
+                "th": {
+                    "name": "Grenade Snib"
+                },
                 "zhhans": {
                     "name": "榴弹拔销手"
                 },
@@ -1605,6 +1707,9 @@
                 },
                 "pt": {
                     "name": "Decapitador"
+                },
+                "th": {
+                    "name": "Headhunter"
                 },
                 "zhhans": {
                     "name": "猎头者"
@@ -1654,6 +1759,9 @@
                 "pt": {
                     "name": "Hebe, o Descomunal"
                 },
+                "th": {
+                    "name": "Hebe the Huge"
+                },
                 "zhhans": {
                     "name": "大个西比"
                 },
@@ -1700,6 +1808,9 @@
                 },
                 "pt": {
                     "name": "Dragão Kelifi"
+                },
+                "th": {
+                    "name": "Kelifi Dragon"
                 },
                 "zhhans": {
                     "name": "凯里菲巨龙"
@@ -1748,6 +1859,9 @@
                 "pt": {
                     "name": "Rei do Penhasco"
                 },
+                "th": {
+                    "name": "ราชันแห่งหินผา"
+                },
                 "zhhans": {
                     "name": "峭壁之王"
                 },
@@ -1793,6 +1907,9 @@
                     "name": "Krump"
                 },
                 "pt": {
+                    "name": "Krump"
+                },
+                "th": {
                     "name": "Krump"
                 },
                 "zhhans": {
@@ -1841,6 +1958,9 @@
                 },
                 "pt": {
                     "name": "Lomir Punho de Fogo"
+                },
+                "th": {
+                    "name": "Lomir Flamefist"
                 },
                 "zhhans": {
                     "name": "洛弥尔·焰拳"
@@ -1891,6 +2011,9 @@
                 "pt": {
                     "name": "Goblin Ladrão"
                 },
+                "th": {
+                    "name": "Looter Goblin"
+                },
                 "zhhans": {
                     "name": "地精搜刮者"
                 },
@@ -1937,6 +2060,9 @@
                 },
                 "pt": {
                     "name": "Magnata"
+                },
+                "th": {
+                    "name": "มักวัมป์"
                 },
                 "zhhans": {
                     "name": "大鳄"
@@ -1987,6 +2113,9 @@
                 "pt": {
                     "name": "Rusga, o Chato"
                 },
+                "th": {
+                    "name": "Pingle Who Annoys"
+                },
                 "zhhans": {
                     "name": "烦人鬼宾戈"
                 },
@@ -2033,6 +2162,9 @@
                 },
                 "pt": {
                     "name": "Gigante Lançador de Pedras"
+                },
+                "th": {
+                    "name": "ยักษ์ขว้างหิน"
                 },
                 "zhhans": {
                     "name": "抛石巨人"
@@ -2082,6 +2214,9 @@
                 "pt": {
                     "name": "Ogro Mau"
                 },
+                "th": {
+                    "name": "Rogue Ogre"
+                },
                 "zhhans": {
                     "name": "游荡食人魔"
                 },
@@ -2128,6 +2263,9 @@
                 },
                 "pt": {
                     "name": "Deestruuiir"
+                },
+                "th": {
+                    "name": "Smaaash"
                 },
                 "zhhans": {
                     "name": "重击斯迈什"
@@ -2176,6 +2314,9 @@
                 "pt": {
                     "name": "Crocag Incansável"
                 },
+                "th": {
+                    "name": "โครแคกผู้ทรหด"
+                },
                 "zhhans": {
                     "name": "不倦的克罗凯格"
                 },
@@ -2221,6 +2362,9 @@
                     "name": "Troll"
                 },
                 "pt": {
+                    "name": "Troll"
+                },
+                "th": {
                     "name": "Troll"
                 },
                 "zhhans": {
@@ -2270,6 +2414,9 @@
                 "pt": {
                     "name": "Rufador"
                 },
+                "th": {
+                    "name": "Wardrummer"
+                },
                 "zhhans": {
                     "name": "战争鼓手"
                 },
@@ -2314,6 +2461,9 @@
                 },
                 "pt": {
                     "name": "Sangue de Titãs"
+                },
+                "th": {
+                    "name": "เลือดไททัน"
                 },
                 "zhhans": {
                     "name": "泰坦之血"
@@ -2360,6 +2510,9 @@
                 "pt": {
                     "name": "Coração de Fênix"
                 },
+                "th": {
+                    "name": "หัวใจฟีนิกซ์"
+                },
                 "zhhans": {
                     "name": "凤凰之心"
                 },
@@ -2404,6 +2557,9 @@
                 },
                 "pt": {
                     "name": "Rei do Insulto"
+                },
+                "th": {
+                    "name": "Yo Mama Mastery"
                 },
                 "zhhans": {
                     "name": "骂街精通"
@@ -2450,6 +2606,9 @@
                 "pt": {
                     "name": "Um Jogo Justo"
                 },
+                "th": {
+                    "name": "เกมตัดสิน"
+                },
                 "zhhans": {
                     "name": "公平游戏"
                 },
@@ -2494,6 +2653,9 @@
                 },
                 "pt": {
                     "name": "Ergam-se!"
+                },
+                "th": {
+                    "name": "Arise!"
                 },
                 "zhhans": {
                     "name": "亡者复苏"
@@ -2540,6 +2702,9 @@
                 "pt": {
                     "name": "Controle os Fracos"
                 },
+                "th": {
+                    "name": "Control the Weak"
+                },
                 "zhhans": {
                     "name": "控制弱者"
                 },
@@ -2584,6 +2749,9 @@
                 },
                 "pt": {
                     "name": "Oblívio Rastejante"
+                },
+                "th": {
+                    "name": "สุญญตาคืบคลาน"
                 },
                 "zhhans": {
                     "name": "湮灭蔓延"
@@ -2630,6 +2798,9 @@
                 "pt": {
                     "name": "Dança da Perdição"
                 },
+                "th": {
+                    "name": "Dance of Doom"
+                },
                 "zhhans": {
                     "name": "末日之舞"
                 },
@@ -2674,6 +2845,9 @@
                 },
                 "pt": {
                     "name": "Medo"
+                },
+                "th": {
+                    "name": "Fear"
                 },
                 "zhhans": {
                     "name": "恐惧"
@@ -2720,6 +2894,9 @@
                 "pt": {
                     "name": "Passagem a Dis"
                 },
+                "th": {
+                    "name": "Gateway to Dis"
+                },
                 "zhhans": {
                     "name": "冥府通路"
                 },
@@ -2764,6 +2941,9 @@
                 },
                 "pt": {
                     "name": "Distração"
+                },
+                "th": {
+                    "name": "กอนกูเซิล"
                 },
                 "zhhans": {
                     "name": "盯梢小鬼"
@@ -2810,6 +2990,9 @@
                 "pt": {
                     "name": "Corações Culpados"
                 },
+                "th": {
+                    "name": "Guilty Hearts"
+                },
                 "zhhans": {
                     "name": "内心罪责"
                 },
@@ -2854,6 +3037,9 @@
                 },
                 "pt": {
                     "name": "Mão de Dis"
+                },
+                "th": {
+                    "name": "Hand of Dis"
                 },
                 "zhhans": {
                     "name": "冥府之手"
@@ -2900,6 +3086,9 @@
                 "pt": {
                     "name": "Hecatombe"
                 },
+                "th": {
+                    "name": "เครื่องบูชายัญ"
+                },
                 "zhhans": {
                     "name": "百鬼大祭"
                 },
@@ -2944,6 +3133,9 @@
                 },
                 "pt": {
                     "name": "Tentáculos de Dor"
+                },
+                "th": {
+                    "name": "Tendrils of Pain"
                 },
                 "zhhans": {
                     "name": "痛苦触手"
@@ -2990,6 +3182,9 @@
                 "pt": {
                     "name": "Histeria"
                 },
+                "th": {
+                    "name": "หวาดผวาหมู่"
+                },
                 "zhhans": {
                     "name": "歇斯底里"
                 },
@@ -3034,6 +3229,9 @@
                 },
                 "pt": {
                     "name": "Martelo de Chave"
+                },
+                "th": {
+                    "name": "Key Hammer"
                 },
                 "zhhans": {
                     "name": "碎钥铁锤"
@@ -3080,6 +3278,9 @@
                 "pt": {
                     "name": "Farpa Mental"
                 },
+                "th": {
+                    "name": "Mind Barb"
+                },
                 "zhhans": {
                     "name": "心灵倒刺"
                 },
@@ -3124,6 +3325,9 @@
                 },
                 "pt": {
                     "name": "Pandemônio"
+                },
+                "th": {
+                    "name": "โกลาหล"
                 },
                 "zhhans": {
                     "name": "万魔喧嚣"
@@ -3170,6 +3374,9 @@
                 "pt": {
                     "name": "Poltergeist"
                 },
+                "th": {
+                    "name": "วิญญาณหลอน"
+                },
                 "zhhans": {
                     "name": "骚灵作祟"
                 },
@@ -3215,6 +3422,9 @@
                 "pt": {
                     "name": "Armadura Incandescente"
                 },
+                "th": {
+                    "name": "เผาชุดเกราะ"
+                },
                 "zhhans": {
                     "name": "赤热护甲"
                 },
@@ -3259,6 +3469,9 @@
                 },
                 "pt": {
                     "name": "Três Destinos"
+                },
+                "th": {
+                    "name": "สามผู้วายชนม์"
                 },
                 "zhhans": {
                     "name": "三道厄运"
@@ -3307,6 +3520,9 @@
                 "pt": {
                     "name": "Ritual de Aniquilação"
                 },
+                "th": {
+                    "name": "Annihilation Ritual "
+                },
                 "zhhans": {
                     "name": "歼灭仪式"
                 },
@@ -3353,6 +3569,9 @@
                 },
                 "pt": {
                     "name": "Bola Dominadora"
+                },
+                "th": {
+                    "name": "Dominator Bauble"
                 },
                 "zhhans": {
                     "name": "支配者饰物"
@@ -3401,6 +3620,9 @@
                 "pt": {
                     "name": "Chave para Dis"
                 },
+                "th": {
+                    "name": "กุญแจสู่ดิส"
+                },
                 "zhhans": {
                     "name": "冥府钥匙"
                 },
@@ -3447,6 +3669,9 @@
                 },
                 "pt": {
                     "name": "Chicote dos Sonhos Idos"
+                },
+                "th": {
+                    "name": "แส้แห่งฝันสลาย"
                 },
                 "zhhans": {
                     "name": "碎梦鞭梢"
@@ -3495,6 +3720,9 @@
                 "pt": {
                     "name": "Biblioteca dos Condenados"
                 },
+                "th": {
+                    "name": "หอสมุดแห่งนรก"
+                },
                 "zhhans": {
                     "name": "诅咒图书馆"
                 },
@@ -3541,6 +3769,9 @@
                 },
                 "pt": {
                     "name": "Obstrução da Vida"
+                },
+                "th": {
+                    "name": "ม่านสกัดกั้นชีวา"
                 },
                 "zhhans": {
                     "name": "生灵结界"
@@ -3589,6 +3820,9 @@
                 "pt": {
                     "name": "Altar de Sacrifícios"
                 },
+                "th": {
+                    "name": "Sacrificial Altar"
+                },
                 "zhhans": {
                     "name": "牺牲祭坛"
                 },
@@ -3635,6 +3869,9 @@
                 },
                 "pt": {
                     "name": "Caverna Gritante"
+                },
+                "th": {
+                    "name": "Screaming Cave"
                 },
                 "zhhans": {
                     "name": "尖啸山洞"
@@ -3683,6 +3920,9 @@
                 "pt": {
                     "name": "Captor de Almas"
                 },
+                "th": {
+                    "name": "โรงดักวิญญาณ"
+                },
                 "zhhans": {
                     "name": "攫魂车"
                 },
@@ -3729,6 +3969,9 @@
                 },
                 "pt": {
                     "name": "Chamusco"
+                },
+                "th": {
+                    "name": "ชาเร็ตต์"
                 },
                 "zhhans": {
                     "name": "强占魔"
@@ -3779,6 +4022,9 @@
                 "pt": {
                     "name": "Zumbido"
                 },
+                "th": {
+                    "name": "Drumble"
+                },
                 "zhhans": {
                     "name": "缓行鬼"
                 },
@@ -3825,6 +4071,9 @@
                 },
                 "pt": {
                     "name": "Diabinho do Pó"
+                },
+                "th": {
+                    "name": "อิมป์ฝุ่นผง"
                 },
                 "zhhans": {
                     "name": "尘埃小鬼"
@@ -3873,6 +4122,9 @@
                 "pt": {
                     "name": "Devorador dos Mortos"
                 },
+                "th": {
+                    "name": "ปีศาจกินศพ"
+                },
                 "zhhans": {
                     "name": "食尸魔"
                 },
@@ -3919,6 +4171,9 @@
                 },
                 "pt": {
                     "name": "Diabinho do Borralho"
+                },
+                "th": {
+                    "name": "Ember Imp"
                 },
                 "zhhans": {
                     "name": "余烬小鬼"
@@ -3967,6 +4222,9 @@
                 "pt": {
                     "name": "Gabos Braçolongo"
                 },
+                "th": {
+                    "name": "Gabos Longarms"
+                },
                 "zhhans": {
                     "name": "盖伯斯·长臂"
                 },
@@ -4013,6 +4271,9 @@
                 },
                 "pt": {
                     "name": "Lorde Supremo Greking"
+                },
+                "th": {
+                    "name": "โอเวอร์ลอร์ด เกรคิง"
                 },
                 "zhhans": {
                     "name": "霸主格利金"
@@ -4061,6 +4322,9 @@
                 "pt": {
                     "name": "Demônio-Guardião"
                 },
+                "th": {
+                    "name": "Guardian Demon"
+                },
                 "zhhans": {
                     "name": "守护者恶魔"
                 },
@@ -4107,6 +4371,9 @@
                 },
                 "pt": {
                     "name": "Mestre de 1"
+                },
+                "th": {
+                    "name": "Master of 1"
                 },
                 "zhhans": {
                     "name": "一宗罪之主"
@@ -4155,6 +4422,9 @@
                 "pt": {
                     "name": "Mestre de 2"
                 },
+                "th": {
+                    "name": "Master of 2"
+                },
                 "zhhans": {
                     "name": "二宗罪之主"
                 },
@@ -4202,6 +4472,9 @@
                 "pt": {
                     "name": "Mestre de 3"
                 },
+                "th": {
+                    "name": "Master of 3"
+                },
                 "zhhans": {
                     "name": "三宗罪之主"
                 },
@@ -4248,6 +4521,9 @@
                 },
                 "pt": {
                     "name": "Demônio do Fosso"
+                },
+                "th": {
+                    "name": "Pit Demon"
                 },
                 "zhhans": {
                     "name": "深渊恶魔"
@@ -4298,6 +4574,9 @@
                 "pt": {
                     "name": "Senhor do Abismo"
                 },
+                "th": {
+                    "name": "พิทลอร์ด"
+                },
                 "zhhans": {
                     "name": "深渊领主"
                 },
@@ -4344,6 +4623,9 @@
                 },
                 "pt": {
                     "name": "Restringuntus"
+                },
+                "th": {
+                    "name": "เรสตริงกันทัส"
                 },
                 "zhhans": {
                     "name": "弦爪魔"
@@ -4392,6 +4674,9 @@
                 "pt": {
                     "name": "Cambaleio"
                 },
+                "th": {
+                    "name": "Shaffles"
+                },
                 "zhhans": {
                     "name": "跛行鬼"
                 },
@@ -4438,6 +4723,9 @@
                 },
                 "pt": {
                     "name": "Erosor"
+                },
+                "th": {
+                    "name": "สกูลเลอร์"
                 },
                 "zhhans": {
                     "name": "游荡魔"
@@ -4486,6 +4774,9 @@
                 "pt": {
                     "name": "Avaro"
                 },
+                "th": {
+                    "name": "Snudge"
+                },
                 "zhhans": {
                     "name": "吝啬魔"
                 },
@@ -4532,6 +4823,9 @@
                 },
                 "pt": {
                     "name": "Ladrão de Almas"
+                },
+                "th": {
+                    "name": "Stealer of Souls"
                 },
                 "zhhans": {
                     "name": "窃魂者"
@@ -4580,6 +4874,9 @@
                 "pt": {
                     "name": "Súcubo"
                 },
+                "th": {
+                    "name": "Succubus"
+                },
                 "zhhans": {
                     "name": "魅魔"
                 },
@@ -4626,6 +4923,9 @@
                 },
                 "pt": {
                     "name": "Tentácus"
+                },
+                "th": {
+                    "name": "เทนทาคัส"
                 },
                 "zhhans": {
                     "name": "触手魔"
@@ -4675,6 +4975,9 @@
                 "pt": {
                     "name": "O Terror"
                 },
+                "th": {
+                    "name": "The Terror"
+                },
                 "zhhans": {
                     "name": "恐惧魔"
                 },
@@ -4721,6 +5024,9 @@
                 },
                 "pt": {
                     "name": "Tocsina"
+                },
+                "th": {
+                    "name": "Tocsin"
                 },
                 "zhhans": {
                     "name": "剧毒魔"
@@ -4771,6 +5077,9 @@
                 "pt": {
                     "name": "Tolas"
                 },
+                "th": {
+                    "name": "ทอลาส"
+                },
                 "zhhans": {
                     "name": "鸿毛鬼"
                 },
@@ -4820,6 +5129,9 @@
                 "pt": {
                     "name": "Verobaru"
                 },
+                "th": {
+                    "name": "Truebaru"
+                },
                 "zhhans": {
                     "name": "真祖魔"
                 },
@@ -4864,6 +5176,9 @@
                 },
                 "pt": {
                     "name": "Colar da Subordinação"
+                },
+                "th": {
+                    "name": "ปลอกคอข้ารับใช้"
                 },
                 "zhhans": {
                     "name": "从属项圈"
@@ -4910,6 +5225,9 @@
                 "pt": {
                     "name": "Envolto em Chamas"
                 },
+                "th": {
+                    "name": "Flame-Wreathed"
+                },
                 "zhhans": {
                     "name": "烈焰环绕"
                 },
@@ -4954,6 +5272,9 @@
                 },
                 "pt": {
                     "name": "Quark Mortal Saltitante"
+                },
+                "th": {
+                    "name": "กระสุนสะท้อน เดธควาร์ก"
                 },
                 "zhhans": {
                     "name": "弹射死亡夸克"
@@ -5000,6 +5321,9 @@
                 "pt": {
                     "name": "Porta Dimensional"
                 },
+                "th": {
+                    "name": "Dimension Door"
+                },
                 "zhhans": {
                     "name": "次元门"
                 },
@@ -5044,6 +5368,9 @@
                 },
                 "pt": {
                     "name": "Princípio Efervescente"
+                },
+                "th": {
+                    "name": "Effervescent Principle"
                 },
                 "zhhans": {
                     "name": "泡腾原则"
@@ -5090,6 +5417,9 @@
                 "pt": {
                     "name": "Enevoar"
                 },
+                "th": {
+                    "name": "Foggify"
+                },
                 "zhhans": {
                     "name": "朦胧雾化"
                 },
@@ -5134,6 +5464,9 @@
                 },
                 "pt": {
                     "name": "Autoajuda do Futuro"
+                },
+                "th": {
+                    "name": "คำเตือนจากตัวเองในอนาคต"
                 },
                 "zhhans": {
                     "name": "穿越自助"
@@ -5180,6 +5513,9 @@
                 "pt": {
                     "name": "Logro Interdimensional"
                 },
+                "th": {
+                    "name": "อุโมงค์เชื่อมมิติ"
+                },
                 "zhhans": {
                     "name": "跨次元嫁接"
                 },
@@ -5224,6 +5560,9 @@
                 },
                 "pt": {
                     "name": "Conhecimento é Poder"
+                },
+                "th": {
+                    "name": "ความรู้คือพลัง"
                 },
                 "zhhans": {
                     "name": "知识就是力量"
@@ -5270,6 +5609,9 @@
                 "pt": {
                     "name": "Ciência"
                 },
+                "th": {
+                    "name": "ทดลอง"
+                },
                 "zhhans": {
                     "name": "实验工作"
                 },
@@ -5314,6 +5656,9 @@
                 },
                 "pt": {
                     "name": "Acesso à Biblioteca"
+                },
+                "th": {
+                    "name": "Library Access"
                 },
                 "zhhans": {
                     "name": "图书馆通行证"
@@ -5360,6 +5705,9 @@
                 "pt": {
                     "name": "Sifão Neurológico"
                 },
+                "th": {
+                    "name": "Neuro Syphon"
+                },
                 "zhhans": {
                     "name": "神经虹吸"
                 },
@@ -5404,6 +5752,9 @@
                 },
                 "pt": {
                     "name": "Mudança Fásica"
+                },
+                "th": {
+                    "name": "Phase Shift"
                 },
                 "zhhans": {
                     "name": "相位变换"
@@ -5450,6 +5801,9 @@
                 "pt": {
                     "name": "Raio de Pósitrons"
                 },
+                "th": {
+                    "name": "Positron Bolt"
+                },
                 "zhhans": {
                     "name": "正电子弹矢"
                 },
@@ -5494,6 +5848,9 @@
                 },
                 "pt": {
                     "name": "Acervo de Acesso Aleatório"
+                },
+                "th": {
+                    "name": "Random Access Archives"
                 },
                 "zhhans": {
                     "name": "随机存取档案"
@@ -5540,6 +5897,9 @@
                 "pt": {
                     "name": "Acesso Remoto"
                 },
+                "th": {
+                    "name": "เชื่อมต่อระยะไกล"
+                },
                 "zhhans": {
                     "name": "远程连接"
                 },
@@ -5584,6 +5944,9 @@
                 },
                 "pt": {
                     "name": "Reverter o Tempo"
+                },
+                "th": {
+                    "name": "Reverse Time"
                 },
                 "zhhans": {
                     "name": "时间逆转"
@@ -5630,6 +5993,9 @@
                 "pt": {
                     "name": "Tempestade Bloqueadora"
                 },
+                "th": {
+                    "name": "Scrambler Storm"
+                },
                 "zhhans": {
                     "name": "扰频风暴"
                 },
@@ -5674,6 +6040,9 @@
                 },
                 "pt": {
                     "name": "Ciência Desleixada"
+                },
+                "th": {
+                    "name": "ทดลองผิดพลาด"
                 },
                 "zhhans": {
                     "name": "马虎的实验工作"
@@ -5720,6 +6089,9 @@
                 "pt": {
                     "name": "Raios Gêmeos"
                 },
+                "th": {
+                    "name": "Twin Bolt Emission"
+                },
                 "zhhans": {
                     "name": "双头放电"
                 },
@@ -5764,6 +6136,9 @@
                 },
                 "pt": {
                     "name": "Buraco de Minhoca Feroz"
+                },
+                "th": {
+                    "name": "พายุรูหนอน"
                 },
                 "zhhans": {
                     "name": "狂野虫洞"
@@ -5812,6 +6187,9 @@
                 "pt": {
                     "name": "Explorador de Anomalias"
                 },
+                "th": {
+                    "name": "Anomaly Exploiter"
+                },
                 "zhhans": {
                     "name": "异象深化器"
                 },
@@ -5858,6 +6236,9 @@
                 },
                 "pt": {
                     "name": "Portal do Caos"
+                },
+                "th": {
+                    "name": "ประตูมิติกาหล"
                 },
                 "zhhans": {
                     "name": "混乱传送门"
@@ -5906,6 +6287,9 @@
                 "pt": {
                     "name": "Máquina de Matar Maluca"
                 },
+                "th": {
+                    "name": "อาวุธสังหารวิปริต"
+                },
                 "zhhans": {
                     "name": "疯狂杀戮机器"
                 },
@@ -5952,6 +6336,9 @@
                 },
                 "pt": {
                     "name": "Biblioteca de Babel"
+                },
+                "th": {
+                    "name": "หอสมุดแห่งเสียงพึมพำ"
                 },
                 "zhhans": {
                     "name": "喋语图书馆"
@@ -6000,6 +6387,9 @@
                 "pt": {
                     "name": "Pergaminho de Möbius"
                 },
+                "th": {
+                    "name": "Mobius Scroll"
+                },
                 "zhhans": {
                     "name": "莫比乌斯卷轴"
                 },
@@ -6046,6 +6436,9 @@
                 },
                 "pt": {
                     "name": "Universo de Bolso"
+                },
+                "th": {
+                    "name": "จักรวาลฉบับย่อส่วน"
                 },
                 "zhhans": {
                     "name": "袋中宇宙"
@@ -6094,6 +6487,9 @@
                 "pt": {
                     "name": "Caixa de Spangler"
                 },
+                "th": {
+                    "name": "Spangler Box"
+                },
                 "zhhans": {
                     "name": "斯潘格勒之盒"
                 },
@@ -6140,6 +6536,9 @@
                 },
                 "pt": {
                     "name": "Tuneleiro Espectral"
+                },
+                "th": {
+                    "name": "Spectral Tunneler"
                 },
                 "zhhans": {
                     "name": "光谱隧道掘进机"
@@ -6188,6 +6587,9 @@
                 "pt": {
                     "name": "Engenhoca Estranha"
                 },
+                "th": {
+                    "name": "อุปกรณ์พิศดาร"
+                },
                 "zhhans": {
                     "name": "奇怪的小发明"
                 },
@@ -6234,6 +6636,9 @@
                 },
                 "pt": {
                     "name": "O Abismo Uivante"
+                },
+                "th": {
+                    "name": "The Howling Pit"
                 },
                 "zhhans": {
                     "name": "嚎叫的坑洞"
@@ -6284,6 +6689,9 @@
                 "pt": {
                     "name": "Drone-Morcego"
                 },
+                "th": {
+                    "name": "Batdrone"
+                },
                 "zhhans": {
                     "name": "蝙蝠无人机"
                 },
@@ -6331,6 +6739,9 @@
                 },
                 "pt": {
                     "name": "Devorador de Cérebros"
+                },
+                "th": {
+                    "name": "ตัวกินสมอง"
                 },
                 "zhhans": {
                     "name": "食脑兽"
@@ -6380,6 +6791,9 @@
                 "pt": {
                     "name": "Destero"
                 },
+                "th": {
+                    "name": "Dextre"
+                },
                 "zhhans": {
                     "name": "戴克斯特"
                 },
@@ -6427,6 +6841,9 @@
                 },
                 "pt": {
                     "name": "Dr. Tomeiro"
+                },
+                "th": {
+                    "name": "Doc Bookton"
                 },
                 "zhhans": {
                     "name": "书顿博士"
@@ -6476,6 +6893,9 @@
                 "pt": {
                     "name": "Dr. Escotera"
                 },
+                "th": {
+                    "name": "Dr. Escotera"
+                },
                 "zhhans": {
                     "name": "爱索特拉博士"
                 },
@@ -6522,6 +6942,9 @@
                 },
                 "pt": {
                     "name": "Dysânia"
+                },
+                "th": {
+                    "name": "หลับลึก"
                 },
                 "zhhans": {
                     "name": "嗜睡体"
@@ -6571,6 +6994,9 @@
                 "pt": {
                     "name": "Arquivista de Ganímedes"
                 },
+                "th": {
+                    "name": "Ganymede Archivist"
+                },
                 "zhhans": {
                     "name": "甘尼米档案管理员"
                 },
@@ -6618,6 +7044,9 @@
                 },
                 "pt": {
                     "name": "Harland Mentecaptor"
+                },
+                "th": {
+                    "name": "ฮาร์แลนด์ ไมนด์ล็อค"
                 },
                 "zhhans": {
                     "name": "哈兰·心锁"
@@ -6669,6 +7098,9 @@
                 "pt": {
                     "name": "Quixo, o \"Aventureiro\""
                 },
+                "th": {
+                    "name": "Quixo the “Adventurer”"
+                },
                 "zhhans": {
                     "name": "“冒险家”吉诃"
                 },
@@ -6716,6 +7148,9 @@
                 },
                 "pt": {
                     "name": "Mãe"
+                },
+                "th": {
+                    "name": "Mother"
                 },
                 "zhhans": {
                     "name": "母机"
@@ -6765,6 +7200,9 @@
                 "pt": {
                     "name": "Tubarão de Nêutrons"
                 },
+                "th": {
+                    "name": "ฉลามนิวตรอน"
+                },
                 "zhhans": {
                     "name": "中子鲨鱼"
                 },
@@ -6812,6 +7250,9 @@
                 },
                 "pt": {
                     "name": "Arqueólogo de Novu"
+                },
+                "th": {
+                    "name": "Novu Archaeologist"
                 },
                 "zhhans": {
                     "name": "新生代考古学家"
@@ -6863,6 +7304,9 @@
                 "pt": {
                     "name": "Ozmo, Marcianólogo"
                 },
+                "th": {
+                    "name": "ออซโม นักวิจัยดาวอังคาร"
+                },
                 "zhhans": {
                     "name": "火星人学家奥兹默"
                 },
@@ -6911,6 +7355,9 @@
                 "pt": {
                     "name": "Inseto Psíquico"
                 },
+                "th": {
+                    "name": "Psychic Bug"
+                },
                 "zhhans": {
                     "name": "精神飞虫"
                 },
@@ -6957,6 +7404,9 @@
                 },
                 "pt": {
                     "name": "Replicador"
+                },
+                "th": {
+                    "name": "เครื่องผลิตซ้ำ"
                 },
                 "zhhans": {
                     "name": "复刻体"
@@ -7005,6 +7455,9 @@
                 "pt": {
                     "name": "Fuminho Pesquisador"
                 },
+                "th": {
+                    "name": "สโมโคสำหรับวิจัย"
+                },
                 "zhhans": {
                     "name": "研究型替工者"
                 },
@@ -7051,6 +7504,9 @@
                 },
                 "pt": {
                     "name": "Pulinho Temporco"
+                },
+                "th": {
+                    "name": "Skippy Timehog"
                 },
                 "zhhans": {
                     "name": "时间跃迁猪"
@@ -7100,6 +7556,9 @@
                 "pt": {
                     "name": "Viajante do Tempo"
                 },
+                "th": {
+                    "name": "นักท่องกาลเวลา"
+                },
                 "zhhans": {
                     "name": "时间旅行者"
                 },
@@ -7147,6 +7606,9 @@
                 },
                 "pt": {
                     "name": "Mecânico do Titã"
+                },
+                "th": {
+                    "name": "จักรกลไททัน"
                 },
                 "zhhans": {
                     "name": "泰坦型机工"
@@ -7198,6 +7660,9 @@
                 "pt": {
                     "name": "Teórico de Vespilon"
                 },
+                "th": {
+                    "name": "Vespilon Theorist"
+                },
                 "zhhans": {
                     "name": "窥窃理论家"
                 },
@@ -7246,6 +7711,9 @@
                 "pt": {
                     "name": "Analista de Veylan"
                 },
+                "th": {
+                    "name": "Veylan Analyst"
+                },
                 "zhhans": {
                     "name": "维兰鉴定师"
                 },
@@ -7290,6 +7758,9 @@
                 },
                 "pt": {
                     "name": "Terapia Experimental"
+                },
+                "th": {
+                    "name": "Experimental Therapy"
                 },
                 "zhhans": {
                     "name": "实验疗法"
@@ -7336,6 +7807,9 @@
                 "pt": {
                     "name": "Botas de Foguete"
                 },
+                "th": {
+                    "name": "บูทติดจรวด"
+                },
                 "zhhans": {
                     "name": "火箭长靴"
                 },
@@ -7380,6 +7854,9 @@
                 },
                 "pt": {
                     "name": "Sandálias da Transposição"
+                },
+                "th": {
+                    "name": "รองเท้าเคลื่อนย้ายมวลสาร"
                 },
                 "zhhans": {
                     "name": "易位便鞋"
@@ -7426,6 +7903,9 @@
                 "pt": {
                     "name": "Nuvens de Amônia"
                 },
+                "th": {
+                    "name": "Ammonia Clouds"
+                },
                 "zhhans": {
                     "name": "氨气云雾"
                 },
@@ -7470,6 +7950,9 @@
                 },
                 "pt": {
                     "name": "Armada de Guerra"
+                },
+                "th": {
+                    "name": "Battle Fleet"
                 },
                 "zhhans": {
                     "name": "战斗舰队"
@@ -7516,6 +7999,9 @@
                 "pt": {
                     "name": "Sonda Profunda"
                 },
+                "th": {
+                    "name": "Deep Probe"
+                },
                 "zhhans": {
                     "name": "深层探测"
                 },
@@ -7560,6 +8046,9 @@
                 },
                 "pt": {
                     "name": "Explosão de PEM"
+                },
+                "th": {
+                    "name": "EMP Blast"
                 },
                 "zhhans": {
                     "name": "电磁脉冲爆流"
@@ -7606,6 +8095,9 @@
                 "pt": {
                     "name": "Comando Hipnótico"
                 },
+                "th": {
+                    "name": "คำสั่งควบคุมจิต"
+                },
                 "zhhans": {
                     "name": "催眠律令"
                 },
@@ -7650,6 +8142,9 @@
                 },
                 "pt": {
                     "name": "Æmber Irradiado"
+                },
+                "th": {
+                    "name": "Irradiated Æmber"
                 },
                 "zhhans": {
                     "name": "放射性琥魄"
@@ -7696,6 +8191,9 @@
                 "pt": {
                     "name": "Abdução-Chave"
                 },
+                "th": {
+                    "name": "ช่วงชิงกุญแจ"
+                },
                 "zhhans": {
                     "name": "定向诱拐"
                 },
@@ -7740,6 +8238,9 @@
                 },
                 "pt": {
                     "name": "Mastins Marcianos"
+                },
+                "th": {
+                    "name": "หมาล่าเนื้อดาวอังคาร"
                 },
                 "zhhans": {
                     "name": "火星人猎犬"
@@ -7786,6 +8287,9 @@
                 "pt": {
                     "name": "Não se Alie a Marcianos"
                 },
+                "th": {
+                    "name": "Martians Make Bad Allies"
+                },
                 "zhhans": {
                     "name": "火星人帮倒忙"
                 },
@@ -7830,6 +8334,9 @@
                 },
                 "pt": {
                     "name": "Abdução em Massa"
+                },
+                "th": {
+                    "name": "Mass Abduction"
                 },
                 "zhhans": {
                     "name": "群体诱拐"
@@ -7876,6 +8383,9 @@
                 "pt": {
                     "name": "Temporada de Acasalamento"
                 },
+                "th": {
+                    "name": "Mating Season"
+                },
                 "zhhans": {
                     "name": "交配季节"
                 },
@@ -7920,6 +8430,9 @@
                 },
                 "pt": {
                     "name": "Apoio da Nave-Mãe"
+                },
+                "th": {
+                    "name": "กำลังสนับสนุนจากยานแม่"
                 },
                 "zhhans": {
                     "name": "母舰支援"
@@ -7966,6 +8479,9 @@
                 "pt": {
                     "name": "Bombardeio Orbital"
                 },
+                "th": {
+                    "name": "ยิงถล่มจากวงโคจร"
+                },
                 "zhhans": {
                     "name": "轨道轰炸"
                 },
@@ -8010,6 +8526,9 @@
                 },
                 "pt": {
                     "name": "Estrelas de Fósforo"
+                },
+                "th": {
+                    "name": "Phosphorus Stars"
                 },
                 "zhhans": {
                     "name": "磷光之星"
@@ -8056,6 +8575,9 @@
                 "pt": {
                     "name": "Rede Psíquica"
                 },
+                "th": {
+                    "name": "Psychic Network"
+                },
                 "zhhans": {
                     "name": "精神网络"
                 },
@@ -8100,6 +8622,9 @@
                 },
                 "pt": {
                     "name": "Coleta de Amostras"
+                },
+                "th": {
+                    "name": "เก็บตัวอย่าง"
                 },
                 "zhhans": {
                     "name": "收集样本"
@@ -8146,6 +8671,9 @@
                 "pt": {
                     "name": "Tempestade Destruidora"
                 },
+                "th": {
+                    "name": "พายุทำลายล้าง"
+                },
                 "zhhans": {
                     "name": "碎裂风暴"
                 },
@@ -8190,6 +8718,9 @@
                 },
                 "pt": {
                     "name": "Pouso Suave"
+                },
+                "th": {
+                    "name": "Soft Landing"
                 },
                 "zhhans": {
                     "name": "软着陆"
@@ -8236,6 +8767,9 @@
                 "pt": {
                     "name": "Berrador"
                 },
+                "th": {
+                    "name": "Squawker"
+                },
                 "zhhans": {
                     "name": "内部通话"
                 },
@@ -8280,6 +8814,9 @@
                 },
                 "pt": {
                     "name": "Vingador do Futuro"
+                },
+                "th": {
+                    "name": "เรียกกลับ"
                 },
                 "zhhans": {
                     "name": "全面召回"
@@ -8328,6 +8865,9 @@
                 "pt": {
                     "name": "Feromônios de Combate"
                 },
+                "th": {
+                    "name": "ฟีโรโมนต่อสู้"
+                },
                 "zhhans": {
                     "name": "战斗信息素"
                 },
@@ -8374,6 +8914,9 @@
                 },
                 "pt": {
                     "name": "Cápsula de Comunicação"
+                },
+                "th": {
+                    "name": "Commpod"
                 },
                 "zhhans": {
                     "name": "通讯器"
@@ -8422,6 +8965,9 @@
                 "pt": {
                     "name": "Colmeia de Cristal"
                 },
+                "th": {
+                    "name": "Crystal Hive"
+                },
                 "zhhans": {
                     "name": "水晶蜂城"
                 },
@@ -8468,6 +9014,9 @@
                 },
                 "pt": {
                     "name": "Vírus Personalizado"
+                },
+                "th": {
+                    "name": "ไวรัสดัดแปลง"
                 },
                 "zhhans": {
                     "name": "定制病毒"
@@ -8516,6 +9065,9 @@
                 "pt": {
                     "name": "Fosso de Alimentação"
                 },
+                "th": {
+                    "name": "Feeding Pit"
+                },
                 "zhhans": {
                     "name": "进食坑洞"
                 },
@@ -8562,6 +9114,9 @@
                 },
                 "pt": {
                     "name": "Portal de Invasão"
+                },
+                "th": {
+                    "name": "ประตูเส้นทางรุกราน"
                 },
                 "zhhans": {
                     "name": "入侵传送门"
@@ -8610,6 +9165,9 @@
                 "pt": {
                     "name": "Câmara de Incubação"
                 },
+                "th": {
+                    "name": "ห้องฟักตัวอ่อน"
+                },
                 "zhhans": {
                     "name": "孵化舱"
                 },
@@ -8656,6 +9214,9 @@
                 },
                 "pt": {
                     "name": "Arma-Mãe"
+                },
+                "th": {
+                    "name": "ปืนประจัญบาน"
                 },
                 "zhhans": {
                     "name": "母炮"
@@ -8704,6 +9265,9 @@
                 "pt": {
                     "name": "Farejador"
                 },
+                "th": {
+                    "name": "ฟุดฟิด"
+                },
                 "zhhans": {
                     "name": "小嗅嗅"
                 },
@@ -8751,6 +9315,9 @@
                 "pt": {
                     "name": "Dispositivo de Troca"
                 },
+                "th": {
+                    "name": "Swap Widget"
+                },
                 "zhhans": {
                     "name": "交换部件"
                 },
@@ -8797,6 +9364,9 @@
                     "name": "Blypyp"
                 },
                 "pt": {
+                    "name": "Blypyp"
+                },
+                "th": {
                     "name": "Blypyp"
                 },
                 "zhhans": {
@@ -8848,6 +9418,9 @@
                 "pt": {
                     "name": "Símio Rude"
                 },
+                "th": {
+                    "name": "Chuff Ape"
+                },
                 "zhhans": {
                     "name": "粗暴猿猴"
                 },
@@ -8894,6 +9467,9 @@
                 },
                 "pt": {
                     "name": "Aranha do Éter"
+                },
+                "th": {
+                    "name": "Ether Spider"
                 },
                 "zhhans": {
                     "name": "以太蜘蛛"
@@ -8942,6 +9518,9 @@
                 "pt": {
                     "name": "Pegador Emperrador"
                 },
+                "th": {
+                    "name": "Grabber Jammer"
+                },
                 "zhhans": {
                     "name": "抓攫干扰机"
                 },
@@ -8988,6 +9567,9 @@
                 },
                 "pt": {
                     "name": "Grommid"
+                },
+                "th": {
+                    "name": "กรอมมิด"
                 },
                 "zhhans": {
                     "name": "格罗米德"
@@ -9037,6 +9619,9 @@
                     "name": "„John Smyth”"
                 },
                 "pt": {
+                    "name": "“John Smyth”"
+                },
+                "th": {
                     "name": "“John Smyth”"
                 },
                 "zhhans": {
@@ -9089,6 +9674,9 @@
                 "pt": {
                     "name": "Curvador de Mentes"
                 },
+                "th": {
+                    "name": "ผู้สะกดจิต"
+                },
                 "zhhans": {
                     "name": "心灵歪曲者"
                 },
@@ -9139,6 +9727,9 @@
                 "pt": {
                     "name": "Phylyx, o Disintegrador"
                 },
+                "th": {
+                    "name": "Phylyx the Disintegrator"
+                },
                 "zhhans": {
                     "name": "瓦解者菲利克斯"
                 },
@@ -9187,6 +9778,9 @@
                 "pt": {
                     "name": "Qyxxlyx Mestre da Peste"
                 },
+                "th": {
+                    "name": "คิกซลิกซ์ผู้แพร่เชื้อ"
+                },
                 "zhhans": {
                     "name": "克兹利克斯瘟疫师"
                 },
@@ -9232,6 +9826,9 @@
                     "name": "Tunk"
                 },
                 "pt": {
+                    "name": "Tunk"
+                },
+                "th": {
                     "name": "Tunk"
                 },
                 "zhhans": {
@@ -9281,6 +9878,9 @@
                 },
                 "pt": {
                     "name": "Ulyq Megaboca"
+                },
+                "th": {
+                    "name": "Ulyq Megamouth"
                 },
                 "zhhans": {
                     "name": "乌里克·巨嘴"
@@ -9332,6 +9932,9 @@
                 "pt": {
                     "name": "Uxlyx, o Zelador"
                 },
+                "th": {
+                    "name": "อักซลิกซ์ผู้ดูแลสัตว์"
+                },
                 "zhhans": {
                     "name": "生物长乌兹利克斯"
                 },
@@ -9379,6 +9982,9 @@
                 },
                 "pt": {
                     "name": "Vezyma Dronepenseiro"
+                },
+                "th": {
+                    "name": "เวซิมายานนักคิด"
                 },
                 "zhhans": {
                     "name": "威兹玛·思考机"
@@ -9428,6 +10034,9 @@
                 "pt": {
                     "name": "Yxili Saqueador"
                 },
+                "th": {
+                    "name": "Yxili Marauder"
+                },
                 "zhhans": {
                     "name": "伊兹利劫掠者"
                 },
@@ -9475,6 +10084,9 @@
                 },
                 "pt": {
                     "name": "Yxilo Disparador"
+                },
+                "th": {
+                    "name": "Yxilo Bolter"
                 },
                 "zhhans": {
                     "name": "伊兹罗激进者"
@@ -9525,6 +10137,9 @@
                 "pt": {
                     "name": "Yxilx Dominador"
                 },
+                "th": {
+                    "name": "อิกซิลซ์จอมทำลายล้าง"
+                },
                 "zhhans": {
                     "name": "伊兹利克斯支配者"
                 },
@@ -9571,6 +10186,9 @@
                 },
                 "pt": {
                     "name": "Zorg"
+                },
+                "th": {
+                    "name": "ซอร์ก"
                 },
                 "zhhans": {
                     "name": "佐格"
@@ -9620,6 +10238,9 @@
                 "pt": {
                     "name": "Zyzzix, os Muitos"
                 },
+                "th": {
+                    "name": "Zyzzix the Many"
+                },
                 "zhhans": {
                     "name": "重影人吉吉克斯"
                 },
@@ -9664,6 +10285,9 @@
                 },
                 "pt": {
                     "name": "Cópia da Biomatriz"
+                },
+                "th": {
+                    "name": "Biomatrix Backup"
                 },
                 "zhhans": {
                     "name": "生物基质备份"
@@ -9710,6 +10334,9 @@
                 "pt": {
                     "name": "Antena do Tronco Cerebral"
                 },
+                "th": {
+                    "name": "เสาสัญญาณก้านสมอง"
+                },
                 "zhhans": {
                     "name": "脑干天线"
                 },
@@ -9754,6 +10381,9 @@
                 },
                 "pt": {
                     "name": "Mochila Sônica"
+                },
+                "th": {
+                    "name": "Jammer Pack"
                 },
                 "zhhans": {
                     "name": "干扰器背包"
@@ -9800,6 +10430,9 @@
                 "pt": {
                     "name": "Arma de Raios Marciana"
                 },
+                "th": {
+                    "name": "ปืนแสงจากดาวสีแดง"
+                },
                 "zhhans": {
                     "name": "赤星射线枪"
                 },
@@ -9844,6 +10477,9 @@
                 },
                 "pt": {
                     "name": "Vá Embora!"
+                },
+                "th": {
+                    "name": "จงสาปสูญ!"
                 },
                 "zhhans": {
                     "name": "退散！"
@@ -9890,6 +10526,9 @@
                 "pt": {
                     "name": "Luz Ofuscante"
                 },
+                "th": {
+                    "name": "แสงพรางตา"
+                },
                 "zhhans": {
                     "name": "目盲光线"
                 },
@@ -9934,6 +10573,9 @@
                 },
                 "pt": {
                     "name": "Atacar!"
+                },
+                "th": {
+                    "name": "Charge!"
                 },
                 "zhhans": {
                     "name": "冲锋陷阵"
@@ -9980,6 +10622,9 @@
                 "pt": {
                     "name": "Onda Purificante"
                 },
+                "th": {
+                    "name": "Cleansing Wave"
+                },
                 "zhhans": {
                     "name": "净化波动"
                 },
@@ -10024,6 +10669,9 @@
                 },
                 "pt": {
                     "name": "Mente Limpa"
+                },
+                "th": {
+                    "name": "Clear Mind"
                 },
                 "zhhans": {
                     "name": "清澈心灵"
@@ -10070,6 +10718,9 @@
                 "pt": {
                     "name": "Porta para o Céu"
                 },
+                "th": {
+                    "name": "บันไดสู่แดนสรวง"
+                },
                 "zhhans": {
                     "name": "天堂门阶"
                 },
@@ -10114,6 +10765,9 @@
                 },
                 "pt": {
                     "name": "Os Poucos Gloriosos"
+                },
+                "th": {
+                    "name": "Glorious Few"
                 },
                 "zhhans": {
                     "name": "荣耀精兵"
@@ -10160,6 +10814,9 @@
                 "pt": {
                     "name": "Reivindicação Honrosa"
                 },
+                "th": {
+                    "name": "Honorable Claim"
+                },
                 "zhhans": {
                     "name": "荣誉宣夺"
                 },
@@ -10204,6 +10861,9 @@
                 },
                 "pt": {
                     "name": "Inspiração"
+                },
+                "th": {
+                    "name": "Inspiration"
                 },
                 "zhhans": {
                     "name": "鼓舞人心"
@@ -10250,6 +10910,9 @@
                 "pt": {
                     "name": "Lança Poderosa"
                 },
+                "th": {
+                    "name": "หอกฤทธา"
+                },
                 "zhhans": {
                     "name": "强力长枪"
                 },
@@ -10294,6 +10957,9 @@
                 },
                 "pt": {
                     "name": "Voto de Pobreza"
+                },
+                "th": {
+                    "name": "สัตย์สาบานแห่งความจน"
                 },
                 "zhhans": {
                     "name": "贫困誓约"
@@ -10340,6 +11006,9 @@
                 "pt": {
                     "name": "Um Contra Muitos"
                 },
+                "th": {
+                    "name": "ยืนหยัดสู้ฝูงอริ"
+                },
                 "zhhans": {
                     "name": "以寡敌众"
                 },
@@ -10384,6 +11053,9 @@
                 },
                 "pt": {
                     "name": "Verdade Radiante"
+                },
+                "th": {
+                    "name": "ความจริงที่น่าตื่นตะลึง"
                 },
                 "zhhans": {
                     "name": "光耀真理"
@@ -10430,6 +11102,9 @@
                 "pt": {
                     "name": "Escudo da Justiça"
                 },
+                "th": {
+                    "name": "โล่แห่งความยุติธรรม"
+                },
                 "zhhans": {
                     "name": "正义护盾"
                 },
@@ -10474,6 +11149,9 @@
                 },
                 "pt": {
                     "name": "Fazer Reféns"
+                },
+                "th": {
+                    "name": "จับเชลยศึก"
                 },
                 "zhhans": {
                     "name": "扣押人质"
@@ -10520,6 +11198,9 @@
                 "pt": {
                     "name": "Termos de Reparação"
                 },
+                "th": {
+                    "name": "Terms of Redress"
+                },
                 "zhhans": {
                     "name": "明令整改"
                 },
@@ -10564,6 +11245,9 @@
                 },
                 "pt": {
                     "name": "Quanto Mais Alto"
+                },
+                "th": {
+                    "name": "แรงมาแรงไป"
                 },
                 "zhhans": {
                     "name": "来势越凶……"
@@ -10610,6 +11294,9 @@
                 "pt": {
                     "name": "O Caminho do Espírito"
                 },
+                "th": {
+                    "name": "วิถีวิญญาณ"
+                },
                 "zhhans": {
                     "name": "灵体之道"
                 },
@@ -10654,6 +11341,9 @@
                 },
                 "pt": {
                     "name": "Trabalhos Virtuosos"
+                },
+                "th": {
+                    "name": "Virtuous Works"
                 },
                 "zhhans": {
                     "name": "善行"
@@ -10702,6 +11392,9 @@
                 "pt": {
                     "name": "Missão Épica"
                 },
+                "th": {
+                    "name": "ภารกิจอันยิ่งใหญ่"
+                },
                 "zhhans": {
                     "name": "史诗任务"
                 },
@@ -10748,6 +11441,9 @@
                 },
                 "pt": {
                     "name": "Revelação de Omm"
+                },
+                "th": {
+                    "name": "กอร์มแห่งออมม์"
                 },
                 "zhhans": {
                     "name": "欧姆圣仪"
@@ -10796,6 +11492,9 @@
                 "pt": {
                     "name": "Blaster Santificado"
                 },
+                "th": {
+                    "name": "Hallowed Blaster"
+                },
                 "zhhans": {
                     "name": "圣佑爆流枪"
                 },
@@ -10842,6 +11541,9 @@
                 },
                 "pt": {
                     "name": "Chá da Invulnerabilidade"
+                },
+                "th": {
+                    "name": "ยาแห่งความคงกระพัน"
                 },
                 "zhhans": {
                     "name": "无敌药剂"
@@ -10890,6 +11592,9 @@
                 "pt": {
                     "name": "Távola Redonda"
                 },
+                "th": {
+                    "name": "Round Table"
+                },
                 "zhhans": {
                     "name": "圆桌"
                 },
@@ -10936,6 +11641,9 @@
                 },
                 "pt": {
                     "name": "Sinal da Irmandade"
+                },
+                "th": {
+                    "name": "ตราแห่งภราดรภาพ"
                 },
                 "zhhans": {
                     "name": "兄弟法印"
@@ -10984,6 +11692,9 @@
                 "pt": {
                     "name": "Relicário Sussurrante"
                 },
+                "th": {
+                    "name": "Whispering Reliquary"
+                },
                 "zhhans": {
                     "name": "轻语圣骨匣"
                 },
@@ -11031,6 +11742,9 @@
                 },
                 "pt": {
                     "name": "Bastião"
+                },
+                "th": {
+                    "name": "Bulwark"
                 },
                 "zhhans": {
                     "name": "堤垒"
@@ -11082,6 +11796,9 @@
                 "pt": {
                     "name": "Campeão Anaphiel"
                 },
+                "th": {
+                    "name": "Champion Anaphiel"
+                },
                 "zhhans": {
                     "name": "勇士阿纳菲尔"
                 },
@@ -11129,6 +11846,9 @@
                 },
                 "pt": {
                     "name": "Campeã Tabris"
+                },
+                "th": {
+                    "name": "Champion Tabris"
                 },
                 "zhhans": {
                     "name": "勇士塔布莉丝"
@@ -11178,6 +11898,9 @@
                 "pt": {
                     "name": "Comandante Remiel"
                 },
+                "th": {
+                    "name": "Commander Remiel"
+                },
                 "zhhans": {
                     "name": "指挥官雷米尔"
                 },
@@ -11225,6 +11948,9 @@
                 "pt": {
                     "name": "Duma, o Mártir"
                 },
+                "th": {
+                    "name": "ดูม่านักรบพลีชีพ"
+                },
                 "zhhans": {
                     "name": "殉道者杜玛"
                 },
@@ -11271,6 +11997,9 @@
                     "name": "Frankus"
                 },
                 "pt": {
+                    "name": "Francus"
+                },
+                "th": {
                     "name": "Francus"
                 },
                 "zhhans": {
@@ -11321,6 +12050,9 @@
                 "pt": {
                     "name": "Monge Cinza"
                 },
+                "th": {
+                    "name": "Grey Monk"
+                },
                 "zhhans": {
                     "name": "灰袍修道士"
                 },
@@ -11368,6 +12100,9 @@
                 },
                 "pt": {
                     "name": "Hayyel, o Comerciante"
+                },
+                "th": {
+                    "name": "Hayyel the Merchant"
                 },
                 "zhhans": {
                     "name": "商人海耶尔"
@@ -11417,6 +12152,9 @@
                 "pt": {
                     "name": "Cavaleiro da Morte"
                 },
+                "th": {
+                    "name": "Horseman of Death"
+                },
                 "zhhans": {
                     "name": "死亡天启骑士"
                 },
@@ -11464,6 +12202,9 @@
                 },
                 "pt": {
                     "name": "Cavaleiro da Fome"
+                },
+                "th": {
+                    "name": "Horseman of Famine"
                 },
                 "zhhans": {
                     "name": "饥荒天启骑士"
@@ -11513,6 +12254,9 @@
                 "pt": {
                     "name": "Cavaleiro da Peste"
                 },
+                "th": {
+                    "name": "Horseman of Pestilence"
+                },
                 "zhhans": {
                     "name": "瘟疫天启骑士"
                 },
@@ -11561,6 +12305,9 @@
                 "pt": {
                     "name": "Cavaleiro da Guerra"
                 },
+                "th": {
+                    "name": "Horseman of War"
+                },
                 "zhhans": {
                     "name": "战争天启骑士"
                 },
@@ -11608,6 +12355,9 @@
                 "pt": {
                     "name": "Jehu, o Burocrata"
                 },
+                "th": {
+                    "name": "Jehu the Bureaucrat"
+                },
                 "zhhans": {
                     "name": "官僚耶胡"
                 },
@@ -11654,6 +12404,9 @@
                     "name": "Lady Maxena"
                 },
                 "pt": {
+                    "name": "Lady Maxena"
+                },
+                "th": {
                     "name": "Lady Maxena"
                 },
                 "zhhans": {
@@ -11704,6 +12457,9 @@
                 "pt": {
                     "name": "Lorde Golgotha"
                 },
+                "th": {
+                    "name": "ลอร์ดกอลกอตธา"
+                },
                 "zhhans": {
                     "name": "各各他领主"
                 },
@@ -11750,6 +12506,9 @@
                 },
                 "pt": {
                     "name": "Numquid, a Bela"
+                },
+                "th": {
+                    "name": "Numquid the Fair"
                 },
                 "zhhans": {
                     "name": "公平者娜姆奎德"
@@ -11799,6 +12558,9 @@
                 "pt": {
                     "name": "Protectrix"
                 },
+                "th": {
+                    "name": "Protectrix"
+                },
                 "zhhans": {
                     "name": "防护者特里克斯"
                 },
@@ -11846,6 +12608,9 @@
                 },
                 "pt": {
                     "name": "Cavaleiro Saqueador"
+                },
+                "th": {
+                    "name": "Raiding Knight"
                 },
                 "zhhans": {
                     "name": "奇袭骑士"
@@ -11897,6 +12662,9 @@
                 "pt": {
                     "name": "Guardião do Santuário"
                 },
+                "th": {
+                    "name": "ผู้ปกปักษ์แซงค์ทัม"
+                },
                 "zhhans": {
                     "name": "圣堂守护者"
                 },
@@ -11943,6 +12711,9 @@
                     "name": "Sequis"
                 },
                 "pt": {
+                    "name": "Sequis"
+                },
+                "th": {
                     "name": "Sequis"
                 },
                 "zhhans": {
@@ -11993,6 +12764,9 @@
                 "pt": {
                     "name": "Sargento Zakiel"
                 },
+                "th": {
+                    "name": "Sergeant Zakiel"
+                },
                 "zhhans": {
                     "name": "萨基尔中士"
                 },
@@ -12040,6 +12814,9 @@
                 },
                 "pt": {
                     "name": "Cavaleiro Estoico"
+                },
+                "th": {
+                    "name": "Staunch Knight"
                 },
                 "zhhans": {
                     "name": "坚毅骑士"
@@ -12089,6 +12866,9 @@
                 "pt": {
                     "name": "Guardião do Portal"
                 },
+                "th": {
+                    "name": "ทวารบาล"
+                },
                 "zhhans": {
                     "name": "城门守卫"
                 },
@@ -12136,6 +12916,9 @@
                 },
                 "pt": {
                     "name": "O Protetor do Cofre"
+                },
+                "th": {
+                    "name": "ผู้เฝ้าประตูลับ"
                 },
                 "zhhans": {
                     "name": "秘库护使"
@@ -12185,6 +12968,9 @@
                 "pt": {
                     "name": "Veemos Portaluz"
                 },
+                "th": {
+                    "name": "วีมอสผู้นำพาแสงสว่าง"
+                },
                 "zhhans": {
                     "name": "维墨斯·光明使者"
                 },
@@ -12229,6 +13015,9 @@
                 },
                 "pt": {
                     "name": "Capa do Armagedom"
+                },
+                "th": {
+                    "name": "ผ้าคลุมอาร์มาเกดดอน"
                 },
                 "zhhans": {
                     "name": "末世披风"
@@ -12275,6 +13064,9 @@
                 "pt": {
                     "name": "Manto do Zelote"
                 },
+                "th": {
+                    "name": "Mantle of the Zealot"
+                },
                 "zhhans": {
                     "name": "狂徒罩衣"
                 },
@@ -12319,6 +13111,9 @@
                 },
                 "pt": {
                     "name": "Proteja os Fracos"
+                },
+                "th": {
+                    "name": "ปกป้องผู้อ่อนแอ"
                 },
                 "zhhans": {
                     "name": "保护弱者"
@@ -12365,6 +13160,9 @@
                 "pt": {
                     "name": "Ombreira"
                 },
+                "th": {
+                    "name": "Shoulder Armor"
+                },
                 "zhhans": {
                     "name": "肩部护甲"
                 },
@@ -12409,6 +13207,9 @@
                 },
                 "pt": {
                     "name": "Isca e Armadilha"
+                },
+                "th": {
+                    "name": "Bait and Switch"
                 },
                 "zhhans": {
                     "name": "诱导消费"
@@ -12455,6 +13256,9 @@
                 "pt": {
                     "name": "Armadilha"
                 },
+                "th": {
+                    "name": "Booby Trap"
+                },
                 "zhhans": {
                     "name": "诡雷陷阱"
                 },
@@ -12499,6 +13303,9 @@
                 },
                 "pt": {
                     "name": "Golpe Final"
+                },
+                "th": {
+                    "name": "Finishing Blow"
                 },
                 "zhhans": {
                     "name": "终结一击"
@@ -12545,6 +13352,9 @@
                 "pt": {
                     "name": "Mão-Fantasma"
                 },
+                "th": {
+                    "name": "Ghostly Hand"
+                },
                 "zhhans": {
                     "name": "天降贼手"
                 },
@@ -12589,6 +13399,9 @@
                 },
                 "pt": {
                     "name": "Tesouro Escondido"
+                },
+                "th": {
+                    "name": "ช่องลับ"
                 },
                 "zhhans": {
                     "name": "隐藏储室"
@@ -12635,6 +13448,9 @@
                 "pt": {
                     "name": "Traidor Imperial"
                 },
+                "th": {
+                    "name": "Imperial Traitor"
+                },
                 "zhhans": {
                     "name": "帝国叛徒"
                 },
@@ -12679,6 +13495,9 @@
                 },
                 "pt": {
                     "name": "Chave da Escuridão"
+                },
+                "th": {
+                    "name": "กุญแจแห่งความมืด"
                 },
                 "zhhans": {
                     "name": "黑暗钥匙"
@@ -12725,6 +13544,9 @@
                 "pt": {
                     "name": "Apagão"
                 },
+                "th": {
+                    "name": "หลับไปซะ"
+                },
                 "zhhans": {
                     "name": "入眠时间"
                 },
@@ -12769,6 +13591,9 @@
                 },
                 "pt": {
                     "name": "Miasma"
+                },
+                "th": {
+                    "name": "วางยา"
                 },
                 "zhhans": {
                     "name": "瘴气"
@@ -12815,6 +13640,9 @@
                 "pt": {
                     "name": "Explosão Nervosa"
                 },
+                "th": {
+                    "name": "ระเบิดทำลายประสาท"
+                },
                 "zhhans": {
                     "name": "神经爆流"
                 },
@@ -12859,6 +13687,9 @@
                 },
                 "pt": {
                     "name": "Um Último Serviço"
+                },
+                "th": {
+                    "name": "One Last Job"
                 },
                 "zhhans": {
                     "name": "最后一票"
@@ -12905,6 +13736,9 @@
                 "pt": {
                     "name": "Masmorra"
                 },
+                "th": {
+                    "name": "หลุมคุก"
+                },
                 "zhhans": {
                     "name": "地下密牢"
                 },
@@ -12949,6 +13783,9 @@
                 },
                 "pt": {
                     "name": "Sacrifício de Peão"
+                },
+                "th": {
+                    "name": "Pawn Sacrifice"
                 },
                 "zhhans": {
                     "name": "牺牲棋子"
@@ -12995,6 +13832,9 @@
                 "pt": {
                     "name": "Onda de Veneno"
                 },
+                "th": {
+                    "name": "Poison Wave"
+                },
                 "zhhans": {
                     "name": "剧毒波动"
                 },
@@ -13039,6 +13879,9 @@
                 },
                 "pt": {
                     "name": "Sussurros Implacáveis"
+                },
+                "th": {
+                    "name": "Relentless Whispers"
                 },
                 "zhhans": {
                     "name": "无情低语"
@@ -13085,6 +13928,9 @@
                 "pt": {
                     "name": "Serviço de Rotina"
                 },
+                "th": {
+                    "name": "งานประจำ"
+                },
                 "zhhans": {
                     "name": "例行工作"
                 },
@@ -13130,6 +13976,9 @@
                 "pt": {
                     "name": "Demais para Proteger"
                 },
+                "th": {
+                    "name": "มากสิ่งก็ทิ้งขว้าง"
+                },
                 "zhhans": {
                     "name": "防不胜防"
                 },
@@ -13174,6 +14023,9 @@
                 },
                 "pt": {
                     "name": "Mapa do Tesouro"
+                },
+                "th": {
+                    "name": "แผนที่สมบัติ"
                 },
                 "zhhans": {
                     "name": "藏宝地图"
@@ -13222,6 +14074,9 @@
                 "pt": {
                     "name": "Alfândega"
                 },
+                "th": {
+                    "name": "ด่านเก็บค่าผ่านทาง"
+                },
                 "zhhans": {
                     "name": "海关"
                 },
@@ -13268,6 +14123,9 @@
                 },
                 "pt": {
                     "name": "Sinal de Evasão"
+                },
+                "th": {
+                    "name": "Evasion Sigil"
                 },
                 "zhhans": {
                     "name": "闪避法印"
@@ -13316,6 +14174,9 @@
                 "pt": {
                     "name": "Minas à Distância"
                 },
+                "th": {
+                    "name": "กับระเบิดพ่วงสาย"
+                },
                 "zhhans": {
                     "name": "长线地雷"
                 },
@@ -13362,6 +14223,9 @@
                 },
                 "pt": {
                     "name": "Plano Magistral"
+                },
+                "th": {
+                    "name": "Masterplan"
                 },
                 "zhhans": {
                     "name": "总体规划"
@@ -13410,6 +14274,9 @@
                 "pt": {
                     "name": "Lugar Seguro"
                 },
+                "th": {
+                    "name": "Safe Place"
+                },
                 "zhhans": {
                     "name": "安全场所"
                 },
@@ -13456,6 +14323,9 @@
                 },
                 "pt": {
                     "name": "Agulha Perseguidora"
+                },
+                "th": {
+                    "name": "Seeker Needle"
                 },
                 "zhhans": {
                     "name": "探索者刺针"
@@ -13504,6 +14374,9 @@
                 "pt": {
                     "name": "Chave Mestra"
                 },
+                "th": {
+                    "name": "กุญแจโครงกระดูก"
+                },
                 "zhhans": {
                     "name": "骷髅钥匙"
                 },
@@ -13550,6 +14423,9 @@
                 },
                 "pt": {
                     "name": "Entrega Especial"
+                },
+                "th": {
+                    "name": "ของขวัญชิ้นพิเศษ"
                 },
                 "zhhans": {
                     "name": "特别快递"
@@ -13598,6 +14474,9 @@
                 "pt": {
                     "name": "Sinal da Velocidade"
                 },
+                "th": {
+                    "name": "Speed Sigil"
+                },
                 "zhhans": {
                     "name": "速度法印"
                 },
@@ -13644,6 +14523,9 @@
                 },
                 "pt": {
                     "name": "Marreta Sutil"
+                },
+                "th": {
+                    "name": "ค้อนพรางตา"
                 },
                 "zhhans": {
                     "name": "隐蔽之槌"
@@ -13692,6 +14574,9 @@
                 "pt": {
                     "name": "O Ferrão"
                 },
+                "th": {
+                    "name": "เดอะสติง"
+                },
                 "zhhans": {
                     "name": "毒刺号"
                 },
@@ -13739,6 +14624,9 @@
                 },
                 "pt": {
                     "name": "Centavo Furado"
+                },
+                "th": {
+                    "name": "แบดเพนนี"
                 },
                 "zhhans": {
                     "name": "丧财鬼分妮"
@@ -13789,6 +14677,9 @@
                 },
                 "pt": {
                     "name": "Olho-da-Bala"
+                },
+                "th": {
+                    "name": "บุลเล็ตอาย"
                 },
                 "zhhans": {
                     "name": "子弹之眼"
@@ -13841,6 +14732,9 @@
                 "pt": {
                     "name": "Carlo Fantasma"
                 },
+                "th": {
+                    "name": "Carlo Phantom"
+                },
                 "zhhans": {
                     "name": "卡洛·幻影"
                 },
@@ -13891,6 +14785,9 @@
                 "pt": {
                     "name": "Deipno Mestre-Espião"
                 },
+                "th": {
+                    "name": "ดีปโนยอดจารชน"
+                },
                 "zhhans": {
                     "name": "餐会间谍大师"
                 },
@@ -13939,6 +14836,9 @@
                     "name": "Faygin"
                 },
                 "pt": {
+                    "name": "Faygin"
+                },
+                "th": {
                     "name": "Faygin"
                 },
                 "zhhans": {
@@ -13991,6 +14891,9 @@
                 "pt": {
                     "name": "Víbora Macis"
                 },
+                "th": {
+                    "name": "Macis Asp"
+                },
                 "zhhans": {
                     "name": "环节毒蛇"
                 },
@@ -14041,6 +14944,9 @@
                 "pt": {
                     "name": "Mack, a Faca"
                 },
+                "th": {
+                    "name": "แม็คจอมเชือด"
+                },
                 "zhhans": {
                     "name": "小刀麦克"
                 },
@@ -14090,6 +14996,9 @@
                 },
                 "pt": {
                     "name": "Magda, a Rata"
+                },
+                "th": {
+                    "name": "Magda the Rat"
                 },
                 "zhhans": {
                     "name": "老鼠麦格达"
@@ -14142,6 +15051,9 @@
                 "pt": {
                     "name": "Amaldiçoador Lunar"
                 },
+                "th": {
+                    "name": "Mooncurser"
+                },
                 "zhhans": {
                     "name": "月咒者"
                 },
@@ -14190,6 +15102,9 @@
                     "name": "Nexus"
                 },
                 "pt": {
+                    "name": "Nexus"
+                },
+                "th": {
                     "name": "Nexus"
                 },
                 "zhhans": {
@@ -14242,6 +15157,9 @@
                 "pt": {
                     "name": "Pateta, o Ladrão"
                 },
+                "th": {
+                    "name": "Noddy the Thief"
+                },
                 "zhhans": {
                     "name": "窃贼诺迪"
                 },
@@ -14292,6 +15210,9 @@
                 "pt": {
                     "name": "Velho Bruno"
                 },
+                "th": {
+                    "name": "Old Bruno"
+                },
                 "zhhans": {
                     "name": "老布鲁诺"
                 },
@@ -14339,6 +15260,9 @@
                 },
                 "pt": {
                     "name": "Trapaceiro"
+                },
+                "th": {
+                    "name": "Dodger"
                 },
                 "zhhans": {
                     "name": "闪避者"
@@ -14388,6 +15312,9 @@
                 "pt": {
                     "name": "Selwyn, o Receptor"
                 },
+                "th": {
+                    "name": "เซลวินแม่ค้าตลาดมืด"
+                },
                 "zhhans": {
                     "name": "销赃者塞尔温"
                 },
@@ -14434,6 +15361,9 @@
                 },
                 "pt": {
                     "name": "Sombra"
+                },
+                "th": {
+                    "name": "Shadow Self"
                 },
                 "zhhans": {
                     "name": "自我之影"
@@ -14482,6 +15412,9 @@
                 },
                 "pt": {
                     "name": "Dente de Prata"
+                },
+                "th": {
+                    "name": "Silvertooth"
                 },
                 "zhhans": {
                     "name": "银齿"
@@ -14533,6 +15466,9 @@
                 "pt": {
                     "name": "Ruth Sorridente"
                 },
+                "th": {
+                    "name": "Smiling Ruth"
+                },
                 "zhhans": {
                     "name": "微笑的露丝"
                 },
@@ -14580,6 +15516,9 @@
                 },
                 "pt": {
                     "name": "Ladrão de Cobras"
+                },
+                "th": {
+                    "name": "โจรกลไก"
                 },
                 "zhhans": {
                     "name": "蛇索贼手"
@@ -14631,6 +15570,9 @@
                 "pt": {
                     "name": "Umbra"
                 },
+                "th": {
+                    "name": "อัมบรา"
+                },
                 "zhhans": {
                     "name": "本影"
                 },
@@ -14681,6 +15623,9 @@
                 "pt": {
                     "name": "Larápio"
                 },
+                "th": {
+                    "name": "Urchin"
+                },
                 "zhhans": {
                     "name": "贼童"
                 },
@@ -14725,6 +15670,9 @@
                 },
                 "pt": {
                     "name": "Corredor Crepuscular"
+                },
+                "th": {
+                    "name": "เงารัตติกาล"
                 },
                 "zhhans": {
                     "name": "黄昏行者"
@@ -14771,6 +15719,9 @@
                 "pt": {
                     "name": "Anel da Invisibilidade"
                 },
+                "th": {
+                    "name": "แหวนล่องหน"
+                },
                 "zhhans": {
                     "name": "隐身戒指"
                 },
@@ -14815,6 +15766,9 @@
                 },
                 "pt": {
                     "name": "Punhal Silencioso"
+                },
+                "th": {
+                    "name": "Silent Dagger"
                 },
                 "zhhans": {
                     "name": "静谧匕首"
@@ -14861,6 +15815,9 @@
                 "pt": {
                     "name": "Caçada Cooperativa"
                 },
+                "th": {
+                    "name": "Cooperative Hunting"
+                },
                 "zhhans": {
                     "name": "协同狩猎"
                 },
@@ -14905,6 +15862,9 @@
                 },
                 "pt": {
                     "name": "Curiosidade"
+                },
+                "th": {
+                    "name": "ความอยากรู้อยากเห็น"
                 },
                 "zhhans": {
                     "name": "好奇"
@@ -14951,6 +15911,9 @@
                 "pt": {
                     "name": "Cântico da Fertilidade"
                 },
+                "th": {
+                    "name": "Fertility Chant"
+                },
                 "zhhans": {
                     "name": "丰饶颂歌"
                 },
@@ -14995,6 +15958,9 @@
                 },
                 "pt": {
                     "name": "Névoa Densa"
+                },
+                "th": {
+                    "name": "หมอกพราง"
                 },
                 "zhhans": {
                     "name": "雾堤"
@@ -15041,6 +16007,9 @@
                 "pt": {
                     "name": "Lua Cheia"
                 },
+                "th": {
+                    "name": "จันทร์เพ็ญ"
+                },
                 "zhhans": {
                     "name": "满月"
                 },
@@ -15085,6 +16054,9 @@
                 },
                 "pt": {
                     "name": "Vinhas Agarradoras"
+                },
+                "th": {
+                    "name": "เถาวัลย์พันเกี่ยว"
                 },
                 "zhhans": {
                     "name": "藤蔓缠绕"
@@ -15131,6 +16103,9 @@
                 "pt": {
                     "name": "Carregar Chave"
                 },
+                "th": {
+                    "name": "ประจุพลังกุญแจ"
+                },
                 "zhhans": {
                     "name": "钥匙充电"
                 },
@@ -15175,6 +16150,9 @@
                 },
                 "pt": {
                     "name": "Teia da Vida"
+                },
+                "th": {
+                    "name": "อาณาเขตใย"
                 },
                 "zhhans": {
                     "name": "生命之网"
@@ -15221,6 +16199,9 @@
                 "pt": {
                     "name": "Perdido no Bosque"
                 },
+                "th": {
+                    "name": "Lost in the Woods"
+                },
                 "zhhans": {
                     "name": "林木迷途"
                 },
@@ -15265,6 +16246,9 @@
                 },
                 "pt": {
                     "name": "Mímica"
+                },
+                "th": {
+                    "name": "ลอกเลียนแบบ"
                 },
                 "zhhans": {
                     "name": "拟态"
@@ -15311,6 +16295,9 @@
                 "pt": {
                     "name": "Chamado da Natureza"
                 },
+                "th": {
+                    "name": "เสียงเพรียกจากป่าเขา"
+                },
                 "zhhans": {
                     "name": "自然召唤"
                 },
@@ -15355,6 +16342,9 @@
                 },
                 "pt": {
                     "name": "Manobra Noturna"
+                },
+                "th": {
+                    "name": "Nocturnal Maneuver"
                 },
                 "zhhans": {
                     "name": "夜行演习"
@@ -15401,6 +16391,9 @@
                 "pt": {
                     "name": "Mata Selvagem"
                 },
+                "th": {
+                    "name": "ป่ามรณะ"
+                },
                 "zhhans": {
                     "name": "凶险荒野"
                 },
@@ -15445,6 +16438,9 @@
                 },
                 "pt": {
                     "name": "Recrescimento"
+                },
+                "th": {
+                    "name": "กำเนิดใหม่"
                 },
                 "zhhans": {
                     "name": "二次生长"
@@ -15491,6 +16487,9 @@
                 "pt": {
                     "name": "Salve a Manada"
                 },
+                "th": {
+                    "name": "ปกป้องฝูง"
+                },
                 "zhhans": {
                     "name": "拯救族群"
                 },
@@ -15535,6 +16534,9 @@
                 },
                 "pt": {
                     "name": "Batedor"
+                },
+                "th": {
+                    "name": "Scout"
                 },
                 "zhhans": {
                     "name": "侦察"
@@ -15581,6 +16583,9 @@
                 "pt": {
                     "name": "Pisoteio"
                 },
+                "th": {
+                    "name": "Stampede"
+                },
                 "zhhans": {
                     "name": "万兽狂奔"
                 },
@@ -15625,6 +16630,9 @@
                 },
                 "pt": {
                     "name": "A Gripe Comum"
+                },
+                "th": {
+                    "name": "ไข้หวัดธรรมดา"
                 },
                 "zhhans": {
                     "name": "典型性感冒"
@@ -15671,6 +16679,9 @@
                 "pt": {
                     "name": "Chamado de Tropas"
                 },
+                "th": {
+                    "name": "Troop Call"
+                },
                 "zhhans": {
                     "name": "呼叫部队"
                 },
@@ -15714,6 +16725,9 @@
                     "name": "Wigor"
                 },
                 "pt": {
+                    "name": "Vigor"
+                },
+                "th": {
                     "name": "Vigor"
                 },
                 "zhhans": {
@@ -15760,6 +16774,9 @@
                 },
                 "pt": {
                     "name": "Chamado de Volta"
+                },
+                "th": {
+                    "name": "Word of Returning"
                 },
                 "zhhans": {
                     "name": "召回真言"
@@ -15808,6 +16825,9 @@
                 "pt": {
                     "name": "Flauta de Urso"
                 },
+                "th": {
+                    "name": "Bear Flute"
+                },
                 "zhhans": {
                     "name": "巨熊长笛"
                 },
@@ -15854,6 +16874,9 @@
                 },
                 "pt": {
                     "name": "Semente de Nepente"
+                },
+                "th": {
+                    "name": "เมล็ดพันธุ์เนเพนธี"
                 },
                 "zhhans": {
                     "name": "忘忧种子"
@@ -15902,6 +16925,9 @@
                 "pt": {
                     "name": "Ritual de Equilíbrio"
                 },
+                "th": {
+                    "name": "Ritual of Balance"
+                },
                 "zhhans": {
                     "name": "平衡仪式"
                 },
@@ -15949,6 +16975,9 @@
                 "pt": {
                     "name": "Ritual da Caça"
                 },
+                "th": {
+                    "name": "Ritual of the Hunt"
+                },
                 "zhhans": {
                     "name": "狩猎仪式"
                 },
@@ -15995,6 +17024,9 @@
                 },
                 "pt": {
                     "name": "Árvore do Mundo"
+                },
+                "th": {
+                    "name": "ต้นไม้แห่งโลกา"
                 },
                 "zhhans": {
                     "name": "世界之树"
@@ -16045,6 +17077,9 @@
                 "pt": {
                     "name": "Urso Ancestral"
                 },
+                "th": {
+                    "name": "Ancient Bear"
+                },
                 "zhhans": {
                     "name": "远古巨熊"
                 },
@@ -16091,6 +17126,9 @@
                 },
                 "pt": {
                     "name": "Galhaço"
+                },
+                "th": {
+                    "name": "Bigtwig"
                 },
                 "zhhans": {
                     "name": "粗枝"
@@ -16139,6 +17177,9 @@
                 },
                 "pt": {
                     "name": "Bruxa das Matas"
+                },
+                "th": {
+                    "name": "แม่มดแห่งพงไพร"
                 },
                 "zhhans": {
                     "name": "荒野森巫"
@@ -16190,6 +17231,9 @@
                 "pt": {
                     "name": "Briar Escavador"
                 },
+                "th": {
+                    "name": "Briar Grubbling"
+                },
                 "zhhans": {
                     "name": "荆刺幼蛆"
                 },
@@ -16237,6 +17281,9 @@
                 },
                 "pt": {
                     "name": "Chota Hazri"
+                },
+                "th": {
+                    "name": "โชตา ฮัซรี"
                 },
                 "zhhans": {
                     "name": "乔塔·哈兹利"
@@ -16287,6 +17334,9 @@
                 "pt": {
                     "name": "Fada do Orvalho"
                 },
+                "th": {
+                    "name": "Dew Faerie"
+                },
                 "zhhans": {
                     "name": "露珠妖精"
                 },
@@ -16333,6 +17383,9 @@
                 },
                 "pt": {
                     "name": "Pixie do Pó"
+                },
+                "th": {
+                    "name": "Dust Pixie"
                 },
                 "zhhans": {
                     "name": "花粉仙子"
@@ -16381,6 +17434,9 @@
                 "pt": {
                     "name": "Flaxia"
                 },
+                "th": {
+                    "name": "แฟลกเซีย"
+                },
                 "zhhans": {
                     "name": "芙拉可西亚"
                 },
@@ -16427,6 +17483,9 @@
                 },
                 "pt": {
                     "name": "Gruen Difuso"
+                },
+                "th": {
+                    "name": "กรูว์เอนขนปุย"
                 },
                 "zhhans": {
                     "name": "毛茸茸的格鲁恩"
@@ -16475,6 +17534,9 @@
                 "pt": {
                     "name": "Preguiça Gigante"
                 },
+                "th": {
+                    "name": "Giant Sloth"
+                },
                 "zhhans": {
                     "name": "巨型树懒"
                 },
@@ -16520,6 +17582,9 @@
                     "name": "Halakor"
                 },
                 "pt": {
+                    "name": "Halacor"
+                },
+                "th": {
                     "name": "Halacor"
                 },
                 "zhhans": {
@@ -16570,6 +17635,9 @@
                 },
                 "pt": {
                     "name": "Inka, a Aranha"
+                },
+                "th": {
+                    "name": "อิงค์คา เจ้าแมงมุม"
                 },
                 "zhhans": {
                     "name": "蜘蛛因卡"
@@ -16622,6 +17690,9 @@
                 "pt": {
                     "name": "Kindrith Tirocerto"
                 },
+                "th": {
+                    "name": "คินดริธ ลองช็อต"
+                },
                 "zhhans": {
                     "name": "金德里丝·远射"
                 },
@@ -16670,6 +17741,9 @@
                 },
                 "pt": {
                     "name": "Fungaré"
+                },
+                "th": {
+                    "name": "Snufflegator"
                 },
                 "zhhans": {
                     "name": "嗅鼻鳄"
@@ -16720,6 +17794,9 @@
                 "pt": {
                     "name": "Lupo, o Marcado"
                 },
+                "th": {
+                    "name": "ลูโพจอมบาดแผล"
+                },
                 "zhhans": {
                     "name": "疤痕蛮兽卢普"
                 },
@@ -16767,6 +17844,9 @@
                 "pt": {
                     "name": "Tigre Poderoso"
                 },
+                "th": {
+                    "name": "พยัคฆ์อหังการ"
+                },
                 "zhhans": {
                     "name": "猛力虎"
                 },
@@ -16813,6 +17893,9 @@
                 },
                 "pt": {
                     "name": "Inhã"
+                },
+                "th": {
+                    "name": "Murmook"
                 },
                 "zhhans": {
                     "name": "魔壳蟹"
@@ -16862,6 +17945,9 @@
                 "pt": {
                     "name": "Homem-Cogumelo"
                 },
+                "th": {
+                    "name": "Mushroom Man"
+                },
                 "zhhans": {
                     "name": "蘑菇人"
                 },
@@ -16909,6 +17995,9 @@
                 },
                 "pt": {
                     "name": "Símio Inane"
+                },
+                "th": {
+                    "name": "Niffle Ape"
                 },
                 "zhhans": {
                     "name": "尼弗猿猴"
@@ -16958,6 +18047,9 @@
                 "pt": {
                     "name": "Rainha Inane"
                 },
+                "th": {
+                    "name": "Niffle Queen"
+                },
                 "zhhans": {
                     "name": "尼弗女王"
                 },
@@ -17004,6 +18096,9 @@
                 },
                 "pt": {
                     "name": "Macacos-Piranha"
+                },
+                "th": {
+                    "name": "ฝูงลิงปิรันยา"
                 },
                 "zhhans": {
                     "name": "食人猴"
@@ -17053,6 +18148,9 @@
                 "pt": {
                     "name": "Teliga"
                 },
+                "th": {
+                    "name": "เทลิกา"
+                },
                 "zhhans": {
                     "name": "泰莉嘉"
                 },
@@ -17100,6 +18198,9 @@
                 },
                 "pt": {
                     "name": "Bruxa Caçadora"
+                },
+                "th": {
+                    "name": "Hunting Witch"
                 },
                 "zhhans": {
                     "name": "猎手森巫"
@@ -17149,6 +18250,9 @@
                 "pt": {
                     "name": "Bruxa do Olho"
                 },
+                "th": {
+                    "name": "Witch of the Eye"
+                },
                 "zhhans": {
                     "name": "神目森巫"
                 },
@@ -17194,6 +18298,9 @@
                 "pt": {
                     "name": "Caminho do Urso"
                 },
+                "th": {
+                    "name": "Way of the Bear"
+                },
                 "zhhans": {
                     "name": "巨熊之道"
                 },
@@ -17238,6 +18345,9 @@
                 },
                 "pt": {
                     "name": "Caminho do Lobo"
+                },
+                "th": {
+                    "name": "Way of the Wolf"
                 },
                 "zhhans": {
                     "name": "野狼之道"
