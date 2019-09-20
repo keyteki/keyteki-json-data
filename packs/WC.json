@@ -6,10 +6,26 @@
     "releaseDate": "2019-11-30",
     "cards": [ 
         {
+            "id": "alaka",
+            "name": "Alaka",
+            "number": "001",
+            "image": "https://i.ibb.co/84L6L3W/Screen-Shot-2019-09-19-at-11-25-29-PM.png",
+            "expansion": 999,
+            "house": "brobnar",
+            "keywords": [],
+            "traits": ["giant"],
+            "type": "creature",
+            "rarity": "Common",
+            "amber": 0,
+            "armor": 0,
+            "power": 4,
+            "text": "If you have used a creature to fight this turn, Alaka enters play ready."
+        }, 
+        {
             "id": "the-grim-reaper",
             "name": "The Grim Reaper",
             "number": "A07",
-            "image": "",
+            "image": "https://i.imgur.com/de16g2K.png",
             "expansion": 999,
             "house": "brobnar",
             "keywords": [],
@@ -19,13 +35,13 @@
             "amber": 0,
             "armor": 0,
             "power": 4,
-            "text": "If you are haunter, The Grim Reaper enters play ready. (You are haunted if there are 10 or more cards in your discard pile.)\u000bReap: Purge an enemy creature and a friendly creature."
+            "text": "If you are haunted, The Grim Reaper enters play ready. (You are haunted if there are 10 or more cards in your discard pile.)\u000bReap: Purge an enemy creature and a friendly creature."
         }, 
         {
             "id": "irestaff",
             "name": "Irestaff",
             "number": "010",
-            "image": "",
+            "image": "https://i.imgur.com/lROwHvO.png",
             "expansion": 999,
             "house": "brobnar",
             "keywords": [],
@@ -41,7 +57,7 @@
             "id": "mogghunter",
             "name": "Mogghunter",
             "number": "011",
-            "image": "",
+            "image": "https://i.imgur.com/mSX2DwV.png",
             "expansion": 999,
             "house": "brobnar",
             "keywords": [],
