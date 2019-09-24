@@ -4,7 +4,9 @@
     "name": "Worlds Collide",
     "cardCount": "405",
     "releaseDate": "2019-11-30",
-    "cards": [            "id": "axiom-of-grisk",
+    "cards": [            
+        {
+            "id": "axiom-of-grisk",
             "name": "Axiom of Grisk",
             "number": "182",
             "image": "",
