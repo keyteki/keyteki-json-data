@@ -6,51 +6,6 @@
     "releaseDate": "2019-11-30",
     "cards": [            
         {
-            "id": "axiom-of-grisk",
-            "name": "Axiom of Grisk",
-            "number": "182",
-            "image": "",
-            "expansion": 999,
-            "house": "saurian",
-            "keywords": [],
-            "traits": [],
-            "type": "action",
-            "rarity": "Common",
-            "amber": 0,
-            "armor": null,
-            "power": 0,
-            "text": "Play: Ward a creature.  Destroy each creature with no <A> on it.  Gain 2 chains"
-        },
-        {
-            "id": "chant-of-hubris",
-            "name": "Chant of Hubris",
-            "number": "184",
-            "image": "",
-            "expansion": 999,
-            "house": "saurian",
-
-            "text": "Play: Move 1 <A> from a creature to another creature."
-        },
-        {
-            "id": "imperial-scutum",
-            "name": "Imperial Scutum",
-            "number": "185",
-            "image": "",
-            "expansion": 999,
-            "house": "saurian",
-            "keywords": [],
-            "traits": [],
-            "type": "upgrade",
-            "text": "This creature gets +2 armor and gains, “Destroyed: Move each <A> on this creature to the common supply.”"
-        },
-        {
-            "id": "imperium",
-            "name": "Imperium",
-            "number": "186",
-            "image": "",
-            "expansion": 999,
-            "house": "saurian",
-        {
             "id": "the-grim-reaper",
             "name": "The Grim Reaper",
             "number": "A07",
@@ -758,7 +713,8 @@
             "armor": null,
             "power": 0,
             "text": "Action: Archive a purged card you own."
-        }, {
+        }, 
+        {
             "id": "axiom-of-grisk",
             "name": "Axiom of Grisk",
             "number": "182",
