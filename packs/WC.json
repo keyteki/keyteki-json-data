@@ -4,7 +4,7 @@
     "name": "Worlds Collide",
     "cardCount": "405",
     "releaseDate": "2019-11-30",
-    "cards": [ 
+    "cards": [            
         {
             "id": "the-grim-reaper",
             "name": "The Grim Reaper",
@@ -13,7 +13,10 @@
             "expansion": 999,
             "house": "brobnar",
             "keywords": [],
-            "traits": ["robot", "specter"],
+            "traits": [
+                "robot",
+                "specter"
+            ],
             "type": "creature",
             "rarity": "Fixed",
             "amber": 0,
@@ -77,7 +80,9 @@
             "expansion": 999,
             "house": "brobnar",
             "keywords": [],
-            "traits": ["giant"],
+            "traits": [
+                "giant"
+            ],
             "type": "creature",
             "rarity": "Common",
             "amber": 0,
@@ -708,6 +713,52 @@
             "armor": null,
             "power": 0,
             "text": "Action: Archive a purged card you own."
+        }, 
+        {
+            "id": "axiom-of-grisk",
+            "name": "Axiom of Grisk",
+            "number": "182",
+            "image": "",
+            "expansion": 999,
+            "house": "saurian",
+            "keywords": [],
+            "traits": [],
+            "type": "action",
+            "rarity": "Common",
+            "amber": 0,
+            "armor": null,
+            "power": 0,
+            "text": "Play: Ward a creature.  Destroy each creature with no <A> on it.  Gain 2 chains"
+        },
+        {
+            "id": "chant-of-hubris",
+            "name": "Chant of Hubris",
+            "number": "184",
+            "image": "",
+            "expansion": 999,
+            "house": "saurian",
+
+            "text": "Play: Move 1 <A> from a creature to another creature."
+        },
+        {
+            "id": "imperial-scutum",
+            "name": "Imperial Scutum",
+            "number": "185",
+            "image": "",
+            "expansion": 999,
+            "house": "saurian",
+            "keywords": [],
+            "traits": [],
+            "type": "upgrade",
+            "text": "This creature gets +2 armor and gains, “Destroyed: Move each <A> on this creature to the common supply.”"
+        },
+        {
+            "id": "imperium",
+            "name": "Imperium",
+            "number": "186",
+            "image": "",
+            "expansion": 999,
+            "house": "saurian",
         },
         {
             "id": "legatus-raptor",
@@ -717,13 +768,165 @@
             "expansion": 999,
             "house": "saurian",
             "keywords": [],
-            "traits": ["dinosaur", "soldier"],
+            "traits": [
+                "dinosaur",
+                "soldier"
+            ],
             "type": "creature",
             "rarity": "Uncommon",
             "amber": 0,
             "armor": 1,
             "power": 4,
             "text": "Fight: You may exalt Legatus Raptor.  If you do, ready and use another friendly creature."
+        },
+        {
+            "id": "odoac-the-patrician",
+            "name": "Odoac the Patrician",
+            "number": "188",
+            "image": "",
+            "expansion": 999,
+            "house": "saurian",
+            "keywords": [],
+            "traits": [
+                "dinosaur",
+                "politician"
+            ],
+            "type": "creature",
+            "rarity": "Common",
+            "amber": 0,
+            "armor": 0,
+            "power": 5,
+            "text": "Play: Capture 1 <A>.\u000bWhile Odoac the Patrician has <A> on it, your <A> cannot be stolen."
+        },
+        {
+            "id": "phalax-strike",
+            "name": "Phalanx Strike",
+            "number": "189",
+            "image": "",
+            "expansion": 999,
+            "house": "saurian",
+            "keywords": [],
+            "traits": [],
+            "type": "action",
+            "rarity": "Common",
+            "amber": 1,
+            "armor": null,
+            "power": 0,
+            "text": "Play: Choose a creature.  Deal 1<D> to it for each friendly creature.  You may exalt a friendly creature to repeat the preceding effect."
+        },
+        {
+            "id": "senator-shrix",
+            "name": "Senator Shrix",
+            "number": "193",
+            "image": "",
+            "expansion": 999,
+            "house": "saurian",
+            "keywords": [],
+            "traits": [
+                "dinosaur",
+                "politician"
+            ],
+            "type": "creature",
+            "rarity": "Common",
+            "amber": 0,
+            "armor": 1,
+            "power": 4,
+            "text": "You may spend <A> on Senator Shrix as if it were in your pool.\u000bPlay/Reap: You may exalt Senator Shrix."
+        },
+        {
+            "id": "tricerian-legionary",
+            "name": "Tricerian Legionary",
+            "number": "197",
+            "image": "",
+            "expansion": 999,
+            "house": "saurian",
+            "keywords": [
+                "Taunt"
+            ],
+            "traits": [
+                "dinosaur",
+                "soldier"
+            ],
+            "type": "creature",
+            "rarity": "Uncommon",
+            "amber": 0,
+            "armor": 1,
+            "power": 5,
+            "text": "Taunt.\u000bPlay: Ward a friendly creature."
+        },
+        {
+            "id": "city-state-interest",
+            "name": "City-State Interest",
+            "number": "200",
+            "image": "",
+            "expansion": 999,
+            "house": "saurian",
+            "keywords": [],
+            "traits": [],
+            "type": "action",
+            "rarity": "Unommon",
+            "amber": 0,
+            "armor": null,
+            "power": 0,
+            "text": "Play: Each friendly creature captures 1<A>."
+        },
+        {
+            "id": "draco-praeco",
+            "name": "Draco Praeco",
+            "number": "201",
+            "image": "",
+            "expansion": 999,
+            "house": "saurian",
+            "keywords": [],
+            "traits": [
+                "dinosaur",
+                "politician"
+            ],
+            "type": "creature",
+            "rarity": "Uncommon",
+            "amber": 0,
+            "armor": 0,
+            "power": 4,
+            "text": "Reap: You may exalt Draco Praeco.  If you do, choose a house.  Enrage each creature of that house."
+        },
+        {
+            "id": "gargantodon",
+            "name": "Gargantodon",
+            "number": "203",
+            "image": "",
+            "expansion": 999,
+            "house": "saurian",
+            "keywords": [],
+            "traits": [
+                "beast"
+            ],
+            "type": "creature",
+            "rarity": "Uncommon",
+            "amber": 0,
+            "armor": 0,
+            "power": 16,
+            "text": "Gargantodon enters play stunned.\u000bGargantodon only deals 4<D> when fighting.\u000bEach <A> that would be stolen is captured by a creature controlled by the active player instead."
+        },
+        {
+            "id": "orator-hissaro",
+            "name": "Orator Hissaro",
+            "number": "205",
+            "image": "",
+            "expansion": 999,
+            "house": "saurian",
+            "keywords": [
+                "deploy"
+            ],
+            "traits": [
+                "dinosaur",
+                "politician"
+            ],
+            "type": "creature",
+            "rarity": "Uncommon",
+            "amber": 0,
+            "armor": 0,
+            "power": 3,
+            "text": "Deploy.\u000bPlay: Ready and exalt each of Orator Hissaro's neightbors.  For the remainder of the turn, they belong to house Saurian."
         },
         {
             "id": "paraguardian",
@@ -733,7 +936,10 @@
             "expansion": 999,
             "house": "saurian",
             "keywords": [],
-            "traits": ["dinosaur", "soldier"],
+            "traits": [
+                "dinosaur",
+                "soldier"
+            ],
             "type": "creature",
             "rarity": "Uncommon",
             "amber": 0,
@@ -749,13 +955,84 @@
             "expansion": 999,
             "house": "saurian",
             "keywords": [],
-            "traits": ["dinosaur", "philosopher"],
+            "traits": [
+                "dinosaur",
+                "philosopher"
+            ],
             "type": "creature",
             "rarity": "Uncommon",
             "amber": 0,
             "armor": 0,
             "power": 4,
             "text": "Reap: You may look at the top 3 cards of your deck.  Archive 1, add 1 to your hand, and discard 1."
+        },
+        {
+            "id": "regrettable-meteor",
+            "name": "Regrettable Meteor",
+            "number": "208",
+            "image": "",
+            "expansion": 999,
+            "house": "saurian",
+            "keywords": [],
+            "traits": [],
+            "type": "action",
+            "rarity": "Uncommon",
+            "amber": 1,
+            "armor": null,
+            "power": 0,
+            "text": "Play: Destroy each Dinosaur creature and each creature with power 6 or higher."
+        },
+        {
+            "id": "terrordactyl",
+            "name": "Terrordactyl",
+            "number": "211",
+            "image": "",
+            "expansion": 999,
+            "house": "saurian",
+            "keywords": [],
+            "traits": [
+                "beast"
+            ],
+            "type": "creature",
+            "rarity": "Uncommon",
+            "amber": 0,
+            "armor": 0,
+            "power": 12,
+            "text": "Terrordactyl enters play stunned.\u000bTerrordactyl only deals 4<D> when fighting.\u000bBefore Fight: Deal 4<D> to each neighbor of the creature Terrordactyl fights."
+        },
+        {
+            "id": "favor-of-rex",
+            "name": "Favor of Rex",
+            "number": "219",
+            "image": "",
+            "expansion": 999,
+            "house": "saurian",
+            "keywords": [],
+            "traits": [],
+            "type": "action",
+            "rarity": "Rare",
+            "amber": 1,
+            "armor": null,
+            "power": 0,
+            "text": "Play: Trigger the play effect of a creature as if you had just played it."
+        },
+        {
+            "id": "the-colosseum",
+            "name": "The Colosseum",
+            "number": "233",
+            "image": "",
+            "expansion": 999,
+            "house": "saurian",
+            "keywords": [],
+            "traits": [
+                "location"
+            ],
+            "type": "artifact",
+            "rarity": "Rare",
+            "amber": 0,
+            "armor": 0,
+            "power": 0,
+            "text": "After an enemy creature is destroyed while fighting, put a glory counter on The Colosseum\u000bOmni: If there are 6 or more glory counters on The Collosseum, remove 6 and forge a key at current cost."
         },
         {
             "id": "pestering-blow",
@@ -781,7 +1058,9 @@
             "expansion": 999,
             "house": "staralliance",
             "keywords": [],
-            "traits": ["human"],
+            "traits": [
+                "human"
+            ],
             "type": "creature",
             "rarity": "Common",
             "amber": 0,
@@ -813,7 +1092,10 @@
             "expansion": 999,
             "house": "staralliance",
             "keywords": [],
-            "traits": ["human", "leader"],
+            "traits": [
+                "human",
+                "leader"
+            ],
             "type": "creature",
             "rarity": "Rare",
             "amber": 0,
@@ -828,8 +1110,13 @@
             "image": "",
             "expansion": 999,
             "house": "untamed",
-            "keywords": ["elusive"],
-            "traits": ["human", "witch"],
+            "keywords": [
+                "Elusive"
+            ],
+            "traits": [
+                "human",
+                "witch"
+            ],
             "type": "creature",
             "rarity": "Uncommon",
             "amber": 0,
