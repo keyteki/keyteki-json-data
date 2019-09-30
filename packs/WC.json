@@ -1069,6 +1069,24 @@
             "text": "Play/Fight/Reap: A friendly creature captures 1<A>."
         },
         {
+            "id": "explo-rover",
+            "name": "Explo-rover",
+            "number": "299",
+            "image": "https://i.imgur.com/LYXw2IN.png",
+            "expansion": 999,
+            "house": "staralliance",
+            "keywords": ["skirmish"],
+            "traits": [
+                "robot"
+            ],
+            "type": "creature",
+            "rarity": "Common",
+            "amber": 0,
+            "armor": 0,
+            "power": 3,
+            "text": "Explo-rover may be played as an upgrade with the text 'This creature gains skirmish'."
+        },
+        {
             "id": "force-field",
             "name": "Force Field",
             "number": "310",
