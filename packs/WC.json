@@ -758,7 +758,14 @@
             "number": "186",
             "image": "",
             "expansion": 999,
-            "house": "saurian"
+            "house": "saurian",
+            "keywords": [],
+            "traits": [],
+            "type": "action",
+            "amber": 1,
+            "armor": null,
+            "power": 0,
+            "text": "Play: Ward 2 friendly creatures."
         },
         {
             "id": "legatus-raptor",
@@ -1085,6 +1092,22 @@
             "armor": 0,
             "power": 3,
             "text": "Explo-rover may be played as an upgrade with the text 'This creature gains skirmish'."
+        },
+        {
+            "id": "medic-ingram",
+            "name": "Medic Ingram",
+            "number": "301",
+            "image": "",
+            "expansion": 999,
+            "house": "staralliance",
+            "keywords": [],
+            "traits": ["human"],
+            "type": "creature",
+            "rarity": "Common",
+            "amber": 0,
+            "armor": null,
+            "power": 3,
+            "text": "Play/Fight/Reap: You may heal 3 ​damage from a creature and ward it"
         },
         {
             "id": "force-field",
