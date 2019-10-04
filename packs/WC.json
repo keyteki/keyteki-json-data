@@ -758,7 +758,14 @@
             "number": "186",
             "image": "",
             "expansion": 999,
-            "house": "saurian"
+            "house": "saurian",
+            "keywords": [],
+            "traits": [],
+            "type": "action",
+            "amber": 1,
+            "armor": null,
+            "power": 0,
+            "text": "Play: Ward 2 friendly creatures."
         },
         {
             "id": "legatus-raptor",
@@ -1051,6 +1058,22 @@
             "text": "Play: Deal 1<D> to a creature and enrage it"
         },
         {
+            "id": "hunter-or-hunted?",
+            "name": "Hunter or Hunted?",
+            "number": "269",
+            "image": "",
+            "expansion": 999,
+            "house": "shadows",
+            "keywords": [],
+            "traits": [],
+            "type": "action",
+            "rarity": "Rare",
+            "amber": 1,
+            "armor": 0,
+            "power": 0,
+            "text": "Play: Ward a creature, or move a ward ​from a creature to another creature."
+        },
+        {
             "id": "first-officer-frane",
             "name": "First Officer Frane",
             "number": "298",
@@ -1087,6 +1110,22 @@
             "text": "Explo-rover may be played as an upgrade with the text 'This creature gains skirmish'."
         },
         {
+            "id": "medic-ingram",
+            "name": "Medic Ingram",
+            "number": "301",
+            "image": "",
+            "expansion": 999,
+            "house": "staralliance",
+            "keywords": [],
+            "traits": ["human"],
+            "type": "creature",
+            "rarity": "Common",
+            "amber": 0,
+            "armor": null,
+            "power": 3,
+            "text": "Play/Fight/Reap: You may heal 3 ​damage from a creature and ward it"
+        },
+        {
             "id": "force-field",
             "name": "Force Field",
             "number": "310",
@@ -1120,6 +1159,22 @@
             "armor": 1,
             "power": 5,
             "text": "During your turn, if Captain Val Jericho is in the centre of your battleline, you may play one card that is not of the active house."
+        },
+        {
+            "id": "encounter-suit",
+            "name": "Encounter Suit",
+            "number": "330",
+            "image": "",
+            "expansion": 999,
+            "house": "staralliance",
+            "keywords": [],
+            "traits": [],
+            "type": "upgrade",
+            "rarity": "Rare",
+            "amber": 0,
+            "armor": null,
+            "power": 0,
+            "text": "After an action is played but before it ​resolves, ward this creature."
         },
         {
             "id": "the-feathered-shaman",
