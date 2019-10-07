@@ -3174,6 +3174,22 @@
           "text": "After a player chooses Brobnar as their active house, gain 1 aember."
         },
         {
+          "id": "dis-plant",
+          "name": "Dis Plant",
+          "number": "287",
+          "image": "",
+          "expansion": 999,
+          "house": "shadows",
+          "keywords": ["elusive"],
+          "traits": ["elf","thief"],
+          "type": "creature",
+          "rarity": "FIXED",
+          "amber": 0,
+          "armor": 0,
+          "power": 1,
+          "text": "After a player chooses Dis as their active house, gain 1 aember."
+        },
+        {
           "id": "logos-plant",
           "name": "Logos Plant",
           "number": "288",
