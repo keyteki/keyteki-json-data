@@ -3062,7 +3062,7 @@
           "text": "At the start of each player's turn, that player may choose a house. If they do,\u000b?reveal the top card of their deck. If it\u000b?is of the named house, they gain 2 aember.\u000b?Otherwise, they lose 2 aember."
         },
         {
-          "id": "hunter-or-hunted?",
+          "id": "hunter-or-hunted",
           "name": "Hunter or Hunted?",
           "number": "269",
           "image": "",
