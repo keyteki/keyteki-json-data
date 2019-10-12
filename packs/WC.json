@@ -3766,8 +3766,8 @@
           "text": "Play: For each house represented among friendly creatures, a friendly \u000b?creature captures 1 aember."
         },
         {
-          "id": "aembertracker",
-          "name": "Aembertracker",
+          "id": "æmbertracker",
+          "name": "Æmbertracker",
           "number": "324",
           "image": "",
           "expansion": 999,
