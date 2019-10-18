@@ -1447,7 +1447,7 @@
         },
         {
           "id": "edai-edie-4x4",
-          "name": "EDAI Edie\"4x4\"",
+          "name": "EDAI \"Edie\" 4x4",
           "number": "132",
           "image": "",
           "expansion": 999,
@@ -3526,8 +3526,8 @@
           "text": "Fight/Reap: Draw a card. CALV-1N may be played as an upgrade \u000b?instead of a creature, with the text:\u000b?\"This creature gains: 'Fight/Reap: Draw\u000b?a card.'\""
         },
         {
-          "id": "cx0-taber",
-          "name": "CX0 Taber",
+          "id": "cxo-taber",
+          "name": "CXO Taber",
           "number": "309",
           "image": "",
           "expansion": 999,
@@ -3844,6 +3844,22 @@
           "armor": null,
           "power": null,
           "text": "Your opponent's keys cost +1 aember for each disruption counter on \u000b?Disruption Field.\u000b?This creature gains, \"Fight/Reap:\u000b?Put a disruption counter on \u000b?Disruption Field.\""
+        },
+        {
+          "id": "doctor-driscoll",
+          "name": "Doctor Driscoll",
+          "number": "329",
+          "image": "",
+          "expansion": 999,
+          "house": "staralliance",
+          "keywords": ["elusive"],
+          "traits": ["human","scientist"],
+          "type": "creature",
+          "rarity": "Rare",
+          "amber": 0,
+          "armor": 0,
+          "power": 3,
+          "text": "Action: Heal 2 damage from a creature. ​Gain 1 aember for each damage healed"
         },
         {
           "id": "encounter-suit",
@@ -4742,6 +4758,22 @@
           "text": "Action: Graft an action card from your hand onto Memolith (place it\u000b?faceup under this card), or trigger the\u000b?play effect of an action card grafted\u000b?onto Memolith."
         },
         {
+          "id": "nizak-the-forgotten",
+          "name": "Nizak, The Forgotten",
+          "number": "A05",
+          "image": "",
+          "expansion": null,
+          "house": "untamed",
+          "keywords": [],
+          "traits": ["dragon", "psion"],
+          "type": "artifact",
+          "rarity": "fixed",
+          "amber": 0,
+          "armor": 0,
+          "power": 6,
+          "text": "While fighting, Nizak, The Forgotten gains invulnerable.  (It cannot be destroyed or dealt ​damage.) After an enemy creature is destroyed fighting ​Nizak, The Forgotten, return that creature to its owner's hand."
+        },
+        {
           "id": "orb-of-wonder",
           "name": "Orb of Wonder",
           "number": "A06",
@@ -4790,6 +4822,22 @@
           "text": "While your red key is forged, The Red Baron gains, \"Reap: Steal 1 aember.\"\u000b?While your opponent's red key is\u000b?forged, The Red Baron gains elusive."
         },
         {
+          "id": "timequake",
+          "name": "Timequake",
+          "number": "A09",
+          "image": "",
+          "expansion": null,
+          "house": "dis",
+          "keywords": [],
+          "traits": [],
+          "type": "action",
+          "rarity": "fixed",
+          "amber": 1,
+          "armor": null,
+          "power": null,
+          "text": "Play: Shuffle each friendly card in play ​into your deck. Draw a card for each ​card shuffled into your deck this way."
+        },
+        {
           "id": "valoocanth",
           "name": "Valoocanth",
           "number": "A10",
@@ -4805,5 +4853,5 @@
           "power": 6,
           "text": "While the tide is low, Valoocanth cannot be used.\u000b?Fight/Reap: Exhaust an enemy creature\u000b?and each of its neighbors."
         }
-       ]
+    ]
 }
