@@ -136,10 +136,6 @@ class KeyforgeApiToKeytekiConverter {
                 continue;
             }
 
-//            if(!response._linked) {
-                console.info(response.data.length);
-  //          }
-
             for(let card of response._linked.cards) {
                 if(!pack.ids.includes('' + card.expansion) || cards[card.card_number] || card.is_maverick) {
                     continue;
