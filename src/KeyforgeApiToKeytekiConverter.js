@@ -130,7 +130,7 @@ class KeyforgeApiToKeytekiConverter {
                         number: card.card_number,
                         image: card.front_image,
                         expansion: card.expansion,
-                        house: card.house.toLowerCase(),
+                        house: card.house.toLowerCase().replace(' ', ''),
                         keywords: this.parseKeywords(card.card_text),
                         traits: !card.traits ? [] : card.traits.split(' • ').map(trait => trait.toLowerCase()),
                         type: card.card_type.toLowerCase(),
