@@ -9272,7 +9272,7 @@
             "number": "A01",
             "image": "https://cdn.keyforgegame.com/media/card_front/en/453_A01_P4PRV3X4WJ6M_en.png",
             "expansion": 453,
-            "house": "saurian",
+            "house": "brobnar",
             "keywords": [],
             "traits": [],
             "type": "upgrade",
@@ -9293,7 +9293,7 @@
             "number": "A02",
             "image": "https://cdn.keyforgegame.com/media/card_front/en/453_A02_C3786V7C8WF6_en.png",
             "expansion": 453,
-            "house": "saurian",
+            "house": "brobnar",
             "keywords": [
                 "elusive"
             ],
@@ -9319,7 +9319,7 @@
             "number": "A03",
             "image": "https://cdn.keyforgegame.com/media/card_front/en/453_A03_4X22XPH8FHP7_en.png",
             "expansion": 453,
-            "house": "shadows",
+            "house": "brobnar",
             "keywords": [],
             "traits": [],
             "type": "action",
@@ -9340,7 +9340,7 @@
             "number": "A04",
             "image": "https://cdn.keyforgegame.com/media/card_front/en/453_A04_R6G4JX6X4XXP_en.png",
             "expansion": 453,
-            "house": "saurian",
+            "house": "brobnar",
             "keywords": [],
             "traits": [
                 "location"
@@ -9363,7 +9363,7 @@
             "number": "A05",
             "image": "https://cdn.keyforgegame.com/media/card_front/en/453_A05_W4V8F943V985_en.png",
             "expansion": 453,
-            "house": "untamed",
+            "house": "brobnar",
             "keywords": [],
             "traits": [
                 "dragon",
@@ -9387,7 +9387,7 @@
             "number": "A06",
             "image": "https://cdn.keyforgegame.com/media/card_front/en/453_A06_MHX5X4X47GG6_en.png",
             "expansion": 453,
-            "house": "saurian",
+            "house": "brobnar",
             "keywords": [],
             "traits": [
                 "item"
@@ -9410,7 +9410,7 @@
             "number": "A07",
             "image": "https://cdn.keyforgegame.com/media/card_front/en/453_A07_7CPMJ6WMGP9J_en.png",
             "expansion": 453,
-            "house": "untamed",
+            "house": "brobnar",
             "keywords": [],
             "traits": [
                 "robot",
@@ -9434,7 +9434,7 @@
             "number": "A08",
             "image": "https://cdn.keyforgegame.com/media/card_front/en/453_A08_JMH4JXJMC9FH_en.png",
             "expansion": 453,
-            "house": "dis",
+            "house": "brobnar",
             "keywords": [],
             "traits": [
                 "cyborg",
@@ -9453,12 +9453,33 @@
             }
         },
         {
+            "id": "timequake",
+            "name": "Timequake",
+            "number": "A09",
+            "image": "https://cdn.keyforgegame.com/media/card_front/en/453_A09_Q8J656PX2X6M_en.png",
+            "expansion": 453,
+            "house": "brobnar",
+            "keywords": [],
+            "traits": [],
+            "type": "action",
+            "rarity": "FIXED",
+            "amber": 1,
+            "armor": null,
+            "power": null,
+            "text": "Play: Shuffle each friendly card in play into your deck. Draw a card for each card shuffled into your deck this way.\r",
+            "locale": {
+                "en": {
+                    "name": "Timequake"
+                }
+            }
+        },
+        {
             "id": "valoocanth",
             "name": "Valoocanth",
             "number": "A10",
             "image": "https://cdn.keyforgegame.com/media/card_front/en/453_A10_HQJFQP6894H_en.png",
             "expansion": 453,
-            "house": "saurian",
+            "house": "brobnar",
             "keywords": [],
             "traits": [
                 "aquan"

@@ -141,9 +141,14 @@ class KeyforgeApiToKeytekiConverter {
                     continue;
                 }
 
+                // Fix the house of an anomaly to brobnar so that we can test them until they get a real house
+                if(card.is_anomaly) {
+                    card.house = 'brobnar';
+                }
+
                 let newCard = null;
 
-                if (language === 'en')  {
+                if(language === 'en') {
                     newCard = {
                         id: card.card_title.toLowerCase().replace(/[?.!",“”]/gi, '').replace(/[ '’]/gi, '-'),
                         name: card.card_title,
@@ -169,7 +174,7 @@ class KeyforgeApiToKeytekiConverter {
                     // Append locale information
                     newCard = packCardMap[card.card_number];
 
-                    if (!newCard.locale) {
+                    if(!newCard.locale) {
                         // Just a safe check, but since 'en' is supposed to be loaded first, locale
                         // will already exist
                         newCard.locale = [];
@@ -183,9 +188,9 @@ class KeyforgeApiToKeytekiConverter {
 
                 // Sort locale by key
                 newCard.locale = Object.keys(newCard.locale).sort().reduce((newLocale, currentValue) => {
-                      newLocale[currentValue] = newCard.locale[currentValue];
-                      return newLocale;
-                    }, {});
+                    newLocale[currentValue] = newCard.locale[currentValue];
+                    return newLocale;
+                }, {});
 
                 cards[card.card_number] = newCard;
             }
