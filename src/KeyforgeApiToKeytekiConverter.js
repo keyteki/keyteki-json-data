@@ -26,7 +26,10 @@ function httpRequest(url, options = {}) {
 
             if(res.statusCode !== 200) {
                 let err = new Error('Request failed');
-                err.statusCode = res.statusCode;
+                if(res) {
+                    err.statusCode = res.statusCode;
+                    err.res = res;
+                }
 
                 return reject(err);
             }
@@ -42,14 +45,19 @@ function sleep(ms) {
 
 class KeyforgeApiToKeytekiConverter {
     async convert({ pathToPackFile, language, cyclePrefix }) {
-
         console.log('Loading ' + language + ' cards...');
 
         let pack = JSON.parse(fs.readFileSync(pathToPackFile));
 
         this.cyclePrefix = cyclePrefix;
 
-        let cards = await this.getCards(pack, language);
+        let cards;
+        try {
+            cards = await this.getCards(pack, language);
+        } catch(err) {
+            console.info(err);
+            return;
+        }
 
         cards.sort((a, b) => a.number < b.number ? -1 : 1);
 
@@ -65,8 +73,8 @@ class KeyforgeApiToKeytekiConverter {
     }
 
     async getCards(pack, language) {
-        const pageSize = 50;
-        const apiUrl = 'https://www.keyforgegame.com/api/decks/';
+        const pageSize = 25;
+        const apiUrl = 'https://www.keyforgegame.com/api/decks';
 
         console.info('Fetching the deck list...');
 
@@ -79,12 +87,17 @@ class KeyforgeApiToKeytekiConverter {
         let cards = {};
         let pageErrors = [];
 
-        try {
-            response = await httpRequest(apiUrl, { json: true, headers: { 'Accept-Language': language } });
-        } catch(err) {
-            console.info(err);
+        let responseReceived = false;
 
-            return;
+        while(!responseReceived) {
+            try {
+                response = await httpRequest(`${apiUrl}/?expansion=${pack.ids[0]}`, { json: true, headers: { 'Accept-Language': language } });
+                responseReceived = true;
+            } catch(err) {
+                console.info(err);
+
+                return;
+            }
         }
 
         let deckCount = response.count;
@@ -94,18 +107,26 @@ class KeyforgeApiToKeytekiConverter {
 
         for(let i = 1; i < totalPages; i++) {
             try {
-                response = await httpRequest(`${apiUrl}/?page=${i}&links=cards&page_size=${pageSize}&ordering=-date`, { json: true, headers: { 'Accept-Language': language } });
+                response = await httpRequest(`${apiUrl}/?page=${i}&links=cards&page_size=${pageSize}&expansion=${pack.ids[0]}&ordering=-date`, { json: true, headers: { 'Accept-Language': language } });
             } catch(err) {
-                if(err.statusCode === 429) {
-                    await sleep(100);
+                let res = err.res;
+
+                if(res && res.statusCode === 429) {
+                    let timeoutMatch = res.body.detail.match(/.*(\d+).*/);
+                    let timeout = timeoutMatch[1];
+
+                    console.info(`API calls being throttled, sleeping for ${timeout} seconds`);
+
+                    await sleep(timeout * 1000);
+
                     i--;
                     continue;
+                } else {
+                    pageErrors.push(i);
+
+                    console.info(`Page ${i} failed, will try it later`);
+                    continue;
                 }
-
-                pageErrors.push(i);
-
-                console.info(`Page ${i} failed, will try it later`);
-                continue;
             }
 
             if(!response) {
@@ -115,15 +136,18 @@ class KeyforgeApiToKeytekiConverter {
                 continue;
             }
 
+//            if(!response._linked) {
+                console.info(response.data.length);
+  //          }
+
             for(let card of response._linked.cards) {
-                if(card.expansion != pack.id || cards[card.card_number] || card.is_maverick) {
+                if(!pack.ids.includes('' + card.expansion) || cards[card.card_number] || card.is_maverick) {
                     continue;
                 }
 
                 let newCard = null;
 
                 if (language === 'en')  {
-
                     newCard = {
                         id: card.card_title.toLowerCase().replace(/[?.!",“”]/gi, '').replace(/[ '’]/gi, '-'),
                         name: card.card_title,

@@ -1,8 +1,11 @@
 {
-    "id": "452",
+    "ids": [
+        "452",
+        "453"
+    ],
     "code": "WC",
     "name": "Worlds Collide",
-    "cardCount": "405",
+    "cardCount": "415",
     "releaseDate": "2019-11-30",
     "cards": [
         {
@@ -9260,6 +9263,215 @@
             "locale": {
                 "en": {
                     "name": "Toad"
+                }
+            }
+        },
+        {
+            "id": "ghostform",
+            "name": "Ghostform",
+            "number": "A01",
+            "image": "https://cdn.keyforgegame.com/media/card_front/en/453_A01_P4PRV3X4WJ6M_en.png",
+            "expansion": 453,
+            "house": "saurian",
+            "keywords": [],
+            "traits": [],
+            "type": "upgrade",
+            "rarity": "FIXED",
+            "amber": 1,
+            "armor": null,
+            "power": null,
+            "text": "This creature gains invulnerable. (It cannot be destroyed or dealt damage.)\rThis creature gains, “Fight/Reap: Archive Ghostform.”",
+            "locale": {
+                "en": {
+                    "name": "Ghostform"
+                }
+            }
+        },
+        {
+            "id": "infomancer",
+            "name": "Infomancer",
+            "number": "A02",
+            "image": "https://cdn.keyforgegame.com/media/card_front/en/453_A02_C3786V7C8WF6_en.png",
+            "expansion": 453,
+            "house": "saurian",
+            "keywords": [
+                "elusive"
+            ],
+            "traits": [
+                "human",
+                "cyborg"
+            ],
+            "type": "creature",
+            "rarity": "FIXED",
+            "amber": 0,
+            "armor": null,
+            "power": 3,
+            "text": "Elusive.\rPlay: Graft an action card from your hand onto Infomancer. (Place it faceup under this card.)\rReap: Trigger the play effect of an action card grafted onto Infomancer.",
+            "locale": {
+                "en": {
+                    "name": "Infomancer"
+                }
+            }
+        },
+        {
+            "id": "lateral-shift",
+            "name": "Lateral Shift",
+            "number": "A03",
+            "image": "https://cdn.keyforgegame.com/media/card_front/en/453_A03_4X22XPH8FHP7_en.png",
+            "expansion": 453,
+            "house": "shadows",
+            "keywords": [],
+            "traits": [],
+            "type": "action",
+            "rarity": "FIXED",
+            "amber": 0,
+            "armor": null,
+            "power": null,
+            "text": "Play: Look at your opponent’s hand. Play a card from that hand as if it were yours.\r",
+            "locale": {
+                "en": {
+                    "name": "Lateral Shift"
+                }
+            }
+        },
+        {
+            "id": "memolith",
+            "name": "Memolith",
+            "number": "A04",
+            "image": "https://cdn.keyforgegame.com/media/card_front/en/453_A04_R6G4JX6X4XXP_en.png",
+            "expansion": 453,
+            "house": "saurian",
+            "keywords": [],
+            "traits": [
+                "location"
+            ],
+            "type": "artifact",
+            "rarity": "FIXED",
+            "amber": 0,
+            "armor": null,
+            "power": null,
+            "text": "Action: Graft an action card from your hand onto Memolith (place it faceup under this card), or trigger the play effect of an action card grafted onto Memolith.",
+            "locale": {
+                "en": {
+                    "name": "Memolith"
+                }
+            }
+        },
+        {
+            "id": "nizak-the-forgotten",
+            "name": "Nizak, The Forgotten",
+            "number": "A05",
+            "image": "https://cdn.keyforgegame.com/media/card_front/en/453_A05_W4V8F943V985_en.png",
+            "expansion": 453,
+            "house": "untamed",
+            "keywords": [],
+            "traits": [
+                "dragon",
+                "psion"
+            ],
+            "type": "creature",
+            "rarity": "FIXED",
+            "amber": 0,
+            "armor": null,
+            "power": 6,
+            "text": "While fighting, Nizak, The Forgotten gains invulnerable. (It cannot be destroyed or dealt damage.)\rAfter an enemy creature is destroyed fighting Nizak, The Forgotten, return that creature to its owner’s hand.",
+            "locale": {
+                "en": {
+                    "name": "Nizak, The Forgotten"
+                }
+            }
+        },
+        {
+            "id": "orb-of-wonder",
+            "name": "Orb of Wonder",
+            "number": "A06",
+            "image": "https://cdn.keyforgegame.com/media/card_front/en/453_A06_MHX5X4X47GG6_en.png",
+            "expansion": 453,
+            "house": "saurian",
+            "keywords": [],
+            "traits": [
+                "item"
+            ],
+            "type": "artifact",
+            "rarity": "FIXED",
+            "amber": 0,
+            "armor": null,
+            "power": null,
+            "text": "Omni: Sacrifice Orb of Wonder. If you do, search your deck for a card and add it to your hand. Then, shuffle your deck.\r",
+            "locale": {
+                "en": {
+                    "name": "Orb of Wonder"
+                }
+            }
+        },
+        {
+            "id": "the-grim-reaper",
+            "name": "The Grim Reaper",
+            "number": "A07",
+            "image": "https://cdn.keyforgegame.com/media/card_front/en/453_A07_7CPMJ6WMGP9J_en.png",
+            "expansion": 453,
+            "house": "untamed",
+            "keywords": [],
+            "traits": [
+                "robot",
+                "specter"
+            ],
+            "type": "creature",
+            "rarity": "FIXED",
+            "amber": 0,
+            "armor": null,
+            "power": 4,
+            "text": "If you are haunted, The Grim Reaper enters play ready. (You are haunted if there are 10 or more cards in your discard pile.)\rReap: Purge an enemy creature and a friendly creature.",
+            "locale": {
+                "en": {
+                    "name": "The Grim Reaper"
+                }
+            }
+        },
+        {
+            "id": "the-red-baron",
+            "name": "The Red Baron",
+            "number": "A08",
+            "image": "https://cdn.keyforgegame.com/media/card_front/en/453_A08_JMH4JXJMC9FH_en.png",
+            "expansion": 453,
+            "house": "dis",
+            "keywords": [],
+            "traits": [
+                "cyborg",
+                "pirate"
+            ],
+            "type": "creature",
+            "rarity": "FIXED",
+            "amber": 0,
+            "armor": 1,
+            "power": 4,
+            "text": "While your red key is forged, The Red Baron gains, “Reap: Steal 1A.” \rWhile your opponent’s red key is forged, The Red Baron gains elusive.",
+            "locale": {
+                "en": {
+                    "name": "The Red Baron"
+                }
+            }
+        },
+        {
+            "id": "valoocanth",
+            "name": "Valoocanth",
+            "number": "A10",
+            "image": "https://cdn.keyforgegame.com/media/card_front/en/453_A10_HQJFQP6894H_en.png",
+            "expansion": 453,
+            "house": "saurian",
+            "keywords": [],
+            "traits": [
+                "aquan"
+            ],
+            "type": "creature",
+            "rarity": "FIXED",
+            "amber": 0,
+            "armor": null,
+            "power": 6,
+            "text": "While the tide is low, Valoocanth cannot be used. (By default, the tide is neither high or low.)\rFight/Reap: Exhaust an enemy creature and each of its neighbors.",
+            "locale": {
+                "en": {
+                    "name": "Valoocanth"
                 }
             }
         }
