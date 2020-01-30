@@ -9,6 +9,56 @@
     "releaseDate": "2020-05-31",
     "cards": [
         {
+            "id": "snarette",
+            "name": "Snarette",
+            "number": "014",
+            "image": "",
+            "expansion": 999,
+            "house": "dis",
+            "keywords": [],
+            "traits": [
+                "mutant"
+            ],
+            "type": "creature",
+            "rarity": "Common",
+            "amber": 0,
+            "armor": null,
+            "power": 4,
+            "text": "At the end of your turn, capture 1<A>.\rAction: Move each <A> from Snarette to the common supply.",
+            "locale": {
+                "de": {
+                    "name": "Snarette"
+                },
+                "en": {
+                    "name": "Snarette"
+                },
+                "es": {
+                    "name": "Snarette"
+                },
+                "fr": {
+                    "name": "Snarette"
+                },
+                "it": {
+                    "name": "Snarette"
+                },
+                "pl": {
+                    "name": "Snarette"
+                },
+                "pt": {
+                    "name": "Snarette"
+                },
+                "th": {
+                    "name": "Snarette"
+                },
+                "zhhans": {
+                    "name": "Snarette"
+                },
+                "zhhant": {
+                    "name": "Snarette"
+                }
+            }
+        },
+        {
             "id": "hystricog",
             "name": "Hystricog",
             "number": "024",
