@@ -1,0 +1,212 @@
+{
+    "ids": [
+        "998",
+        "999"
+    ],
+    "code": "MM",
+    "name": "Mass Mutation",
+    "cardCount": "415",
+    "releaseDate": "2020-05-31",
+    "cards": [
+        {
+            "id": "hystricog",
+            "name": "Hystricog",
+            "number": "024",
+            "image": "",
+            "expansion": 999,
+            "house": "dis",
+            "keywords": [],
+            "traits": [
+                "mutant"
+            ],
+            "type": "creature",
+            "rarity": "Rare",
+            "amber": 0,
+            "armor": null,
+            "power": 4,
+            "text": "Enhance <D> <D> <D>. (These icons have already been added to cards in your deck.)\rAction: Destroy a damaged creature.",
+            "locale": {
+                "de": {
+                    "name": "Hystricog"
+                },
+                "en": {
+                    "name": "Hystricog"
+                },
+                "es": {
+                    "name": "Hystricog"
+                },
+                "fr": {
+                    "name": "Hystricog"
+                },
+                "it": {
+                    "name": "Hystricog"
+                },
+                "pl": {
+                    "name": "Hystricog"
+                },
+                "pt": {
+                    "name": "Hystricog"
+                },
+                "th": {
+                    "name": "Hystricog"
+                },
+                "zhhans": {
+                    "name": "Hystricog"
+                },
+                "zhhant": {
+                    "name": "Hystricog"
+                }
+            }
+        },
+        {
+            "id": "berinon",
+            "name": "Berinon",
+            "number": "146",
+            "image": "",
+            "expansion": 999,
+            "house": "sanctum",
+            "keywords": [],
+            "traits": [
+                "spirit", "knight"
+            ],
+            "type": "creature",
+            "rarity": "uncommon",
+            "amber": 0,
+            "armor": 2,
+            "power": 5,
+            "text": "After a Mutant creature enters play, enrage Berinon.\rReap: Capture 2<A>",
+            "locale": {
+                "de": {
+                    "name": "Berinon"
+                },
+                "en": {
+                    "name": "Berinon"
+                },
+                "es": {
+                    "name": "Berinon"
+                },
+                "fr": {
+                    "name": "Berinon"
+                },
+                "it": {
+                    "name": "Berinon"
+                },
+                "pl": {
+                    "name": "Berinon"
+                },
+                "pt": {
+                    "name": "Berinon"
+                },
+                "th": {
+                    "name": "Berinon"
+                },
+                "zhhans": {
+                    "name": "Berinon"
+                },
+                "zhhant": {
+                    "name": "Berinon"
+                }
+            }
+        },
+        {
+            "id": "deusilius",
+            "name": "Deusilius",
+            "number": "244",
+            "image": "",
+            "expansion": 999,
+            "house": "saurian",
+            "keywords": [],
+            "traits": [
+                "mutant"
+            ],
+            "type": "creature",
+            "rarity": "rare",
+            "amber": 0,
+            "armor": null,
+            "power": 20,
+            "text": "(Play only with the other half of Deusilius.)\rPlay: Capture all of your opponent's <A>.  Deal 5<D> to an enemy creature.\rFight/Reap: Move 1<A> from Deusilius to the common supply.  Deal 2<D> to each enemy creature.",
+            "locale": {
+                "de": {
+                    "name": "Deusilius"
+                },
+                "en": {
+                    "name": "Deusilius"
+                },
+                "es": {
+                    "name": "Deusilius"
+                },
+                "fr": {
+                    "name": "Deusilius"
+                },
+                "it": {
+                    "name": "Deusilius"
+                },
+                "pl": {
+                    "name": "Deusilius"
+                },
+                "pt": {
+                    "name": "Deusilius"
+                },
+                "th": {
+                    "name": "Deusilius"
+                },
+                "zhhans": {
+                    "name": "Deusilius"
+                },
+                "zhhant": {
+                    "name": "Deusilius"
+                }
+            }
+        },
+        {
+            "id": "rad-penny",
+            "name": "Rad Penny",
+            "number": "255",
+            "image": "",
+            "expansion": 999,
+            "house": "shadows",
+            "keywords": [],
+            "traits": [
+                "mutant", "thief"
+            ],
+            "type": "creature",
+            "rarity": "Common",
+            "amber": 0,
+            "armor": null,
+            "power": 1,
+            "text": "Play: Steal 1<A>.\rDestroyed: Shuffle Rad Penny into your deck.",
+            "locale": {
+                "de": {
+                    "name": "Rad Penny"
+                },
+                "en": {
+                    "name": "Rad Penny"
+                },
+                "es": {
+                    "name": "Rad Penny"
+                },
+                "fr": {
+                    "name": "Rad Penny"
+                },
+                "it": {
+                    "name": "Rad Penny"
+                },
+                "pl": {
+                    "name": "Rad Penny"
+                },
+                "pt": {
+                    "name": "Rad Penny"
+                },
+                "th": {
+                    "name": "Rad Penny"
+                },
+                "zhhans": {
+                    "name": "Rad Penny"
+                },
+                "zhhant": {
+                    "name": "Rad Penny"
+                }
+            }
+        }
+    ]
+}
