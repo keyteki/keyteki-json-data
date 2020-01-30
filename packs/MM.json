@@ -1,0 +1,611 @@
+{
+    "ids": [
+        "998",
+        "999"
+    ],
+    "code": "MM",
+    "name": "Mass Mutation",
+    "cardCount": "415",
+    "releaseDate": "2020-05-31",
+    "cards": [
+        {
+            "id": "snarette",
+            "name": "Snarette",
+            "number": "014",
+            "image": "",
+            "expansion": 999,
+            "house": "dis",
+            "keywords": [],
+            "traits": [
+                "mutant"
+            ],
+            "type": "creature",
+            "rarity": "Common",
+            "amber": 0,
+            "armor": null,
+            "power": 4,
+            "text": "At the end of your turn, capture 1<A>.\rAction: Move each <A> from Snarette to the common supply.",
+            "locale": {
+                "de": {
+                    "name": "Snarette"
+                },
+                "en": {
+                    "name": "Snarette"
+                },
+                "es": {
+                    "name": "Snarette"
+                },
+                "fr": {
+                    "name": "Snarette"
+                },
+                "it": {
+                    "name": "Snarette"
+                },
+                "pl": {
+                    "name": "Snarette"
+                },
+                "pt": {
+                    "name": "Snarette"
+                },
+                "th": {
+                    "name": "Snarette"
+                },
+                "zhhans": {
+                    "name": "Snarette"
+                },
+                "zhhant": {
+                    "name": "Snarette"
+                }
+            }
+        },
+        {
+            "id": "hystricog",
+            "name": "Hystricog",
+            "number": "024",
+            "image": "",
+            "expansion": 999,
+            "house": "dis",
+            "keywords": [],
+            "traits": [
+                "mutant"
+            ],
+            "type": "creature",
+            "rarity": "Rare",
+            "amber": 0,
+            "armor": null,
+            "power": 4,
+            "text": "Enhance <D> <D> <D>. (These icons have already been added to cards in your deck.)\rAction: Destroy a damaged creature.",
+            "locale": {
+                "de": {
+                    "name": "Hystricog"
+                },
+                "en": {
+                    "name": "Hystricog"
+                },
+                "es": {
+                    "name": "Hystricog"
+                },
+                "fr": {
+                    "name": "Hystricog"
+                },
+                "it": {
+                    "name": "Hystricog"
+                },
+                "pl": {
+                    "name": "Hystricog"
+                },
+                "pt": {
+                    "name": "Hystricog"
+                },
+                "th": {
+                    "name": "Hystricog"
+                },
+                "zhhans": {
+                    "name": "Hystricog"
+                },
+                "zhhant": {
+                    "name": "Hystricog"
+                }
+            }
+        },
+        {
+            "id": "dino-bot",
+            "name": "Dino-bot",
+            "number": "119",
+            "image": "",
+            "expansion": 999,
+            "house": "logos",
+            "keywords": [],
+            "traits": [
+                "mutant", "scientist"
+            ],
+            "type": "creature",
+            "rarity": "special",
+            "amber": 0,
+            "armor": null,
+            "power": 5,
+            "text": "Play: You may exalt Dino-Bot.  If you do, deal 3<D> to a creature.\rReap: Discard a card from your hand.  If you do, draw a card.",
+            "locale": {
+                "de": {
+                    "name": "Dino-bot"
+                },
+                "en": {
+                    "name": "Dino-bot"
+                },
+                "es": {
+                    "name": "Dino-bot"
+                },
+                "fr": {
+                    "name": "Dino-bot"
+                },
+                "it": {
+                    "name": "Dino-bot"
+                },
+                "pl": {
+                    "name": "Dino-bot"
+                },
+                "pt": {
+                    "name": "Dino-bot"
+                },
+                "th": {
+                    "name": "Dino-bot"
+                },
+                "zhhans": {
+                    "name": "Dino-bot"
+                },
+                "zhhant": {
+                    "name": "Dino-bot"
+                }
+            }
+        },
+        {
+            "id": "lyco-bot",
+            "name": "Lyco-bot",
+            "number": "120",
+            "image": "",
+            "expansion": 999,
+            "house": "logos",
+            "keywords": ["skirmish"],
+            "traits": [
+                "mutant", "scientist"
+            ],
+            "type": "creature",
+            "rarity": "special",
+            "amber": 0,
+            "armor": null,
+            "power": 4,
+            "text": "Reap: Discard a card from your hand.  If you do, draw a card.",
+            "locale": {
+                "de": {
+                    "name": "Lyco-bot"
+                },
+                "en": {
+                    "name": "Lyco-bot"
+                },
+                "es": {
+                    "name": "Lyco-bot"
+                },
+                "fr": {
+                    "name": "Lyco-bot"
+                },
+                "it": {
+                    "name": "Lyco-bot"
+                },
+                "pl": {
+                    "name": "Lyco-bot"
+                },
+                "pt": {
+                    "name": "Lyco-bot"
+                },
+                "th": {
+                    "name": "Lyco-bot"
+                },
+                "zhhans": {
+                    "name": "Lyco-bot"
+                },
+                "zhhant": {
+                    "name": "Lyco-bot"
+                }
+            }
+        },
+        {
+            "id": "umbra-bot",
+            "name": "Umbra-bot",
+            "number": "123",
+            "image": "",
+            "expansion": 999,
+            "house": "logos",
+            "keywords": ["elusive"],
+            "traits": [
+                "mutant", "scientist"
+            ],
+            "type": "creature",
+            "rarity": "special",
+            "amber": 0,
+            "armor": null,
+            "power": 3,
+            "text": "Reap: Discard a card from your hand.  If you do, draw a card.",
+            "locale": {
+                "de": {
+                    "name": "Umbra-bot"
+                },
+                "en": {
+                    "name": "Umbra-bot"
+                },
+                "es": {
+                    "name": "Umbra-bot"
+                },
+                "fr": {
+                    "name": "Umbra-bot"
+                },
+                "it": {
+                    "name": "Umbra-bot"
+                },
+                "pl": {
+                    "name": "Umbra-bot"
+                },
+                "pt": {
+                    "name": "Umbra-bot"
+                },
+                "th": {
+                    "name": "Umbra-bot"
+                },
+                "zhhans": {
+                    "name": "Umbra-bot"
+                },
+                "zhhant": {
+                    "name": "Umbra-bot"
+                }
+            }
+        },
+        {
+            "id": "ardent-hero",
+            "name": "Ardent Hero",
+            "number": "126",
+            "image": "",
+            "expansion": 999,
+            "house": "sanctum",
+            "keywords": ["taunt"],
+            "traits": [
+                "human", "knight"
+            ],
+            "type": "creature",
+            "rarity": "common",
+            "amber": 0,
+            "armor": null,
+            "power": 4,
+            "text": "Ardent Hero cannot be dealt damage by Mutant creatures or creatures with power 5 or higher.",
+            "locale": {
+                "de": {
+                    "name": "Ardent Hero"
+                },
+                "en": {
+                    "name": "Ardent Hero"
+                },
+                "es": {
+                    "name": "Ardent Hero"
+                },
+                "fr": {
+                    "name": "Ardent Hero"
+                },
+                "it": {
+                    "name": "Ardent Hero"
+                },
+                "pl": {
+                    "name": "Ardent Hero"
+                },
+                "pt": {
+                    "name": "Ardent Hero"
+                },
+                "th": {
+                    "name": "Ardent Hero"
+                },
+                "zhhans": {
+                    "name": "Ardent Hero"
+                },
+                "zhhant": {
+                    "name": "Ardent Hero"
+                }
+            }
+        },
+        {
+            "id": "bull-wark",
+            "name": "Bull-wark",
+            "number": "127",
+            "image": "",
+            "expansion": 999,
+            "house": "sanctum",
+            "keywords": ["assault:2"],
+            "traits": [
+                "mutant", "knight"
+            ],
+            "type": "creature",
+            "rarity": "uncommon",
+            "amber": 0,
+            "armor": 1,
+            "power": 4,
+            "text": "Each of Bull-wark's neighbors gains assault 2.",
+            "locale": {
+                "de": {
+                    "name": "Bull-wark"
+                },
+                "en": {
+                    "name": "Bull-wark"
+                },
+                "es": {
+                    "name": "Bull-wark"
+                },
+                "fr": {
+                    "name": "Bull-wark"
+                },
+                "it": {
+                    "name": "Bull-wark"
+                },
+                "pl": {
+                    "name": "Bull-wark"
+                },
+                "pt": {
+                    "name": "Bull-wark"
+                },
+                "th": {
+                    "name": "Bull-wark"
+                },
+                "zhhans": {
+                    "name": "Bull-wark"
+                },
+                "zhhant": {
+                    "name": "Bull-wark"
+                }
+            }
+        },
+        {
+            "id": "berinon",
+            "name": "Berinon",
+            "number": "146",
+            "image": "",
+            "expansion": 999,
+            "house": "sanctum",
+            "keywords": [],
+            "traits": [
+                "spirit", "knight"
+            ],
+            "type": "creature",
+            "rarity": "uncommon",
+            "amber": 0,
+            "armor": 2,
+            "power": 5,
+            "text": "After a Mutant creature enters play, enrage Berinon.\rReap: Capture 2<A>",
+            "locale": {
+                "de": {
+                    "name": "Berinon"
+                },
+                "en": {
+                    "name": "Berinon"
+                },
+                "es": {
+                    "name": "Berinon"
+                },
+                "fr": {
+                    "name": "Berinon"
+                },
+                "it": {
+                    "name": "Berinon"
+                },
+                "pl": {
+                    "name": "Berinon"
+                },
+                "pt": {
+                    "name": "Berinon"
+                },
+                "th": {
+                    "name": "Berinon"
+                },
+                "zhhans": {
+                    "name": "Berinon"
+                },
+                "zhhant": {
+                    "name": "Berinon"
+                }
+            }
+        },
+        {
+            "id": "gizelhart-s-wrath",
+            "name": "Gizelhart's Wrath",
+            "number": "163",
+            "image": "",
+            "expansion": 999,
+            "house": "sanctum",
+            "keywords": [],
+            "traits": [
+            ],
+            "type": "action",
+            "rarity": "rare",
+            "amber": 1,
+            "armor": null,
+            "power": 0,
+            "text": "Play: Destroy each Mutant creature.",
+            "locale": {
+                "de": {
+                    "name": "Gizelhart's Wrath"
+                },
+                "en": {
+                    "name": "Gizelhart's Wrath"
+                },
+                "es": {
+                    "name": "Gizelhart's Wrath"
+                },
+                "fr": {
+                    "name": "Gizelhart's Wrath"
+                },
+                "it": {
+                    "name": "Gizelhart's Wrath"
+                },
+                "pl": {
+                    "name": "Gizelhart's Wrath"
+                },
+                "pt": {
+                    "name": "Gizelhart's Wrath"
+                },
+                "th": {
+                    "name": "Gizelhart's Wrath"
+                },
+                "zhhans": {
+                    "name": "Gizelhart's Wrath"
+                },
+                "zhhant": {
+                    "name": "Gizelhart's Wrath"
+                }
+            }
+        },
+        {
+            "id": "deusilius",
+            "name": "Deusilius",
+            "number": "244",
+            "image": "",
+            "expansion": 999,
+            "house": "saurian",
+            "keywords": [],
+            "traits": [
+                "mutant"
+            ],
+            "type": "creature",
+            "rarity": "rare",
+            "amber": 0,
+            "armor": null,
+            "power": 20,
+            "text": "(Play only with the other half of Deusilius.)\rPlay: Capture all of your opponent's <A>.  Deal 5<D> to an enemy creature.\rFight/Reap: Move 1<A> from Deusilius to the common supply.  Deal 2<D> to each enemy creature.",
+            "locale": {
+                "de": {
+                    "name": "Deusilius"
+                },
+                "en": {
+                    "name": "Deusilius"
+                },
+                "es": {
+                    "name": "Deusilius"
+                },
+                "fr": {
+                    "name": "Deusilius"
+                },
+                "it": {
+                    "name": "Deusilius"
+                },
+                "pl": {
+                    "name": "Deusilius"
+                },
+                "pt": {
+                    "name": "Deusilius"
+                },
+                "th": {
+                    "name": "Deusilius"
+                },
+                "zhhans": {
+                    "name": "Deusilius"
+                },
+                "zhhant": {
+                    "name": "Deusilius"
+                }
+            }
+        },
+        {
+            "id": "rad-penny",
+            "name": "Rad Penny",
+            "number": "255",
+            "image": "",
+            "expansion": 999,
+            "house": "shadows",
+            "keywords": [],
+            "traits": [
+                "mutant", "thief"
+            ],
+            "type": "creature",
+            "rarity": "Common",
+            "amber": 0,
+            "armor": null,
+            "power": 1,
+            "text": "Play: Steal 1<A>.\rDestroyed: Shuffle Rad Penny into your deck.",
+            "locale": {
+                "de": {
+                    "name": "Rad Penny"
+                },
+                "en": {
+                    "name": "Rad Penny"
+                },
+                "es": {
+                    "name": "Rad Penny"
+                },
+                "fr": {
+                    "name": "Rad Penny"
+                },
+                "it": {
+                    "name": "Rad Penny"
+                },
+                "pl": {
+                    "name": "Rad Penny"
+                },
+                "pt": {
+                    "name": "Rad Penny"
+                },
+                "th": {
+                    "name": "Rad Penny"
+                },
+                "zhhans": {
+                    "name": "Rad Penny"
+                },
+                "zhhant": {
+                    "name": "Rad Penny"
+                }
+            }
+        },
+        {
+            "id": "armory-officer-nel",
+            "name": "Armory Officer Nel",
+            "number": "319",
+            "image": "",
+            "expansion": 999,
+            "house": "staralliance",
+            "keywords": [],
+            "traits": [
+                "alien"
+            ],
+            "type": "creature",
+            "rarity": "uncommon",
+            "amber": 0,
+            "armor": null,
+            "power": 4,
+            "text": "Enhance\rAfter an upgrade enters play, draw a card.",
+            "locale": {
+                "de": {
+                    "name": "Armory Officer Nel"
+                },
+                "en": {
+                    "name": "Armory Officer Nel"
+                },
+                "es": {
+                    "name": "Armory Officer Nel"
+                },
+                "fr": {
+                    "name": "Armory Officer Nel"
+                },
+                "it": {
+                    "name": "Armory Officer Nel"
+                },
+                "pl": {
+                    "name": "Armory Officer Nel"
+                },
+                "pt": {
+                    "name": "Armory Officer Nel"
+                },
+                "th": {
+                    "name": "Armory Officer Nel"
+                },
+                "zhhans": {
+                    "name": "Armory Officer Nel"
+                },
+                "zhhant": {
+                    "name": "Armory Officer Nel"
+                }
+            }
+        }
+    ]
+}
