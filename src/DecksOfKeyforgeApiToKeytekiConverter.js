@@ -96,6 +96,10 @@ class DecksOfKeyforgeApiToKeytekiConverter {
                 continue;
             }
 
+            if(card.reprint) {
+                continue;
+            }
+
             // Fix the house of an anomaly to brobnar so that we can test them until they get a real house
             if(card.anomaly) {
                 card.house = 'brobnar';

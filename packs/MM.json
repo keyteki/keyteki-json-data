@@ -55,29 +55,6 @@
             }
         },
         {
-            "id": "impspector",
-            "name": "Impspector",
-            "number": "009",
-            "image": "",
-            "expansion": 512,
-            "house": "dis",
-            "keywords": [],
-            "traits": [
-                ""
-            ],
-            "type": "creature",
-            "rarity": "Common",
-            "amber": 0,
-            "armor": 0,
-            "power": null,
-            "text": "",
-            "locale": {
-                "en": {
-                    "name": "Impspector"
-                }
-            }
-        },
-        {
             "id": "sinder",
             "name": "Sinder",
             "number": "013",
@@ -237,29 +214,6 @@
             "locale": {
                 "en": {
                     "name": "Hystricog"
-                }
-            }
-        },
-        {
-            "id": "dance-of-doom",
-            "name": "Dance of Doom",
-            "number": "034",
-            "image": "",
-            "expansion": 512,
-            "house": "dis",
-            "keywords": [],
-            "traits": [
-                ""
-            ],
-            "type": "action",
-            "rarity": "Rare",
-            "amber": 0,
-            "armor": null,
-            "power": null,
-            "text": "Play: Choose a number. Destroy each creature with power equal to that number.",
-            "locale": {
-                "en": {
-                    "name": "Dance of Doom"
                 }
             }
         },
@@ -451,52 +405,6 @@
             "locale": {
                 "en": {
                     "name": "Q-Mechs"
-                }
-            }
-        },
-        {
-            "id": "standardized-testing",
-            "name": "Standardized Testing",
-            "number": "080",
-            "image": "",
-            "expansion": 512,
-            "house": "logos",
-            "keywords": [],
-            "traits": [
-                ""
-            ],
-            "type": "action",
-            "rarity": "Common",
-            "amber": 0,
-            "armor": null,
-            "power": null,
-            "text": "",
-            "locale": {
-                "en": {
-                    "name": "Standardized Testing"
-                }
-            }
-        },
-        {
-            "id": "dimension-door",
-            "name": "Dimension Door",
-            "number": "085",
-            "image": "",
-            "expansion": 512,
-            "house": "logos",
-            "keywords": [],
-            "traits": [
-                ""
-            ],
-            "type": "action",
-            "rarity": "Uncommon",
-            "amber": 0,
-            "armor": null,
-            "power": null,
-            "text": "",
-            "locale": {
-                "en": {
-                    "name": "Dimension Door"
                 }
             }
         },
@@ -721,52 +629,6 @@
             }
         },
         {
-            "id": "champion-anaphiel",
-            "name": "Champion Anaphiel",
-            "number": "129",
-            "image": "",
-            "expansion": 512,
-            "house": "sanctum",
-            "keywords": [],
-            "traits": [
-                ""
-            ],
-            "type": "creature",
-            "rarity": "Common",
-            "amber": 0,
-            "armor": 0,
-            "power": null,
-            "text": "",
-            "locale": {
-                "en": {
-                    "name": "Champion Anaphiel"
-                }
-            }
-        },
-        {
-            "id": "cleansing-wave",
-            "name": "Cleansing Wave",
-            "number": "130",
-            "image": "",
-            "expansion": 512,
-            "house": "sanctum",
-            "keywords": [],
-            "traits": [
-                ""
-            ],
-            "type": "action",
-            "rarity": "Common",
-            "amber": 0,
-            "armor": null,
-            "power": null,
-            "text": "",
-            "locale": {
-                "en": {
-                    "name": "Cleansing Wave"
-                }
-            }
-        },
-        {
             "id": "font-of-the-eye",
             "name": "Font of the Eye",
             "number": "134",
@@ -836,29 +698,6 @@
             }
         },
         {
-            "id": "barrister-joya",
-            "name": "Barrister Joya",
-            "number": "145",
-            "image": "",
-            "expansion": 512,
-            "house": "sanctum",
-            "keywords": [],
-            "traits": [
-                ""
-            ],
-            "type": "action",
-            "rarity": "Common",
-            "amber": 0,
-            "armor": null,
-            "power": null,
-            "text": "",
-            "locale": {
-                "en": {
-                    "name": "Barrister Joya"
-                }
-            }
-        },
-        {
             "id": "berinon",
             "name": "Berinon",
             "number": "146",
@@ -883,29 +722,6 @@
             }
         },
         {
-            "id": "shoulder-armor",
-            "name": "Shoulder Armor",
-            "number": "156",
-            "image": "",
-            "expansion": 512,
-            "house": "sanctum",
-            "keywords": [],
-            "traits": [
-                ""
-            ],
-            "type": "upgrade",
-            "rarity": "Uncommon",
-            "amber": 0,
-            "armor": null,
-            "power": null,
-            "text": "",
-            "locale": {
-                "en": {
-                    "name": "Shoulder Armor"
-                }
-            }
-        },
-        {
             "id": "gizelhart-s-wrath",
             "name": "Gizelhart's Wrath",
             "number": "163",
@@ -925,27 +741,6 @@
             "locale": {
                 "en": {
                     "name": "Gizelhart's Wrath"
-                }
-            }
-        },
-        {
-            "id": "honorable-claim",
-            "name": "Honorable Claim",
-            "number": "164",
-            "image": "",
-            "expansion": 512,
-            "house": "sanctum",
-            "keywords": [],
-            "traits": [],
-            "type": "action",
-            "rarity": "Rare",
-            "amber": 0,
-            "armor": null,
-            "power": null,
-            "text": "Play: Each friendly Knight creature captures 1A.",
-            "locale": {
-                "en": {
-                    "name": "Honorable Claim"
                 }
             }
         },
@@ -1090,29 +885,6 @@
             }
         },
         {
-            "id": "stomp",
-            "name": "Stomp",
-            "number": "213",
-            "image": "",
-            "expansion": 512,
-            "house": "saurian",
-            "keywords": [],
-            "traits": [
-                ""
-            ],
-            "type": "action",
-            "rarity": "Uncommon",
-            "amber": 0,
-            "armor": null,
-            "power": null,
-            "text": "",
-            "locale": {
-                "en": {
-                    "name": "Stomp"
-                }
-            }
-        },
-        {
             "id": "amphora-captura",
             "name": "Amphora Captura",
             "number": "215",
@@ -1253,29 +1025,6 @@
             }
         },
         {
-            "id": "commander-chan",
-            "name": "Commander Chan",
-            "number": "304",
-            "image": "",
-            "expansion": 512,
-            "house": "staralliance",
-            "keywords": [],
-            "traits": [
-                ""
-            ],
-            "type": "creature",
-            "rarity": "Common",
-            "amber": 0,
-            "armor": 0,
-            "power": null,
-            "text": "",
-            "locale": {
-                "en": {
-                    "name": "Commander Chan"
-                }
-            }
-        },
-        {
             "id": "scout-pete",
             "name": "Scout Pete",
             "number": "311",
@@ -1320,29 +1069,6 @@
             "locale": {
                 "en": {
                     "name": "Securi-Droid"
-                }
-            }
-        },
-        {
-            "id": "sensor-chief-garcia",
-            "name": "Sensor Chief Garcia",
-            "number": "313",
-            "image": "",
-            "expansion": 512,
-            "house": "staralliance",
-            "keywords": [],
-            "traits": [
-                ""
-            ],
-            "type": "creature",
-            "rarity": "Common",
-            "amber": 0,
-            "armor": 0,
-            "power": null,
-            "text": "",
-            "locale": {
-                "en": {
-                    "name": "Sensor Chief Garcia"
                 }
             }
         },
@@ -1582,75 +1308,6 @@
             }
         },
         {
-            "id": "quintrino-flux",
-            "name": "Quintrino Flux",
-            "number": "328",
-            "image": "",
-            "expansion": 512,
-            "house": "staralliance",
-            "keywords": [],
-            "traits": [
-                ""
-            ],
-            "type": "action",
-            "rarity": "Uncommon",
-            "amber": 0,
-            "armor": null,
-            "power": 5,
-            "text": "",
-            "locale": {
-                "en": {
-                    "name": "Quintrino Flux"
-                }
-            }
-        },
-        {
-            "id": "stunner",
-            "name": "Stunner",
-            "number": "330",
-            "image": "",
-            "expansion": 512,
-            "house": "staralliance",
-            "keywords": [],
-            "traits": [
-                ""
-            ],
-            "type": "upgrade",
-            "rarity": "Uncommon",
-            "amber": 0,
-            "armor": null,
-            "power": null,
-            "text": "",
-            "locale": {
-                "en": {
-                    "name": "Stunner"
-                }
-            }
-        },
-        {
-            "id": "xenotraining",
-            "name": "Xenotraining",
-            "number": "333",
-            "image": "",
-            "expansion": 512,
-            "house": "staralliance",
-            "keywords": [],
-            "traits": [
-                ""
-            ],
-            "type": "action",
-            "rarity": "Uncommon",
-            "amber": 0,
-            "armor": null,
-            "power": null,
-            "text": "",
-            "locale": {
-                "en": {
-                    "name": "Xenotraining"
-                }
-            }
-        },
-        {
             "id": "ensign-el-samra",
             "name": "Ensign El-Samra",
             "number": "340",
@@ -1716,29 +1373,6 @@
             "locale": {
                 "en": {
                     "name": "Matter Maker"
-                }
-            }
-        },
-        {
-            "id": "quixxle-stone",
-            "name": "Quixxle Stone",
-            "number": "351",
-            "image": "",
-            "expansion": 512,
-            "house": "staralliance",
-            "keywords": [],
-            "traits": [
-                ""
-            ],
-            "type": "artifact",
-            "rarity": "Rare",
-            "amber": 0,
-            "armor": null,
-            "power": null,
-            "text": "",
-            "locale": {
-                "en": {
-                    "name": "Quixxle Stone"
                 }
             }
         },
