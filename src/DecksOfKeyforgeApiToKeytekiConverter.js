@@ -91,12 +91,22 @@ class DecksOfKeyforgeApiToKeytekiConverter {
             }
         }
 
+        let generatedNumber = 900;
+        let generatedNumberCards = {
+        };
         for(let card of response) {
+            if(!card.cardNumber) {
+                generatedNumberCards[card.cardTitle] = generatedNumberCards[card.cardTitle] || ++generatedNumber;
+                card.cardNumber = generatedNumberCards[card.cardTitle];
+            }
+
             if(!pack.ids.includes('' + card.expansion) || cards[card.cardNumber] || card.maverick) {
+                console.log('Ignoring card: ', card.cardTitle, card.expansion, card.cardNumber, card.maverick);
                 continue;
             }
 
             if(card.reprint) {
+                console.log('Ignoring reprinted card: ', card.cardTitle);
                 continue;
             }
 
