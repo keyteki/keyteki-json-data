@@ -32,6 +32,52 @@
             }
         },
         {
+            "id": "dark-minion",
+            "name": "Dark Minion",
+            "number": "004",
+            "image": "spoiler-imgs/512/dark-minion.jpg",
+            "expansion": 512,
+            "house": "dis",
+            "keywords": [],
+            "traits": [
+                "mutant"
+            ],
+            "type": "creature",
+            "rarity": "Common",
+            "amber": 0,
+            "armor": 0,
+            "power": 1,
+            "text": "Enhance D.\nDestroyed: Deal 1D to each enemy creature.",
+            "locale": {
+                "en": {
+                    "name": "Dark Minion"
+                }
+            }
+        },
+        {
+            "id": "imp-losion",
+            "name": "Imp-losion",
+            "number": "008",
+            "image": "spoiler-imgs/512/implosion.jpg",
+            "expansion": 512,
+            "house": "dis",
+            "keywords": [],
+            "traits": [
+                ""
+            ],
+            "type": "action",
+            "rarity": "Common",
+            "amber": 1,
+            "armor": null,
+            "power": null,
+            "text": "Play: Destroy a friendly creature and an enemy creature.",
+            "locale": {
+                "en": {
+                    "name": "Imp-losion"
+                }
+            }
+        },
+        {
             "id": "sinder",
             "name": "Sinder",
             "number": "013",
@@ -126,6 +172,29 @@
             }
         },
         {
+            "id": "break-key",
+            "name": "Break-key",
+            "number": "019",
+            "image": "spoiler-imgs/512/breakkey.jpg",
+            "expansion": 512,
+            "house": "dis",
+            "keywords": [],
+            "traits": [
+                ""
+            ],
+            "type": "action",
+            "rarity": "Uncommon",
+            "amber": 1,
+            "armor": null,
+            "power": null,
+            "text": "Play: If your opponent has forged more keys than you, unforge an opponent's key.  If you unforge an opponent's key this way, your opponent gains 6A.",
+            "locale": {
+                "en": {
+                    "name": "Break-key"
+                }
+            }
+        },
+        {
             "id": "double-doom",
             "name": "Double Doom",
             "number": "020",
@@ -195,6 +264,128 @@
             }
         },
         {
+            "id": "desire",
+            "name": "Desire",
+            "number": "053",
+            "image": "spoiler-imgs/512/desire.jpg",
+            "expansion": 512,
+            "house": "dis",
+            "keywords": [],
+            "traits": [
+                "demon",
+                "sin"
+            ],
+            "type": "creature",
+            "rarity": "FIXED",
+            "amber": 0,
+            "armor": 0,
+            "power": 3,
+            "text": "Keys cost +4A.\nReap: Forge a key at current cost, reduced by 1A for each friendly Sin creature.",
+            "locale": {
+                "en": {
+                    "name": "Desire"
+                }
+            }
+        },
+        {
+            "id": "envy",
+            "name": "Envy",
+            "number": "056",
+            "image": "spoiler-imgs/512/envy.jpg",
+            "expansion": 512,
+            "house": "dis",
+            "keywords": [
+                "elusive"
+            ],
+            "traits": [
+                "demon",
+                "sin"
+            ],
+            "type": "creature",
+            "rarity": "FIXED",
+            "amber": 0,
+            "armor": 0,
+            "power": 3,
+            "text": "Elusive.\nReap: If there are 2 or more friendly Sin creatures, capture all of your opponent's A.",
+            "locale": {
+                "en": {
+                    "name": "Envy"
+                }
+            }
+        },
+        {
+            "id": "pride",
+            "name": "Pride",
+            "number": "060",
+            "image": "spoiler-imgs/512/pride.jpg",
+            "expansion": 512,
+            "house": "dis",
+            "keywords": [],
+            "traits": [
+                "demon",
+                "sin"
+            ],
+            "type": "creature",
+            "rarity": "FIXED",
+            "amber": 0,
+            "armor": 0,
+            "power": 4,
+            "text": "Reap: Ward each friendly Sin creature.",
+            "locale": {
+                "en": {
+                    "name": "Pride"
+                }
+            }
+        },
+        {
+            "id": "sacro-fiend",
+            "name": "Sacro-Fiend",
+            "number": "061",
+            "image": "",
+            "expansion": 512,
+            "house": "dis",
+            "keywords": [],
+            "traits": [
+                "mutant",
+                "demon"
+            ],
+            "type": "creature",
+            "rarity": "Variant",
+            "amber": 0,
+            "armor": 2,
+            "power": 4,
+            "text": "Destroyed: Steal 1A.\n??? (Interpolated.)",
+            "locale": {
+                "en": {
+                    "name": "Sacro-Fiend"
+                }
+            }
+        },
+        {
+            "id": "techno-fiend",
+            "name": "Techno-Fiend",
+            "number": "062",
+            "image": "",
+            "expansion": 512,
+            "house": "dis",
+            "keywords": [],
+            "traits": [
+                "mutant",
+                "demon"
+            ],
+            "type": "creature",
+            "rarity": "Variant",
+            "amber": 0,
+            "armor": 0,
+            "power": 3,
+            "text": "Reap: Discard a card from your hand.  If you do, draw a card.\nDestroyed: Steal 1A.\n??? (Interpolated.)",
+            "locale": {
+                "en": {
+                    "name": "Techno-Fiend"
+                }
+            }
+        },
+        {
             "id": "umbra-fiend",
             "name": "Umbra-Fiend",
             "number": "063",
@@ -217,6 +408,34 @@
             "locale": {
                 "en": {
                     "name": "Umbra-Fiend"
+                }
+            }
+        },
+        {
+            "id": "wrath",
+            "name": "Wrath",
+            "number": "064",
+            "image": "spoiler-imgs/512/wrath.jpg",
+            "expansion": 512,
+            "house": "dis",
+            "keywords": [
+                "taunt",
+                "poison",
+                "skirmish"
+            ],
+            "traits": [
+                "demon",
+                "sin"
+            ],
+            "type": "creature",
+            "rarity": "FIXED",
+            "amber": 0,
+            "armor": 3,
+            "power": 3,
+            "text": "Taunt.  Poison.  Skirmish.\nFight: For each friendly Sin creature, enrage an enemy creature.",
+            "locale": {
+                "en": {
+                    "name": "Wrath"
                 }
             }
         },
@@ -288,6 +507,29 @@
             "locale": {
                 "en": {
                     "name": "Diametric Charge"
+                }
+            }
+        },
+        {
+            "id": "eclectic-inquiry",
+            "name": "Eclectic Inquiry",
+            "number": "071",
+            "image": "spoiler-imgs/512/eclectic-inquiry.jpg",
+            "expansion": 512,
+            "house": "logos",
+            "keywords": [],
+            "traits": [
+                ""
+            ],
+            "type": "action",
+            "rarity": "Common",
+            "amber": 1,
+            "armor": null,
+            "power": null,
+            "text": "Play: Archive the top 2 cards of your deck.",
+            "locale": {
+                "en": {
+                    "name": "Eclectic Inquiry"
                 }
             }
         },
@@ -401,10 +643,33 @@
             "amber": 0,
             "armor": 0,
             "power": 3,
-            "text": "Enhance Draw Draw.\nAfter you resolve a Draw bonus icon, archive a card. ??? (Translated from Polish.)",
+            "text": "Enhance Draw Draw.\n\nAfter you resolve a Draw bonus icon, you may archive a card.",
             "locale": {
                 "en": {
                     "name": "Chronus"
+                }
+            }
+        },
+        {
+            "id": "mutagenic-serum",
+            "name": "Mutagenic Serum",
+            "number": "091",
+            "image": "spoiler-imgs/512/mutagenic-serum.jpg",
+            "expansion": 512,
+            "house": "logos",
+            "keywords": [],
+            "traits": [
+                "item"
+            ],
+            "type": "artifact",
+            "rarity": "Uncommon",
+            "amber": 1,
+            "armor": null,
+            "power": null,
+            "text": "Omni: Destroy Mutagenic Serum. You may use friendly Mutant creatures this turn.",
+            "locale": {
+                "en": {
+                    "name": "Mutagenic Serum"
                 }
             }
         },
@@ -574,6 +839,54 @@
             }
         },
         {
+            "id": "crooked-klaus",
+            "name": "Crooked Klaus???",
+            "number": "121",
+            "image": "spoiler-imgs/512/crooked-klaus.png",
+            "expansion": 512,
+            "house": "logos",
+            "keywords": [],
+            "traits": [
+                "mutant",
+                "scientist"
+            ],
+            "type": "creature",
+            "rarity": "Variant",
+            "amber": 0,
+            "armor": 0,
+            "power": 5,
+            "text": "Action: If your opponent has an odd amount of A, steal 1A. ??? (Translated from German.)",
+            "locale": {
+                "en": {
+                    "name": "Crooked Klaus???"
+                }
+            }
+        },
+        {
+            "id": "sacro-bot",
+            "name": "Sacro-Bot",
+            "number": "122",
+            "image": "",
+            "expansion": 512,
+            "house": "logos",
+            "keywords": [],
+            "traits": [
+                "mutant",
+                "scientist"
+            ],
+            "type": "creature",
+            "rarity": "Variant",
+            "amber": 0,
+            "armor": 2,
+            "power": 5,
+            "text": "Reap: Discard a card from your hand.  If you do, draw a card.\n??? (Interpolated.)",
+            "locale": {
+                "en": {
+                    "name": "Sacro-Bot"
+                }
+            }
+        },
+        {
             "id": "umbra-bot",
             "name": "Umbra-Bot",
             "number": "123",
@@ -652,6 +965,52 @@
             }
         },
         {
+            "id": "commandeer",
+            "name": "Commandeer",
+            "number": "131",
+            "image": "spoiler-imgs/512/commandeer.jpg",
+            "expansion": 512,
+            "house": "sanctum",
+            "keywords": [],
+            "traits": [
+                ""
+            ],
+            "type": "action",
+            "rarity": "Common",
+            "amber": 1,
+            "armor": null,
+            "power": null,
+            "text": "Play: For the remainder of the turn, after you play another card, a friendly creature captures 1A.",
+            "locale": {
+                "en": {
+                    "name": "Commandeer"
+                }
+            }
+        },
+        {
+            "id": "fangs-of-gizelhart",
+            "name": "Fangs of Gizelhart",
+            "number": "133",
+            "image": "spoiler-imgs/512/fangs-of-gizelhart.jpg",
+            "expansion": 512,
+            "house": "sanctum",
+            "keywords": [],
+            "traits": [
+                ""
+            ],
+            "type": "action",
+            "rarity": "Common",
+            "amber": 1,
+            "armor": null,
+            "power": null,
+            "text": "Play: Purge the most powerful creature.",
+            "locale": {
+                "en": {
+                    "name": "Fangs of Gizelhart"
+                }
+            }
+        },
+        {
             "id": "font-of-the-eye",
             "name": "Font of the Eye",
             "number": "134",
@@ -671,6 +1030,54 @@
             "locale": {
                 "en": {
                     "name": "Font of the Eye"
+                }
+            }
+        },
+        {
+            "id": "general-xalvador",
+            "name": "General Xalvador",
+            "number": "135",
+            "image": "spoiler-imgs/512/general-xalvador.jpg",
+            "expansion": 512,
+            "house": "sanctum",
+            "keywords": [],
+            "traits": [
+                "human",
+                "knight"
+            ],
+            "type": "creature",
+            "rarity": "Common",
+            "amber": 0,
+            "armor": 2,
+            "power": 4,
+            "text": "Enhance Capture Capture.",
+            "locale": {
+                "en": {
+                    "name": "General Xalvador"
+                }
+            }
+        },
+        {
+            "id": "gizelhart-s-zealot",
+            "name": "Gizelhart’s Zealot",
+            "number": "136",
+            "image": "spoiler-imgs/512/gizelharts-zealot.jpg",
+            "expansion": 512,
+            "house": "sanctum",
+            "keywords": [],
+            "traits": [
+                "human",
+                "knight"
+            ],
+            "type": "creature",
+            "rarity": "Common",
+            "amber": 0,
+            "armor": 0,
+            "power": 4,
+            "text": "Gizelhart’s Zealot enters play ready and enraged.",
+            "locale": {
+                "en": {
+                    "name": "Gizelhart’s Zealot"
                 }
             }
         },
@@ -745,6 +1152,29 @@
             }
         },
         {
+            "id": "scrivener-favian",
+            "name": "Scrivener Favian",
+            "number": "155",
+            "image": "spoiler-imgs/512/scrivener-favian.jpg",
+            "expansion": 512,
+            "house": "sanctum",
+            "keywords": [],
+            "traits": [
+                "mutant"
+            ],
+            "type": "creature",
+            "rarity": "Uncommon",
+            "amber": 0,
+            "armor": 0,
+            "power": 3,
+            "text": "Enhance Capture Capture.\nWhen you resolve a Capture bonus icon, you may choose to steal 1A instead.",
+            "locale": {
+                "en": {
+                    "name": "Scrivener Favian"
+                }
+            }
+        },
+        {
             "id": "gizelhart-s-wrath",
             "name": "Gizelhart's Wrath",
             "number": "163",
@@ -768,8 +1198,32 @@
             }
         },
         {
-            "id": "ides-of-march",
-            "name": "Ides of March",
+            "id": "mad-prophet-gizelhart",
+            "name": "Mad Prophet Gizelhart",
+            "number": "167",
+            "image": "spoiler-imgs/512/mad-prophet-gizelhart.jpg",
+            "expansion": 512,
+            "house": "sanctum",
+            "keywords": [],
+            "traits": [
+                "leader",
+                "priest"
+            ],
+            "type": "creature",
+            "rarity": "Rare",
+            "amber": 0,
+            "armor": 3,
+            "power": 4,
+            "text": "While Mad Prophet Gizelhart is in the center of your battleline, it gains, \"Action: Fully heal each non-Mutant creature.  Gain 1A for each creature healed this way.\"",
+            "locale": {
+                "en": {
+                    "name": "Mad Prophet Gizelhart"
+                }
+            }
+        },
+        {
+            "id": "beware-the-ides",
+            "name": "Beware the Ides???",
             "number": "184",
             "image": "spoiler-imgs/512/ides-of-march.jpg",
             "expansion": 512,
@@ -786,7 +1240,7 @@
             "text": "Play: Deal 23D to a creature in the center of a battleline. ??? (Translated from Polish.)",
             "locale": {
                 "en": {
-                    "name": "Ides of March"
+                    "name": "Beware the Ides???"
                 }
             }
         },
@@ -838,6 +1292,29 @@
             }
         },
         {
+            "id": "galeatops",
+            "name": "Galeatops",
+            "number": "193",
+            "image": "spoiler-imgs/512/galeatops.jpg",
+            "expansion": 512,
+            "house": "saurian",
+            "keywords": [],
+            "traits": [
+                "beast"
+            ],
+            "type": "creature",
+            "rarity": "Common",
+            "amber": 0,
+            "armor": 0,
+            "power": 12,
+            "text": "Galeatops only deals 4D when fighting.",
+            "locale": {
+                "en": {
+                    "name": "Galeatops"
+                }
+            }
+        },
+        {
             "id": "spoils-of-battle",
             "name": "Spoils of Battle",
             "number": "197",
@@ -880,6 +1357,29 @@
             "locale": {
                 "en": {
                     "name": "Hedonistic Intent"
+                }
+            }
+        },
+        {
+            "id": "humble",
+            "name": "Humble",
+            "number": "208",
+            "image": "spoiler-imgs/512/humble.jpg",
+            "expansion": 512,
+            "house": "saurian",
+            "keywords": [],
+            "traits": [
+                ""
+            ],
+            "type": "action",
+            "rarity": "Uncommon",
+            "amber": 1,
+            "armor": null,
+            "power": null,
+            "text": "Play: Exhaust a creature. If you do, move 3A from that creature to the common supply.",
+            "locale": {
+                "en": {
+                    "name": "Humble"
                 }
             }
         },
@@ -931,6 +1431,79 @@
             }
         },
         {
+            "id": "lyco-saurus",
+            "name": "Lyco-Saurus",
+            "number": "235",
+            "image": "spoiler-imgs/512/lycosaurus.jpg",
+            "expansion": 512,
+            "house": "saurian",
+            "keywords": [
+                "skirmish"
+            ],
+            "traits": [
+                "mutant",
+                "dinosaur"
+            ],
+            "type": "creature",
+            "rarity": "Variant",
+            "amber": 0,
+            "armor": 0,
+            "power": 5,
+            "text": "Skirmish.\nPlay: You may exalt Lyco-Saurus. If you do, deal 3D to a creature.",
+            "locale": {
+                "en": {
+                    "name": "Lyco-Saurus"
+                }
+            }
+        },
+        {
+            "id": "monument-to-primus",
+            "name": "Monument to Primus",
+            "number": "238",
+            "image": "spoiler-imgs/512/monument-to-primus.jpg",
+            "expansion": 512,
+            "house": "saurian",
+            "keywords": [],
+            "traits": [
+                "location"
+            ],
+            "type": "artifact",
+            "rarity": "Variant",
+            "amber": 0,
+            "armor": null,
+            "power": null,
+            "text": "Action: Move 1A from a friendly creature to another creature.  If Consul Primus is in your discard pile, move 1A from a creature to another creature instead.",
+            "locale": {
+                "en": {
+                    "name": "Monument to Primus"
+                }
+            }
+        },
+        {
+            "id": "sacro-saurus",
+            "name": "Sacro-Saurus",
+            "number": "240",
+            "image": "spoiler-imgs/512/sacrosaurus.jpg",
+            "expansion": 512,
+            "house": "saurian",
+            "keywords": [],
+            "traits": [
+                "mutant",
+                "dinosaur"
+            ],
+            "type": "creature",
+            "rarity": "Variant",
+            "amber": 0,
+            "armor": 2,
+            "power": 6,
+            "text": "Play: You may exalt Sacro-Saurus. If you do, deal 3D to a creature.",
+            "locale": {
+                "en": {
+                    "name": "Sacro-Saurus"
+                }
+            }
+        },
+        {
             "id": "techno-saurus",
             "name": "Techno-Saurus",
             "number": "241",
@@ -951,6 +1524,32 @@
             "locale": {
                 "en": {
                     "name": "Techno-Saurus"
+                }
+            }
+        },
+        {
+            "id": "umbra-saurus",
+            "name": "Umbra-Saurus",
+            "number": "242",
+            "image": "",
+            "expansion": 512,
+            "house": "saurian",
+            "keywords": [
+                "elusive"
+            ],
+            "traits": [
+                "mutant",
+                "dinosaur"
+            ],
+            "type": "creature",
+            "rarity": "Variant",
+            "amber": 0,
+            "armor": 0,
+            "power": 4,
+            "text": "Elusive.\nPlay: You may exalt Umbra-Saurus. If you do, deal 3D to a creature.\n??? (Interpolated)",
+            "locale": {
+                "en": {
+                    "name": "Umbra-Saurus"
                 }
             }
         },
@@ -978,6 +1577,52 @@
             }
         },
         {
+            "id": "dark-wave",
+            "name": "Dark Wave",
+            "number": "247",
+            "image": "spoiler-imgs/512/dark-wave.jpg",
+            "expansion": 512,
+            "house": "shadows",
+            "keywords": [],
+            "traits": [
+                ""
+            ],
+            "type": "action",
+            "rarity": "Common",
+            "amber": 1,
+            "armor": null,
+            "power": null,
+            "text": "Play: Deal 2A to each non‑Mutant creature.",
+            "locale": {
+                "en": {
+                    "name": "Dark Wave"
+                }
+            }
+        },
+        {
+            "id": "look-over-there",
+            "name": "Look Over There!",
+            "number": "250",
+            "image": "spoiler-imgs/512/look-over-there.jpg",
+            "expansion": 512,
+            "house": "shadows",
+            "keywords": [],
+            "traits": [
+                ""
+            ],
+            "type": "action",
+            "rarity": "Common",
+            "amber": 0,
+            "armor": null,
+            "power": null,
+            "text": "Play: Deal 2D to a creature. If it is not destroyed, steal 1A.",
+            "locale": {
+                "en": {
+                    "name": "Look Over There!"
+                }
+            }
+        },
+        {
             "id": "rad-penny",
             "name": "Rad Penny",
             "number": "255",
@@ -998,6 +1643,253 @@
             "locale": {
                 "en": {
                     "name": "Rad Penny"
+                }
+            }
+        },
+        {
+            "id": "subtle-otto",
+            "name": "Subtle Otto",
+            "number": "258",
+            "image": "spoiler-imgs/512/subtle-otto.jpg",
+            "expansion": 512,
+            "house": "shadows",
+            "keywords": [],
+            "traits": [
+                "mutant",
+                "thief"
+            ],
+            "type": "creature",
+            "rarity": "Common",
+            "amber": 0,
+            "armor": 0,
+            "power": 1,
+            "text": "Play: Your opponent discards a random card from their hand.",
+            "locale": {
+                "en": {
+                    "name": "Subtle Otto"
+                }
+            }
+        },
+        {
+            "id": "tempting-offer",
+            "name": "Tempting Offer",
+            "number": "259",
+            "image": "spoiler-imgs/512/tempting-offer.jpg",
+            "expansion": 512,
+            "house": "shadows",
+            "keywords": [],
+            "traits": [
+                ""
+            ],
+            "type": "action",
+            "rarity": "Common",
+            "amber": 1,
+            "armor": null,
+            "power": null,
+            "text": "Enhance Capture.\nPlay: Return an enemy creature to its owner’s hand. If you do, your opponent gains 1A.",
+            "locale": {
+                "en": {
+                    "name": "Tempting Offer"
+                }
+            }
+        },
+        {
+            "id": "miasma-bomb",
+            "name": "Miasma Bomb",
+            "number": "269",
+            "image": "spoiler-imgs/512/miasma-bomb.jpg",
+            "expansion": 512,
+            "house": "shadows",
+            "keywords": [],
+            "traits": [
+                "weapon"
+            ],
+            "type": "artifact",
+            "rarity": "Uncommon",
+            "amber": 0,
+            "armor": null,
+            "power": null,
+            "text": "Enhance D.\nAction: Destroy Miasma Bomb. Your opponent skips the “forge a key” step during their next turn.",
+            "locale": {
+                "en": {
+                    "name": "Miasma Bomb"
+                }
+            }
+        },
+        {
+            "id": "reckless-rizzo",
+            "name": "Reckless Rizzo",
+            "number": "273",
+            "image": "spoiler-imgs/512/reckless-rizzo.jpg",
+            "expansion": 512,
+            "house": "shadows",
+            "keywords": [
+                "elusive\naction::steal 2a"
+            ],
+            "traits": [
+                "elf",
+                "thief"
+            ],
+            "type": "creature",
+            "rarity": "Uncommon",
+            "amber": 0,
+            "armor": 0,
+            "power": 1,
+            "text": "Elusive\nAction: Steal 2A. Until the start of your next turn, Reckless Rizzo loses elusive.",
+            "locale": {
+                "en": {
+                    "name": "Reckless Rizzo"
+                }
+            }
+        },
+        {
+            "id": "safe-house",
+            "name": "Safe House",
+            "number": "274",
+            "image": "spoiler-imgs/512/safe-house.jpg",
+            "expansion": 512,
+            "house": "shadows",
+            "keywords": [],
+            "traits": [
+                "location"
+            ],
+            "type": "artifact",
+            "rarity": "Uncommon",
+            "amber": 1,
+            "armor": null,
+            "power": null,
+            "text": "Action: Archive a friendly creature from play.",
+            "locale": {
+                "en": {
+                    "name": "Safe House"
+                }
+            }
+        },
+        {
+            "id": "mole",
+            "name": "Mole",
+            "number": "287",
+            "image": "spoiler-imgs/512/mole.jpg",
+            "expansion": 512,
+            "house": "shadows",
+            "keywords": [],
+            "traits": [
+                ""
+            ],
+            "type": "upgrade",
+            "rarity": "Rare",
+            "amber": 1,
+            "armor": null,
+            "power": null,
+            "text": "This creature gains, \"Your opponent may spend A on this creature as if it were in their pool.\"",
+            "locale": {
+                "en": {
+                    "name": "Mole"
+                }
+            }
+        },
+        {
+            "id": "dino-thief",
+            "name": "Dino-Thief",
+            "number": "297",
+            "image": "",
+            "expansion": 512,
+            "house": "shadows",
+            "keywords": [
+                "elusive"
+            ],
+            "traits": [
+                "mutant",
+                "thief"
+            ],
+            "type": "creature",
+            "rarity": "Variant",
+            "amber": 0,
+            "armor": 0,
+            "power": 4,
+            "text": "Elusive.\nPlay: You may exalt Dino-Thief. If you do, deal 3D to a creature.\n??? (Interpolated)",
+            "locale": {
+                "en": {
+                    "name": "Dino-Thief"
+                }
+            }
+        },
+        {
+            "id": "lyco-thief",
+            "name": "Lyco-Thief",
+            "number": "298",
+            "image": "spoiler-imgs/512/lycothief.jpg",
+            "expansion": 512,
+            "house": "shadows",
+            "keywords": [
+                "elusive",
+                "skirmish"
+            ],
+            "traits": [
+                "mutant",
+                "thief"
+            ],
+            "type": "creature",
+            "rarity": "Variant",
+            "amber": 0,
+            "armor": 0,
+            "power": 3,
+            "text": "Elusive.  Skirmish.",
+            "locale": {
+                "en": {
+                    "name": "Lyco-Thief"
+                }
+            }
+        },
+        {
+            "id": "sacro-thief",
+            "name": "Sacro-Thief",
+            "number": "300",
+            "image": "",
+            "expansion": 512,
+            "house": "shadows",
+            "keywords": [
+                "elusive"
+            ],
+            "traits": [
+                "mutant",
+                "thief"
+            ],
+            "type": "creature",
+            "rarity": "Variant",
+            "amber": 0,
+            "armor": 2,
+            "power": 4,
+            "text": "Elusive.\n??? (Interpolated)",
+            "locale": {
+                "en": {
+                    "name": "Sacro-Thief"
+                }
+            }
+        },
+        {
+            "id": "techno-thief",
+            "name": "Techno-Thief",
+            "number": "301",
+            "image": "",
+            "expansion": 512,
+            "house": "shadows",
+            "keywords": [
+                "elusive"
+            ],
+            "traits": [
+                "mutant",
+                "thief"
+            ],
+            "type": "creature",
+            "rarity": "Variant",
+            "amber": 0,
+            "armor": 0,
+            "power": 3,
+            "text": "Elusive.\nReap: Discard a card from your hand.  If you do, draw a card.\n??? (Interpolated)",
+            "locale": {
+                "en": {
+                    "name": "Techno-Thief"
                 }
             }
         },
@@ -1400,6 +2292,245 @@
             }
         },
         {
+            "id": "floomf",
+            "name": "Floomf",
+            "number": "366",
+            "image": "spoiler-imgs/512/floomf.jpg",
+            "expansion": 512,
+            "house": "untamed",
+            "keywords": [
+                "skirmish"
+            ],
+            "traits": [
+                "beast",
+                "cat"
+            ],
+            "type": "creature",
+            "rarity": "Common",
+            "amber": 0,
+            "armor": 0,
+            "power": 3,
+            "text": "Skirmish.\nFight: Give a Beast creature two +1 power counters.",
+            "locale": {
+                "en": {
+                    "name": "Floomf"
+                }
+            }
+        },
+        {
+            "id": "gloriana-s-attendant",
+            "name": "Gloriana’s Attendant",
+            "number": "368",
+            "image": "spoiler-imgs/512/glorianas-attendant.jpg",
+            "expansion": 512,
+            "house": "untamed",
+            "keywords": [],
+            "traits": [
+                "mutant"
+            ],
+            "type": "creature",
+            "rarity": "Common",
+            "amber": 0,
+            "armor": 0,
+            "power": 1,
+            "text": "Enhance A A.",
+            "locale": {
+                "en": {
+                    "name": "Gloriana’s Attendant"
+                }
+            }
+        },
+        {
+            "id": "keyfrog",
+            "name": "Keyfrog",
+            "number": "369",
+            "image": "spoiler-imgs/512/key-frog.jpg",
+            "expansion": 512,
+            "house": "untamed",
+            "keywords": [],
+            "traits": [
+                "beast"
+            ],
+            "type": "creature",
+            "rarity": "Common",
+            "amber": 0,
+            "armor": 0,
+            "power": 2,
+            "text": "Destroyed:  Forge a key at current cost.",
+            "locale": {
+                "en": {
+                    "name": "Keyfrog"
+                }
+            }
+        },
+        {
+            "id": "reclaimed-by-nature",
+            "name": "Reclaimed by Nature",
+            "number": "374",
+            "image": "spoiler-imgs/512/reclaimed-by-nature.jpg",
+            "expansion": 512,
+            "house": "untamed",
+            "keywords": [],
+            "traits": [
+                ""
+            ],
+            "type": "action",
+            "rarity": "Common",
+            "amber": 1,
+            "armor": null,
+            "power": null,
+            "text": "Play: Purge an artifact. Resolve its bonus icons as if you had played it.",
+            "locale": {
+                "en": {
+                    "name": "Reclaimed by Nature"
+                }
+            }
+        },
+        {
+            "id": "resurgence",
+            "name": "Resurgence",
+            "number": "375",
+            "image": "spoiler-imgs/512/resurgence.jpg",
+            "expansion": 512,
+            "house": "untamed",
+            "keywords": [],
+            "traits": [
+                ""
+            ],
+            "type": "action",
+            "rarity": "Common",
+            "amber": 0,
+            "armor": null,
+            "power": null,
+            "text": "Enhance Draw.\nPlay: Return a creature from your discard pile to your hand. If that creature is a Mutant, return another creature from your discard pile to your hand.",
+            "locale": {
+                "en": {
+                    "name": "Resurgence"
+                }
+            }
+        },
+        {
+            "id": "savage-clash",
+            "name": "Savage Clash",
+            "number": "376",
+            "image": "spoiler-imgs/512/savage-clash.jpg",
+            "expansion": 512,
+            "house": "untamed",
+            "keywords": [],
+            "traits": [
+                ""
+            ],
+            "type": "action",
+            "rarity": "Common",
+            "amber": 0,
+            "armor": null,
+            "power": null,
+            "text": "Play: Destroy each creature except the most powerful enemy creature and the least powerful friendly creature.",
+            "locale": {
+                "en": {
+                    "name": "Savage Clash"
+                }
+            }
+        },
+        {
+            "id": "mushroom-with-a-view",
+            "name": "Mushroom with a View",
+            "number": "386",
+            "image": "spoiler-imgs/512/mushroom-with-a-view.jpg",
+            "expansion": 512,
+            "house": "untamed",
+            "keywords": [],
+            "traits": [
+                "location"
+            ],
+            "type": "artifact",
+            "rarity": "Uncommon",
+            "amber": 1,
+            "armor": null,
+            "power": null,
+            "text": "Omni: Heal 1 damage from each friendly creature.",
+            "locale": {
+                "en": {
+                    "name": "Mushroom with a View"
+                }
+            }
+        },
+        {
+            "id": "wild-bounty",
+            "name": "Wild Bounty",
+            "number": "392",
+            "image": "spoiler-imgs/512/wild-bounty.jpg",
+            "expansion": 512,
+            "house": "untamed",
+            "keywords": [],
+            "traits": [
+                ""
+            ],
+            "type": "action",
+            "rarity": "Uncommon",
+            "amber": 0,
+            "armor": null,
+            "power": null,
+            "text": "Enhance A A.\nPlay: The next time you play a card this turn, resolve each of its bonus icons an additional time.",
+            "locale": {
+                "en": {
+                    "name": "Wild Bounty"
+                }
+            }
+        },
+        {
+            "id": "mercy-malkin-queen",
+            "name": "Mercy, Malkin Queen",
+            "number": "403",
+            "image": "spoiler-imgs/512/mercy-malkin-queen.jpg",
+            "expansion": 512,
+            "house": "untamed",
+            "keywords": [
+                "skirmish"
+            ],
+            "traits": [
+                "human",
+                "witch"
+            ],
+            "type": "creature",
+            "rarity": "Rare",
+            "amber": 0,
+            "armor": 0,
+            "power": 3,
+            "text": "Skirmish.\n\nAfter a friendly Cat creature enters play, ward it.\n\nFight: Ready a friendly Beast creature.",
+            "locale": {
+                "en": {
+                    "name": "Mercy, Malkin Queen"
+                }
+            }
+        },
+        {
+            "id": "sacro-beast",
+            "name": "Sacro-Beast",
+            "number": "418",
+            "image": "",
+            "expansion": 512,
+            "house": "untamed",
+            "keywords": [
+                "skirmish"
+            ],
+            "traits": [
+                "mutant",
+                "beast"
+            ],
+            "type": "creature",
+            "rarity": "Variant",
+            "amber": 0,
+            "armor": 2,
+            "power": 5,
+            "text": "Skirmish.\n??? (Interpolated.)",
+            "locale": {
+                "en": {
+                    "name": "Sacro-Beast"
+                }
+            }
+        },
+        {
             "id": "techno-beast",
             "name": "Techno-Beast",
             "number": "419",
@@ -1422,6 +2553,33 @@
             "locale": {
                 "en": {
                     "name": "Techno-Beast"
+                }
+            }
+        },
+        {
+            "id": "umbra-beast",
+            "name": "Umbra-Beast",
+            "number": "420",
+            "image": "",
+            "expansion": 512,
+            "house": "untamed",
+            "keywords": [
+                "skirmish",
+                "elusive"
+            ],
+            "traits": [
+                "mutant",
+                "beast"
+            ],
+            "type": "creature",
+            "rarity": "Variant",
+            "amber": 0,
+            "armor": 0,
+            "power": 3,
+            "text": "Skirmish. Elusive.\n??? Interpolated",
+            "locale": {
+                "en": {
+                    "name": "Umbra-Beast"
                 }
             }
         },
@@ -1473,33 +2631,9 @@
             }
         },
         {
-            "id": "ivan-the-even",
-            "name": "Ivan the Even???",
-            "number": 903,
-            "image": "spoiler-imgs/512/ivan-the-calm-.png",
-            "expansion": 512,
-            "house": "logos",
-            "keywords": [],
-            "traits": [
-                "mutant",
-                "scientist"
-            ],
-            "type": "creature",
-            "rarity": null,
-            "amber": 0,
-            "armor": 0,
-            "power": 4,
-            "text": "Action:  If your opponent has an even amount of A, steal 1A. ??? (card translated from French and Spanish)",
-            "locale": {
-                "en": {
-                    "name": "Ivan the Even???"
-                }
-            }
-        },
-        {
             "id": "observ-u-max",
             "name": "Observ-u-Max",
-            "number": 904,
+            "number": 902,
             "image": "spoiler-imgs/512/observumax.png",
             "expansion": 512,
             "house": "staralliance",
@@ -1522,7 +2656,7 @@
         {
             "id": "rapid-evolution",
             "name": "Rapid Evolution",
-            "number": 905,
+            "number": 903,
             "image": "spoiler-imgs/512/rapid-evolution.png",
             "expansion": 512,
             "house": "untamed",
@@ -1543,9 +2677,33 @@
             }
         },
         {
+            "id": "ivan-the-even",
+            "name": "Ivan the Even???",
+            "number": 904,
+            "image": "spoiler-imgs/512/ivan-the-calm-.png",
+            "expansion": 512,
+            "house": "logos",
+            "keywords": [],
+            "traits": [
+                "mutant",
+                "scientist"
+            ],
+            "type": "creature",
+            "rarity": "Variant",
+            "amber": 0,
+            "armor": 0,
+            "power": 4,
+            "text": "Action:  If your opponent has an even amount of A, steal 1A. ??? (card translated from French and Spanish)",
+            "locale": {
+                "en": {
+                    "name": "Ivan the Even???"
+                }
+            }
+        },
+        {
             "id": "the-shadowsmith",
             "name": "The Shadowsmith",
-            "number": 906,
+            "number": 905,
             "image": "spoiler-imgs/512/the-shadowsmith.png",
             "expansion": 512,
             "house": "shadows",
@@ -1567,56 +2725,9 @@
             }
         },
         {
-            "id": "lust",
-            "name": "Lust",
-            "number": 908,
-            "image": "spoiler-imgs/512/lust.png",
-            "expansion": 512,
-            "house": "dis",
-            "keywords": [],
-            "traits": [
-                "demon",
-                "sin"
-            ],
-            "type": "creature",
-            "rarity": null,
-            "amber": 0,
-            "armor": 0,
-            "power": 3,
-            "text": "Keys cost +4A.\nReap: Forge a key at current cost, reduced by 1A for every friendly Sin creature??? (Translated from Spanish.)",
-            "locale": {
-                "en": {
-                    "name": "Lust"
-                }
-            }
-        },
-        {
-            "id": "key-frog",
-            "name": "Key Frog",
-            "number": 909,
-            "image": "spoiler-imgs/512/frog-key.png",
-            "expansion": 512,
-            "house": "untamed",
-            "keywords": [],
-            "traits": [
-                "beast"
-            ],
-            "type": "creature",
-            "rarity": null,
-            "amber": 0,
-            "armor": 0,
-            "power": null,
-            "text": "Destroyed:  Forge a key at current cost??? (Translated from Spanish.)",
-            "locale": {
-                "en": {
-                    "name": "Key Frog"
-                }
-            }
-        },
-        {
             "id": "dark-centurion",
             "name": "Dark Centurion",
-            "number": 910,
+            "number": 907,
             "image": "spoiler-imgs/512/dark-centurion.png",
             "expansion": 512,
             "house": "saurian",
@@ -1640,7 +2751,7 @@
         {
             "id": "dino-fiend",
             "name": "Dino-Fiend",
-            "number": 911,
+            "number": 908,
             "image": "",
             "expansion": 512,
             "house": "dis",
@@ -1664,7 +2775,7 @@
         {
             "id": "lyco-fiend",
             "name": "Lyco-Fiend",
-            "number": 912,
+            "number": 909,
             "image": "",
             "expansion": 512,
             "house": "dis",
@@ -1690,7 +2801,7 @@
         {
             "id": "dæmo-saurus",
             "name": "Dæmo-Saurus",
-            "number": 913,
+            "number": 910,
             "image": "",
             "expansion": 512,
             "house": "saurian",
@@ -1712,85 +2823,9 @@
             }
         },
         {
-            "id": "techno-fiend",
-            "name": "Techno-Fiend",
-            "number": 914,
-            "image": "",
-            "expansion": 512,
-            "house": "dis",
-            "keywords": [],
-            "traits": [
-                "mutant",
-                "demon"
-            ],
-            "type": "creature",
-            "rarity": "Variant",
-            "amber": 0,
-            "armor": 0,
-            "power": 3,
-            "text": "Reap: Discard a card from your hand.  If you do, draw a card.\nDestroyed: Steal 1A.\n??? (Interpolated.)",
-            "locale": {
-                "en": {
-                    "name": "Techno-Fiend"
-                }
-            }
-        },
-        {
-            "id": "umbra-saurus",
-            "name": "Umbra-Saurus",
-            "number": 915,
-            "image": "",
-            "expansion": 512,
-            "house": "saurian",
-            "keywords": [
-                "elusive"
-            ],
-            "traits": [
-                "mutant",
-                "dinosaur"
-            ],
-            "type": "creature",
-            "rarity": "Variant",
-            "amber": 0,
-            "armor": 0,
-            "power": 4,
-            "text": "Elusive.\nPlay: You may exalt Umbra-Saurus. If you do, deal 3D to a creature.\n??? (Interpolated)",
-            "locale": {
-                "en": {
-                    "name": "Umbra-Saurus"
-                }
-            }
-        },
-        {
-            "id": "lyco-saurus",
-            "name": "Lyco-Saurus",
-            "number": 916,
-            "image": "",
-            "expansion": 512,
-            "house": "saurian",
-            "keywords": [
-                "skirmish"
-            ],
-            "traits": [
-                "mutant",
-                "dinosaur"
-            ],
-            "type": "creature",
-            "rarity": "Variant",
-            "amber": 0,
-            "armor": 0,
-            "power": 5,
-            "text": "Skirmish.\nPlay: You may exalt Lyco-Saurus. If you do, deal 3D to a creature.\n??? (Interpolated)",
-            "locale": {
-                "en": {
-                    "name": "Lyco-Saurus"
-                }
-            }
-        },
-        {
             "id": "ultra-graviton",
             "name": "Ultra Graviton",
-            "number": 919,
+            "number": 913,
             "image": "spoiler-imgs/512/ultra-graviton.jpg",
             "expansion": 512,
             "house": "logos",
@@ -1813,7 +2848,7 @@
         {
             "id": "dæmo-beast",
             "name": "Dæmo-Beast",
-            "number": 921,
+            "number": 915,
             "image": "",
             "expansion": 512,
             "house": "untamed",
@@ -1839,7 +2874,7 @@
         {
             "id": "dino-beast",
             "name": "Dino-Beast",
-            "number": 922,
+            "number": 916,
             "image": "",
             "expansion": 512,
             "house": "untamed",
@@ -1863,29 +2898,28 @@
             }
         },
         {
-            "id": "umbra-beast",
-            "name": "Umbra-Beast",
-            "number": 923,
+            "id": "dæmo-thief",
+            "name": "Dæmo-Thief",
+            "number": 918,
             "image": "",
             "expansion": 512,
-            "house": "untamed",
+            "house": "shadows",
             "keywords": [
-                "skirmish",
                 "elusive"
             ],
             "traits": [
                 "mutant",
-                "beast"
+                "thief"
             ],
             "type": "creature",
             "rarity": "Variant",
             "amber": 0,
             "armor": 0,
-            "power": 3,
-            "text": "Skirmish. Elusive.\n??? Interpolated",
+            "power": 2,
+            "text": "Elusive.\nDestroyed: Steal 1A.\n??? (Interpolated)",
             "locale": {
                 "en": {
-                    "name": "Umbra-Beast"
+                    "name": "Dæmo-Thief"
                 }
             }
         }
