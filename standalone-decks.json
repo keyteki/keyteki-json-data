@@ -82,6 +82,42 @@
     }, {
         "id": "sacro-saurus",
         "count" : 1
+    }, {
+        "id": "floomf",
+        "count": 1,
+        "enhancements": ["capture"]
+    }, {
+        "id": "floomf",
+        "count": 1
+    }, {
+        "id": "gloriana-s-attendant",
+        "count": 1,
+        "enhancements": ["capture"]
+    }, {
+        "id": "keyfrog",
+        "count": 1
+    }, {
+        "id": "reclaimed-by-nature",
+        "count" : 2
+    }, {
+        "id": "resurgence",
+        "count" : 1
+    }, {
+        "id": "savage-clash",
+        "count" : 1
+    }, {
+        "id": "mushroom-with-a-view",
+        "count" : 1,
+        "enhancements": ["capture", "draw"]
+    }, {
+        "id": "wild-bounty",
+        "count" : 1
+    }, {
+        "id": "mercy-maklin-queen",
+        "count" : 1
+    }, {
+        "id": "word-of-returning",
+        "count" : 1
     }]
 }, {
     "username": "_Standard_",
@@ -97,7 +133,7 @@
     "includeInSealed": false,
     "houses": ["dis", "logos", "shadows"],
     "cards": [{
-        "id": "bonwsaw",
+        "id": "bonesaw",
         "count": 1,
         "enhancements": ["damage"]
     }, {
@@ -139,7 +175,7 @@
         "id": "q-mechs",
         "count": 2
     }, {
-        "id": "standardised-testing",
+        "id": "standardized-testing",
         "count": 2
     }, {
         "id": "chronus",
@@ -213,7 +249,7 @@
         "id": "bot-bookton",
         "count": 1
     }, {
-        "id": "daemo-bot",
+        "id": "dæmo-bot",
         "count": 1
     }, {
         "id": "diametric-charge",
@@ -255,7 +291,7 @@
         "count": 1,
         "enhancements": ["damage"]
     }, {
-        "id": "consul-prmius",
+        "id": "consul-primus",
         "count": 1
     }, {
         "id": "faust-the-great",
@@ -416,6 +452,10 @@
         "count": 1,
         "maverick": "staralliance"
     }, {
+        "id": "access-denied",
+        "count": 1
+    },
+    {
         "id": "commander-chan",
         "count": 1
     }, {
@@ -441,7 +481,7 @@
         "id": "away-team",
         "count": 1
     }, {
-        "id": "magnetic-researcher",
+        "id": "mutagenesis-researcher",
         "count": 1
     }, {
         "id": "ensign-el-samra",
