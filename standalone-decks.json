@@ -1,5 +1,6 @@
 [{
     "username": "_Standard_",
+    "standaloneId": 1,
     "uuid": "",
     "identity": "rapidly-ever-changing-sadao",
     "expansion": 512,
@@ -147,6 +148,7 @@
     }]
 }, {
     "username": "_Standard_",
+    "standaloneId": 2,
     "uuid": "",
     "identity": "cyclonium-chamber-agent",
     "expansion": 512,
@@ -259,6 +261,7 @@
     }]
 }, {
     "username": "_Standard_",
+    "standaloneId": 3,
     "uuid": "",
     "identity": "wu-the-naturalist-of-car-keys",
     "expansion": 512,
@@ -384,6 +387,7 @@
 }, {
     "username": "_Standard_",
     "uuid": "",
+    "standaloneId": 4,
     "identity": "mehitable-host-of-the-hustling-repository",
     "expansion": 512,
     "cardback": "",
