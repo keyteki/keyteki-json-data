@@ -1,7 +1,7 @@
 [{
     "username": "_Standard_",
-    "standaloneId": 1,
-    "uuid": "",
+    "standaloneId": 1,   
+    "uuid": "f5d9a675-f60b-4b47-9f81-41d4a5461dfe",
     "identity": "rapidly-ever-changing-sadao",
     "expansion": 512,
     "cardback": "",
@@ -82,74 +82,11 @@
     }, {
         "id": "sacro-saurus",
         "count" : 1
-    }, {
-        "id": "commandeer",
-        "count": 1
-    }, {
-        "id": "fangs-of-gizelhart",
-        "count": 1
-    }, {
-        "id": "font-of-the-eye",
-        "count": 1
-    }, {
-        "id": "general-xalvador",
-        "count": 1
-    }, {
-        "id": "gizelhart-s-zealot",
-        "count" : 3
-    }, {
-        "id": "gorm-of-omm",
-        "count" : 1
-    }, {
-        "id": "scrivener-favian",
-        "count" : 2
-    }, {
-        "id": "the-spirit-s-way",
-        "count" : 1
-    }, {
-        "id": "mad-prophet-gizelhart",
-        "count" : 1
-    }, {
-        "id": "floomf",
-        "count": 1,
-        "enhancements": ["capture"]
-    }, {
-        "id": "floomf",
-        "count": 1
-    }, {
-        "id": "gloriana-s-attendant",
-        "count": 1,
-        "enhancements": ["capture"]
-    }, {
-        "id": "keyfrog",
-        "count": 1
-    }, {
-        "id": "reclaimed-by-nature",
-        "count": 2
-    }, {
-        "id": "resurgence",
-        "count" : 1
-    }, {
-        "id": "savage-clash",
-        "count" : 1
-    }, {
-        "id": "mushroom-with-a-view",
-        "count" : 1,
-        "enhancements": ["capture", "draw"]
-    }, {
-        "id": "wild-bounty",
-        "count" : 1
-    }, {
-        "id": "mercy-malkin-queen",
-        "count" : 1
-    }, {
-        "id": "word-of-returning",
-        "count" : 1
     }]
 }, {
     "username": "_Standard_",
     "standaloneId": 2,
-    "uuid": "",
+    "uuid": "5880471d-6486-4942-9d1d-e758b4136c90",    
     "identity": "cyclonium-chamber-agent",
     "expansion": 512,
     "cardback": "",
@@ -262,7 +199,7 @@
 }, {
     "username": "_Standard_",
     "standaloneId": 3,
-    "uuid": "",
+    "uuid": "46b37303-d88d-40f3-956b-4e931d779068",  
     "identity": "wu-the-naturalist-of-car-keys",
     "expansion": 512,
     "cardback": "",
@@ -386,7 +323,7 @@
     }]
 }, {
     "username": "_Standard_",
-    "uuid": "",
+    "uuid": "2c793aa2-a679-427b-a2b8-daaf07f77959",
     "standaloneId": 4,
     "identity": "mehitable-host-of-the-hustling-repository",
     "expansion": 512,
