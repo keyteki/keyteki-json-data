@@ -113,7 +113,7 @@
         "id": "wild-bounty",
         "count" : 1
     }, {
-        "id": "mercy-maklin-queen",
+        "id": "mercy-malkin-queen",
         "count" : 1
     }, {
         "id": "word-of-returning",
@@ -287,7 +287,7 @@
         "id": "mind-over-matter",
         "count": 1
     }, {
-        "id": "its-coming",
+        "id": "it-s-coming",
         "count": 1,
         "enhancements": ["damage"]
     }, {
@@ -323,7 +323,7 @@
         "id": "deusillus",
         "count": 1
     }, {
-        "id": "deusillius-2",
+        "id": "deusillus-2",
         "count": 1
     }, {
         "id": "blast-shielding",
