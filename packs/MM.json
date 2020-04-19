@@ -55,6 +55,29 @@
             }
         },
         {
+            "id": "garbage-imp",
+            "name": "Garbage Imp???",
+            "number": "006",
+            "image": "spoiler-imgs/512/garbage-imp.jpg",
+            "expansion": 512,
+            "house": "dis",
+            "keywords": [],
+            "traits": [
+                "imp"
+            ],
+            "type": "creature",
+            "rarity": "Common",
+            "amber": 0,
+            "armor": 0,
+            "power": 4,
+            "text": "Damage dealt to neighbors of Garbage Imp during fights is also dealt to Garbage Imp.\nReap: Steal 1A.",
+            "locale": {
+                "en": {
+                    "name": "Garbage Imp???"
+                }
+            }
+        },
+        {
             "id": "imp-losion",
             "name": "Imp-losion",
             "number": "008",
@@ -74,6 +97,52 @@
             "locale": {
                 "en": {
                     "name": "Imp-losion"
+                }
+            }
+        },
+        {
+            "id": "mark-of-dis",
+            "name": "Mark of Dis",
+            "number": "011",
+            "image": "spoiler-imgs/512/mark-of-dis.jpg",
+            "expansion": 512,
+            "house": "dis",
+            "keywords": [],
+            "traits": [
+                ""
+            ],
+            "type": "action",
+            "rarity": "Common",
+            "amber": 1,
+            "armor": null,
+            "power": null,
+            "text": "Play: Deal 2D to a creature. If it is not destroyed, its controller must choose that creature's house as the active house on their next turn.\n??? (Polish)",
+            "locale": {
+                "en": {
+                    "name": "Mark of Dis"
+                }
+            }
+        },
+        {
+            "id": "mental-conflagration",
+            "name": "Mental Conflagration???",
+            "number": "012",
+            "image": "spoiler-imgs/512/mental-conflagration.jpg",
+            "expansion": 512,
+            "house": "dis",
+            "keywords": [],
+            "traits": [
+                ""
+            ],
+            "type": "action",
+            "rarity": "Common",
+            "amber": 0,
+            "armor": null,
+            "power": null,
+            "text": "Play: Your opponent discards a random card from their hand. Steal 1A for each bonus icon on the discarded card.\n??? (Polish)",
+            "locale": {
+                "en": {
+                    "name": "Mental Conflagration???"
                 }
             }
         },
@@ -264,6 +333,75 @@
             }
         },
         {
+            "id": "etan-s-jar",
+            "name": "Etan's Jar",
+            "number": "035",
+            "image": "spoiler-imgs/512/etans-jar.jpg",
+            "expansion": 512,
+            "house": "dis",
+            "keywords": [],
+            "traits": [
+                "item"
+            ],
+            "type": "artifact",
+            "rarity": "Rare",
+            "amber": 0,
+            "armor": null,
+            "power": null,
+            "text": "Play: Name a card. Until Etan's Jar leaves play, cards with the given name cannot be played. ??? (translated from Polish)",
+            "locale": {
+                "en": {
+                    "name": "Etan's Jar"
+                }
+            }
+        },
+        {
+            "id": "painberk",
+            "name": "Painberk???",
+            "number": "042",
+            "image": "spoiler-imgs/512/painberk.jpg",
+            "expansion": 512,
+            "house": "dis",
+            "keywords": [],
+            "traits": [
+                ""
+            ],
+            "type": "upgrade",
+            "rarity": "Rare",
+            "amber": 1,
+            "armor": null,
+            "power": null,
+            "text": "This creature gains,  \"When either player chooses Dis as active house, put Painberk in its owner's archives and destroy this creature.\"",
+            "locale": {
+                "en": {
+                    "name": "Painberk???"
+                }
+            }
+        },
+        {
+            "id": "ritual-of-tognatha",
+            "name": "Ritual of Tognatha",
+            "number": "044",
+            "image": "spoiler-imgs/512/tognathas-ritual.jpg",
+            "expansion": 512,
+            "house": "dis",
+            "keywords": [],
+            "traits": [
+                ""
+            ],
+            "type": "action",
+            "rarity": "Rare",
+            "amber": 3,
+            "armor": null,
+            "power": null,
+            "text": "Play: Destroy 2 friendly creatures.\n??? (Polish)",
+            "locale": {
+                "en": {
+                    "name": "Ritual of Tognatha"
+                }
+            }
+        },
+        {
             "id": "desire",
             "name": "Desire",
             "number": "053",
@@ -436,6 +574,30 @@
             "locale": {
                 "en": {
                     "name": "Wrath"
+                }
+            }
+        },
+        {
+            "id": "xeno-fiend",
+            "name": "Xeno-Fiend",
+            "number": "065",
+            "image": "spoiler-imgs/512/xenofiend.jpg",
+            "expansion": 512,
+            "house": "dis",
+            "keywords": [],
+            "traits": [
+                "mutant",
+                "demon"
+            ],
+            "type": "creature",
+            "rarity": "Variant",
+            "amber": 0,
+            "armor": 0,
+            "power": 3,
+            "text": "Fight: Look at 3 top cards of your deck. Add 1 to your hand and put 1 at the bottom of your deck.\nDestroyed: Steal 1A.\n??? (Polish)",
+            "locale": {
+                "en": {
+                    "name": "Xeno-Fiend"
                 }
             }
         },
@@ -628,6 +790,30 @@
             }
         },
         {
+            "id": "titan-engineer",
+            "name": "Titan Engineer",
+            "number": "081",
+            "image": "spoiler-imgs/512/titan-engineer.jpg",
+            "expansion": 512,
+            "house": "logos",
+            "keywords": [],
+            "traits": [
+                "cyborg",
+                "scientist"
+            ],
+            "type": "creature",
+            "rarity": "Common",
+            "amber": 0,
+            "armor": 0,
+            "power": 6,
+            "text": "When Titan Engineer is not on a flank, keys cost +1 A.\n??? (translated from Polish)",
+            "locale": {
+                "en": {
+                    "name": "Titan Engineer"
+                }
+            }
+        },
+        {
             "id": "chronus",
             "name": "Chronus",
             "number": "084",
@@ -693,6 +879,30 @@
             "locale": {
                 "en": {
                     "name": "Novu Dynamo"
+                }
+            }
+        },
+        {
+            "id": "professor-terato",
+            "name": "Professor Terato",
+            "number": "095",
+            "image": "spoiler-imgs/512/professor-terato.jpg",
+            "expansion": 512,
+            "house": "logos",
+            "keywords": [],
+            "traits": [
+                "mutant",
+                "scientist"
+            ],
+            "type": "creature",
+            "rarity": "Uncommon",
+            "amber": 0,
+            "armor": 0,
+            "power": 4,
+            "text": "All Mutant creatures gain, \"Reap: Draw a card\".\n??? (Polish)",
+            "locale": {
+                "en": {
+                    "name": "Professor Terato"
                 }
             }
         },
@@ -913,6 +1123,53 @@
             }
         },
         {
+            "id": "xeno-bot",
+            "name": "Xeno-Bot",
+            "number": "124",
+            "image": "",
+            "expansion": 512,
+            "house": "logos",
+            "keywords": [],
+            "traits": [
+                "mutant",
+                "scientist"
+            ],
+            "type": "creature",
+            "rarity": "Variant",
+            "amber": 0,
+            "armor": 0,
+            "power": 4,
+            "text": "Fight: Look at 3 top cards of your deck. Add 1 to your hand and put 1 at the bottom of your deck.\nReap: Discard a card from your hand.  If you do, draw a card.\n??? (Interpolated)",
+            "locale": {
+                "en": {
+                    "name": "Xeno-Bot"
+                }
+            }
+        },
+        {
+            "id": "ultra-graviton",
+            "name": "Ultra Graviton",
+            "number": "125",
+            "image": "spoiler-imgs/512/ultra-graviton.jpg",
+            "expansion": 512,
+            "house": "logos",
+            "keywords": [],
+            "traits": [
+                "robot"
+            ],
+            "type": "creature",
+            "rarity": "Rare",
+            "amber": 0,
+            "armor": 3,
+            "power": 10,
+            "text": "(Play only with the other half of Ultra Graviton.)\nPlay: Archive the top 5 cards of your deck.\nFight/Reap: Discard a card from your archive. If you do, purge a creature and resolve its bonus icons as if you just played it.",
+            "locale": {
+                "en": {
+                    "name": "Ultra Graviton"
+                }
+            }
+        },
+        {
             "id": "ardent-hero",
             "name": "Ardent Hero",
             "number": "126",
@@ -961,6 +1218,29 @@
             "locale": {
                 "en": {
                     "name": "Bull-wark"
+                }
+            }
+        },
+        {
+            "id": "burning-gaze",
+            "name": "Burning Gaze",
+            "number": "128",
+            "image": "spoiler-imgs/512/burning-gaze.jpg",
+            "expansion": 512,
+            "house": "sanctum",
+            "keywords": [],
+            "traits": [
+                ""
+            ],
+            "type": "action",
+            "rarity": "Common",
+            "amber": 1,
+            "armor": null,
+            "power": null,
+            "text": "Enhance D.\nPlay: Stun an enemy creature or stun all enemy Mutant creatures.\n??? (Polish)",
+            "locale": {
+                "en": {
+                    "name": "Burning Gaze"
                 }
             }
         },
@@ -1082,6 +1362,30 @@
             }
         },
         {
+            "id": "lieutenant-gorvenal",
+            "name": "Lieutenant Gorvenal",
+            "number": "137",
+            "image": "spoiler-imgs/512/lieutenant-gorvenal.jpg",
+            "expansion": 512,
+            "house": "sanctum",
+            "keywords": [],
+            "traits": [
+                "spirit",
+                "knight"
+            ],
+            "type": "creature",
+            "rarity": "Common",
+            "amber": 1,
+            "armor": 1,
+            "power": 4,
+            "text": "After you use a creature to fight, Lieutenant Gorvenal captures 1A.\n??? (Polish)",
+            "locale": {
+                "en": {
+                    "name": "Lieutenant Gorvenal"
+                }
+            }
+        },
+        {
             "id": "seeker-of-truth",
             "name": "Seeker of Truth",
             "number": "138",
@@ -1124,6 +1428,53 @@
             "locale": {
                 "en": {
                     "name": "Squire Alys"
+                }
+            }
+        },
+        {
+            "id": "angry-mob",
+            "name": "Angry Mob",
+            "number": "143",
+            "image": "spoiler-imgs/512/angry-mob.jpg",
+            "expansion": 512,
+            "house": "sanctum",
+            "keywords": [],
+            "traits": [
+                "human"
+            ],
+            "type": "creature",
+            "rarity": "Uncommon",
+            "amber": 0,
+            "armor": 0,
+            "power": 4,
+            "text": "Before Fight: You may discard cards from the top of your deck, until you either discard a copy of Angry Mob or run out of cards. If you discarded a copy of Angry Mob this way, put it in your hand.  ??? (Polish)",
+            "locale": {
+                "en": {
+                    "name": "Angry Mob"
+                }
+            }
+        },
+        {
+            "id": "baldric-the-brave",
+            "name": "Baldric the Brave",
+            "number": "144",
+            "image": "spoiler-imgs/512/baldric-the-brave.jpg",
+            "expansion": 512,
+            "house": "sanctum",
+            "keywords": [],
+            "traits": [
+                "human",
+                "knight"
+            ],
+            "type": "creature",
+            "rarity": "Uncommon",
+            "amber": 0,
+            "armor": 2,
+            "power": 4,
+            "text": "Before Fight: If Baldric the Brave fights against a creature that is more powerful, you gain 2A.\n??? (Polish)",
+            "locale": {
+                "en": {
+                    "name": "Baldric the Brave"
                 }
             }
         },
@@ -1175,6 +1526,29 @@
             }
         },
         {
+            "id": "call-to-action",
+            "name": "Call to Action???",
+            "number": "160",
+            "image": "spoiler-imgs/512/call-to-action.jpg",
+            "expansion": 512,
+            "house": "sanctum",
+            "keywords": [],
+            "traits": [
+                ""
+            ],
+            "type": "action",
+            "rarity": "Rare",
+            "amber": 0,
+            "armor": null,
+            "power": null,
+            "text": "Play: Ready all friendly Knights.\n??? (Polish)",
+            "locale": {
+                "en": {
+                    "name": "Call to Action???"
+                }
+            }
+        },
+        {
             "id": "gizelhart-s-wrath",
             "name": "Gizelhart's Wrath",
             "number": "163",
@@ -1222,6 +1596,130 @@
             }
         },
         {
+            "id": "dino-knight",
+            "name": "Dino-Knight",
+            "number": "178",
+            "image": "spoiler-imgs/512/dinoknight.jpg",
+            "expansion": 512,
+            "house": "sanctum",
+            "keywords": [],
+            "traits": [
+                "mutant",
+                "knight"
+            ],
+            "type": "creature",
+            "rarity": "Variant",
+            "amber": 0,
+            "armor": 2,
+            "power": 6,
+            "text": "Play: You may exalt Dino-Knight. If you do, deal 3D to a creature.",
+            "locale": {
+                "en": {
+                    "name": "Dino-Knight"
+                }
+            }
+        },
+        {
+            "id": "lyco-knight",
+            "name": "Lyco-Knight",
+            "number": "179",
+            "image": "",
+            "expansion": 512,
+            "house": "sanctum",
+            "keywords": [
+                "skirmish"
+            ],
+            "traits": [
+                "mutant",
+                "knight"
+            ],
+            "type": "creature",
+            "rarity": "Variant",
+            "amber": 0,
+            "armor": 2,
+            "power": 5,
+            "text": "Skirmish.\n??? (Interpolated)",
+            "locale": {
+                "en": {
+                    "name": "Lyco-Knight"
+                }
+            }
+        },
+        {
+            "id": "techno-knight",
+            "name": "Techno-Knight",
+            "number": "180",
+            "image": "spoiler-imgs/512/technoknight.jpg",
+            "expansion": 512,
+            "house": "sanctum",
+            "keywords": [],
+            "traits": [
+                "mutant",
+                "knight"
+            ],
+            "type": "creature",
+            "rarity": "Variant",
+            "amber": 0,
+            "armor": 2,
+            "power": 5,
+            "text": "Reap: Discard a card from your hand.  If you do, draw a card.",
+            "locale": {
+                "en": {
+                    "name": "Techno-Knight"
+                }
+            }
+        },
+        {
+            "id": "umbra-knight",
+            "name": "Umbra-Knight",
+            "number": "181",
+            "image": "",
+            "expansion": 512,
+            "house": "sanctum",
+            "keywords": [
+                "elusive"
+            ],
+            "traits": [
+                "mutant",
+                "knight"
+            ],
+            "type": "creature",
+            "rarity": "Variant",
+            "amber": 0,
+            "armor": 1,
+            "power": 4,
+            "text": "Elusive.\n??? (Interpolated)",
+            "locale": {
+                "en": {
+                    "name": "Umbra-Knight"
+                }
+            }
+        },
+        {
+            "id": "xeno-knight",
+            "name": "Xeno-Knight",
+            "number": "182",
+            "image": "",
+            "expansion": 512,
+            "house": "sanctum",
+            "keywords": [],
+            "traits": [
+                "mutant",
+                "knight"
+            ],
+            "type": "creature",
+            "rarity": "Variant",
+            "amber": 0,
+            "armor": 2,
+            "power": 5,
+            "text": "Fight: Look at 3 top cards of your deck. Add 1 to your hand and put 1 at the bottom of your deck.\n??? (Interpolated)",
+            "locale": {
+                "en": {
+                    "name": "Xeno-Knight"
+                }
+            }
+        },
+        {
             "id": "beware-the-ides",
             "name": "Beware the Ides???",
             "number": "184",
@@ -1241,6 +1739,29 @@
             "locale": {
                 "en": {
                     "name": "Beware the Ides???"
+                }
+            }
+        },
+        {
+            "id": "citizen-shrix",
+            "name": "Citizen Shrix",
+            "number": "186",
+            "image": "spoiler-imgs/512/citizen-shrix.jpg",
+            "expansion": 512,
+            "house": "saurian",
+            "keywords": [],
+            "traits": [
+                "mutant"
+            ],
+            "type": "creature",
+            "rarity": "Common",
+            "amber": 0,
+            "armor": 0,
+            "power": 3,
+            "text": "Play/Reap: Exalt Citizen Shrix. Steal 1A.\n??? (Polish)",
+            "locale": {
+                "en": {
+                    "name": "Citizen Shrix"
                 }
             }
         },
@@ -1265,6 +1786,76 @@
             "locale": {
                 "en": {
                     "name": "Consul Primus"
+                }
+            }
+        },
+        {
+            "id": "cornist-octavia",
+            "name": "Cornist Octavia",
+            "number": "188",
+            "image": "spoiler-imgs/512/cornist-octavia.jpg",
+            "expansion": 512,
+            "house": "saurian",
+            "keywords": [],
+            "traits": [
+                "dinosaur",
+                "soldier"
+            ],
+            "type": "creature",
+            "rarity": "Common",
+            "amber": 0,
+            "armor": 1,
+            "power": 5,
+            "text": "Action: Capture 2A.\n??? (Polish)",
+            "locale": {
+                "en": {
+                    "name": "Cornist Octavia"
+                }
+            }
+        },
+        {
+            "id": "curse-of-vanity",
+            "name": "Curse of Vanity",
+            "number": "189",
+            "image": "spoiler-imgs/512/curse-of-vanity.jpg",
+            "expansion": 512,
+            "house": "saurian",
+            "keywords": [],
+            "traits": [
+                ""
+            ],
+            "type": "action",
+            "rarity": "Common",
+            "amber": 1,
+            "armor": null,
+            "power": null,
+            "text": "Play: Exalt a friendly creature and an enemy creature.\n??? (Polish)",
+            "locale": {
+                "en": {
+                    "name": "Curse of Vanity"
+                }
+            }
+        },
+        {
+            "id": "defense-project",
+            "name": "Defense Project",
+            "number": "191",
+            "image": "spoiler-imgs/512/defense-project.jpg",
+            "expansion": 512,
+            "house": "saurian",
+            "keywords": [],
+            "traits": [
+                ""
+            ],
+            "type": "action",
+            "rarity": "Common",
+            "amber": 0,
+            "armor": null,
+            "power": null,
+            "text": "Play: Ward a creature. You may exalt that creature. If you do, ward its neighbors.\n??? (Polish)",
+            "locale": {
+                "en": {
+                    "name": "Defense Project"
                 }
             }
         },
@@ -1315,6 +1906,29 @@
             }
         },
         {
+            "id": "shooter-s-sight",
+            "name": "Shooter's Sight???",
+            "number": "196",
+            "image": "spoiler-imgs/512/shooters-sight.jpg",
+            "expansion": 512,
+            "house": "saurian",
+            "keywords": [],
+            "traits": [
+                ""
+            ],
+            "type": "action",
+            "rarity": "Common",
+            "amber": 1,
+            "armor": null,
+            "power": null,
+            "text": "Enhance D.\nPlay: Exalt a damaged creature.\n??? (Polish)",
+            "locale": {
+                "en": {
+                    "name": "Shooter's Sight???"
+                }
+            }
+        },
+        {
             "id": "spoils-of-battle",
             "name": "Spoils of Battle",
             "number": "197",
@@ -1334,6 +1948,30 @@
             "locale": {
                 "en": {
                     "name": "Spoils of Battle"
+                }
+            }
+        },
+        {
+            "id": "dark-centurion",
+            "name": "Dark Centurion",
+            "number": "203",
+            "image": "spoiler-imgs/512/dark-centurion.png",
+            "expansion": 512,
+            "house": "saurian",
+            "keywords": [],
+            "traits": [
+                "mutant",
+                "soldier"
+            ],
+            "type": "creature",
+            "rarity": "Uncommon",
+            "amber": 0,
+            "armor": 0,
+            "power": 5,
+            "text": "Enhance Capture Capture.\nAction:  Move 1A from a creature to the common supply.  If you do, ward that creature.",
+            "locale": {
+                "en": {
+                    "name": "Dark Centurion"
                 }
             }
         },
@@ -1408,6 +2046,29 @@
             }
         },
         {
+            "id": "signaling-horn",
+            "name": "Signaling Horn???",
+            "number": "212",
+            "image": "spoiler-imgs/512/signaling-horn.jpg",
+            "expansion": 512,
+            "house": "saurian",
+            "keywords": [],
+            "traits": [
+                ""
+            ],
+            "type": "upgrade",
+            "rarity": "Uncommon",
+            "amber": 1,
+            "armor": null,
+            "power": null,
+            "text": "This creature gains, \"Before Fight: Move 1A from this creature to the creature it is attacking.\"\n??? (Polish)",
+            "locale": {
+                "en": {
+                    "name": "Signaling Horn???"
+                }
+            }
+        },
+        {
             "id": "amphora-captura",
             "name": "Amphora Captura",
             "number": "215",
@@ -1472,7 +2133,7 @@
             "amber": 0,
             "armor": null,
             "power": null,
-            "text": "Action: Move 1A from a friendly creature to another creature.  If Consul Primus is in your discard pile, move 1A from a creature to another creature instead.",
+            "text": "Action: Move 1A from a friendly creature to another friendly creature.  If Consul Primus is in your discard pile, move 1A from a creature to another creature instead.",
             "locale": {
                 "en": {
                     "name": "Monument to Primus"
@@ -1531,7 +2192,7 @@
             "id": "umbra-saurus",
             "name": "Umbra-Saurus",
             "number": "242",
-            "image": "",
+            "image": "spoiler-imgs/512/umbrasaurus.jpg",
             "expansion": 512,
             "house": "saurian",
             "keywords": [
@@ -1546,10 +2207,34 @@
             "amber": 0,
             "armor": 0,
             "power": 4,
-            "text": "Elusive.\nPlay: You may exalt Umbra-Saurus. If you do, deal 3D to a creature.\n??? (Interpolated)",
+            "text": "Elusive.\nPlay: You may exalt Umbra-Saurus. If you do, deal 3D to a creature.",
             "locale": {
                 "en": {
                     "name": "Umbra-Saurus"
+                }
+            }
+        },
+        {
+            "id": "xeno-saurus",
+            "name": "Xeno-Saurus",
+            "number": "243",
+            "image": "spoiler-imgs/512/xenosaurus.jpg",
+            "expansion": 512,
+            "house": "saurian",
+            "keywords": [],
+            "traits": [
+                "mutant",
+                "dinosaur"
+            ],
+            "type": "creature",
+            "rarity": "Variant",
+            "amber": 0,
+            "armor": 0,
+            "power": 5,
+            "text": "Play: You may exalt (this creature). If you do, deal 3D to a creature.\nFight: Look at 3 top cards of your deck. Add 1 to your hand and put 1 at the bottom of your deck.\n??? (Polish)",
+            "locale": {
+                "en": {
+                    "name": "Xeno-Saurus"
                 }
             }
         },
@@ -1623,6 +2308,32 @@
             }
         },
         {
+            "id": "frank-the-steward",
+            "name": "Frank the “Steward”",
+            "number": "248",
+            "image": "spoiler-imgs/512/frank-the-steward.jpg",
+            "expansion": 512,
+            "house": "shadows",
+            "keywords": [
+                "skirmish"
+            ],
+            "traits": [
+                "elf",
+                "thief"
+            ],
+            "type": "creature",
+            "rarity": "Common",
+            "amber": 0,
+            "armor": 0,
+            "power": 3,
+            "text": "Skirmish.\nFight: Each player gains 1A.\n??? (Polish)",
+            "locale": {
+                "en": {
+                    "name": "Frank the “Steward”"
+                }
+            }
+        },
+        {
             "id": "look-over-there",
             "name": "Look Over There!",
             "number": "250",
@@ -1642,6 +2353,53 @@
             "locale": {
                 "en": {
                     "name": "Look Over There!"
+                }
+            }
+        },
+        {
+            "id": "mutant-pickpocket",
+            "name": "Mutant Pickpocket",
+            "number": "252",
+            "image": "spoiler-imgs/512/mutant-pickpocket.jpg",
+            "expansion": 512,
+            "house": "shadows",
+            "keywords": [],
+            "traits": [
+                "mutant",
+                "thief"
+            ],
+            "type": "creature",
+            "rarity": "Common",
+            "amber": 0,
+            "armor": 0,
+            "power": 3,
+            "text": "Enhance D D D.",
+            "locale": {
+                "en": {
+                    "name": "Mutant Pickpocket"
+                }
+            }
+        },
+        {
+            "id": "opportunist",
+            "name": "Opportunist",
+            "number": "254",
+            "image": "spoiler-imgs/512/opportunist.jpg",
+            "expansion": 512,
+            "house": "shadows",
+            "keywords": [],
+            "traits": [
+                ""
+            ],
+            "type": "upgrade",
+            "rarity": "Common",
+            "amber": 1,
+            "armor": null,
+            "power": null,
+            "text": "This creature gains Elusive.\nPlay: This creature captures 1A from its opponent.\n??? (Polish.)",
+            "locale": {
+                "en": {
+                    "name": "Opportunist"
                 }
             }
         },
@@ -1717,6 +2475,29 @@
             }
         },
         {
+            "id": "wreckage",
+            "name": "Wreckage???",
+            "number": "260",
+            "image": "spoiler-imgs/512/wreckage.jpg",
+            "expansion": 512,
+            "house": "shadows",
+            "keywords": [],
+            "traits": [
+                ""
+            ],
+            "type": "action",
+            "rarity": "Common",
+            "amber": 1,
+            "armor": null,
+            "power": null,
+            "text": "Play: Look at 3 top cards of your opponent's deck. Discard 1 of them and return remaining 2 in any order.\n??? (Polish)",
+            "locale": {
+                "en": {
+                    "name": "Wreckage???"
+                }
+            }
+        },
+        {
             "id": "miasma-bomb",
             "name": "Miasma Bomb",
             "number": "269",
@@ -1736,6 +2517,29 @@
             "locale": {
                 "en": {
                     "name": "Miasma Bomb"
+                }
+            }
+        },
+        {
+            "id": "plunder",
+            "name": "Plunder",
+            "number": "272",
+            "image": "spoiler-imgs/512/plunder.jpg",
+            "expansion": 512,
+            "house": "shadows",
+            "keywords": [],
+            "traits": [
+                ""
+            ],
+            "type": "action",
+            "rarity": "Uncommon",
+            "amber": 0,
+            "armor": null,
+            "power": null,
+            "text": "Play: Steal 1A. Discard the top card of your deck.  If you discarded a Shadows card, repeat this effect.\n??? (Polish.)",
+            "locale": {
+                "en": {
+                    "name": "Plunder"
                 }
             }
         },
@@ -1815,7 +2619,7 @@
             "id": "dino-thief",
             "name": "Dino-Thief",
             "number": "297",
-            "image": "",
+            "image": "spoiler-imgs/512/dinothief.jpg",
             "expansion": 512,
             "house": "shadows",
             "keywords": [
@@ -1830,7 +2634,7 @@
             "amber": 0,
             "armor": 0,
             "power": 4,
-            "text": "Elusive.\nPlay: You may exalt Dino-Thief. If you do, deal 3D to a creature.\n??? (Interpolated)",
+            "text": "Elusive.\nPlay: You may exalt Dino-Thief. If you do, deal 3D to a creature.",
             "locale": {
                 "en": {
                     "name": "Dino-Thief"
@@ -1867,7 +2671,7 @@
         {
             "id": "sacro-thief",
             "name": "Sacro-Thief",
-            "number": "300",
+            "number": "299",
             "image": "",
             "expansion": 512,
             "house": "shadows",
@@ -1893,7 +2697,7 @@
         {
             "id": "techno-thief",
             "name": "Techno-Thief",
-            "number": "301",
+            "number": "300",
             "image": "",
             "expansion": 512,
             "house": "shadows",
@@ -1913,6 +2717,32 @@
             "locale": {
                 "en": {
                     "name": "Techno-Thief"
+                }
+            }
+        },
+        {
+            "id": "xeno-thief",
+            "name": "Xeno-Thief",
+            "number": "301",
+            "image": "",
+            "expansion": 512,
+            "house": "shadows",
+            "keywords": [
+                "elusive"
+            ],
+            "traits": [
+                "mutant",
+                "thief"
+            ],
+            "type": "creature",
+            "rarity": "Variant",
+            "amber": 0,
+            "armor": 0,
+            "power": 3,
+            "text": "Elusive.\nFight: Look at 3 top cards of your deck. Add 1 to your hand and put 1 at the bottom of your deck.\n??? (Interpolated)",
+            "locale": {
+                "en": {
+                    "name": "Xeno-Thief"
                 }
             }
         },
@@ -1959,6 +2789,52 @@
             "locale": {
                 "en": {
                     "name": "Blast Shielding"
+                }
+            }
+        },
+        {
+            "id": "hadron-collision",
+            "name": "Hadron Collision???",
+            "number": "308",
+            "image": "spoiler-imgs/512/hadron-collision.jpg",
+            "expansion": 512,
+            "house": "staralliance",
+            "keywords": [],
+            "traits": [
+                ""
+            ],
+            "type": "action",
+            "rarity": "Common",
+            "amber": 0,
+            "armor": null,
+            "power": null,
+            "text": "Play: Remove a ward from a creature and deal 3D to it. This damage cannot be prevented by armor.\n??? (Polish)",
+            "locale": {
+                "en": {
+                    "name": "Hadron Collision???"
+                }
+            }
+        },
+        {
+            "id": "observ-u-max",
+            "name": "Observ-u-Max",
+            "number": "309",
+            "image": "spoiler-imgs/512/observumax.png",
+            "expansion": 512,
+            "house": "staralliance",
+            "keywords": [],
+            "traits": [
+                ""
+            ],
+            "type": "upgrade",
+            "rarity": "Common",
+            "amber": 1,
+            "armor": null,
+            "power": null,
+            "text": "This creature gains, \"Fight/Reap:  Capture 1A.\"",
+            "locale": {
+                "en": {
+                    "name": "Observ-u-Max"
                 }
             }
         },
@@ -2176,6 +3052,29 @@
             }
         },
         {
+            "id": "detention-coil",
+            "name": "Detention Coil",
+            "number": "321",
+            "image": "spoiler-imgs/512/detention-coil.jpg",
+            "expansion": 512,
+            "house": "staralliance",
+            "keywords": [],
+            "traits": [
+                ""
+            ],
+            "type": "upgrade",
+            "rarity": "Uncommon",
+            "amber": 1,
+            "armor": null,
+            "power": null,
+            "text": "This creature cannot fight.\n??? (Polish)",
+            "locale": {
+                "en": {
+                    "name": "Detention Coil"
+                }
+            }
+        },
+        {
             "id": "hayden-oswin",
             "name": "Hayden Oswin",
             "number": "322",
@@ -2246,6 +3145,30 @@
             }
         },
         {
+            "id": "ambassador-liu",
+            "name": "Ambassador Liu",
+            "number": "335",
+            "image": "spoiler-imgs/512/ambassador-liu.jpg",
+            "expansion": 512,
+            "house": "staralliance",
+            "keywords": [],
+            "traits": [
+                "mutant",
+                "politician"
+            ],
+            "type": "creature",
+            "rarity": "Rare",
+            "amber": 0,
+            "armor": 0,
+            "power": 4,
+            "text": "Action: Discard a card from your hand. If it is a Dis or Shadows card, steal 1A. If this is a Logos or Untamed card, gain 2A. If it is a Sanctum or Saurian card, capture 3A.\n??? (Polish)",
+            "locale": {
+                "en": {
+                    "name": "Ambassador Liu"
+                }
+            }
+        },
+        {
             "id": "ensign-el-samra",
             "name": "Ensign El-Samra",
             "number": "340",
@@ -2311,6 +3234,269 @@
             "locale": {
                 "en": {
                     "name": "Matter Maker"
+                }
+            }
+        },
+        {
+            "id": "z-unit-agent-14",
+            "name": "Z-Unit Agent 14",
+            "number": "353",
+            "image": "spoiler-imgs/512/zunit-agent-14.jpg",
+            "expansion": 512,
+            "house": "staralliance",
+            "keywords": [],
+            "traits": [
+                "cyborg"
+            ],
+            "type": "creature",
+            "rarity": "Rare",
+            "amber": 0,
+            "armor": 0,
+            "power": 5,
+            "text": "Fight: You gain 1A for every upgrade attached to Z Unit Agent 14.  ??? (Polish)",
+            "locale": {
+                "en": {
+                    "name": "Z-Unit Agent 14"
+                }
+            }
+        },
+        {
+            "id": "z-particle-detector",
+            "name": "Z-Particle Detector",
+            "number": "354",
+            "image": "spoiler-imgs/512/zparticle-detector.jpg",
+            "expansion": 512,
+            "house": "staralliance",
+            "keywords": [],
+            "traits": [
+                ""
+            ],
+            "type": "upgrade",
+            "rarity": "FIXED",
+            "amber": 1,
+            "armor": null,
+            "power": null,
+            "text": "This creature gains, \"Fight: Search your deck for an upgrade and put it in your hand. Shuffle your deck.\"\n  ??? (Polish)",
+            "locale": {
+                "en": {
+                    "name": "Z-Particle Detector"
+                }
+            }
+        },
+        {
+            "id": "z-ray-blaster",
+            "name": "Z-Ray Blaster",
+            "number": "355",
+            "image": "spoiler-imgs/512/zray-blaster.jpg",
+            "expansion": 512,
+            "house": "staralliance",
+            "keywords": [],
+            "traits": [
+                ""
+            ],
+            "type": "upgrade",
+            "rarity": "FIXED",
+            "amber": 1,
+            "armor": null,
+            "power": null,
+            "text": "This creature gets +3 power and gains, \"Before Fight: Deal 3D to each neighbor of the creature you fight.\"\n  ??? (Polish)",
+            "locale": {
+                "en": {
+                    "name": "Z-Ray Blaster"
+                }
+            }
+        },
+        {
+            "id": "z-wave-emitter",
+            "name": "Z-Wave Emitter",
+            "number": "356",
+            "image": "spoiler-imgs/512/zwave-emitter.jpg",
+            "expansion": 512,
+            "house": "staralliance",
+            "keywords": [],
+            "traits": [
+                ""
+            ],
+            "type": "upgrade",
+            "rarity": "FIXED",
+            "amber": 1,
+            "armor": null,
+            "power": null,
+            "text": "At the start of your turn, ward this creature. ??? (Polish)",
+            "locale": {
+                "en": {
+                    "name": "Z-Wave Emitter"
+                }
+            }
+        },
+        {
+            "id": "dino-morph",
+            "name": "Dino-MORPH???",
+            "number": "357",
+            "image": "",
+            "expansion": 512,
+            "house": "staralliance",
+            "keywords": [],
+            "traits": [
+                "mutant",
+                "alien"
+            ],
+            "type": "creature",
+            "rarity": "Variant",
+            "amber": 0,
+            "armor": 0,
+            "power": 5,
+            "text": "Play: You may exalt Dino-MORPH. If you do, deal 3D to a creature.\nFight: Look at 3 top cards of your deck. Add 1 to your hand and put 1 at the bottom of your deck.\n??? (Interpolated, 'MORPH' is a placeholder)",
+            "locale": {
+                "en": {
+                    "name": "Dino-MORPH???"
+                }
+            }
+        },
+        {
+            "id": "lyco-morph",
+            "name": "Lyco-MORPH???",
+            "number": "358",
+            "image": "",
+            "expansion": 512,
+            "house": "staralliance",
+            "keywords": [
+                "skirmish"
+            ],
+            "traits": [
+                "mutant",
+                "alien"
+            ],
+            "type": "creature",
+            "rarity": "Variant",
+            "amber": 0,
+            "armor": 0,
+            "power": 4,
+            "text": "Skirmish.\nFight: Look at 3 top cards of your deck. Add 1 to your hand and put 1 at the bottom of your deck.\n??? (Interpolated, 'MORPH' is a placeholder)",
+            "locale": {
+                "en": {
+                    "name": "Lyco-MORPH???"
+                }
+            }
+        },
+        {
+            "id": "sacro-morph",
+            "name": "Sacro-MORPH???",
+            "number": "359",
+            "image": "",
+            "expansion": 512,
+            "house": "staralliance",
+            "keywords": [],
+            "traits": [
+                "mutant",
+                "alien"
+            ],
+            "type": "creature",
+            "rarity": "Variant",
+            "amber": 0,
+            "armor": 2,
+            "power": 5,
+            "text": "Fight: Look at 3 top cards of your deck. Add 1 to your hand and put 1 at the bottom of your deck.\n??? (Interpolated, 'MORPH' is a placeholder)",
+            "locale": {
+                "en": {
+                    "name": "Sacro-MORPH???"
+                }
+            }
+        },
+        {
+            "id": "techno-morph",
+            "name": "Techno-MORPH???",
+            "number": "360",
+            "image": "",
+            "expansion": 512,
+            "house": "staralliance",
+            "keywords": [],
+            "traits": [
+                "mutant",
+                "alien"
+            ],
+            "type": "creature",
+            "rarity": "Variant",
+            "amber": 0,
+            "armor": 0,
+            "power": 4,
+            "text": "Fight: Look at 3 top cards of your deck. Add 1 to your hand and put 1 at the bottom of your deck.\nReap: Discard a card from your hand.  If you do, draw a card.\n??? (Interpolated, 'MORPH' is a placeholder)",
+            "locale": {
+                "en": {
+                    "name": "Techno-MORPH???"
+                }
+            }
+        },
+        {
+            "id": "umbra-morph",
+            "name": "Umbra-MORPH???",
+            "number": "361",
+            "image": "",
+            "expansion": 512,
+            "house": "staralliance",
+            "keywords": [
+                "elusive"
+            ],
+            "traits": [
+                "mutant",
+                "alien"
+            ],
+            "type": "creature",
+            "rarity": "Variant",
+            "amber": 0,
+            "armor": 0,
+            "power": 3,
+            "text": "Elusive.\nFight: Look at 3 top cards of your deck. Add 1 to your hand and put 1 at the bottom of your deck.\n??? (Interpolated, 'MORPH' is a placeholder)",
+            "locale": {
+                "en": {
+                    "name": "Umbra-MORPH???"
+                }
+            }
+        },
+        {
+            "id": "cephaloist",
+            "name": "Cephaloist",
+            "number": "362",
+            "image": "spoiler-imgs/512/cephaloist.png",
+            "expansion": 512,
+            "house": "untamed",
+            "keywords": [],
+            "traits": [
+                "mutant"
+            ],
+            "type": "creature",
+            "rarity": "Common",
+            "amber": 0,
+            "armor": 0,
+            "power": 4,
+            "text": "If you have 4A or more, your A cannot be stolen. ??? (Polish)",
+            "locale": {
+                "en": {
+                    "name": "Cephaloist"
+                }
+            }
+        },
+        {
+            "id": "crop-dusker",
+            "name": "Crop-dusker???",
+            "number": "365",
+            "image": "spoiler-imgs/512/duster.jpg",
+            "expansion": 512,
+            "house": "untamed",
+            "keywords": [],
+            "traits": [
+                "mutant",
+                "witch"
+            ],
+            "type": "creature",
+            "rarity": "Common",
+            "amber": 0,
+            "armor": 0,
+            "power": 3,
+            "text": "If you have 4A or more, you non-Untamed creatures enter play ready.\n??? (Polish)",
+            "locale": {
+                "en": {
+                    "name": "Crop-dusker???"
                 }
             }
         },
@@ -2387,6 +3573,52 @@
             }
         },
         {
+            "id": "pest",
+            "name": "Pest???",
+            "number": "372",
+            "image": "spoiler-imgs/512/pest.jpg",
+            "expansion": 512,
+            "house": "untamed",
+            "keywords": [],
+            "traits": [
+                "mutant"
+            ],
+            "type": "creature",
+            "rarity": "Common",
+            "amber": 0,
+            "armor": 0,
+            "power": 4,
+            "text": "If there are more friendly Mutant creatures than enemy Mutant creatures, your opponent's keys cost +2A.\n??? (Polish)",
+            "locale": {
+                "en": {
+                    "name": "Pest???"
+                }
+            }
+        },
+        {
+            "id": "rapid-evolution",
+            "name": "Rapid Evolution",
+            "number": "373",
+            "image": "spoiler-imgs/512/rapid-evolution.png",
+            "expansion": 512,
+            "house": "untamed",
+            "keywords": [],
+            "traits": [
+                ""
+            ],
+            "type": "action",
+            "rarity": "Common",
+            "amber": 1,
+            "armor": null,
+            "power": null,
+            "text": "Play: Choose a creature.  Give it a +1 power counter for each A in your pool. ??? (Polish)",
+            "locale": {
+                "en": {
+                    "name": "Rapid Evolution"
+                }
+            }
+        },
+        {
             "id": "reclaimed-by-nature",
             "name": "Reclaimed by Nature",
             "number": "374",
@@ -2456,6 +3688,30 @@
             }
         },
         {
+            "id": "dark-herald",
+            "name": "Dark Herald",
+            "number": "381",
+            "image": "spoiler-imgs/512/dark-herald.jpg",
+            "expansion": 512,
+            "house": "untamed",
+            "keywords": [],
+            "traits": [
+                "mutant",
+                "witch"
+            ],
+            "type": "creature",
+            "rarity": "Uncommon",
+            "amber": 0,
+            "armor": 0,
+            "power": 4,
+            "text": "After you play Untamed action card, ready Dark Herald.\n??? (Polish)",
+            "locale": {
+                "en": {
+                    "name": "Dark Herald"
+                }
+            }
+        },
+        {
             "id": "mushroom-with-a-view",
             "name": "Mushroom with a View",
             "number": "386",
@@ -2502,6 +3758,31 @@
             }
         },
         {
+            "id": "chubby",
+            "name": "Chubby???",
+            "number": "396",
+            "image": "spoiler-imgs/512/chubby.jpg",
+            "expansion": 512,
+            "house": "untamed",
+            "keywords": [
+                "skirmish"
+            ],
+            "traits": [
+                "mutant"
+            ],
+            "type": "creature",
+            "rarity": "Rare",
+            "amber": 0,
+            "armor": 0,
+            "power": 1,
+            "text": "Skirmish.\nWhen an enemy creature is destroyed while fighting with Chubby, double the number of +1 counters on Chubby.\nPlay: Put a +1 power counter on Fatty.\n??? (Polish)",
+            "locale": {
+                "en": {
+                    "name": "Chubby???"
+                }
+            }
+        },
+        {
             "id": "mercy-malkin-queen",
             "name": "Mercy, Malkin Queen",
             "number": "403",
@@ -2524,6 +3805,127 @@
             "locale": {
                 "en": {
                     "name": "Mercy, Malkin Queen"
+                }
+            }
+        },
+        {
+            "id": "clever-mutation",
+            "name": "Clever Mutation???",
+            "number": "413",
+            "image": "spoiler-imgs/512/clever-mutation.jpg",
+            "expansion": 512,
+            "house": "untamed",
+            "keywords": [],
+            "traits": [
+                ""
+            ],
+            "type": "action",
+            "rarity": "FIXED",
+            "amber": 1,
+            "armor": null,
+            "power": null,
+            "text": "Play: Until the start of your next turn, a creature gains Elusive and the Mutant trait.\n??? (Polish)",
+            "locale": {
+                "en": {
+                    "name": "Clever Mutation???"
+                }
+            }
+        },
+        {
+            "id": "fury-mutation",
+            "name": "Fury Mutation???",
+            "number": "414",
+            "image": "spoiler-imgs/512/fury-mutation.jpg",
+            "expansion": 512,
+            "house": "untamed",
+            "keywords": [],
+            "traits": [
+                ""
+            ],
+            "type": "action",
+            "rarity": "FIXED",
+            "amber": 1,
+            "armor": null,
+            "power": null,
+            "text": "Play: Until the start of your next turn, a creature gains Assault 3 and the Mutant trait.\n??? (Polish)",
+            "locale": {
+                "en": {
+                    "name": "Fury Mutation???"
+                }
+            }
+        },
+        {
+            "id": "instinct-mutation",
+            "name": "Instinct Mutation???",
+            "number": "415",
+            "image": "spoiler-imgs/512/instinct-mutation.jpg",
+            "expansion": 512,
+            "house": "untamed",
+            "keywords": [],
+            "traits": [
+                ""
+            ],
+            "type": "action",
+            "rarity": "FIXED",
+            "amber": 1,
+            "armor": null,
+            "power": null,
+            "text": "Play: Until the start of your next turn, a creature gains Skirmish and the Mutant trait.\n??? (Polish)",
+            "locale": {
+                "en": {
+                    "name": "Instinct Mutation???"
+                }
+            }
+        },
+        {
+            "id": "dæmo-beast",
+            "name": "Dæmo-Beast",
+            "number": "416",
+            "image": "",
+            "expansion": 512,
+            "house": "untamed",
+            "keywords": [
+                "skirmish"
+            ],
+            "traits": [
+                "mutant",
+                "beast"
+            ],
+            "type": "creature",
+            "rarity": "Variant",
+            "amber": 0,
+            "armor": 0,
+            "power": 3,
+            "text": "Skirmish.\nDestroyed: Steal 1A.\n??? Interpolated",
+            "locale": {
+                "en": {
+                    "name": "Dæmo-Beast"
+                }
+            }
+        },
+        {
+            "id": "dino-beast",
+            "name": "Dino-Beast",
+            "number": "417",
+            "image": "",
+            "expansion": 512,
+            "house": "untamed",
+            "keywords": [
+                "skirmish"
+            ],
+            "traits": [
+                "mutant",
+                "beast"
+            ],
+            "type": "creature",
+            "rarity": "Variant",
+            "amber": 0,
+            "armor": 0,
+            "power": 5,
+            "text": "Skirmish.\nPlay: You may exalt Dino-Beast. If you do, deal 3D to a creature.\n??? Interpolated",
+            "locale": {
+                "en": {
+                    "name": "Dino-Beast"
                 }
             }
         },
@@ -2583,7 +3985,7 @@
             "id": "umbra-beast",
             "name": "Umbra-Beast",
             "number": "420",
-            "image": "",
+            "image": "spoiler-imgs/512/umbrabeast.jpg",
             "expansion": 512,
             "house": "untamed",
             "keywords": [
@@ -2599,10 +4001,36 @@
             "amber": 0,
             "armor": 0,
             "power": 3,
-            "text": "Skirmish. Elusive.\n??? Interpolated",
+            "text": "Skirmish. Elusive.",
             "locale": {
                 "en": {
                     "name": "Umbra-Beast"
+                }
+            }
+        },
+        {
+            "id": "xeno-beast",
+            "name": "Xeno-Beast",
+            "number": "421",
+            "image": "",
+            "expansion": 512,
+            "house": "untamed",
+            "keywords": [
+                "skirmish"
+            ],
+            "traits": [
+                "mutant",
+                "beast"
+            ],
+            "type": "creature",
+            "rarity": "Variant",
+            "amber": 0,
+            "armor": 0,
+            "power": 4,
+            "text": "Skirmish.\nFight: Look at 3 top cards of your deck. Add 1 to your hand and put 1 at the bottom of your deck.\n??? (Interpolated)",
+            "locale": {
+                "en": {
+                    "name": "Xeno-Beast"
                 }
             }
         },
@@ -2631,78 +4059,9 @@
             }
         },
         {
-            "id": "cephaloist",
-            "name": "Cephaloist",
-            "number": 901,
-            "image": "spoiler-imgs/512/cephaloist.png",
-            "expansion": 512,
-            "house": "untamed",
-            "keywords": [],
-            "traits": [
-                "mutant"
-            ],
-            "type": "creature",
-            "rarity": null,
-            "amber": 0,
-            "armor": 0,
-            "power": 4,
-            "text": "???",
-            "locale": {
-                "en": {
-                    "name": "Cephaloist"
-                }
-            }
-        },
-        {
-            "id": "observ-u-max",
-            "name": "Observ-u-Max",
-            "number": 902,
-            "image": "spoiler-imgs/512/observumax.png",
-            "expansion": 512,
-            "house": "staralliance",
-            "keywords": [],
-            "traits": [
-                ""
-            ],
-            "type": "upgrade",
-            "rarity": null,
-            "amber": 1,
-            "armor": null,
-            "power": null,
-            "text": "This creature gains, \"Fight/Reap:  Capture 1A.\"",
-            "locale": {
-                "en": {
-                    "name": "Observ-u-Max"
-                }
-            }
-        },
-        {
-            "id": "rapid-evolution",
-            "name": "Rapid Evolution",
-            "number": 903,
-            "image": "spoiler-imgs/512/rapid-evolution.png",
-            "expansion": 512,
-            "house": "untamed",
-            "keywords": [],
-            "traits": [
-                ""
-            ],
-            "type": "action",
-            "rarity": null,
-            "amber": 1,
-            "armor": null,
-            "power": null,
-            "text": "Play: Choose a creature.  Give it a +1 power counter for each ??? (A on it?)",
-            "locale": {
-                "en": {
-                    "name": "Rapid Evolution"
-                }
-            }
-        },
-        {
             "id": "ivan-the-even",
             "name": "Ivan the Even???",
-            "number": 904,
+            "number": 901,
             "image": "spoiler-imgs/512/ivan-the-calm-.png",
             "expansion": 512,
             "house": "logos",
@@ -2726,7 +4085,7 @@
         {
             "id": "the-shadowsmith",
             "name": "The Shadowsmith",
-            "number": 905,
+            "number": 902,
             "image": "spoiler-imgs/512/the-shadowsmith.png",
             "expansion": 512,
             "house": "shadows",
@@ -2748,33 +4107,9 @@
             }
         },
         {
-            "id": "dark-centurion",
-            "name": "Dark Centurion",
-            "number": 907,
-            "image": "spoiler-imgs/512/dark-centurion.png",
-            "expansion": 512,
-            "house": "saurian",
-            "keywords": [],
-            "traits": [
-                "mutant",
-                "soldier"
-            ],
-            "type": "creature",
-            "rarity": null,
-            "amber": 0,
-            "armor": 0,
-            "power": 5,
-            "text": "Enhance Capture Capture.\nAction:  Move 1A from a creature to the common supply.  If you do, ward that creature.",
-            "locale": {
-                "en": {
-                    "name": "Dark Centurion"
-                }
-            }
-        },
-        {
             "id": "dino-fiend",
             "name": "Dino-Fiend",
-            "number": 908,
+            "number": 903,
             "image": "",
             "expansion": 512,
             "house": "dis",
@@ -2798,7 +4133,7 @@
         {
             "id": "lyco-fiend",
             "name": "Lyco-Fiend",
-            "number": 909,
+            "number": 904,
             "image": "",
             "expansion": 512,
             "house": "dis",
@@ -2824,7 +4159,7 @@
         {
             "id": "dæmo-saurus",
             "name": "Dæmo-Saurus",
-            "number": 910,
+            "number": 905,
             "image": "",
             "expansion": 512,
             "house": "saurian",
@@ -2846,84 +4181,9 @@
             }
         },
         {
-            "id": "ultra-graviton",
-            "name": "Ultra Graviton",
-            "number": 913,
-            "image": "spoiler-imgs/512/ultra-graviton.jpg",
-            "expansion": 512,
-            "house": "logos",
-            "keywords": [],
-            "traits": [
-                "robot"
-            ],
-            "type": "creature",
-            "rarity": "Rare",
-            "amber": 0,
-            "armor": 3,
-            "power": 10,
-            "text": "(Play only with the other half of Ultra Graviton.)\nPlay: Archive the top 5 cards of your deck.\nFight/Reap: Discard a card from your archive. If you do, purge a creature and resolve its bonus icons as if you just played it.",
-            "locale": {
-                "en": {
-                    "name": "Ultra Graviton"
-                }
-            }
-        },
-        {
-            "id": "dæmo-beast",
-            "name": "Dæmo-Beast",
-            "number": 915,
-            "image": "",
-            "expansion": 512,
-            "house": "untamed",
-            "keywords": [
-                "skirmish"
-            ],
-            "traits": [
-                "mutant",
-                "beast"
-            ],
-            "type": "creature",
-            "rarity": "Variant",
-            "amber": 0,
-            "armor": 0,
-            "power": 3,
-            "text": "Skirmish.\nDestroyed: Steal 1A.\n??? Interpolated",
-            "locale": {
-                "en": {
-                    "name": "Dæmo-Beast"
-                }
-            }
-        },
-        {
-            "id": "dino-beast",
-            "name": "Dino-Beast",
-            "number": 916,
-            "image": "",
-            "expansion": 512,
-            "house": "untamed",
-            "keywords": [
-                "skirmish"
-            ],
-            "traits": [
-                "mutant",
-                "beast"
-            ],
-            "type": "creature",
-            "rarity": "Variant",
-            "amber": 0,
-            "armor": 0,
-            "power": 5,
-            "text": "Skirmish.\nPlay: You may exalt Dino-Beast. If you do, deal 3D to a creature.\n??? Interpolated",
-            "locale": {
-                "en": {
-                    "name": "Dino-Beast"
-                }
-            }
-        },
-        {
             "id": "dæmo-thief",
             "name": "Dæmo-Thief",
-            "number": 918,
+            "number": 910,
             "image": "",
             "expansion": 512,
             "house": "shadows",
@@ -2943,6 +4203,54 @@
             "locale": {
                 "en": {
                     "name": "Dæmo-Thief"
+                }
+            }
+        },
+        {
+            "id": "dæmo-knight",
+            "name": "Dæmo-Knight",
+            "number": 911,
+            "image": "",
+            "expansion": 512,
+            "house": "sanctum",
+            "keywords": [],
+            "traits": [
+                "mutant",
+                "knight"
+            ],
+            "type": "creature",
+            "rarity": "Variant",
+            "amber": 0,
+            "armor": 2,
+            "power": 4,
+            "text": "Destroyed: Steal 1A.\n??? (Interpolated)",
+            "locale": {
+                "en": {
+                    "name": "Dæmo-Knight"
+                }
+            }
+        },
+        {
+            "id": "dæmo-morph",
+            "name": "Dæmo-MORPH???",
+            "number": 917,
+            "image": "",
+            "expansion": 512,
+            "house": "staralliance",
+            "keywords": [],
+            "traits": [
+                "mutant",
+                "alien"
+            ],
+            "type": "creature",
+            "rarity": "Variant",
+            "amber": 0,
+            "armor": 0,
+            "power": 3,
+            "text": "Fight: Look at 3 top cards of your deck. Add 1 to your hand and put 1 at the bottom of your deck.\nDestroyed: Steal 1A.\n??? (Interpolated, 'MORPH' is a placeholder)",
+            "locale": {
+                "en": {
+                    "name": "Dæmo-MORPH???"
                 }
             }
         }
