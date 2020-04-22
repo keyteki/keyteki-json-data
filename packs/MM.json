@@ -1591,7 +1591,7 @@
             "rarity": "Rare",
             "amber": 0,
             "armor": 0,
-            "power": 0,
+            "power": 20,
             "text": "(Play only with the other half of Deusillus.)\nPlay:  Capture all of your opponent's A.  Deal 5D to an enemy creature.\nFight/Reap:  Move 1A from Deusillus to the common supply.  Deal 2 to each enemy creature.",
             "locale": {
                 "en": {
@@ -2849,6 +2849,29 @@
             "id": "ultra-graviton",
             "name": "Ultra Graviton",
             "number": 913,
+            "image": "spoiler-imgs/512/ultra-graviton.jpg",
+            "expansion": 512,
+            "house": "logos",
+            "keywords": [],
+            "traits": [
+                "robot"
+            ],
+            "type": "creature",
+            "rarity": "Rare",
+            "amber": 0,
+            "armor": 3,
+            "power": 10,
+            "text": "(Play only with the other half of Ultra Graviton.)\nPlay: Archive the top 5 cards of your deck.\nFight/Reap: Discard a card from your archive. If you do, purge a creature and resolve its bonus icons as if you just played it.",
+            "locale": {
+                "en": {
+                    "name": "Ultra Graviton"
+                }
+            }
+        },
+        {
+            "id": "ultra-graviton-2",
+            "name": "Ultra Graviton",
+            "number": 1001,
             "image": "spoiler-imgs/512/ultra-graviton.jpg",
             "expansion": 512,
             "house": "logos",
