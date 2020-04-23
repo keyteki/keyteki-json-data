@@ -1747,7 +1747,7 @@
             "expansion": 512,
             "house": "shadows",
             "keywords": [
-                "elusive\naction::steal 2a"
+                "elusive"
             ],
             "traits": [
                 "elf",
