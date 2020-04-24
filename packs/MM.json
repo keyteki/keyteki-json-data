@@ -2574,7 +2574,7 @@
             "expansion": 512,
             "house": "shadows",
             "keywords": [
-                "elusive\naction::steal 2a"
+                "elusive"
             ],
             "traits": [
                 "elf",
@@ -4061,6 +4061,30 @@
             "id": "niffle-kong",
             "name": "Niffle Kong",
             "number": "422",
+            "image": "spoiler-imgs/512/niffle-kong.jpg",
+            "expansion": 512,
+            "house": "untamed",
+            "keywords": [],
+            "traits": [
+                "mutant",
+                "niffle"
+            ],
+            "type": "creature",
+            "rarity": "Rare",
+            "amber": 0,
+            "armor": 0,
+            "power": 12,
+            "text": "(Play only with the other half of Niffle Kong.)\nPlay: Search your deck and discard pile for all Niffle creatures, reveal them, and put them into your hand.\nFight/Reap: Destroy a friendly Niffle. If you do, deal 3D to a creature, steal 1A, and  destroy an artifact controlled by your opponent.",
+            "locale": {
+                "en": {
+                    "name": "Niffle Kong"
+                }
+            }
+        },
+        {
+            "id": "niffle-kong-2",
+            "name": "Niffle Kong",
+            "number": "1003",
             "image": "spoiler-imgs/512/niffle-kong.jpg",
             "expansion": 512,
             "house": "untamed",
