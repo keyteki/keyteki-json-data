@@ -2163,7 +2163,7 @@
                 "human",
                 "robot"
             ],
-            "type": "action",
+            "type": "creature",
             "rarity": "Uncommon",
             "amber": 0,
             "armor": null,
