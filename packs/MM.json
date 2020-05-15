@@ -2276,7 +2276,7 @@
         },
         {
             "id": "beware-the-ides",
-            "name": "Beware the Ides???",
+            "name": "Beware the Ides",
             "number": "184",
             "image": "spoiler-imgs/512/ides-of-march.jpg",
             "expansion": 512,
@@ -2290,10 +2290,33 @@
             "amber": 1,
             "armor": null,
             "power": null,
-            "text": "Play: Deal 23D to a creature in the center of a battleline. ??? (Translated from Polish.)",
+            "text": "Play: Deal 23D to a creature in the center of its controller's battleline.",
             "locale": {
                 "en": {
-                    "name": "Beware the Ides???"
+                    "name": "Beware the Ides"
+                }
+            }
+        },
+        {
+            "id": "citizen-shrix",
+            "name": "Citizen Shrix",
+            "number": "186",
+            "image": "spoiler-imgs/512/citizen-shrix.jpg",
+            "expansion": 512,
+            "house": "saurian",
+            "keywords": [],
+            "traits": [
+                "mutant"
+            ],
+            "type": "creature",
+            "rarity": "Common",
+            "amber": 0,
+            "armor": 0,
+            "power": 3,
+            "text": "Play/Reap: Exalt Citizen Shrix. Steal 1A.",
+            "locale": {
+                "en": {
+                    "name": "Citizen Shrix"
                 }
             }
         },
@@ -2318,6 +2341,76 @@
             "locale": {
                 "en": {
                     "name": "Consul Primus"
+                }
+            }
+        },
+        {
+            "id": "cornicen-octavia",
+            "name": "Cornicen Octavia",
+            "number": "188",
+            "image": "spoiler-imgs/512/cornicen-octavia.jpg",
+            "expansion": 512,
+            "house": "saurian",
+            "keywords": [],
+            "traits": [
+                "dinosaur",
+                "soldier"
+            ],
+            "type": "creature",
+            "rarity": "Common",
+            "amber": 0,
+            "armor": 1,
+            "power": 5,
+            "text": "Action: Capture 2A.",
+            "locale": {
+                "en": {
+                    "name": "Cornicen Octavia"
+                }
+            }
+        },
+        {
+            "id": "curse-of-vanity",
+            "name": "Curse of Vanity",
+            "number": "189",
+            "image": "spoiler-imgs/512/curse-of-vanity.jpg",
+            "expansion": 512,
+            "house": "saurian",
+            "keywords": [],
+            "traits": [
+                ""
+            ],
+            "type": "action",
+            "rarity": "Common",
+            "amber": 1,
+            "armor": null,
+            "power": null,
+            "text": "Play: Exalt a friendly creature and an enemy creature.",
+            "locale": {
+                "en": {
+                    "name": "Curse of Vanity"
+                }
+            }
+        },
+        {
+            "id": "defense-initiative",
+            "name": "Defense Initiative",
+            "number": "191",
+            "image": "spoiler-imgs/512/defense-initiative.jpg",
+            "expansion": 512,
+            "house": "saurian",
+            "keywords": [],
+            "traits": [
+                ""
+            ],
+            "type": "action",
+            "rarity": "Common",
+            "amber": 0,
+            "armor": null,
+            "power": null,
+            "text": "Play: Ward a creature. You may exalt that creature. If you exalt it, ward its neighbors.",
+            "locale": {
+                "en": {
+                    "name": "Defense Initiative"
                 }
             }
         },
@@ -2368,6 +2461,29 @@
             }
         },
         {
+            "id": "sagittarii-s-gaze",
+            "name": "Sagittarii's Gaze",
+            "number": "196",
+            "image": "spoiler-imgs/512/sagittariis-gaze.jpg",
+            "expansion": 512,
+            "house": "saurian",
+            "keywords": [],
+            "traits": [
+                ""
+            ],
+            "type": "action",
+            "rarity": "Common",
+            "amber": 1,
+            "armor": null,
+            "power": null,
+            "text": "Enhance D.\nPlay: Exalt a damaged creature.",
+            "locale": {
+                "en": {
+                    "name": "Sagittarii's Gaze"
+                }
+            }
+        },
+        {
             "id": "spoils-of-battle",
             "name": "Spoils of Battle",
             "number": "197",
@@ -2387,6 +2503,100 @@
             "locale": {
                 "en": {
                     "name": "Spoils of Battle"
+                }
+            }
+        },
+        {
+            "id": "curia-saurus",
+            "name": "Curia Saurus",
+            "number": "202",
+            "image": "spoiler-imgs/512/curia-saurus.jpg",
+            "expansion": 512,
+            "house": "saurian",
+            "keywords": [],
+            "traits": [
+                "location"
+            ],
+            "type": "artifact",
+            "rarity": "Uncommon",
+            "amber": 0,
+            "armor": null,
+            "power": null,
+            "text": "Each creature with A on it gains, \"Destroyed: move 1A from this creature to the most powerful enemy creature.\"",
+            "locale": {
+                "en": {
+                    "name": "Curia Saurus"
+                }
+            }
+        },
+        {
+            "id": "dark-centurion",
+            "name": "Dark Centurion",
+            "number": "203",
+            "image": "spoiler-imgs/512/dark-centurion.jpg",
+            "expansion": 512,
+            "house": "saurian",
+            "keywords": [],
+            "traits": [
+                "mutant",
+                "soldier"
+            ],
+            "type": "creature",
+            "rarity": "Uncommon",
+            "amber": 0,
+            "armor": 0,
+            "power": 5,
+            "text": "Enhance Capture Capture.\nAction:  Move 1A from a creature to the common supply.  If you do, ward that creature.",
+            "locale": {
+                "en": {
+                    "name": "Dark Centurion"
+                }
+            }
+        },
+        {
+            "id": "dreadbone-decimus",
+            "name": "Dreadbone Decimus",
+            "number": "204",
+            "image": "spoiler-imgs/512/dreadbone-decimus.jpg",
+            "expansion": 512,
+            "house": "saurian",
+            "keywords": [],
+            "traits": [
+                "dinosaur",
+                "assassin"
+            ],
+            "type": "creature",
+            "rarity": "Uncommon",
+            "amber": 0,
+            "armor": 0,
+            "power": 5,
+            "text": "Play/Fight: You may exalt Dreadbone Decimus.  If you do, destroy a creature with lower power than Dreadbone Decimus.",
+            "locale": {
+                "en": {
+                    "name": "Dreadbone Decimus"
+                }
+            }
+        },
+        {
+            "id": "gladiodontus",
+            "name": "Gladiodontus",
+            "number": "206",
+            "image": "spoiler-imgs/512/gladiodontus.jpg",
+            "expansion": 512,
+            "house": "saurian",
+            "keywords": [],
+            "traits": [
+                "mutant"
+            ],
+            "type": "creature",
+            "rarity": "Uncommon",
+            "amber": 0,
+            "armor": 0,
+            "power": 15,
+            "text": "Gladiodontus enters play stunned.\nGladiodontus only deals 5D when fighting.\nFight/Reap: If this is the first time Gladiodontus has been used this turn, ready and enrage it.",
+            "locale": {
+                "en": {
+                    "name": "Gladiodontus"
                 }
             }
         },
@@ -2461,6 +2671,53 @@
             }
         },
         {
+            "id": "senator-quintina",
+            "name": "Senator Quintina",
+            "number": "211",
+            "image": "spoiler-imgs/512/senator-quintina.jpg",
+            "expansion": 512,
+            "house": "saurian",
+            "keywords": [],
+            "traits": [
+                "dinosaur",
+                "politician"
+            ],
+            "type": "creature",
+            "rarity": "Uncommon",
+            "amber": 0,
+            "armor": 0,
+            "power": 5,
+            "text": "After a creature reaps, exalt it.",
+            "locale": {
+                "en": {
+                    "name": "Senator Quintina"
+                }
+            }
+        },
+        {
+            "id": "siren-horn",
+            "name": "Siren Horn",
+            "number": "212",
+            "image": "spoiler-imgs/512/siren-horn.jpg",
+            "expansion": 512,
+            "house": "saurian",
+            "keywords": [],
+            "traits": [
+                ""
+            ],
+            "type": "upgrade",
+            "rarity": "Uncommon",
+            "amber": 1,
+            "armor": null,
+            "power": null,
+            "text": "This creature gains, \"Before Fight: Move 1A from this creature to the creature it fights.\"",
+            "locale": {
+                "en": {
+                    "name": "Siren Horn"
+                }
+            }
+        },
+        {
             "id": "amphora-captura",
             "name": "Amphora Captura",
             "number": "215",
@@ -2480,6 +2737,172 @@
             "locale": {
                 "en": {
                     "name": "Amphora Captura"
+                }
+            }
+        },
+        {
+            "id": "high-priest-torvus",
+            "name": "High Priest Torvus",
+            "number": "222",
+            "image": "spoiler-imgs/512/high-priest-torvus.jpg",
+            "expansion": 512,
+            "house": "saurian",
+            "keywords": [],
+            "traits": [
+                "dinosaur",
+                "priest"
+            ],
+            "type": "creature",
+            "rarity": "Rare",
+            "amber": 0,
+            "armor": 1,
+            "power": 4,
+            "text": "Reap: You may exalt High Priest Torvus. If you do, after you resolve your next action card this turn, return it to your hand instead of placing it in your discarding pile.",
+            "locale": {
+                "en": {
+                    "name": "High Priest Torvus"
+                }
+            }
+        },
+        {
+            "id": "legion-s-march",
+            "name": "Legion's March",
+            "number": "224",
+            "image": "spoiler-imgs/512/legions-march.jpg",
+            "expansion": 512,
+            "house": "saurian",
+            "keywords": [],
+            "traits": [
+                ""
+            ],
+            "type": "action",
+            "rarity": "Rare",
+            "amber": 1,
+            "armor": null,
+            "power": null,
+            "text": "Play: For the remainder of the turn, after you use a Dinosaur creature, deal 1D to each non-Dinosaur creature.",
+            "locale": {
+                "en": {
+                    "name": "Legion's March"
+                }
+            }
+        },
+        {
+            "id": "nerotaurus",
+            "name": "Nerotaurus",
+            "number": "225",
+            "image": "spoiler-imgs/512/nerotaurus.jpg",
+            "expansion": 512,
+            "house": "saurian",
+            "keywords": [],
+            "traits": [
+                "dinosaur",
+                "politician"
+            ],
+            "type": "creature",
+            "rarity": "Rare",
+            "amber": 0,
+            "armor": 0,
+            "power": 6,
+            "text": "Fight: Enemy creatures cannot reap during your opponent's next turn.\nReap:  Enemy creatures cannot fight during your opponent's next turn.",
+            "locale": {
+                "en": {
+                    "name": "Nerotaurus"
+                }
+            }
+        },
+        {
+            "id": "optio-gorkus",
+            "name": "Optio Gorkus",
+            "number": "226",
+            "image": "spoiler-imgs/512/optio-gorkus.jpeg",
+            "expansion": 512,
+            "house": "saurian",
+            "keywords": [
+                "elusive"
+            ],
+            "traits": [
+                "dinosaur",
+                "soldier"
+            ],
+            "type": "creature",
+            "rarity": "Rare",
+            "amber": 0,
+            "armor": 3,
+            "power": 3,
+            "text": "Elusive.\nEach of Optio Gorkus's neighbors gains, \"Destroyed: Move each A on this creature to a neighboring Optio Gorkus.\"",
+            "locale": {
+                "en": {
+                    "name": "Optio Gorkus"
+                }
+            }
+        },
+        {
+            "id": "patronage",
+            "name": "Patronage",
+            "number": "227",
+            "image": "spoiler-imgs/512/patronage.jpg",
+            "expansion": 512,
+            "house": "saurian",
+            "keywords": [],
+            "traits": [
+                ""
+            ],
+            "type": "action",
+            "rarity": "Rare",
+            "amber": 0,
+            "armor": null,
+            "power": null,
+            "text": "Play: Move half the A from a creature to your pool (rounding up).  Move the remaining A from that creature to your opponent's pool.",
+            "locale": {
+                "en": {
+                    "name": "Patronage"
+                }
+            }
+        },
+        {
+            "id": "scylla",
+            "name": "Scylla",
+            "number": "230",
+            "image": "spoiler-imgs/512/scylla.jpg",
+            "expansion": 512,
+            "house": "saurian",
+            "keywords": [],
+            "traits": [
+                "beast"
+            ],
+            "type": "creature",
+            "rarity": "Rare",
+            "amber": 0,
+            "armor": 0,
+            "power": 7,
+            "text": "Each enemy creature gains, \"Reap: Deal 4D to this creature.\"",
+            "locale": {
+                "en": {
+                    "name": "Scylla"
+                }
+            }
+        },
+        {
+            "id": "charybdis",
+            "name": "Charybdis",
+            "number": "234",
+            "image": "spoiler-imgs/512/charybdis.jpg",
+            "expansion": 512,
+            "house": "saurian",
+            "keywords": [],
+            "traits": [
+                "beast"
+            ],
+            "type": "creature",
+            "rarity": "FIXED",
+            "amber": 0,
+            "armor": 0,
+            "power": 7,
+            "text": "Each enemy creature gains, \"Before Fight: Lose 1A.\"",
+            "locale": {
+                "en": {
+                    "name": "Charybdis"
                 }
             }
         },
@@ -2525,7 +2948,7 @@
             "amber": 0,
             "armor": null,
             "power": null,
-            "text": "Action: Move 1A from a friendly creature to another creature.  If Consul Primus is in your discard pile, move 1A from a creature to another creature instead.",
+            "text": "Action: Move 1A from a friendly creature to another friendly creature.  If Consul Primus is in your discard pile, move 1A from a creature to another creature instead.",
             "locale": {
                 "en": {
                     "name": "Monument to Primus"
@@ -2599,7 +3022,7 @@
             "amber": 0,
             "armor": 0,
             "power": 4,
-            "text": "Elusive.\nPlay: You may exalt Umbra-Saurus. If you do, deal 3D to a creature.\n??? (Interpolated)",
+            "text": "Elusive.\nPlay: You may exalt Umbra-Saurus. If you do, deal 3D to a creature.\n??? (Polish)",
             "locale": {
                 "en": {
                     "name": "Umbra-Saurus"
@@ -2607,7 +3030,30 @@
             }
         },
         {
-            "id": "deusillus",
+            "id": "xeno-saurus",
+            "name": "Xeno-Saurus",
+            "number": "243",
+            "image": "spoiler-imgs/512/xenosaurus.jpg",
+            "expansion": 512,
+            "house": "saurian",
+            "keywords": [],
+            "traits": [
+                "mutant",
+                "dinosaur"
+            ],
+            "type": "creature",
+            "rarity": "Variant",
+            "amber": 0,
+            "armor": 0,
+            "power": 5,
+            "text": "Play: You may exalt Xeno-Saurus. If you do, deal 3D to a creature.\nFight: Look at 3 top cards of your deck.  Put 1 into your hand and put 1 at the bottom of your deck.",
+            "locale": {
+                "en": {
+                    "name": "Xeno-Saurus"
+                }
+            }
+        },
+        {
             "name": "Deusillus",
             "number": "244",
             "image": "spoiler-imgs/512/deusillus.png",
@@ -4923,30 +5369,6 @@
             "locale": {
                 "en": {
                     "name": "Niffle Kong"
-                }
-            }
-        },
-        {
-            "id": "dark-centurion",
-            "name": "Dark Centurion",
-            "number": 907,
-            "image": "spoiler-imgs/512/dark-centurion.png",
-            "expansion": 512,
-            "house": "saurian",
-            "keywords": [],
-            "traits": [
-                "mutant",
-                "soldier"
-            ],
-            "type": "creature",
-            "rarity": null,
-            "amber": 0,
-            "armor": 0,
-            "power": 5,
-            "text": "Enhance Capture Capture.\nAction:  Move 1A from a creature to the common supply.  If you do, ward that creature.",
-            "locale": {
-                "en": {
-                    "name": "Dark Centurion"
                 }
             }
         },
