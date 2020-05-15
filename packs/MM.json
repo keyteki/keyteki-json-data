@@ -1737,6 +1737,29 @@
             }
         },
         {
+            "id": "burning-glare",
+            "name": "Burning Glare",
+            "number": "128",
+            "image": "spoiler-imgs/512/burning-glare.jpg",
+            "expansion": 512,
+            "house": "sanctum",
+            "keywords": [],
+            "traits": [
+                ""
+            ],
+            "type": "action",
+            "rarity": "Common",
+            "amber": 1,
+            "armor": null,
+            "power": null,
+            "text": "Enhance D.\nPlay: Stun an enemy creature, or stun all enemy Mutant creatures.",
+            "locale": {
+                "en": {
+                    "name": "Burning Glare"
+                }
+            }
+        },
+        {
             "id": "commandeer",
             "name": "Commandeer",
             "number": "131",
@@ -1854,6 +1877,30 @@
             }
         },
         {
+            "id": "lieutenant-gorvenal",
+            "name": "Lieutenant Gorvenal",
+            "number": "137",
+            "image": "spoiler-imgs/512/lieutenant-gorvenal.jpg",
+            "expansion": 512,
+            "house": "sanctum",
+            "keywords": [],
+            "traits": [
+                "spirit",
+                "knight"
+            ],
+            "type": "creature",
+            "rarity": "Common",
+            "amber": 1,
+            "armor": 1,
+            "power": 4,
+            "text": "After you fight with a creature, Lieutenant Gorvenal captures 1A.",
+            "locale": {
+                "en": {
+                    "name": "Lieutenant Gorvenal"
+                }
+            }
+        },
+        {
             "id": "seeker-of-truth",
             "name": "Seeker of Truth",
             "number": "138",
@@ -1900,6 +1947,76 @@
             }
         },
         {
+            "id": "æmberheart",
+            "name": "Æmberheart",
+            "number": "142",
+            "image": "spoiler-imgs/512/mberheart.jpg",
+            "expansion": 512,
+            "house": "sanctum",
+            "keywords": [],
+            "traits": [
+                "item"
+            ],
+            "type": "artifact",
+            "rarity": "Uncommon",
+            "amber": 0,
+            "armor": null,
+            "power": null,
+            "text": "Action: Exalt, ward and fully heal a friendly creature.",
+            "locale": {
+                "en": {
+                    "name": "Æmberheart"
+                }
+            }
+        },
+        {
+            "id": "angry-mob",
+            "name": "Angry Mob",
+            "number": "143",
+            "image": "spoiler-imgs/512/angry-mob.jpg",
+            "expansion": 512,
+            "house": "sanctum",
+            "keywords": [],
+            "traits": [
+                "human"
+            ],
+            "type": "creature",
+            "rarity": "Uncommon",
+            "amber": 0,
+            "armor": 0,
+            "power": 4,
+            "text": "Before Fight: You may discard cards from the top of your deck until you either discard an Angry Mob or run out of cards. If you discarded an Angry Mob this way, put it in your hand.",
+            "locale": {
+                "en": {
+                    "name": "Angry Mob"
+                }
+            }
+        },
+        {
+            "id": "baldric-the-bold",
+            "name": "Baldric the Bold",
+            "number": "144",
+            "image": "spoiler-imgs/512/baldric-the-bold.jpg",
+            "expansion": 512,
+            "house": "sanctum",
+            "keywords": [],
+            "traits": [
+                "human",
+                "knight"
+            ],
+            "type": "creature",
+            "rarity": "Uncommon",
+            "amber": 0,
+            "armor": 2,
+            "power": 4,
+            "text": "Before Fight: If the creature Baldric the Bold fights is the most powerful enemy creature, gain 2A.",
+            "locale": {
+                "en": {
+                    "name": "Baldric the Bold"
+                }
+            }
+        },
+        {
             "id": "berinon",
             "name": "Berinon",
             "number": "146",
@@ -1924,6 +2041,75 @@
             }
         },
         {
+            "id": "bring-low",
+            "name": "Bring Low",
+            "number": "147",
+            "image": "spoiler-imgs/512/bring-low.jpg",
+            "expansion": 512,
+            "house": "sanctum",
+            "keywords": [],
+            "traits": [
+                ""
+            ],
+            "type": "action",
+            "rarity": "Uncommon",
+            "amber": 1,
+            "armor": null,
+            "power": null,
+            "text": "Enhance Capture.\nPlay: Capture all but 5 of your opponent's A, distributed among any number of friendly creatures.",
+            "locale": {
+                "en": {
+                    "name": "Bring Low"
+                }
+            }
+        },
+        {
+            "id": "gizelhart-s-standard",
+            "name": "Gizelhart's Standard",
+            "number": "150",
+            "image": "spoiler-imgs/512/gizelharts-standard.jpg",
+            "expansion": 512,
+            "house": "sanctum",
+            "keywords": [],
+            "traits": [
+                "item"
+            ],
+            "type": "artifact",
+            "rarity": "Uncommon",
+            "amber": 1,
+            "armor": null,
+            "power": null,
+            "text": "Each friendly creature with A on it gets +1 armor.\nPlay: Exalt a friendly creature.",
+            "locale": {
+                "en": {
+                    "name": "Gizelhart's Standard"
+                }
+            }
+        },
+        {
+            "id": "purify",
+            "name": "Purify",
+            "number": "153",
+            "image": "spoiler-imgs/512/purify.jpg",
+            "expansion": 512,
+            "house": "sanctum",
+            "keywords": [],
+            "traits": [
+                ""
+            ],
+            "type": "action",
+            "rarity": "Uncommon",
+            "amber": 1,
+            "armor": null,
+            "power": null,
+            "text": "Play: Purge a Mutant creature.  If you do, discard cards from the top of its controller's deck until you discard a non-Mutant creature or run out of cards.  If you discard a non-Mutant creature this way, put it into play under its owner's control.",
+            "locale": {
+                "en": {
+                    "name": "Purify"
+                }
+            }
+        },
+        {
             "id": "scrivener-favian",
             "name": "Scrivener Favian",
             "number": "155",
@@ -1943,6 +2129,53 @@
             "locale": {
                 "en": {
                     "name": "Scrivener Favian"
+                }
+            }
+        },
+        {
+            "id": "book-of-malefaction",
+            "name": "Book of Malefaction",
+            "number": "159",
+            "image": "spoiler-imgs/512/book-of-malefaction.jpg",
+            "expansion": 512,
+            "house": "sanctum",
+            "keywords": [],
+            "traits": [
+                "item",
+                "law"
+            ],
+            "type": "artifact",
+            "rarity": "Rare",
+            "amber": 1,
+            "armor": null,
+            "power": null,
+            "text": "After your A is stolen, put a warrant counter on Book of Makefaction for each A stolen.\nOmni: Remove a warrant counter from Book of Malefaction.  If you do, purge a creature.",
+            "locale": {
+                "en": {
+                    "name": "Book of Malefaction"
+                }
+            }
+        },
+        {
+            "id": "call-to-action",
+            "name": "Call to Action",
+            "number": "160",
+            "image": "spoiler-imgs/512/call-to-action.jpg",
+            "expansion": 512,
+            "house": "sanctum",
+            "keywords": [],
+            "traits": [
+                ""
+            ],
+            "type": "action",
+            "rarity": "Rare",
+            "amber": 0,
+            "armor": null,
+            "power": null,
+            "text": "Play: Ready each friendly Knight creature.",
+            "locale": {
+                "en": {
+                    "name": "Call to Action"
                 }
             }
         },
@@ -1990,6 +2223,54 @@
             "locale": {
                 "en": {
                     "name": "Mad Prophet Gizelhart"
+                }
+            }
+        },
+        {
+            "id": "master-of-the-grey",
+            "name": "Master of the Grey",
+            "number": "169",
+            "image": "spoiler-imgs/512/master-of-the-grey.jpg",
+            "expansion": 512,
+            "house": "sanctum",
+            "keywords": [],
+            "traits": [
+                "human",
+                "monk"
+            ],
+            "type": "creature",
+            "rarity": "Rare",
+            "amber": 0,
+            "armor": 1,
+            "power": 4,
+            "text": "You opponent cannot resolve bonus icons on cards they play.",
+            "locale": {
+                "en": {
+                    "name": "Master of the Grey"
+                }
+            }
+        },
+        {
+            "id": "techno-knight",
+            "name": "Techno-Knight",
+            "number": "180",
+            "image": "spoiler-imgs/512/technoknight.jpg",
+            "expansion": 512,
+            "house": "sanctum",
+            "keywords": [],
+            "traits": [
+                "mutant",
+                "knight"
+            ],
+            "type": "creature",
+            "rarity": "Variant",
+            "amber": 0,
+            "armor": 2,
+            "power": 5,
+            "text": "Reap: Discard a card from your hand.  If you do, draw a card.",
+            "locale": {
+                "en": {
+                    "name": "Techno-Knight"
                 }
             }
         },
@@ -4213,29 +4494,6 @@
             "locale": {
                 "en": {
                     "name": "Observ-u-Max"
-                }
-            }
-        },
-        {
-            "id": "rapid-evolution",
-            "name": "Rapid Evolution",
-            "number": 903,
-            "image": "spoiler-imgs/512/rapid-evolution.png",
-            "expansion": 512,
-            "house": "untamed",
-            "keywords": [],
-            "traits": [
-                ""
-            ],
-            "type": "action",
-            "rarity": null,
-            "amber": 1,
-            "armor": null,
-            "power": null,
-            "text": "Play: Choose a creature.  Give it a +1 power counter for each ??? (A on it?)",
-            "locale": {
-                "en": {
-                    "name": "Rapid Evolution"
                 }
             }
         },
