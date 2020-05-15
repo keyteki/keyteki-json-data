@@ -3424,6 +3424,100 @@
             }
         },
         {
+            "id": "crewman-jörg",
+            "name": "Crewman Jörg",
+            "number": "305",
+            "image": "spoiler-imgs/512/crewman-jrg.jpg",
+            "expansion": 512,
+            "house": "staralliance",
+            "keywords": [],
+            "traits": [
+                "human",
+                "thief"
+            ],
+            "type": "creature",
+            "rarity": "Common",
+            "amber": 0,
+            "armor": 0,
+            "power": 3,
+            "text": "Enhance Capture.\nAction: If Crew Member York has no Star Alliance neighbors, steal 1A.",
+            "locale": {
+                "en": {
+                    "name": "Crewman Jörg"
+                }
+            }
+        },
+        {
+            "id": "dæmo-alien",
+            "name": "Dæmo-Alien",
+            "number": "306",
+            "image": "spoiler-imgs/512/dmoalien.jpg",
+            "expansion": 512,
+            "house": "staralliance",
+            "keywords": [],
+            "traits": [
+                "mutant",
+                "alien"
+            ],
+            "type": "creature",
+            "rarity": "Variant",
+            "amber": 0,
+            "armor": 0,
+            "power": 3,
+            "text": "Fight: Look at the top 3 cards of your deck.  Put 1 into your hand and 1 on the bottom of your deck.\nDestroyed: Steal 1A.",
+            "locale": {
+                "en": {
+                    "name": "Dæmo-Alien"
+                }
+            }
+        },
+        {
+            "id": "hadron-collision",
+            "name": "Hadron Collision",
+            "number": "308",
+            "image": "spoiler-imgs/512/hadron-collision.jpg",
+            "expansion": 512,
+            "house": "staralliance",
+            "keywords": [],
+            "traits": [
+                ""
+            ],
+            "type": "action",
+            "rarity": "Common",
+            "amber": 0,
+            "armor": null,
+            "power": null,
+            "text": "Play: Remove a ward from a creature and deal 3D to it. This damage cannot be prevented by armor.",
+            "locale": {
+                "en": {
+                    "name": "Hadron Collision"
+                }
+            }
+        },
+        {
+            "id": "observ-u-max",
+            "name": "Observ-u-Max",
+            "number": "309",
+            "image": "spoiler-imgs/512/observumax.jpg",
+            "expansion": 512,
+            "house": "staralliance",
+            "keywords": [],
+            "traits": [
+                ""
+            ],
+            "type": "upgrade",
+            "rarity": "Common",
+            "amber": 1,
+            "armor": null,
+            "power": null,
+            "text": "This creature gains, \"Fight/Reap:  Capture 1A.\"",
+            "locale": {
+                "en": {
+                    "name": "Observ-u-Max"
+                }
+            }
+        },
+        {
             "id": "scout-pete",
             "name": "Scout Pete",
             "number": "311",
@@ -3627,12 +3721,35 @@
             "type": "creature",
             "rarity": "Uncommon",
             "amber": 0,
-            "armor": null,
+            "armor": 0,
             "power": 5,
             "text": "Destroyed: Put each upgrade on Away Team into its owner's archives.",
             "locale": {
                 "en": {
                     "name": "Away Team"
+                }
+            }
+        },
+        {
+            "id": "detention-coil",
+            "name": "Detention Coil",
+            "number": "321",
+            "image": "spoiler-imgs/512/detention-coil.jpg",
+            "expansion": 512,
+            "house": "staralliance",
+            "keywords": [],
+            "traits": [
+                ""
+            ],
+            "type": "upgrade",
+            "rarity": "Uncommon",
+            "amber": 1,
+            "armor": null,
+            "power": null,
+            "text": "This creature cannot fight.",
+            "locale": {
+                "en": {
+                    "name": "Detention Coil"
                 }
             }
         },
@@ -3656,6 +3773,29 @@
             "locale": {
                 "en": {
                     "name": "Hayden Oswin"
+                }
+            }
+        },
+        {
+            "id": "lcdr-trigon",
+            "name": "LCdr. Trigon",
+            "number": "324",
+            "image": "spoiler-imgs/512/lcrd-trigon.jpg",
+            "expansion": 512,
+            "house": "staralliance",
+            "keywords": [],
+            "traits": [
+                "mutant"
+            ],
+            "type": "creature",
+            "rarity": "Uncommon",
+            "amber": 0,
+            "armor": 0,
+            "power": 4,
+            "text": "Reap: Discard the top card of your deck. Resolve that card's bonus icons as if you had played it.",
+            "locale": {
+                "en": {
+                    "name": "LCdr. Trigon"
                 }
             }
         },
@@ -3684,6 +3824,29 @@
             }
         },
         {
+            "id": "new-frontiers",
+            "name": "New Frontiers",
+            "number": "326",
+            "image": "spoiler-imgs/512/new-frontiers.jpg",
+            "expansion": 512,
+            "house": "staralliance",
+            "keywords": [],
+            "traits": [
+                ""
+            ],
+            "type": "action",
+            "rarity": "Uncommon",
+            "amber": 1,
+            "armor": null,
+            "power": null,
+            "text": "Play: Choose a house.  Reveal the top 3 cards of your deck.  Archive each card of the chosen house and discard the others.",
+            "locale": {
+                "en": {
+                    "name": "New Frontiers"
+                }
+            }
+        },
+        {
             "id": "particle-sweep",
             "name": "Particle Sweep",
             "number": "327",
@@ -3703,6 +3866,31 @@
             "locale": {
                 "en": {
                     "name": "Particle Sweep"
+                }
+            }
+        },
+        {
+            "id": "stealthster",
+            "name": "Stealthster",
+            "number": "329",
+            "image": "spoiler-imgs/512/stealthster.jpg",
+            "expansion": 512,
+            "house": "staralliance",
+            "keywords": [
+                "elusive"
+            ],
+            "traits": [
+                "robot"
+            ],
+            "type": "creature",
+            "rarity": "Uncommon",
+            "amber": 0,
+            "armor": 0,
+            "power": 3,
+            "text": "Elusive.\nStealthster may be played as an upgrade instead of a creature, with the text: “This creature gains elusive.”",
+            "locale": {
+                "en": {
+                    "name": "Stealthster"
                 }
             }
         },
@@ -3753,6 +3941,54 @@
             }
         },
         {
+            "id": "hapless-cadet",
+            "name": "Hapless Cadet",
+            "number": "345",
+            "image": "spoiler-imgs/512/hapless-trainee.jpg",
+            "expansion": 512,
+            "house": "staralliance",
+            "keywords": [
+                "taunt"
+            ],
+            "traits": [
+                "alien"
+            ],
+            "type": "creature",
+            "rarity": "Rare",
+            "amber": 0,
+            "armor": 0,
+            "power": 3,
+            "text": "Taunt.\nDestroyed: Your opponent loses 3A.",
+            "locale": {
+                "en": {
+                    "name": "Hapless Cadet"
+                }
+            }
+        },
+        {
+            "id": "j0n-cargo",
+            "name": "J.0.N. Cargo",
+            "number": "347",
+            "image": "spoiler-imgs/512/j0n-cargo.jpg",
+            "expansion": 512,
+            "house": "staralliance",
+            "keywords": [],
+            "traits": [
+                "robot"
+            ],
+            "type": "creature",
+            "rarity": "Rare",
+            "amber": 0,
+            "armor": 0,
+            "power": 1,
+            "text": "Reap: Discard the top card of your deck and reveal your hand.  Archive each card that shares a house with the discarded card.",
+            "locale": {
+                "en": {
+                    "name": "J.0.N. Cargo"
+                }
+            }
+        },
+        {
             "id": "matter-maker",
             "name": "Matter Maker",
             "number": "349",
@@ -3772,6 +4008,222 @@
             "locale": {
                 "en": {
                     "name": "Matter Maker"
+                }
+            }
+        },
+        {
+            "id": "z-force-agent-14",
+            "name": "Z-Force Agent 14",
+            "number": "353",
+            "image": "spoiler-imgs/512/zforce-agent-14.jpg",
+            "expansion": 512,
+            "house": "staralliance",
+            "keywords": [],
+            "traits": [
+                "cyborg"
+            ],
+            "type": "creature",
+            "rarity": "Rare",
+            "amber": 0,
+            "armor": 0,
+            "power": 5,
+            "text": "Fight: You gain 1A for each upgrade on Z-Force Agent 14.",
+            "locale": {
+                "en": {
+                    "name": "Z-Force Agent 14"
+                }
+            }
+        },
+        {
+            "id": "z-particle-tracker",
+            "name": "Z-Particle Tracker",
+            "number": "354",
+            "image": "spoiler-imgs/512/zparticle-tracker.jpg",
+            "expansion": 512,
+            "house": "staralliance",
+            "keywords": [],
+            "traits": [
+                ""
+            ],
+            "type": "upgrade",
+            "rarity": "FIXED",
+            "amber": 1,
+            "armor": null,
+            "power": null,
+            "text": "This creature gains, \"Fight: Search your deck for an upgrade and put it in your hand. Shuffle your deck.\"",
+            "locale": {
+                "en": {
+                    "name": "Z-Particle Tracker"
+                }
+            }
+        },
+        {
+            "id": "z-ray-blaster",
+            "name": "Z-Ray Blaster",
+            "number": "355",
+            "image": "spoiler-imgs/512/zray-blaster.jpg",
+            "expansion": 512,
+            "house": "staralliance",
+            "keywords": [],
+            "traits": [
+                ""
+            ],
+            "type": "upgrade",
+            "rarity": "FIXED",
+            "amber": 1,
+            "armor": null,
+            "power": null,
+            "text": "This creature gets +3 power and gains, \"Before Fight: Deal 3D to each neighbor of the creature this creature fights.\"",
+            "locale": {
+                "en": {
+                    "name": "Z-Ray Blaster"
+                }
+            }
+        },
+        {
+            "id": "z-wave-emitter",
+            "name": "Z-Wave Emitter",
+            "number": "356",
+            "image": "spoiler-imgs/512/zwave-emitter.jpg",
+            "expansion": 512,
+            "house": "staralliance",
+            "keywords": [],
+            "traits": [
+                ""
+            ],
+            "type": "upgrade",
+            "rarity": "FIXED",
+            "amber": 1,
+            "armor": null,
+            "power": null,
+            "text": "At the start of your turn, ward this creature.",
+            "locale": {
+                "en": {
+                    "name": "Z-Wave Emitter"
+                }
+            }
+        },
+        {
+            "id": "dino-alien",
+            "name": "Dino-Alien",
+            "number": "357",
+            "image": "spoiler-imgs/512/dinoalien.jpg",
+            "expansion": 512,
+            "house": "staralliance",
+            "keywords": [],
+            "traits": [
+                "mutant",
+                "alien"
+            ],
+            "type": "creature",
+            "rarity": "Variant",
+            "amber": 0,
+            "armor": 0,
+            "power": 5,
+            "text": "Play: You may exalt Dino-Alien. If you do, deal 3D to a creature.\nFight: Look at the top 3 cards of your deck.  Put 1 into your hand and 1 on the bottom of your deck.",
+            "locale": {
+                "en": {
+                    "name": "Dino-Alien"
+                }
+            }
+        },
+        {
+            "id": "lyco-alien",
+            "name": "Lyco-Alien",
+            "number": "358",
+            "image": "spoiler-imgs/512/lycoalien.jpg",
+            "expansion": 512,
+            "house": "staralliance",
+            "keywords": [
+                "skirmish"
+            ],
+            "traits": [
+                "mutant",
+                "alien"
+            ],
+            "type": "creature",
+            "rarity": "Variant",
+            "amber": 0,
+            "armor": 0,
+            "power": 4,
+            "text": "Skirmish.\nFight: Look at the top 3 cards of your deck.  Put 1 into your hand and 1 on the bottom of your deck.",
+            "locale": {
+                "en": {
+                    "name": "Lyco-Alien"
+                }
+            }
+        },
+        {
+            "id": "sacro-alien",
+            "name": "Sacro-Alien",
+            "number": "359",
+            "image": "spoiler-imgs/512/sacroalien.jpg",
+            "expansion": 512,
+            "house": "staralliance",
+            "keywords": [],
+            "traits": [
+                "mutant",
+                "alien"
+            ],
+            "type": "creature",
+            "rarity": "Variant",
+            "amber": 0,
+            "armor": 2,
+            "power": 5,
+            "text": "Fight: Look at the top 3 cards of your deck.  Put 1 into your hand and 1 on the bottom of your deck.",
+            "locale": {
+                "en": {
+                    "name": "Sacro-Alien"
+                }
+            }
+        },
+        {
+            "id": "techno-alien",
+            "name": "Techno-Alien",
+            "number": "360",
+            "image": "spoiler-imgs/512/technoalien.jpg",
+            "expansion": 512,
+            "house": "staralliance",
+            "keywords": [],
+            "traits": [
+                "mutant",
+                "alien"
+            ],
+            "type": "creature",
+            "rarity": "Variant",
+            "amber": 0,
+            "armor": 0,
+            "power": 4,
+            "text": "Fight: Look at the top 3 cards of your deck.  Put 1 into your hand and 1 on the bottom of your deck.\nReap: Discard a card from your hand.  If you do, draw a card.",
+            "locale": {
+                "en": {
+                    "name": "Techno-Alien"
+                }
+            }
+        },
+        {
+            "id": "umbra-alien",
+            "name": "Umbra-Alien",
+            "number": "361",
+            "image": "spoiler-imgs/512/umbraalien.jpg",
+            "expansion": 512,
+            "house": "staralliance",
+            "keywords": [
+                "elusive"
+            ],
+            "traits": [
+                "mutant",
+                "alien"
+            ],
+            "type": "creature",
+            "rarity": "Variant",
+            "amber": 0,
+            "armor": 0,
+            "power": 3,
+            "text": "Elusive.\nFight: Look at the top 3 cards of your deck.  Put 1 into your hand and 1 on the bottom of your deck.",
+            "locale": {
+                "en": {
+                    "name": "Umbra-Alien"
                 }
             }
         },
@@ -4471,29 +4923,6 @@
             "locale": {
                 "en": {
                     "name": "Niffle Kong"
-                }
-            }
-        },
-        {
-            "id": "observ-u-max",
-            "name": "Observ-u-Max",
-            "number": 902,
-            "image": "spoiler-imgs/512/observumax.png",
-            "expansion": 512,
-            "house": "staralliance",
-            "keywords": [],
-            "traits": [
-                ""
-            ],
-            "type": "upgrade",
-            "rarity": null,
-            "amber": 1,
-            "armor": null,
-            "power": null,
-            "text": "This creature gains, \"Fight/Reap:  Capture 1A.\"",
-            "locale": {
-                "en": {
-                    "name": "Observ-u-Max"
                 }
             }
         },
