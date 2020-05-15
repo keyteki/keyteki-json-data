@@ -2372,6 +2372,56 @@
             }
         },
         {
+            "id": "bo-nithing",
+            "name": "Bo Nithing",
+            "number": "245",
+            "image": "spoiler-imgs/512/bo-nithing.jpg",
+            "expansion": 512,
+            "house": "shadows",
+            "keywords": [],
+            "traits": [
+                "elf",
+                "thief"
+            ],
+            "type": "creature",
+            "rarity": "Common",
+            "amber": 0,
+            "armor": 0,
+            "power": 2,
+            "text": "Play: Steal 1A for each forged key your opponent has.",
+            "locale": {
+                "en": {
+                    "name": "Bo Nithing"
+                }
+            }
+        },
+        {
+            "id": "dæmo-thief",
+            "name": "Dæmo-Thief",
+            "number": "246",
+            "image": "spoiler-imgs/512/dmothief.jpg",
+            "expansion": 512,
+            "house": "shadows",
+            "keywords": [
+                "elusive"
+            ],
+            "traits": [
+                "mutant",
+                "thief"
+            ],
+            "type": "creature",
+            "rarity": "Variant",
+            "amber": 0,
+            "armor": 0,
+            "power": 2,
+            "text": "Elusive.\nDestroyed: Steal 1A.",
+            "locale": {
+                "en": {
+                    "name": "Dæmo-Thief"
+                }
+            }
+        },
+        {
             "id": "dark-wave",
             "name": "Dark Wave",
             "number": "247",
@@ -2387,10 +2437,36 @@
             "amber": 1,
             "armor": null,
             "power": null,
-            "text": "Play: Deal 2A to each non‑Mutant creature.",
+            "text": "Play: Deal 2D to each non‑Mutant creature.",
             "locale": {
                 "en": {
                     "name": "Dark Wave"
+                }
+            }
+        },
+        {
+            "id": "francis-the-economist",
+            "name": "Francis the “Economist”",
+            "number": "248",
+            "image": "spoiler-imgs/512/francis-the-economist.jpg",
+            "expansion": 512,
+            "house": "shadows",
+            "keywords": [
+                "skirmish"
+            ],
+            "traits": [
+                "elf",
+                "thief"
+            ],
+            "type": "creature",
+            "rarity": "Common",
+            "amber": 0,
+            "armor": 0,
+            "power": 3,
+            "text": "Skirmish.\nFight: Each player gains 1A.",
+            "locale": {
+                "en": {
+                    "name": "Francis the “Economist”"
                 }
             }
         },
@@ -2418,6 +2494,53 @@
             }
         },
         {
+            "id": "mutant-cutpurse",
+            "name": "Mutant Cutpurse",
+            "number": "252",
+            "image": "spoiler-imgs/512/mutant-cutpurse.jpg",
+            "expansion": 512,
+            "house": "shadows",
+            "keywords": [],
+            "traits": [
+                "mutant",
+                "thief"
+            ],
+            "type": "creature",
+            "rarity": "Common",
+            "amber": 0,
+            "armor": 0,
+            "power": 3,
+            "text": "Enhance D D D.",
+            "locale": {
+                "en": {
+                    "name": "Mutant Cutpurse"
+                }
+            }
+        },
+        {
+            "id": "opportunist",
+            "name": "Opportunist",
+            "number": "254",
+            "image": "spoiler-imgs/512/opportunist.jpg",
+            "expansion": 512,
+            "house": "shadows",
+            "keywords": [],
+            "traits": [
+                ""
+            ],
+            "type": "upgrade",
+            "rarity": "Common",
+            "amber": 1,
+            "armor": null,
+            "power": null,
+            "text": "This creature gains Elusive.\nPlay: This creature captures 1A from its opponent.",
+            "locale": {
+                "en": {
+                    "name": "Opportunist"
+                }
+            }
+        },
+        {
             "id": "rad-penny",
             "name": "Rad Penny",
             "number": "255",
@@ -2438,6 +2561,31 @@
             "locale": {
                 "en": {
                     "name": "Rad Penny"
+                }
+            }
+        },
+        {
+            "id": "shoulder-id",
+            "name": "Shoulder Id",
+            "number": "257",
+            "image": "spoiler-imgs/512/shoulder-id.jpg",
+            "expansion": 512,
+            "house": "shadows",
+            "keywords": [
+                "taunt"
+            ],
+            "traits": [
+                "specter"
+            ],
+            "type": "creature",
+            "rarity": "Common",
+            "amber": 0,
+            "armor": 0,
+            "power": 6,
+            "text": "Taunt.\nShoulder Id cannot fight.\nWhen Shoulder Id would deal damage, steal 1A instead.",
+            "locale": {
+                "en": {
+                    "name": "Shoulder Id"
                 }
             }
         },
@@ -2489,6 +2637,99 @@
             }
         },
         {
+            "id": "vandalize",
+            "name": "Vandalize",
+            "number": "260",
+            "image": "spoiler-imgs/512/vandalize.jpg",
+            "expansion": 512,
+            "house": "shadows",
+            "keywords": [],
+            "traits": [
+                ""
+            ],
+            "type": "action",
+            "rarity": "Common",
+            "amber": 1,
+            "armor": null,
+            "power": null,
+            "text": "Play: Look at 3 top cards of your opponent's deck. Discard 1 and put the others back in any order.",
+            "locale": {
+                "en": {
+                    "name": "Vandalize"
+                }
+            }
+        },
+        {
+            "id": "borrow",
+            "name": "“Borrow”",
+            "number": "263",
+            "image": "spoiler-imgs/512/borrow.jpg",
+            "expansion": 512,
+            "house": "shadows",
+            "keywords": [],
+            "traits": [
+                ""
+            ],
+            "type": "action",
+            "rarity": "Uncommon",
+            "amber": 1,
+            "armor": null,
+            "power": null,
+            "text": "Play: Take control of an enemy artifact.  While under your control, it belongs to house Shadows.  (Instead of its original house.)",
+            "locale": {
+                "en": {
+                    "name": "“Borrow”"
+                }
+            }
+        },
+        {
+            "id": "boss-zarek",
+            "name": "Boss Zarek",
+            "number": "264",
+            "image": "spoiler-imgs/512/boss-zarek.jpg",
+            "expansion": 512,
+            "house": "shadows",
+            "keywords": [],
+            "traits": [
+                "mutant",
+                "thief"
+            ],
+            "type": "creature",
+            "rarity": "Uncommon",
+            "amber": 0,
+            "armor": 0,
+            "power": 3,
+            "text": "Enhance Capture Capture Capture.\nEach friendly creature with A on it gains Elusive.",
+            "locale": {
+                "en": {
+                    "name": "Boss Zarek"
+                }
+            }
+        },
+        {
+            "id": "lucky-dice",
+            "name": "Lucky Dice",
+            "number": "267",
+            "image": "spoiler-imgs/512/lucky-dice.jpg",
+            "expansion": 512,
+            "house": "shadows",
+            "keywords": [],
+            "traits": [
+                "item"
+            ],
+            "type": "artifact",
+            "rarity": "Uncommon",
+            "amber": 1,
+            "armor": null,
+            "power": null,
+            "text": "Omni: Destroy Lucky Dice.  During your opponent's next turn, friendly creatures cannot be dealt damage.",
+            "locale": {
+                "en": {
+                    "name": "Lucky Dice"
+                }
+            }
+        },
+        {
             "id": "miasma-bomb",
             "name": "Miasma Bomb",
             "number": "269",
@@ -2508,6 +2749,29 @@
             "locale": {
                 "en": {
                     "name": "Miasma Bomb"
+                }
+            }
+        },
+        {
+            "id": "ransack",
+            "name": "Ransack",
+            "number": "272",
+            "image": "spoiler-imgs/512/ransack.jpg",
+            "expansion": 512,
+            "house": "shadows",
+            "keywords": [],
+            "traits": [
+                ""
+            ],
+            "type": "action",
+            "rarity": "Uncommon",
+            "amber": 0,
+            "armor": null,
+            "power": null,
+            "text": "Play: Steal 1A. Discard the top card of your deck.  If you discarded a Shadows card, trigger this effect again.",
+            "locale": {
+                "en": {
+                    "name": "Ransack"
                 }
             }
         },
@@ -2561,6 +2825,53 @@
             }
         },
         {
+            "id": "the-shadowsmith",
+            "name": "The Shadowsmith",
+            "number": "276",
+            "image": "spoiler-imgs/512/the-shadowsmith.jpg",
+            "expansion": 512,
+            "house": "shadows",
+            "keywords": [],
+            "traits": [
+                "mutant",
+                "thief"
+            ],
+            "type": "creature",
+            "rarity": "Uncommon",
+            "amber": 0,
+            "armor": 0,
+            "power": 3,
+            "text": "Each Mutant creature gains Elusive.",
+            "locale": {
+                "en": {
+                    "name": "The Shadowsmith"
+                }
+            }
+        },
+        {
+            "id": "doom-sigil",
+            "name": "Doom Sigil",
+            "number": "277",
+            "image": "spoiler-imgs/512/doom-sigil.png",
+            "expansion": 512,
+            "house": "shadows",
+            "keywords": [],
+            "traits": [
+                "power"
+            ],
+            "type": "artifact",
+            "rarity": "Rare",
+            "amber": 0,
+            "armor": null,
+            "power": null,
+            "text": "Each creature gains poison.\nIf there are no creatures in play, destroy Doom Sigil.",
+            "locale": {
+                "en": {
+                    "name": "Doom Sigil"
+                }
+            }
+        },
+        {
             "id": "mole",
             "name": "Mole",
             "number": "287",
@@ -2584,6 +2895,77 @@
             }
         },
         {
+            "id": "pincerator",
+            "name": "Pincerator",
+            "number": "289",
+            "image": "spoiler-imgs/512/pincerator.jpg",
+            "expansion": 512,
+            "house": "shadows",
+            "keywords": [],
+            "traits": [
+                "item"
+            ],
+            "type": "artifact",
+            "rarity": "Rare",
+            "amber": 1,
+            "armor": null,
+            "power": null,
+            "text": "At the end of each turn, deal 1D to each flank creature.",
+            "locale": {
+                "en": {
+                    "name": "Pincerator"
+                }
+            }
+        },
+        {
+            "id": "shadowsaurus",
+            "name": "Shadowsaurus",
+            "number": "292",
+            "image": "spoiler-imgs/512/shadowsaurus.jpg",
+            "expansion": 512,
+            "house": "shadows",
+            "keywords": [],
+            "traits": [
+                "dinosaur",
+                "thief"
+            ],
+            "type": "creature",
+            "rarity": "Rare",
+            "amber": 0,
+            "armor": 1,
+            "power": 5,
+            "text": "Action: Move each A from an enemy creature to your opponent's pool.  If there was at least 1A on that creature, take control of it.  While under your control, it belongs to house Shadows.",
+            "locale": {
+                "en": {
+                    "name": "Shadowsaurus"
+                }
+            }
+        },
+        {
+            "id": "splinter",
+            "name": "Splinter",
+            "number": "294",
+            "image": "spoiler-imgs/512/splinter.jpg",
+            "expansion": 512,
+            "house": "shadows",
+            "keywords": [],
+            "traits": [
+                "mutant",
+                "thief"
+            ],
+            "type": "creature",
+            "rarity": "Rare",
+            "amber": 0,
+            "armor": 0,
+            "power": 1,
+            "text": "Enhance D D D D D D.",
+            "locale": {
+                "en": {
+                    "name": "Splinter"
+                }
+            }
+        },
+        {
             "id": "dino-thief",
             "name": "Dino-Thief",
             "number": "297",
@@ -2602,7 +2984,7 @@
             "amber": 0,
             "armor": 0,
             "power": 4,
-            "text": "Elusive.\nPlay: You may exalt Dino-Thief. If you do, deal 3D to a creature.\n??? (Interpolated)",
+            "text": "Elusive.\nPlay: You may exalt Dino-Thief. If you do, deal 3D to a creature.",
             "locale": {
                 "en": {
                     "name": "Dino-Thief"
@@ -2639,33 +3021,7 @@
         {
             "id": "sacro-thief",
             "name": "Sacro-Thief",
-            "number": "300",
-            "image": "",
-            "expansion": 512,
-            "house": "shadows",
-            "keywords": [
-                "elusive"
-            ],
-            "traits": [
-                "mutant",
-                "thief"
-            ],
-            "type": "creature",
-            "rarity": "Variant",
-            "amber": 0,
-            "armor": 2,
-            "power": 4,
-            "text": "Elusive.\n??? (Interpolated)",
-            "locale": {
-                "en": {
-                    "name": "Sacro-Thief"
-                }
-            }
-        },
-        {
-            "id": "sacro-thief",
-            "name": "Sacro-Thief",
-            "number": "300",
+            "number": "299",
             "image": "",
             "expansion": 512,
             "house": "shadows",
@@ -2691,6 +3047,32 @@
         {
             "id": "techno-thief",
             "name": "Techno-Thief",
+            "number": "300",
+            "image": "",
+            "expansion": 512,
+            "house": "shadows",
+            "keywords": [
+                "elusive"
+            ],
+            "traits": [
+                "mutant",
+                "thief"
+            ],
+            "type": "creature",
+            "rarity": "Variant",
+            "amber": 0,
+            "armor": 0,
+            "power": 3,
+            "text": "Elusive.\nReap: Discard a card from your hand.  If you do, draw a card.",
+            "locale": {
+                "en": {
+                    "name": "Techno-Thief"
+                }
+            }
+        },
+        {
+            "id": "xeno-thief",
+            "name": "Xeno-Thief",
             "number": "301",
             "image": "",
             "expansion": 512,
@@ -2707,10 +3089,10 @@
             "amber": 0,
             "armor": 0,
             "power": 3,
-            "text": "Elusive.\nReap: Discard a card from your hand.  If you do, draw a card.\n??? (Interpolated)",
+            "text": "Elusive.\nFight: Look at 3 top cards of your deck.  Put 1 into your hand and put 1 at the bottom of your deck.",
             "locale": {
                 "en": {
-                    "name": "Techno-Thief"
+                    "name": "Xeno-Thief"
                 }
             }
         },
@@ -3522,30 +3904,6 @@
             }
         },
         {
-            "id": "the-shadowsmith",
-            "name": "The Shadowsmith",
-            "number": 905,
-            "image": "spoiler-imgs/512/the-shadowsmith.png",
-            "expansion": 512,
-            "house": "shadows",
-            "keywords": [],
-            "traits": [
-                "mutant",
-                "thief"
-            ],
-            "type": "creature",
-            "rarity": null,
-            "amber": 0,
-            "armor": 0,
-            "power": null,
-            "text": "Each Mutant creature gains Elusive.",
-            "locale": {
-                "en": {
-                    "name": "The Shadowsmith"
-                }
-            }
-        },
-        {
             "id": "dark-centurion",
             "name": "Dark Centurion",
             "number": 907,
@@ -3642,32 +4000,6 @@
             "locale": {
                 "en": {
                     "name": "Dino-Beast"
-                }
-            }
-        },
-        {
-            "id": "dæmo-thief",
-            "name": "Dæmo-Thief",
-            "number": 918,
-            "image": "",
-            "expansion": 512,
-            "house": "shadows",
-            "keywords": [
-                "elusive"
-            ],
-            "traits": [
-                "mutant",
-                "thief"
-            ],
-            "type": "creature",
-            "rarity": "Variant",
-            "amber": 0,
-            "armor": 0,
-            "power": 2,
-            "text": "Elusive.\nDestroyed: Steal 1A.\n??? (Interpolated)",
-            "locale": {
-                "en": {
-                    "name": "Dæmo-Thief"
                 }
             }
         }
