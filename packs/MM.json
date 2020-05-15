@@ -3495,6 +3495,104 @@
             }
         },
         {
+            "id": "cephaloist",
+            "name": "Cephaloist",
+            "number": "362",
+            "image": "spoiler-imgs/512/cephaloist.jpg",
+            "expansion": 512,
+            "house": "untamed",
+            "keywords": [],
+            "traits": [
+                "mutant"
+            ],
+            "type": "creature",
+            "rarity": "Common",
+            "amber": 0,
+            "armor": 0,
+            "power": 4,
+            "text": "While you have 4A or more, your A cannot be stolen.",
+            "locale": {
+                "en": {
+                    "name": "Cephaloist"
+                }
+            }
+        },
+        {
+            "id": "dæmo-beast",
+            "name": "Dæmo-Beast",
+            "number": "363",
+            "image": "spoiler-imgs/512/dmobeast.jpg",
+            "expansion": 512,
+            "house": "untamed",
+            "keywords": [
+                "skirmish"
+            ],
+            "traits": [
+                "mutant",
+                "beast"
+            ],
+            "type": "creature",
+            "rarity": "Variant",
+            "amber": 0,
+            "armor": 0,
+            "power": 3,
+            "text": "Skirmish.\nDestroyed: Steal 1A.",
+            "locale": {
+                "en": {
+                    "name": "Dæmo-Beast"
+                }
+            }
+        },
+        {
+            "id": "dark-faerie",
+            "name": "Dark Faerie",
+            "number": "364",
+            "image": "spoiler-imgs/512/dark-faerie.png",
+            "expansion": 512,
+            "house": "untamed",
+            "keywords": [
+                "skirmish,:fight: gain 2a"
+            ],
+            "traits": [
+                "mutant"
+            ],
+            "type": "creature",
+            "rarity": "Common",
+            "amber": 0,
+            "armor": 0,
+            "power": 2,
+            "text": "Skirmish, Fight: Gain 2A",
+            "locale": {
+                "en": {
+                    "name": "Dark Faerie"
+                }
+            }
+        },
+        {
+            "id": "fandangle",
+            "name": "Fandangle",
+            "number": "365",
+            "image": "spoiler-imgs/512/fandangle.jpg",
+            "expansion": 512,
+            "house": "untamed",
+            "keywords": [],
+            "traits": [
+                "mutant",
+                "witch"
+            ],
+            "type": "creature",
+            "rarity": "Common",
+            "amber": 0,
+            "armor": 0,
+            "power": 3,
+            "text": "If you have 4A or more, your non-Untamed creatures enter play ready.",
+            "locale": {
+                "en": {
+                    "name": "Fandangle"
+                }
+            }
+        },
+        {
             "id": "floomf",
             "name": "Floomf",
             "number": "366",
@@ -3563,6 +3661,52 @@
             "locale": {
                 "en": {
                     "name": "Keyfrog"
+                }
+            }
+        },
+        {
+            "id": "pismire",
+            "name": "Pismire",
+            "number": "372",
+            "image": "spoiler-imgs/512/pismire.jpg",
+            "expansion": 512,
+            "house": "untamed",
+            "keywords": [],
+            "traits": [
+                "mutant"
+            ],
+            "type": "creature",
+            "rarity": "Common",
+            "amber": 0,
+            "armor": 0,
+            "power": 4,
+            "text": "While there are more friendly Mutant creatures than enemy Mutant creatures, your opponent's keys cost +2A.",
+            "locale": {
+                "en": {
+                    "name": "Pismire"
+                }
+            }
+        },
+        {
+            "id": "rapid-evolution",
+            "name": "Rapid Evolution",
+            "number": "373",
+            "image": "spoiler-imgs/512/rapid-evolution.jpg",
+            "expansion": 512,
+            "house": "untamed",
+            "keywords": [],
+            "traits": [
+                ""
+            ],
+            "type": "action",
+            "rarity": "Common",
+            "amber": 1,
+            "armor": null,
+            "power": null,
+            "text": "Play: Choose a creature.  Give it a +1 power counter for each A in you have.",
+            "locale": {
+                "en": {
+                    "name": "Rapid Evolution"
                 }
             }
         },
@@ -3636,6 +3780,78 @@
             }
         },
         {
+            "id": "commune",
+            "name": "Commune",
+            "number": "380",
+            "image": "spoiler-imgs/512/commune.jpg",
+            "expansion": 512,
+            "house": "untamed",
+            "keywords": [
+                "omega"
+            ],
+            "traits": [
+                ""
+            ],
+            "type": "action",
+            "rarity": "Uncommon",
+            "amber": 0,
+            "armor": null,
+            "power": null,
+            "text": "Omega.\nPlay: Lose all of your A. Gain 4A.",
+            "locale": {
+                "en": {
+                    "name": "Commune"
+                }
+            }
+        },
+        {
+            "id": "growth-surge",
+            "name": "Growth Surge",
+            "number": "383",
+            "image": "spoiler-imgs/512/growth-surge.jpg",
+            "expansion": 512,
+            "house": "untamed",
+            "keywords": [],
+            "traits": [
+                ""
+            ],
+            "type": "action",
+            "rarity": "Uncommon",
+            "amber": 1,
+            "armor": null,
+            "power": null,
+            "text": "Play: Give a flank creature three +1 power counters.  Give its neighbor two +1 power counters.  Give the second creature's other neighbor a +1 power counter.",
+            "locale": {
+                "en": {
+                    "name": "Growth Surge"
+                }
+            }
+        },
+        {
+            "id": "lumilu",
+            "name": "Lumilu",
+            "number": "385",
+            "image": "spoiler-imgs/512/lumilu.jpg",
+            "expansion": 512,
+            "house": "untamed",
+            "keywords": [],
+            "traits": [
+                "beast",
+                "cat"
+            ],
+            "type": "creature",
+            "rarity": "Uncommon",
+            "amber": 0,
+            "armor": 0,
+            "power": 4,
+            "text": "Reap: Gain 1A for each other friendly Beast creature.",
+            "locale": {
+                "en": {
+                    "name": "Lumilu"
+                }
+            }
+        },
+        {
             "id": "mushroom-with-a-view",
             "name": "Mushroom with a View",
             "number": "386",
@@ -3659,6 +3875,52 @@
             }
         },
         {
+            "id": "trimble",
+            "name": "Trimble",
+            "number": "389",
+            "image": "spoiler-imgs/512/trimble.jpg",
+            "expansion": 512,
+            "house": "untamed",
+            "keywords": [],
+            "traits": [
+                "mutant"
+            ],
+            "type": "creature",
+            "rarity": "Uncommon",
+            "amber": 0,
+            "armor": 0,
+            "power": 3,
+            "text": "Each Mutant creature gains skirmish.",
+            "locale": {
+                "en": {
+                    "name": "Trimble"
+                }
+            }
+        },
+        {
+            "id": "vault-s-blessing",
+            "name": "Vault's Blessing",
+            "number": "391",
+            "image": "spoiler-imgs/512/vaults-blessing.jpg",
+            "expansion": 512,
+            "house": "untamed",
+            "keywords": [],
+            "traits": [
+                ""
+            ],
+            "type": "action",
+            "rarity": "Uncommon",
+            "amber": 1,
+            "armor": null,
+            "power": null,
+            "text": "Play: Each player gains 1A for each Mutant creature they control.",
+            "locale": {
+                "en": {
+                    "name": "Vault's Blessing"
+                }
+            }
+        },
+        {
             "id": "wild-bounty",
             "name": "Wild Bounty",
             "number": "392",
@@ -3678,6 +3940,77 @@
             "locale": {
                 "en": {
                     "name": "Wild Bounty"
+                }
+            }
+        },
+        {
+            "id": "blossom-drake",
+            "name": "Blossom Drake",
+            "number": "395",
+            "image": "spoiler-imgs/512/blossom-drake.jpg",
+            "expansion": 512,
+            "house": "untamed",
+            "keywords": [],
+            "traits": [
+                "dragon"
+            ],
+            "type": "creature",
+            "rarity": "Rare",
+            "amber": 0,
+            "armor": 0,
+            "power": 4,
+            "text": "Blossom Drake gets +1 power for each artifact in play.\nEach artifact's text box is considered blank (except for traits).",
+            "locale": {
+                "en": {
+                    "name": "Blossom Drake"
+                }
+            }
+        },
+        {
+            "id": "dark-queen-gloriana",
+            "name": "Dark Queen Gloriana",
+            "number": "397",
+            "image": "spoiler-imgs/512/dark-queen-gloriana.jpg",
+            "expansion": 512,
+            "house": "untamed",
+            "keywords": [],
+            "traits": [
+                "mutant"
+            ],
+            "type": "creature",
+            "rarity": "Rare",
+            "amber": 0,
+            "armor": 0,
+            "power": 3,
+            "text": "Enhance A A.\nPlay: Return a friendly non-Untamed creature to your hand.",
+            "locale": {
+                "en": {
+                    "name": "Dark Queen Gloriana"
+                }
+            }
+        },
+        {
+            "id": "look-what-i-found",
+            "name": "Look What I Found",
+            "number": "402",
+            "image": "spoiler-imgs/512/look-what-i-found.jpg",
+            "expansion": 512,
+            "house": "untamed",
+            "keywords": [
+                "omega"
+            ],
+            "traits": [
+                ""
+            ],
+            "type": "action",
+            "rarity": "Rare",
+            "amber": 0,
+            "armor": null,
+            "power": null,
+            "text": "Omega.\nPlay: Return 1 card of each type (action, artifact, creature, upgrade) from your discard pile to your hand.",
+            "locale": {
+                "en": {
+                    "name": "Look What I Found"
                 }
             }
         },
@@ -3787,6 +4120,32 @@
             }
         },
         {
+            "id": "xeno-beast",
+            "name": "Xeno-Beast",
+            "number": "421",
+            "image": "spoiler-imgs/512/xenobeast.jpg",
+            "expansion": 512,
+            "house": "untamed",
+            "keywords": [
+                "skirmish"
+            ],
+            "traits": [
+                "mutant",
+                "beast"
+            ],
+            "type": "creature",
+            "rarity": "Variant",
+            "amber": 0,
+            "armor": 0,
+            "power": 4,
+            "text": "Skirmish.\nFight: Look at 3 top cards of your deck.  Put 1 into your hand and put 1 at the bottom of your deck.",
+            "locale": {
+                "en": {
+                    "name": "Xeno-Beast"
+                }
+            }
+        },
+        {
             "id": "niffle-kong",
             "name": "Niffle Kong",
             "number": "422",
@@ -3803,7 +4162,7 @@
             "amber": 0,
             "armor": 0,
             "power": 12,
-            "text": "(Play only with the other half of Niffle Kong.)\nPlay: Search your deck and discard pile for all Niffle creatures, reveal them, and put them into your hand.\nFight/Reap: Destroy a friendly Niffle. If you do, deal 3D to a creature, steal 1A, and  destroy an artifact controlled by your opponent.",
+            "text": "(Play only with the other half of Niffle Kong.)\nPlay: Search your deck and discard pile for any number of Niffle creatures, reveal them, and put them into your hand.  Shuffle your deck.\nFight/Reap: You may destroy a friendly Niffle creature. If you do, deal 3D to a creature, steal 1A, and  destroy an enemy artifact.",
             "locale": {
                 "en": {
                     "name": "Niffle Kong"
@@ -3827,33 +4186,10 @@
             "amber": 0,
             "armor": 0,
             "power": 12,
-            "text": "(Play only with the other half of Niffle Kong.)\nPlay: Search your deck and discard pile for all Niffle creatures, reveal them, and put them into your hand.\nFight/Reap: Destroy a friendly Niffle. If you do, deal 3D to a creature, steal 1A, and  destroy an artifact controlled by your opponent.",
+            "text": "(Play only with the other half of Niffle Kong.)\nPlay: Search your deck and discard pile for any number of Niffle creatures, reveal them, and put them into your hand.  Shuffle your deck.\nFight/Reap: You may destroy a friendly Niffle creature. If you do, deal 3D to a creature, steal 1A, and  destroy an enemy artifact.",
             "locale": {
                 "en": {
                     "name": "Niffle Kong"
-                }
-            }
-        },
-        {
-            "id": "cephaloist",
-            "name": "Cephaloist",
-            "number": 901,
-            "image": "spoiler-imgs/512/cephaloist.png",
-            "expansion": 512,
-            "house": "untamed",
-            "keywords": [],
-            "traits": [
-                "mutant"
-            ],
-            "type": "creature",
-            "rarity": null,
-            "amber": 0,
-            "armor": 0,
-            "power": 4,
-            "text": "???",
-            "locale": {
-                "en": {
-                    "name": "Cephaloist"
                 }
             }
         },
@@ -3948,32 +4284,6 @@
             "locale": {
                 "en": {
                     "name": "Dæmo-Saurus"
-                }
-            }
-        },
-        {
-            "id": "dæmo-beast",
-            "name": "Dæmo-Beast",
-            "number": 915,
-            "image": "",
-            "expansion": 512,
-            "house": "untamed",
-            "keywords": [
-                "skirmish"
-            ],
-            "traits": [
-                "mutant",
-                "beast"
-            ],
-            "type": "creature",
-            "rarity": "Variant",
-            "amber": 0,
-            "armor": 0,
-            "power": 3,
-            "text": "Skirmish.\nDestroyed: Steal 1A.\n??? Interpolated",
-            "locale": {
-                "en": {
-                    "name": "Dæmo-Beast"
                 }
             }
         },
