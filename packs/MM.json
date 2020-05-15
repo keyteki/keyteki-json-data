@@ -1654,7 +1654,7 @@
             "amber": 0,
             "armor": 3,
             "power": 10,
-            "text": "(Play only with the other half of Ultra Graviton.)\nPlay: Archive the top 5 cards of your deck.\nFight/Reap: Discard a card from your archives. If you do, purge a creature and resolve each of its bonus icons as if you had played it.",
+            "text": "(Play only with the other half of Ultra Gravitron.)\nPlay: Archive the top 5 cards of your deck.\nFight/Reap: Discard a card from your archives. If you do, purge a creature and resolve each of its bonus icons as if you had played it.",
             "locale": {
                 "en": {
                     "name": "Ultra Gravitron"
@@ -1662,10 +1662,10 @@
             }
         },
         {
-            "id": "ultra-graviton-2",
-            "name": "Ultra Graviton",
+            "id": "ultra-gravitron-2",
+            "name": "Ultra Gravitron",
             "number": 1001,
-            "image": "spoiler-imgs/512/ultra-graviton.jpg",
+            "image": "spoiler-imgs/512/ultra-gravitron.jpg",
             "expansion": 512,
             "house": "logos",
             "keywords": [],
@@ -1677,10 +1677,10 @@
             "amber": 0,
             "armor": 3,
             "power": 10,
-            "text": "(Play only with the other half of Ultra Graviton.)\nPlay: Archive the top 5 cards of your deck.\nFight/Reap: Discard a card from your archive. If you do, purge a creature and resolve its bonus icons as if you just played it.",
+            "text": "(Play only with the other half of Ultra Gravitron.)\nPlay: Archive the top 5 cards of your deck.\nFight/Reap: Discard a card from your archives. If you do, purge a creature and resolve each of its bonus icons as if you had played it.",
             "locale": {
                 "en": {
-                    "name": "Ultra Graviton"
+                    "name": "Ultra Gravitron"
                 }
             }
         },
