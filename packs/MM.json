@@ -3054,7 +3054,8 @@
             }
         },
         {
-            "name": "deusillus",
+            "id": "deusillus",
+            "name": "Deusillus",
             "number": "244",
             "image": "spoiler-imgs/512/deusillus.png",
             "expansion": 512,
