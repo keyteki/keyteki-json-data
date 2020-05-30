@@ -61,6 +61,8 @@ class KeyforgeApiToKeytekiConverter {
 
         cards.sort((a, b) => a.number < b.number ? -1 : 1);
 
+        console.info(`Got ${cards.length} cards`);
+
         if(cards.length === 0) {
             console.error('Cards corresponding to', pack.name, 'have not been released yet.');
             return;
@@ -79,7 +81,9 @@ class KeyforgeApiToKeytekiConverter {
         console.info('Fetching the deck list...');
 
         let packCardMap = pack.cards.reduce(function(map, obj) {
-            map[obj.number] = obj;
+            let cardKey = `${obj.number}/${obj.type}/${obj.house}`;
+
+            map[cardKey] = obj;
             return map;
         }, {});
 
@@ -104,6 +108,10 @@ class KeyforgeApiToKeytekiConverter {
         let totalPages = Math.ceil(deckCount / pageSize);
 
         console.info(`Fetching all ${deckCount} decks, which is ${totalPages} pages`);
+
+        console.info(`Looking for ${pack.cardCount} cards`);
+
+        let stupidCards = { MM341: true };
 
         for(let i = 1; i < totalPages; i++) {
             try {
@@ -137,7 +145,9 @@ class KeyforgeApiToKeytekiConverter {
             }
 
             for(let card of response._linked.cards) {
-                if(!pack.ids.includes('' + card.expansion) || cards[card.card_number] || card.is_maverick) {
+                let cardKey = `${card.card_number}/${card.card_type}/${card.house}`;
+                let stupidKey = pack.code + card.card_number;
+                if(!pack.ids.includes('' + card.expansion) || cards[cardKey] || (card.is_maverick && !stupidCards[stupidKey])) {
                     continue;
                 }
 
@@ -172,7 +182,12 @@ class KeyforgeApiToKeytekiConverter {
                     };
                 } else {
                     // Append locale information
-                    newCard = packCardMap[card.card_number];
+                    if(card.card_type === 'Creature1' || card.card_type === 'Creature2') {
+                        card.card_type = 'Creature';
+                    }
+
+                    let cardKey = `${card.card_number}/${card.card_type.toLowerCase()}/${card.house.toLowerCase().replace(' ', '')}`;
+                    newCard = packCardMap[cardKey];                  
 
                     if(!newCard.locale) {
                         // Just a safe check, but since 'en' is supposed to be loaded first, locale
@@ -183,7 +198,6 @@ class KeyforgeApiToKeytekiConverter {
                     newCard.locale[language.replace('-', '')] = {
                         name: card.card_title
                     };
-
                 };
 
                 // Sort locale by key
@@ -192,7 +206,7 @@ class KeyforgeApiToKeytekiConverter {
                     return newLocale;
                 }, {});
 
-                cards[card.card_number] = newCard;
+                cards[cardKey] = newCard;
             }
 
             if(Object.values(cards).length == pack.cardCount) {
@@ -203,6 +217,25 @@ class KeyforgeApiToKeytekiConverter {
 
             if(i % 10 === 0) {
                 console.info(`Processed ${i} pages, ${totalPages - i} to go. Have ${Object.values(cards).length} cards so far, expecting ${pack.cardCount}`);
+            }
+        }
+
+        for(let card of Object.values(cards)) {           
+            if(card.type === 'creature1') {
+                card.type = 'creature';
+            } else if(card.type === 'creature2') {
+                card.type = 'creature';
+                card.id += '2';
+
+                let cardKey = `${card.number}/Creature1/${card.house.charAt(0).toUpperCase() + card.house.slice(1)}`
+
+                if(!cards[cardKey]) {
+                    console.info('No card found', cardKey);
+                }
+                
+                card.power = cards[cardKey].power;
+                card.amber = cards[cardKey].amber;
+                card.armor = cards[cardKey].armor;
             }
         }
 
