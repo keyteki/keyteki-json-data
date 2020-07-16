@@ -81,7 +81,7 @@ class KeyforgeApiToKeytekiConverter {
         console.info('Fetching the deck list...');
 
         let packCardMap = pack.cards.reduce(function(map, obj) {
-            let cardKey = `${obj.number}/${obj.type}/${obj.house}`;
+            let cardKey = `${obj.number}/${obj.type}/${obj.house}/${obj.rarity.toLowerCase()}`;
 
             map[cardKey] = obj;
             return map;
@@ -145,7 +145,7 @@ class KeyforgeApiToKeytekiConverter {
             }
 
             for(let card of response._linked.cards) {
-                let cardKey = `${card.card_number}/${card.card_type}/${card.house}`;
+                let cardKey = `${card.card_number}/${card.card_type}/${card.house}/${card.rarity.toLowerCase()}`;
                 let stupidKey = pack.code + card.card_number;
                 if(!pack.ids.includes('' + card.expansion) || cards[cardKey] || (card.is_maverick && !stupidCards[stupidKey])) {
                     continue;
@@ -182,11 +182,13 @@ class KeyforgeApiToKeytekiConverter {
                     };
                 } else {
                     // Append locale information
+                    let type = card.card_type;
                     if(card.card_type === 'Creature1' || card.card_type === 'Creature2') {
-                        card.card_type = 'Creature';
+                        card.card_type = card.card_type.toLowerCase();
+                        type = 'Creature';
                     }
 
-                    let cardKey = `${card.card_number}/${card.card_type.toLowerCase()}/${card.house.toLowerCase().replace(' ', '')}`;
+                    let cardKey = `${card.card_number}/${type.toLowerCase()}/${card.house.toLowerCase().replace(' ', '')}/${card.rarity.toLowerCase()}`;
                     newCard = packCardMap[cardKey];                  
 
                     if(!newCard.locale) {
@@ -232,7 +234,7 @@ class KeyforgeApiToKeytekiConverter {
                 if(!cards[cardKey]) {
                     console.info('No card found', cardKey);
                 }
-                
+               
                 card.power = cards[cardKey].power;
                 card.amber = cards[cardKey].amber;
                 card.armor = cards[cardKey].armor;
