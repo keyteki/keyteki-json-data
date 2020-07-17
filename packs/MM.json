@@ -6997,7 +6997,7 @@
             "type": "creature",
             "rarity": "Rare",
             "amber": 0,
-            "armor": null,
+            "armor": 3,
             "power": 10,
             "text": "(Play only with the other half of Ultra Gravitron.)\r\nPlay: Archive the top 5 cards of your deck.\r\nFight/Reap: Discard a card from your archives. If you do, purge a creature and resolve each of its bonus icons as if you had played it.",
             "locale": {
@@ -23111,7 +23111,7 @@
             "type": "creature",
             "rarity": "Rare",
             "amber": 0,
-            "armor": null,
+            "armor": 2,
             "power": 12,
             "text": "(Play only with the other half of Niffle Kong.)\r\nPlay: Search your deck and discard pile for any number of Niffle creatures, reveal them, and put them into your hand. Shuffle your deck. \r\nFight/Reap: You may destroy a friendly Niffle creature. If you do, deal 3D to a creature, steal 1A, and destroy an enemy artifact.﻿﻿",
             "locale": {

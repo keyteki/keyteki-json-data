@@ -171,7 +171,7 @@ class KeyforgeApiToKeytekiConverter {
                         type: card.card_type.toLowerCase(),
                         rarity: card.rarity,
                         amber: card.amber === '' ? 0 : parseInt(card.amber),
-                        armor: card.card_type.toLowerCase() === 'creature' ? (card.armor !== '' ? parseInt(card.armor) : 0) : null,
+                        armor: card.card_type.toLowerCase().startsWith('creature') ? (card.armor !== '' ? parseInt(card.armor) : 0) : null,
                         power: card.power === '' ? null : parseInt(card.power),
                         text: card.card_text,
                         locale: {
