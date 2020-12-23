@@ -4,8 +4,7 @@ const fs = require('fs');
 var packsPath = path.join(process.cwd(), process.argv[2]);
 var saDecksFile = path.join(process.cwd(), process.argv[3]);
 
-console.log(packsPath);
-console.log(saDecksFile);
+const VALID_ENHANCEMENTS = ['amber', 'draw', 'capture', 'damage'];
 
 var cards = [];
 
@@ -30,6 +29,16 @@ for (var deck of saDecks) {
             let cardHouse = card.maverick || house;
             houses[cardHouse] = !houses[cardHouse] ? card.count : houses[cardHouse] + card.count;             
         }
+        
+        if (card.enhancements) {
+            for (var enhancement of card.enhancements) {
+                if (!VALID_ENHANCEMENTS.includes(enhancement)) {
+                    console.log(`>>> ERROR: invalid enhancement '${enhancement}' in ${card.id}`);
+                    errorCount++;
+                }
+            }
+        }
+        
         cardCount += card.count;
     }
     
