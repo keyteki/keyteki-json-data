@@ -325,7 +325,7 @@
             "id": "deusillus",
             "count": 1
         }, {
-            "id": "deusillus-2",
+            "id": "deusillus2",
             "count": 1
         }, {
             "id": "blast-shielding",
@@ -650,7 +650,7 @@
             "id": "entropic-manipulator",
             "count": 1
         }, {
-            "id": "martianhounds",
+            "id": "martian-hounds",
             "count": 1,
             "enhancements": ["damage"]
         }, {
@@ -757,7 +757,7 @@
             "id": "pile-of-skulls",
             "count": 1
         }, {
-            "id": "axiomof-grisk",
+            "id": "axiom-of-grisk",
             "count": 1,
             "enhancements": ["capture"] 
         }, {
@@ -815,7 +815,7 @@
             "id": "one-stood-against-many",
             "count": 1
         }, {
-            "id": "dino-knigh",
+            "id": "dino-knight",
             "count": 1
         }
     ]
@@ -1461,7 +1461,7 @@
             "count": 1,
             "enhancements": ["capture"]
         }, {
-            "id": "axiomof-grisk",
+            "id": "axiom-of-grisk",
             "count": 1,
             "enhancements": ["capture"]
         }, {
