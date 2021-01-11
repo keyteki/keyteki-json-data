@@ -30,6 +30,28 @@
             }
         },
         {
+            "id": "captain-kresage-evil-twin",
+            "name": "Captain Kresage (Evil Twin)",
+            "number": "003",
+            "image": "Dt-003.png",
+            "house": "logos",
+            "keywords": [],
+            "traits": [
+                "cyborg"
+            ],
+            "type": "creature",
+            "rarity": "Evil Twin",
+            "amber": 0,
+            "armor": 0,
+            "power": 6,
+            "text": "All creatures lose elusive, taunt, poison and skirmish.This card has been translated from Polish and is subject to change.",
+            "locale": {
+                "en": {
+                    "name": "Captain Kresage"
+                }
+            }
+        },
+        {
             "id": "old-egad-evil-twin",
             "name": "Old Egad (Evil Twin)",
             "number": "005",
@@ -253,6 +275,26 @@
             }
         },
         {
+            "id": "tax-pilgrimage",
+            "name": "Tax Pilgrimage",
+            "number": "122",
+            "image": "Dt-122.jpg",
+            "house": "sanctum",
+            "keywords": [],
+            "traits": [],
+            "type": "action",
+            "rarity": "Common",
+            "amber": 1,
+            "armor": null,
+            "power": null,
+            "text": "Play: A friendly creature captures 1. Each neighbor of that creature that shares a house with that creature also captures 1.This card has been translated from Polish and is subject to change.",
+            "locale": {
+                "en": {
+                    "name": "Tax Pilgrimage"
+                }
+            }
+        },
+        {
             "id": "censor-philo-evil-twin",
             "name": "Censor Philo (Evil Twin)",
             "number": "125",
@@ -433,6 +475,29 @@
             }
         },
         {
+            "id": "hard-simpson-evil-twin",
+            "name": "Hard Simpson (Evil Twin)",
+            "number": "186",
+            "image": "Dt-186-dark-simpson-ET-en.png",
+            "house": "shadows",
+            "keywords": [],
+            "traits": [
+                "elf",
+                "thief"
+            ],
+            "type": "creature",
+            "rarity": "Evil Twin",
+            "amber": 0,
+            "armor": 0,
+            "power": 4,
+            "text": " Reap: If the tide is high, a damaged creatures captures 1  from its own side.",
+            "locale": {
+                "en": {
+                    "name": "Hard Simpson"
+                }
+            }
+        },
+        {
             "id": "archon-s-revenge",
             "name": "Archon's Revenge",
             "number": "191",
@@ -474,6 +539,29 @@
             "locale": {
                 "en": {
                     "name": "Captain No-Beard"
+                }
+            }
+        },
+        {
+            "id": "hard-simpson",
+            "name": "Hard Simpson",
+            "number": "230",
+            "image": "Dt-230-dark-simpson-en.png",
+            "house": "shadows",
+            "keywords": [],
+            "traits": [
+                "elf",
+                "thief"
+            ],
+            "type": "creature",
+            "rarity": "Common",
+            "amber": 0,
+            "armor": 0,
+            "power": 4,
+            "text": " After Hard Simpson is dealt damage, steal 1 . If the tide is low, your opponent steals 1  instead. (Hard Simpson must survive this damage.)",
+            "locale": {
+                "en": {
+                    "name": "Hard Simpson"
                 }
             }
         },
@@ -541,10 +629,92 @@
             "amber": 0,
             "armor": 0,
             "power": 2,
-            "text": "Reap: Ready and use a friendly creature with the same power as 5C077. You may give 5C077 a +1 power counter or remove a +1 power counter from 5C077",
+            "text": "Reap: Ready and use a friendly creature with the same power as 5C077. You may give 5C077 a +1 power counter or remove a +1 power counter from 5C077.",
             "locale": {
                 "en": {
                     "name": "5C077"
+                }
+            }
+        },
+        {
+            "id": "ceaseforge",
+            "name": "Ceaseforge",
+            "number": "259",
+            "image": "Dt-259.png",
+            "house": "staralliance",
+            "keywords": [],
+            "traits": [
+                "law"
+            ],
+            "type": "artifact",
+            "rarity": "Rare",
+            "amber": 1,
+            "armor": null,
+            "power": null,
+            "text": "Play: Put 2 time counters on Ceaseforge.Players cannot forge keys.At the start of your turn, remove a time counter from Ceaseforge, then destroy it if there are no time counters on it.",
+            "locale": {
+                "en": {
+                    "name": "Ceaseforge"
+                }
+            }
+        },
+        {
+            "id": "b4-th05",
+            "name": "B4-TH05",
+            "number": "262",
+            "image": "Dt-262.jpg",
+            "house": "staralliance",
+            "keywords": [],
+            "traits": [],
+            "type": "upgrade",
+            "rarity": "Rare",
+            "amber": 0,
+            "armor": null,
+            "power": null,
+            "text": " While the tide is high, this creature gains skirmish. While the tide is low, this creature gains elusive.This card has been translated from Polish and is subject to change.",
+            "locale": {
+                "en": {
+                    "name": "B4-TH05"
+                }
+            }
+        },
+        {
+            "id": "sabotage-mission",
+            "name": "Sabotage Mission",
+            "number": "282",
+            "image": "Dt-sabotage.png",
+            "house": "staralliance",
+            "keywords": [],
+            "traits": [],
+            "type": "action",
+            "rarity": "Uncommon",
+            "amber": 1,
+            "armor": null,
+            "power": null,
+            "text": "Play: During your opponent's next turn, keys cost +1 for each different power value of friendly creatures.This card has been translated from Polish and is subject to change.",
+            "locale": {
+                "en": {
+                    "name": "Sabotage Mission"
+                }
+            }
+        },
+        {
+            "id": "æmber-vac",
+            "name": "Æmber-vac",
+            "number": "290",
+            "image": "Dt-290.png",
+            "house": "staralliance",
+            "keywords": [],
+            "traits": [],
+            "type": "upgrade",
+            "rarity": "Common",
+            "amber": 0,
+            "armor": null,
+            "power": null,
+            "text": " Play: Raise the tide. This creature gains, “At the start of your turn, if the tide is high, capture 2.”",
+            "locale": {
+                "en": {
+                    "name": "Æmber-vac"
                 }
             }
         },
@@ -662,6 +832,26 @@
             }
         },
         {
+            "id": "sobogg-s-thing-",
+            "name": "Sobogg's Thing ?",
+            "number": "328",
+            "image": "Dt-328.jpg",
+            "house": "unfathomable",
+            "keywords": [],
+            "traits": [],
+            "type": "artifact",
+            "rarity": "Rare",
+            "amber": 1,
+            "armor": null,
+            "power": null,
+            "text": "After your opponent forges a key, exhaust each creature they control.This card has been translated from Polish and is subject to change.",
+            "locale": {
+                "en": {
+                    "name": "Sobogg's Thing ?"
+                }
+            }
+        },
+        {
             "id": "taniwha",
             "name": "Taniwha",
             "number": "329",
@@ -702,6 +892,28 @@
             "locale": {
                 "en": {
                     "name": "The Chosen One"
+                }
+            }
+        },
+        {
+            "id": "abyssal-zealot",
+            "name": "Abyssal Zealot",
+            "number": "337",
+            "image": "AbyssalZealot.png",
+            "house": "unfathomable",
+            "keywords": [],
+            "traits": [
+                "aquan"
+            ],
+            "type": "creature",
+            "rarity": "Uncommon",
+            "amber": 0,
+            "armor": 0,
+            "power": 4,
+            "text": " After you raise the tide, capture 2. After your opponent raises the tide, move 2 from Abyssal Zealot to the common supply.",
+            "locale": {
+                "en": {
+                    "name": "Abyssal Zealot"
                 }
             }
         },
@@ -768,28 +980,6 @@
             "locale": {
                 "en": {
                     "name": "Sleep with the Fishes"
-                }
-            }
-        },
-        {
-            "id": "abyssal-zealot",
-            "name": "Abyssal Zealot",
-            "number": "347",
-            "image": "AbyssalZealot.png",
-            "house": "unfathomable",
-            "keywords": [],
-            "traits": [
-                "aquan"
-            ],
-            "type": "creature",
-            "rarity": "Uncommon",
-            "amber": 0,
-            "armor": 0,
-            "power": 4,
-            "text": " After you raise the tide, capture 2. After your opponent raises the tide, move 2 from Abyssal Zealot to the common supply.",
-            "locale": {
-                "en": {
-                    "name": "Abyssal Zealot"
                 }
             }
         },
@@ -887,6 +1077,29 @@
             }
         },
         {
+            "id": "ol--paddy-evil-twin",
+            "name": "Ol’ Paddy (Evil Twin)",
+            "number": "371",
+            "image": "Dt-371.png",
+            "house": "untamed",
+            "keywords": [],
+            "traits": [
+                "beast",
+                "fisher"
+            ],
+            "type": "creature",
+            "rarity": "Evil Twin",
+            "amber": 0,
+            "armor": 0,
+            "power": 5,
+            "text": " Reap: Discard the bottom card of your opponent’s deck, or the bottom 3 cards instead if the tide is high. Destroy a creature that shares a house with 1 of the discarded cards.",
+            "locale": {
+                "en": {
+                    "name": "Ol’ Paddy"
+                }
+            }
+        },
+        {
             "id": "æmberfin-shark",
             "name": "Æmberfin Shark",
             "number": "378",
@@ -905,6 +1118,29 @@
             "locale": {
                 "en": {
                     "name": "Æmberfin Shark"
+                }
+            }
+        },
+        {
+            "id": "the-mysticeti",
+            "name": "The Mysticeti",
+            "number": "393",
+            "image": "Dt-393.png",
+            "house": "untamed",
+            "keywords": [],
+            "traits": [
+                "beast",
+                "ship"
+            ],
+            "type": "artifact",
+            "rarity": "Rare",
+            "amber": 0,
+            "armor": null,
+            "power": null,
+            "text": "Action: Exhaust 1 or more friendly Untamed creatures. If you do, give The Mysticeti three +1 power counters for each creature exhausted this way and move it anywhere in your battleline as a creature with 0 power and taunt.",
+            "locale": {
+                "en": {
+                    "name": "The Mysticeti"
                 }
             }
         },
