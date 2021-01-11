@@ -1,0 +1,1171 @@
+{
+    "ids": [
+        "999"
+    ],
+    "code": "DT",
+    "name": "Dark Tidings",
+    "cardCount": "438",
+    "releaseDate": "2020-05-31",
+    "cards": [
+        {
+            "id": "armadrone-evil-twin",
+            "name": "Armadrone (Evil Twin)",
+            "number": "001",
+            "image": "Armadrone_(Evil_Twin).png",
+            "house": "logos",
+            "keywords": [],
+            "traits": [
+                "robot"
+            ],
+            "type": "creature",
+            "rarity": "Evil Twin",
+            "amber": 0,
+            "armor": null,
+            "power": 3,
+            "text": "Fight: Steal 2.This card is incomplete and subject to change.",
+            "locale": {
+                "en": {
+                    "name": "Armadrone"
+                }
+            }
+        },
+        {
+            "id": "captain-kresage-evil-twin",
+            "name": "Captain Kresage (Evil Twin)",
+            "number": "003",
+            "image": "Dt-003.png",
+            "house": "logos",
+            "keywords": [],
+            "traits": [
+                "cyborg"
+            ],
+            "type": "creature",
+            "rarity": "Evil Twin",
+            "amber": 0,
+            "armor": 0,
+            "power": 6,
+            "text": "All creatures lose elusive, taunt, poison and skirmish.This card has been translated from Polish and is subject to change.",
+            "locale": {
+                "en": {
+                    "name": "Captain Kresage"
+                }
+            }
+        },
+        {
+            "id": "old-egad-evil-twin",
+            "name": "Old Egad (Evil Twin)",
+            "number": "005",
+            "image": "Old_Egad_(Evil_Twin).png",
+            "house": "logos",
+            "keywords": [],
+            "traits": [
+                "??"
+            ],
+            "type": "creature",
+            "rarity": "Evil Twin",
+            "amber": 0,
+            "armor": 0,
+            "power": 3,
+            "text": "Destroyed: [...]This card is incomplete and subject to change.",
+            "locale": {
+                "en": {
+                    "name": "Old Egad"
+                }
+            }
+        },
+        {
+            "id": "tide-warp",
+            "name": "Tide Warp",
+            "number": "028",
+            "image": "Tide_Warp.png",
+            "house": "logos",
+            "keywords": [],
+            "traits": [
+                "power"
+            ],
+            "type": "artifact",
+            "rarity": "Rare",
+            "amber": 1,
+            "armor": null,
+            "power": null,
+            "text": " At the start of your turn, if the tide is high, your opponent raises the tide. Otherwise, you raise the tide.",
+            "locale": {
+                "en": {
+                    "name": "Tide Warp"
+                }
+            }
+        },
+        {
+            "id": "binary-moray",
+            "name": "Binary Moray",
+            "number": "034",
+            "image": "Binary_Moray.png",
+            "house": "logos",
+            "keywords": [],
+            "traits": [
+                "ai",
+                "beast"
+            ],
+            "type": "creature",
+            "rarity": "Uncommon",
+            "amber": 0,
+            "armor": 0,
+            "power": 5,
+            "text": " After you raise the tide, ready Binary Moray. After your opponent raises the tide, exhaust Binary Moray.Reap: Archive a card.This card is translated from Portuguese and is subject to change.",
+            "locale": {
+                "en": {
+                    "name": "Binary Moray"
+                }
+            }
+        },
+        {
+            "id": "forgive-or-forget",
+            "name": "Forgive or Forget",
+            "number": "040",
+            "image": "Forgive_or_Forget.png",
+            "house": "logos",
+            "keywords": [],
+            "traits": [],
+            "type": "action",
+            "rarity": "Uncommon",
+            "amber": 0,
+            "armor": null,
+            "power": null,
+            "text": "Play: Choose one:• Archive 2 cards of different types from your discard pile.• Purge up to 2 cards from each discard pile.",
+            "locale": {
+                "en": {
+                    "name": "Forgive or Forget"
+                }
+            }
+        },
+        {
+            "id": "lærie-of-the-lake-evil-twin",
+            "name": "Lærie of the Lake (Evil Twin)",
+            "number": "066",
+            "image": "Laerie_of_the_Lake_(Evil_Twin).png",
+            "house": "sanctum",
+            "keywords": [],
+            "traits": [
+                "human",
+                "knight"
+            ],
+            "type": "creature",
+            "rarity": "Evil Twin",
+            "amber": 0,
+            "armor": 0,
+            "power": 3,
+            "text": " While the tide is high, Lærie of the Lake gets +5 armor.",
+            "locale": {
+                "en": {
+                    "name": "Lærie of the Lake"
+                }
+            }
+        },
+        {
+            "id": "seneschal-sargassa-evil-twin",
+            "name": "Seneschal Sargassa (Evil Twin)",
+            "number": "070",
+            "image": "Seneschal_Sargassa_(Evil_Twin).png",
+            "house": "sanctum",
+            "keywords": [],
+            "traits": [
+                "spirit",
+                "knight"
+            ],
+            "type": "creature",
+            "rarity": "Evil Twin",
+            "amber": 0,
+            "armor": 0,
+            "power": 6,
+            "text": "This card is incomplete and subject to change.",
+            "locale": {
+                "en": {
+                    "name": "Seneschal Sargassa"
+                }
+            }
+        },
+        {
+            "id": "dry-the-river",
+            "name": "Dry the River",
+            "number": "076",
+            "image": "Dry_the_River.png",
+            "house": "sanctum",
+            "keywords": [],
+            "traits": [
+                "power"
+            ],
+            "type": "artifact",
+            "rarity": "Rare",
+            "amber": 0,
+            "armor": null,
+            "power": null,
+            "text": " Each creature gains, &quot;While the tide is low, this creature cannot reap.&quot;",
+            "locale": {
+                "en": {
+                    "name": "Dry the River"
+                }
+            }
+        },
+        {
+            "id": "lightsmith-clariel",
+            "name": "Lightsmith Clariel",
+            "number": "080",
+            "image": "Lightsmith_Clariel.png",
+            "house": "sanctum",
+            "keywords": [],
+            "traits": [
+                "angel"
+            ],
+            "type": "creature",
+            "rarity": "Rare",
+            "amber": 0,
+            "armor": 2,
+            "power": 5,
+            "text": "Before Fight: You may swap the power and armor values of Lightsmith Clariel for the remainder of the turn.This card has been translated from Portuguese and is subject to change.",
+            "locale": {
+                "en": {
+                    "name": "Lightsmith Clariel"
+                }
+            }
+        },
+        {
+            "id": "lærie-of-the-lake",
+            "name": "Lærie of the Lake",
+            "number": "115",
+            "image": "Laerie_of_the_Lake.png",
+            "house": "sanctum",
+            "keywords": [],
+            "traits": [
+                "human",
+                "knight"
+            ],
+            "type": "creature",
+            "rarity": "Common",
+            "amber": 0,
+            "armor": 0,
+            "power": 3,
+            "text": " While the tide is high, each friendly creature gets +2 armor.",
+            "locale": {
+                "en": {
+                    "name": "Lærie of the Lake"
+                }
+            }
+        },
+        {
+            "id": "marshal-ewer",
+            "name": "Marshal Ewer",
+            "number": "116",
+            "image": "Marshal_Ewer.png",
+            "house": "sanctum",
+            "keywords": [],
+            "traits": [
+                "spirit",
+                "knight"
+            ],
+            "type": "creature",
+            "rarity": "Common",
+            "amber": 0,
+            "armor": 2,
+            "power": 4,
+            "text": " Play/Fight: Raise the tide.",
+            "locale": {
+                "en": {
+                    "name": "Marshal Ewer"
+                }
+            }
+        },
+        {
+            "id": "tax-pilgrimage",
+            "name": "Tax Pilgrimage",
+            "number": "122",
+            "image": "Dt-122.jpg",
+            "house": "sanctum",
+            "keywords": [],
+            "traits": [],
+            "type": "action",
+            "rarity": "Common",
+            "amber": 1,
+            "armor": null,
+            "power": null,
+            "text": "Play: A friendly creature captures 1. Each neighbor of that creature that shares a house with that creature also captures 1.This card has been translated from Polish and is subject to change.",
+            "locale": {
+                "en": {
+                    "name": "Tax Pilgrimage"
+                }
+            }
+        },
+        {
+            "id": "censor-philo-evil-twin",
+            "name": "Censor Philo (Evil Twin)",
+            "number": "125",
+            "image": "Censor_Philo_(Evil_Twin).png",
+            "house": "saurian",
+            "keywords": [],
+            "traits": [
+                "dinosaur",
+                "politician"
+            ],
+            "type": "creature",
+            "rarity": "Evil Twin",
+            "amber": 0,
+            "armor": 0,
+            "power": null,
+            "text": "[...] to a creature with  [...]This card is incomplete and is subject to change.",
+            "locale": {
+                "en": {
+                    "name": "Censor Philo"
+                }
+            }
+        },
+        {
+            "id": "undagnathus-evil-twin",
+            "name": "Undagnathus (Evil Twin)",
+            "number": "130",
+            "image": "Undagnathus_(Evil_Twin).png",
+            "house": "saurian",
+            "keywords": [],
+            "traits": [
+                "beast"
+            ],
+            "type": "creature",
+            "rarity": "Evil Twin",
+            "amber": 0,
+            "armor": 0,
+            "power": 12,
+            "text": " While the tide is low, double all damage dealt to Undagnathus.",
+            "locale": {
+                "en": {
+                    "name": "Undagnathus"
+                }
+            }
+        },
+        {
+            "id": "saurian-ship",
+            "name": "Saurian Ship (?)",
+            "number": "145",
+            "image": "Saurian_Ship.png",
+            "house": "saurian",
+            "keywords": [],
+            "traits": [
+                "ship"
+            ],
+            "type": "artifact",
+            "rarity": "Rare",
+            "amber": 0,
+            "armor": null,
+            "power": null,
+            "text": "Action: Exhaust up to 5 friendly Saurian creatures. For each creature exhausted this way, deal 1 to each enemy creature.This card is incomplete and subject to change.",
+            "locale": {
+                "en": {
+                    "name": "Saurian Ship (?)"
+                }
+            }
+        },
+        {
+            "id": "bury-riches",
+            "name": "Bury Riches",
+            "number": "154",
+            "image": "Bury_Riches.png",
+            "house": "saurian",
+            "keywords": [],
+            "traits": [],
+            "type": "action",
+            "rarity": "Uncommon",
+            "amber": 0,
+            "armor": null,
+            "power": null,
+            "text": " Play: If the tide is high, move 1 from each creature to its controller's pool. Otherwise, raise the tide.",
+            "locale": {
+                "en": {
+                    "name": "Bury Riches"
+                }
+            }
+        },
+        {
+            "id": "censor-philo",
+            "name": "Censor Philo",
+            "number": "170",
+            "image": "Censor_Philo.png",
+            "house": "saurian",
+            "keywords": [],
+            "traits": [
+                "dinosaur",
+                "politician"
+            ],
+            "type": "creature",
+            "rarity": "Common",
+            "amber": 0,
+            "armor": 0,
+            "power": 5,
+            "text": "Censor Philo cannot be damaged by creatures with  on them. This card is translated from Portuguese and is subject to change.",
+            "locale": {
+                "en": {
+                    "name": "Censor Philo"
+                }
+            }
+        },
+        {
+            "id": "undagnathus",
+            "name": "Undagnathus",
+            "number": "182",
+            "image": "Undagnathus.png",
+            "house": "saurian",
+            "keywords": [],
+            "traits": [
+                "beast"
+            ],
+            "type": "creature",
+            "rarity": "Common",
+            "amber": 0,
+            "armor": 0,
+            "power": 12,
+            "text": " While the tide is low, Undagnathus deals no damage when fighting.",
+            "locale": {
+                "en": {
+                    "name": "Undagnathus"
+                }
+            }
+        },
+        {
+            "id": "captain-no-beard-evil-twin",
+            "name": "Captain No-Beard (Evil Twin)",
+            "number": "184",
+            "image": "Captain_No-Beard_(Evil_Twin).png",
+            "house": "shadows",
+            "keywords": [
+                "taunt"
+            ],
+            "traits": [
+                "elf",
+                "thief"
+            ],
+            "type": "creature",
+            "rarity": "Evil Twin",
+            "amber": 0,
+            "armor": 0,
+            "power": 6,
+            "text": "Taunt.Destroyed: Each of Captain No-Beard's neighbors captures 1.This card is incomplete and subject to change.",
+            "locale": {
+                "en": {
+                    "name": "Captain No-Beard"
+                }
+            }
+        },
+        {
+            "id": "freebooter-faye-evil-twin",
+            "name": "Freebooter Faye (Evil Twin)",
+            "number": "185",
+            "image": "Freebooter_Faye_(Evil_Twin).png",
+            "house": "shadows",
+            "keywords": [],
+            "traits": [
+                "elf",
+                "thief"
+            ],
+            "type": "creature",
+            "rarity": "Evil Twin",
+            "amber": 0,
+            "armor": 0,
+            "power": 4,
+            "text": " Play: Raise the tide. Before Fight: If the tide is high, [...] 1.This card text is incomplete and subject to change.",
+            "locale": {
+                "en": {
+                    "name": "Freebooter Faye"
+                }
+            }
+        },
+        {
+            "id": "hard-simpson-evil-twin",
+            "name": "Hard Simpson (Evil Twin)",
+            "number": "186",
+            "image": "Dt-186-dark-simpson-ET-en.png",
+            "house": "shadows",
+            "keywords": [],
+            "traits": [
+                "elf",
+                "thief"
+            ],
+            "type": "creature",
+            "rarity": "Evil Twin",
+            "amber": 0,
+            "armor": 0,
+            "power": 4,
+            "text": " Reap: If the tide is high, a damaged creatures captures 1  from its own side.",
+            "locale": {
+                "en": {
+                    "name": "Hard Simpson"
+                }
+            }
+        },
+        {
+            "id": "archon-s-revenge",
+            "name": "Archon's Revenge",
+            "number": "191",
+            "image": "Archons_Revenge.png",
+            "house": "shadows",
+            "keywords": [],
+            "traits": [
+                "ship"
+            ],
+            "type": "artifact",
+            "rarity": "Rare",
+            "amber": 0,
+            "armor": null,
+            "power": null,
+            "text": "Action: Exhaust up to 2 friendly Shadows creatures. For each creature exhausted this way, steal 1.",
+            "locale": {
+                "en": {
+                    "name": "Archon's Revenge"
+                }
+            }
+        },
+        {
+            "id": "captain-no-beard",
+            "name": "Captain No-Beard",
+            "number": "192",
+            "image": "Captain_No-Beard.png",
+            "house": "shadows",
+            "keywords": [],
+            "traits": [
+                "elf",
+                "thief"
+            ],
+            "type": "creature",
+            "rarity": "Rare",
+            "amber": 0,
+            "armor": 0,
+            "power": 3,
+            "text": "Each of Captain No-Beard's neighbors gains taunt.Reap: Capture 1.",
+            "locale": {
+                "en": {
+                    "name": "Captain No-Beard"
+                }
+            }
+        },
+        {
+            "id": "hard-simpson",
+            "name": "Hard Simpson",
+            "number": "230",
+            "image": "Dt-230-dark-simpson-en.png",
+            "house": "shadows",
+            "keywords": [],
+            "traits": [
+                "elf",
+                "thief"
+            ],
+            "type": "creature",
+            "rarity": "Common",
+            "amber": 0,
+            "armor": 0,
+            "power": 4,
+            "text": " After Hard Simpson is dealt damage, steal 1 . If the tide is low, your opponent steals 1  instead. (Hard Simpson must survive this damage.)",
+            "locale": {
+                "en": {
+                    "name": "Hard Simpson"
+                }
+            }
+        },
+        {
+            "id": "sea-urchin",
+            "name": "Sea Urchin",
+            "number": "239",
+            "image": "Sea_Urchin.png",
+            "house": "shadows",
+            "keywords": [
+                "poison"
+            ],
+            "traits": [
+                "aquan",
+                "thief"
+            ],
+            "type": "creature",
+            "rarity": "Common",
+            "amber": 0,
+            "armor": 0,
+            "power": 1,
+            "text": "Poison. (Any damage dealt by this creature's power during a fight destroys the damaged creature.) Play: Capture 1. If the tide is high, steal 1 instead.",
+            "locale": {
+                "en": {
+                    "name": "Sea Urchin"
+                }
+            }
+        },
+        {
+            "id": "rocketeer-tryska-evil-twin",
+            "name": "Rocketeer Tryska (Evil Twin)",
+            "number": "250",
+            "image": "Rocketeer_Tryska_(Evil_Twin).png",
+            "house": "staralliance",
+            "keywords": [
+                "skirmish"
+            ],
+            "traits": [
+                "human"
+            ],
+            "type": "creature",
+            "rarity": "Evil Twin",
+            "amber": 0,
+            "armor": 0,
+            "power": 4,
+            "text": "Skirmish. While the tide is high, Rocketeer Tryska enters play ready.",
+            "locale": {
+                "en": {
+                    "name": "Rocketeer Tryska"
+                }
+            }
+        },
+        {
+            "id": "5c077",
+            "name": "5C077",
+            "number": "256",
+            "image": "5C077.png",
+            "house": "staralliance",
+            "keywords": [],
+            "traits": [
+                "robot"
+            ],
+            "type": "creature",
+            "rarity": "Rare",
+            "amber": 0,
+            "armor": 0,
+            "power": 2,
+            "text": "Reap: Ready and use a friendly creature with the same power as 5C077. You may give 5C077 a +1 power counter or remove a +1 power counter from 5C077.",
+            "locale": {
+                "en": {
+                    "name": "5C077"
+                }
+            }
+        },
+        {
+            "id": "ceaseforge",
+            "name": "Ceaseforge",
+            "number": "259",
+            "image": "Dt-259.png",
+            "house": "staralliance",
+            "keywords": [],
+            "traits": [
+                "law"
+            ],
+            "type": "artifact",
+            "rarity": "Rare",
+            "amber": 1,
+            "armor": null,
+            "power": null,
+            "text": "Play: Put 2 time counters on Ceaseforge.Players cannot forge keys.At the start of your turn, remove a time counter from Ceaseforge, then destroy it if there are no time counters on it.",
+            "locale": {
+                "en": {
+                    "name": "Ceaseforge"
+                }
+            }
+        },
+        {
+            "id": "b4-th05",
+            "name": "B4-TH05",
+            "number": "262",
+            "image": "Dt-262.jpg",
+            "house": "staralliance",
+            "keywords": [],
+            "traits": [],
+            "type": "upgrade",
+            "rarity": "Rare",
+            "amber": 0,
+            "armor": null,
+            "power": null,
+            "text": " While the tide is high, this creature gains skirmish. While the tide is low, this creature gains elusive.This card has been translated from Polish and is subject to change.",
+            "locale": {
+                "en": {
+                    "name": "B4-TH05"
+                }
+            }
+        },
+        {
+            "id": "sabotage-mission",
+            "name": "Sabotage Mission",
+            "number": "282",
+            "image": "Dt-sabotage.png",
+            "house": "staralliance",
+            "keywords": [],
+            "traits": [],
+            "type": "action",
+            "rarity": "Uncommon",
+            "amber": 1,
+            "armor": null,
+            "power": null,
+            "text": "Play: During your opponent's next turn, keys cost +1 for each different power value of friendly creatures.This card has been translated from Polish and is subject to change.",
+            "locale": {
+                "en": {
+                    "name": "Sabotage Mission"
+                }
+            }
+        },
+        {
+            "id": "æmber-vac",
+            "name": "Æmber-vac",
+            "number": "290",
+            "image": "Dt-290.png",
+            "house": "staralliance",
+            "keywords": [],
+            "traits": [],
+            "type": "upgrade",
+            "rarity": "Common",
+            "amber": 0,
+            "armor": null,
+            "power": null,
+            "text": " Play: Raise the tide. This creature gains, “At the start of your turn, if the tide is high, capture 2.”",
+            "locale": {
+                "en": {
+                    "name": "Æmber-vac"
+                }
+            }
+        },
+        {
+            "id": "lieutenant-valmart",
+            "name": "Lieutenant Valmart",
+            "number": "296",
+            "image": "Lieutenant_Valmart.png",
+            "house": "staralliance",
+            "keywords": [],
+            "traits": [
+                "alien",
+                "scientist"
+            ],
+            "type": "creature",
+            "rarity": "Common",
+            "amber": 0,
+            "armor": 0,
+            "power": 3,
+            "text": " Play/Fight/Reap: If the tide is high, keys cost +3 during your opponent's next turn.",
+            "locale": {
+                "en": {
+                    "name": "Lieutenant Valmart"
+                }
+            }
+        },
+        {
+            "id": "horrid-synan-evil-twin",
+            "name": "Horrid Synan (Evil Twin)",
+            "number": "308",
+            "image": "Horrid_Synan_(Evil_Twin).png",
+            "house": "unfathomable",
+            "keywords": [
+                "poison"
+            ],
+            "traits": [
+                "beast"
+            ],
+            "type": "creature",
+            "rarity": "Evil Twin",
+            "amber": 0,
+            "armor": 0,
+            "power": 2,
+            "text": "Poison.Taunt.",
+            "locale": {
+                "en": {
+                    "name": "Horrid Synan"
+                }
+            }
+        },
+        {
+            "id": "kaupe-evil-twin",
+            "name": "Kaupe (Evil Twin)",
+            "number": "309",
+            "image": "Kaupe_(Evil_Twin).png",
+            "house": "unfathomable",
+            "keywords": [],
+            "traits": [
+                "aquan"
+            ],
+            "type": "creature",
+            "rarity": "Evil Twin",
+            "amber": 0,
+            "armor": null,
+            "power": 7,
+            "text": "This card is incomplete and subject to change.",
+            "locale": {
+                "en": {
+                    "name": "Kaupe"
+                }
+            }
+        },
+        {
+            "id": "taniwha-evil-twin",
+            "name": "Taniwha (Evil Twin)",
+            "number": "310",
+            "image": "Taniwha_(Evil_Twin).png",
+            "house": "unfathomable",
+            "keywords": [],
+            "traits": [
+                "beast"
+            ],
+            "type": "creature",
+            "rarity": "Evil Twin",
+            "amber": 0,
+            "armor": 1,
+            "power": 4,
+            "text": "Fight/Reap: Put a creature from your discard pile on top of your deck.",
+            "locale": {
+                "en": {
+                    "name": "Taniwha"
+                }
+            }
+        },
+        {
+            "id": "omnipus",
+            "name": "Omnipus",
+            "number": "316",
+            "image": "Omnipus.png",
+            "house": "unfathomable",
+            "keywords": [],
+            "traits": [
+                "beast"
+            ],
+            "type": "creature",
+            "rarity": "Rare",
+            "amber": 0,
+            "armor": 0,
+            "power": 8,
+            "text": "Omnipus cannot fight.Play: Discard the top 8 cards of your deck. Put each Tentacle into play that was discarded this way.Reap: Gain 1 for each friendly Tentacle.This card has been translated from Portuguese and is subject to change.",
+            "locale": {
+                "en": {
+                    "name": "Omnipus"
+                }
+            }
+        },
+        {
+            "id": "sobogg-s-thing-",
+            "name": "Sobogg's Thing ?",
+            "number": "328",
+            "image": "Dt-328.jpg",
+            "house": "unfathomable",
+            "keywords": [],
+            "traits": [],
+            "type": "artifact",
+            "rarity": "Rare",
+            "amber": 1,
+            "armor": null,
+            "power": null,
+            "text": "After your opponent forges a key, exhaust each creature they control.This card has been translated from Polish and is subject to change.",
+            "locale": {
+                "en": {
+                    "name": "Sobogg's Thing ?"
+                }
+            }
+        },
+        {
+            "id": "taniwha",
+            "name": "Taniwha",
+            "number": "329",
+            "image": "Taniwha.png",
+            "house": "unfathomable",
+            "keywords": [],
+            "traits": [
+                "beast"
+            ],
+            "type": "creature",
+            "rarity": "Rare",
+            "amber": 0,
+            "armor": 2,
+            "power": 8,
+            "text": "Fight/Reap: Destroy a friendly creature and gain 1.",
+            "locale": {
+                "en": {
+                    "name": "Taniwha"
+                }
+            }
+        },
+        {
+            "id": "the-chosen-one",
+            "name": "The Chosen One",
+            "number": "332",
+            "image": "The_Chosen_One.png",
+            "house": "unfathomable",
+            "keywords": [],
+            "traits": [
+                "aquan"
+            ],
+            "type": "",
+            "rarity": "Rare",
+            "amber": 0,
+            "armor": null,
+            "power": 9,
+            "text": "Instead of readying creatures they control during their &quot;ready cards&quot; step, your opponent deals 1 to The Chosen One for each exhausted creature they control.",
+            "locale": {
+                "en": {
+                    "name": "The Chosen One"
+                }
+            }
+        },
+        {
+            "id": "abyssal-zealot",
+            "name": "Abyssal Zealot",
+            "number": "337",
+            "image": "AbyssalZealot.png",
+            "house": "unfathomable",
+            "keywords": [],
+            "traits": [
+                "aquan"
+            ],
+            "type": "creature",
+            "rarity": "Uncommon",
+            "amber": 0,
+            "armor": 0,
+            "power": 4,
+            "text": " After you raise the tide, capture 2. After your opponent raises the tide, move 2 from Abyssal Zealot to the common supply.",
+            "locale": {
+                "en": {
+                    "name": "Abyssal Zealot"
+                }
+            }
+        },
+        {
+            "id": "kaupe",
+            "name": "Kaupe",
+            "number": "341",
+            "image": "Kaupe.png",
+            "house": "unfathomable",
+            "keywords": [],
+            "traits": [
+                "aquan"
+            ],
+            "type": "creature",
+            "rarity": "Uncommon",
+            "amber": 0,
+            "armor": 0,
+            "power": 2,
+            "text": "Your opponent cannot play more than 1 card of each card type (action, artifact, creature, upgrade) each turn.",
+            "locale": {
+                "en": {
+                    "name": "Kaupe"
+                }
+            }
+        },
+        {
+            "id": "kiri-giltspine",
+            "name": "Kiri Giltspine",
+            "number": "342",
+            "image": "Kiri_Giltspine.png",
+            "house": "unfathomable",
+            "keywords": [
+                "elusive"
+            ],
+            "traits": [
+                "aquan"
+            ],
+            "type": "creature",
+            "rarity": "Uncommon",
+            "amber": 0,
+            "armor": 0,
+            "power": 3,
+            "text": "Elusive.",
+            "locale": {
+                "en": {
+                    "name": "Kiri Giltspine"
+                }
+            }
+        },
+        {
+            "id": "sleep-with-the-fishes",
+            "name": "Sleep with the Fishes",
+            "number": "344",
+            "image": "Sleep_with_the_Fishes.png",
+            "house": "unfathomable",
+            "keywords": [],
+            "traits": [],
+            "type": "action",
+            "rarity": "Uncommon",
+            "amber": 1,
+            "armor": null,
+            "power": null,
+            "text": "Play: Destroy each exhausted creature.",
+            "locale": {
+                "en": {
+                    "name": "Sleep with the Fishes"
+                }
+            }
+        },
+        {
+            "id": "hookmaster",
+            "name": "Hookmaster",
+            "number": "358",
+            "image": "Hookmaster.png",
+            "house": "unfathomable",
+            "keywords": [],
+            "traits": [
+                "aquan"
+            ],
+            "type": "creature",
+            "rarity": "Common",
+            "amber": 0,
+            "armor": 1,
+            "power": 4,
+            "text": " Fight: If the tide is high, your opponent loses 2.",
+            "locale": {
+                "en": {
+                    "name": "Hookmaster"
+                }
+            }
+        },
+        {
+            "id": "seabringer-kekoa",
+            "name": "Seabringer Kekoa",
+            "number": "364",
+            "image": "Seabringer_Kekoa.png",
+            "house": "unfathomable",
+            "keywords": [
+                "taunt"
+            ],
+            "traits": [
+                "beast"
+            ],
+            "type": "creature",
+            "rarity": "Common",
+            "amber": 0,
+            "armor": 0,
+            "power": 7,
+            "text": "Taunt. (This creature's neighbors cannot be attacked unless they have taunt.) Destroyed: Raise the tide.",
+            "locale": {
+                "en": {
+                    "name": "Seabringer Kekoa"
+                }
+            }
+        },
+        {
+            "id": "æmberfin-shark-evil-twin",
+            "name": "Æmberfin Shark (Evil Twin)",
+            "number": "365",
+            "image": "Aemberfin_Shark_(Evil_Twin).png",
+            "house": "untamed",
+            "keywords": [],
+            "traits": [
+                "beast"
+            ],
+            "type": "creature",
+            "rarity": "Evil Twin",
+            "amber": 0,
+            "armor": null,
+            "power": null,
+            "text": "At the end of your turn, each player [...]. Give Æmberfin Shark [...] counter for each  lost this way.This card is incomplete and subject to change.",
+            "locale": {
+                "en": {
+                    "name": "Æmberfin Shark"
+                }
+            }
+        },
+        {
+            "id": "chelonia-evil-twin",
+            "name": "Chelonia (Evil Twin)",
+            "number": "369",
+            "image": "Chelonia_(Evil_Twin).png",
+            "house": "untamed",
+            "keywords": [
+                "elusive"
+            ],
+            "traits": [
+                "beast",
+                "witch"
+            ],
+            "type": "creature",
+            "rarity": "Evil Twin",
+            "amber": 0,
+            "armor": 0,
+            "power": 2,
+            "text": "Elusive. If the tide is high, after you play another creature, your opponent loses 1.This card is translated from Portuguese and is subject to change.",
+            "locale": {
+                "en": {
+                    "name": "Chelonia"
+                }
+            }
+        },
+        {
+            "id": "ol--paddy-evil-twin",
+            "name": "Ol’ Paddy (Evil Twin)",
+            "number": "371",
+            "image": "Dt-371.png",
+            "house": "untamed",
+            "keywords": [],
+            "traits": [
+                "beast",
+                "fisher"
+            ],
+            "type": "creature",
+            "rarity": "Evil Twin",
+            "amber": 0,
+            "armor": 0,
+            "power": 5,
+            "text": " Reap: Discard the bottom card of your opponent’s deck, or the bottom 3 cards instead if the tide is high. Destroy a creature that shares a house with 1 of the discarded cards.",
+            "locale": {
+                "en": {
+                    "name": "Ol’ Paddy"
+                }
+            }
+        },
+        {
+            "id": "æmberfin-shark",
+            "name": "Æmberfin Shark",
+            "number": "378",
+            "image": "Mberfin_Shark.png",
+            "house": "untamed",
+            "keywords": [],
+            "traits": [
+                "beast"
+            ],
+            "type": "creature",
+            "rarity": "Rare",
+            "amber": 0,
+            "armor": 0,
+            "power": 3,
+            "text": "Play: Give Æmberfin Shark three +1 power counters.At the end of your turn, remove a +1 power counter from Æmberfin Shark. If you do, each player gains 1.",
+            "locale": {
+                "en": {
+                    "name": "Æmberfin Shark"
+                }
+            }
+        },
+        {
+            "id": "the-mysticeti",
+            "name": "The Mysticeti",
+            "number": "393",
+            "image": "Dt-393.png",
+            "house": "untamed",
+            "keywords": [],
+            "traits": [
+                "beast",
+                "ship"
+            ],
+            "type": "artifact",
+            "rarity": "Rare",
+            "amber": 0,
+            "armor": null,
+            "power": null,
+            "text": "Action: Exhaust 1 or more friendly Untamed creatures. If you do, give The Mysticeti three +1 power counters for each creature exhausted this way and move it anywhere in your battleline as a creature with 0 power and taunt.",
+            "locale": {
+                "en": {
+                    "name": "The Mysticeti"
+                }
+            }
+        },
+        {
+            "id": "ol--paddy",
+            "name": "Ol’ Paddy",
+            "number": "408",
+            "image": "Ol_Paddy.png",
+            "house": "untamed",
+            "keywords": [],
+            "traits": [
+                "beast",
+                "fisher"
+            ],
+            "type": "creature",
+            "rarity": "Uncommon",
+            "amber": 0,
+            "armor": 0,
+            "power": 5,
+            "text": " Reap: Discard the bottom card of your deck, or the bottom 3 cards instead if the tide is high. Play each creature discarded this way, one at a time.",
+            "locale": {
+                "en": {
+                    "name": "Ol’ Paddy"
+                }
+            }
+        }
+    ]
+}
