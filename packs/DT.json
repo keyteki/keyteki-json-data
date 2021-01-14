@@ -54,7 +54,7 @@
         {
             "id": "old-egad-evil-twin",
             "name": "Old Egad (Evil Twin)",
-            "number": "005",
+            "number": "004",
             "image": "Old_Egad_(Evil_Twin).png",
             "house": "logos",
             "keywords": [],
@@ -70,6 +70,51 @@
             "locale": {
                 "en": {
                     "name": "Old Egad"
+                }
+            }
+        },
+        {
+            "id": "pi-sweven-evil-twin",
+            "name": "PI Sweven (Evil Twin)",
+            "number": "005",
+            "image": "Dt-005.png",
+            "house": "logos",
+            "keywords": [],
+            "traits": [
+                "human",
+                "scientist"
+            ],
+            "type": "creature",
+            "rarity": "Evil Twin",
+            "amber": 0,
+            "armor": 0,
+            "power": 2,
+            "text": " Reap: If the tide is high, your opponent discards a random card from their hand.",
+            "locale": {
+                "en": {
+                    "name": "PI Sweven"
+                }
+            }
+        },
+        {
+            "id": "captain-kresage",
+            "name": "Captain Kresage",
+            "number": "016",
+            "image": "Dt-016.png",
+            "house": "logos",
+            "keywords": [],
+            "traits": [
+                "cyborg"
+            ],
+            "type": "creature",
+            "rarity": "Rare",
+            "amber": 0,
+            "armor": 0,
+            "power": 6,
+            "text": "While you control another creature with elusive, taunt, poison, or skirmish, Captain Kresage gains that keyword.",
+            "locale": {
+                "en": {
+                    "name": "Captain Kresage"
                 }
             }
         },
@@ -207,6 +252,26 @@
             }
         },
         {
+            "id": "harmonic-ritual",
+            "name": "Harmonic Ritual",
+            "number": "078",
+            "image": "Dt-078.png",
+            "house": "sanctum",
+            "keywords": [],
+            "traits": [],
+            "type": "action",
+            "rarity": "Rare",
+            "amber": 1,
+            "armor": null,
+            "power": null,
+            "text": "Play: Choose a friendly creature. If its left neighbor shares a house with it, gain 1 and repeat this effect on that creature.",
+            "locale": {
+                "en": {
+                    "name": "Harmonic Ritual"
+                }
+            }
+        },
+        {
             "id": "lightsmith-clariel",
             "name": "Lightsmith Clariel",
             "number": "080",
@@ -225,6 +290,26 @@
             "locale": {
                 "en": {
                     "name": "Lightsmith Clariel"
+                }
+            }
+        },
+        {
+            "id": "trial-by-water",
+            "name": "Trial by Water",
+            "number": "092",
+            "image": "Dt-092.png",
+            "house": "sanctum",
+            "keywords": [],
+            "traits": [],
+            "type": "action",
+            "rarity": "Rare",
+            "amber": 1,
+            "armor": null,
+            "power": null,
+            "text": " Play: Reset the tide. Players cannot raise the tide until the start of your next turn.",
+            "locale": {
+                "en": {
+                    "name": "Trial by Water"
                 }
             }
         },
@@ -318,6 +403,28 @@
             }
         },
         {
+            "id": "eclectic-ambrosius-evil-twin",
+            "name": "Eclectic Ambrosius (Evil Twin)",
+            "number": "126",
+            "image": "Dt-126.png",
+            "house": "saurian",
+            "keywords": [],
+            "traits": [
+                "dinosaur"
+            ],
+            "type": "creature",
+            "rarity": "Evil Twin",
+            "amber": 0,
+            "armor": 0,
+            "power": 4,
+            "text": "Reap: Put an ignorance counter on an enemy creature. As long as that creature has an ignorance counter, its text box is considered blank (except for traits).",
+            "locale": {
+                "en": {
+                    "name": "Eclectic Ambrosius"
+                }
+            }
+        },
+        {
             "id": "undagnathus-evil-twin",
             "name": "Undagnathus (Evil Twin)",
             "number": "130",
@@ -378,6 +485,28 @@
             "locale": {
                 "en": {
                     "name": "Bury Riches"
+                }
+            }
+        },
+        {
+            "id": "trojan-sauropod",
+            "name": "Trojan Sauropod",
+            "number": "166",
+            "image": "Dt-166.png",
+            "house": "saurian",
+            "keywords": [],
+            "traits": [
+                "item"
+            ],
+            "type": "artifact",
+            "rarity": "Uncommon",
+            "amber": 0,
+            "armor": null,
+            "power": null,
+            "text": "Trojan Sauropod enters play under your opponent's control.Omni: Gain 3. Your opponent reveals their hand and puts each creature from it into play ready, then refills their hand as if it were their &quot;draw cards&quot; step. Destroy Trojan Sauropod.",
+            "locale": {
+                "en": {
+                    "name": "Trojan Sauropod"
                 }
             }
         },
@@ -498,6 +627,29 @@
             }
         },
         {
+            "id": "sea-urchin-evil-twin",
+            "name": "Sea Urchin (Evil Twin)",
+            "number": "190",
+            "image": "Dt-190.png",
+            "house": "shadows",
+            "keywords": [],
+            "traits": [
+                "aquan",
+                "thief"
+            ],
+            "type": "creature",
+            "rarity": "Evil Twin",
+            "amber": 0,
+            "armor": 0,
+            "power": 1,
+            "text": " Play: Capture 2. If the tide is high, steal 2 instead.",
+            "locale": {
+                "en": {
+                    "name": "Sea Urchin"
+                }
+            }
+        },
+        {
             "id": "archon-s-revenge",
             "name": "Archon's Revenge",
             "number": "191",
@@ -548,7 +700,9 @@
             "number": "230",
             "image": "Dt-230-dark-simpson-en.png",
             "house": "shadows",
-            "keywords": [],
+            "keywords": [
+                "elusive"
+            ],
             "traits": [
                 "elf",
                 "thief"
@@ -558,10 +712,35 @@
             "amber": 0,
             "armor": 0,
             "power": 4,
-            "text": " After Hard Simpson is dealt damage, steal 1 . If the tide is low, your opponent steals 1  instead. (Hard Simpson must survive this damage.)",
+            "text": "Elusive. (The first time this creature is attacked each turn, no damage is dealt.) After Hard Simpson is dealt damage, steal 1 . If the tide is low, your opponent steals 1  instead. (Hard Simpson must survive this damage.)",
             "locale": {
                 "en": {
                     "name": "Hard Simpson"
+                }
+            }
+        },
+        {
+            "id": "jackie-tar",
+            "name": "Jackie Tar",
+            "number": "233",
+            "image": "Dt-233.png",
+            "house": "shadows",
+            "keywords": [
+                "elusive"
+            ],
+            "traits": [
+                "elf",
+                "thief"
+            ],
+            "type": "creature",
+            "rarity": "Common",
+            "amber": 0,
+            "armor": 0,
+            "power": 2,
+            "text": "Elusive. (The first time this creature is attacked each turn, no damage is dealt.) Reap: Deal 1 to a creature. If the tide is high, deal 6 to a creature instead.",
+            "locale": {
+                "en": {
+                    "name": "Jackie Tar"
                 }
             }
         },
@@ -810,6 +989,28 @@
             }
         },
         {
+            "id": "tomwa-of-the-glow-evil-twin",
+            "name": "Tomwa of the Glow (Evil Twin)",
+            "number": "311",
+            "image": "Dt-311.png",
+            "house": "unfathomable",
+            "keywords": [],
+            "traits": [
+                "aquan"
+            ],
+            "type": "creature",
+            "rarity": "Evil Twin",
+            "amber": 0,
+            "armor": 0,
+            "power": 3,
+            "text": " Reap: If the tide is high, exhaust an enemy creature and your opponent discards a random card from their hand.",
+            "locale": {
+                "en": {
+                    "name": "Tomwa of the Glow"
+                }
+            }
+        },
+        {
             "id": "omnipus",
             "name": "Omnipus",
             "number": "316",
@@ -828,6 +1029,28 @@
             "locale": {
                 "en": {
                     "name": "Omnipus"
+                }
+            }
+        },
+        {
+            "id": "kiligog-s-trench",
+            "name": "Kiligog's Trench",
+            "number": "324",
+            "image": "Dt-324.png",
+            "house": "unfathomable",
+            "keywords": [],
+            "traits": [
+                "location"
+            ],
+            "type": "artifact",
+            "rarity": "Rare",
+            "amber": 0,
+            "armor": null,
+            "power": null,
+            "text": "At the end of your turn, place 1 depth counter on Kiligog's Trench, then destroy each creature with power equal to the number of depth counters on Kiligog's Trench.",
+            "locale": {
+                "en": {
+                    "name": "Kiligog's Trench"
                 }
             }
         },
@@ -1030,9 +1253,29 @@
             }
         },
         {
+            "id": "sink-or-swim",
+            "name": "Sink or Swim",
+            "number": "365",
+            "image": "Sinkorswimspoiler.png",
+            "house": "unfathomable",
+            "keywords": [],
+            "traits": [],
+            "type": "action",
+            "rarity": "Common",
+            "amber": 0,
+            "armor": null,
+            "power": null,
+            "text": "Play: Choose one:\n\n Your opponent discards a random card from their hand.\nExhaust a creature and each of its neighbors.\n",
+            "locale": {
+                "en": {
+                    "name": "Sink or Swim"
+                }
+            }
+        },
+        {
             "id": "æmberfin-shark-evil-twin",
             "name": "Æmberfin Shark (Evil Twin)",
-            "number": "365",
+            "number": "366",
             "image": "Aemberfin_Shark_(Evil_Twin).png",
             "house": "untamed",
             "keywords": [],
@@ -1141,29 +1384,6 @@
             "locale": {
                 "en": {
                     "name": "The Mysticeti"
-                }
-            }
-        },
-        {
-            "id": "ol--paddy",
-            "name": "Ol’ Paddy",
-            "number": "408",
-            "image": "Ol_Paddy.png",
-            "house": "untamed",
-            "keywords": [],
-            "traits": [
-                "beast",
-                "fisher"
-            ],
-            "type": "creature",
-            "rarity": "Uncommon",
-            "amber": 0,
-            "armor": 0,
-            "power": 5,
-            "text": " Reap: Discard the bottom card of your deck, or the bottom 3 cards instead if the tide is high. Play each creature discarded this way, one at a time.",
-            "locale": {
-                "en": {
-                    "name": "Ol’ Paddy"
                 }
             }
         }
