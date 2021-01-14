@@ -1386,6 +1386,49 @@
                     "name": "The Mysticeti"
                 }
             }
+        },
+        {
+            "id": "cross-porpoises",
+            "name": "Cross Porpoises",
+            "number": "400",
+            "image": "Dt-400.png",
+            "house": "untamed",
+            "keywords": [],
+            "traits": [],
+            "type": "action",
+            "rarity": "Uncommon",
+            "amber": 1,
+            "armor": null,
+            "power": null,
+            "text": " Play: Raise the tide. Enrage 2 enemy creatures.",
+            "locale": {
+                "en": {
+                    "name": "Cross Porpoises"
+                }
+            }
+        },
+        {
+            "id": "ol--paddy",
+            "name": "Ol’ Paddy",
+            "number": "408",
+            "image": "Ol_Paddy.png",
+            "house": "untamed",
+            "keywords": [],
+            "traits": [
+                "beast",
+                "fisher"
+            ],
+            "type": "creature",
+            "rarity": "Uncommon",
+            "amber": 0,
+            "armor": 0,
+            "power": 5,
+            "text": " Reap: Discard the bottom card of your deck, or the bottom 3 cards instead if the tide is high. Play each creature discarded this way, one at a time.",
+            "locale": {
+                "en": {
+                    "name": "Ol’ Paddy"
+                }
+            }
         }
     ]
 }

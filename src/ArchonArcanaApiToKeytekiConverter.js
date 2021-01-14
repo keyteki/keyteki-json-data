@@ -73,7 +73,7 @@ class DecksOfKeyforgeApiToKeytekiConverter {
                        'SpoilerData.SearchText,SpoilerData.SearchFlavorText,SpoilerData.Traits,SpoilerData.Armor,SpoilerData.IsNew,SpoilerData.Source,' +
                        'SpoilerData.Amber&group_by=SpoilerData.Power,SpoilerData.Rarity,SpoilerData.Name,SpoilerData.House,' +
                        'SpoilerData.Type,SpoilerData.Image,SpoilerData.CardNumber,SpoilerData.SearchText,SpoilerData.SearchFlavorText,SpoilerData.Traits,' +
-                       'SpoilerData.Armor,SpoilerData.IsNew,SpoilerData.Source,SpoilerData.Amber&limit=400&offset=0&order_by=CardNumber';
+                       'SpoilerData.Armor,SpoilerData.IsNew,SpoilerData.Source,SpoilerData.Amber&limit=500&offset=0&order_by=CardNumber';
 
         let packCardMap = pack.cards.reduce(function(map, obj) {
             map[obj.number] = obj;
@@ -99,6 +99,8 @@ class DecksOfKeyforgeApiToKeytekiConverter {
         let generatedNumber = 900;
         let generatedNumberCards = {
         };
+        
+        console.log(`Loading ${response.cargoquery.length} cards`);
         
         for(let el of response.cargoquery) {
             let card = el.title;
