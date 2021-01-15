@@ -1106,10 +1106,10 @@
             "traits": [
                 "aquan"
             ],
-            "type": "",
+            "type": "creature",
             "rarity": "Rare",
             "amber": 0,
-            "armor": null,
+            "armor": 0,
             "power": 9,
             "text": "Instead of readying creatures they control during their \"ready cards\" step, your opponent deals 1D to The Chosen One for each exhausted creature they control.",
             "locale": {
