@@ -22,7 +22,7 @@
             "amber": 0,
             "armor": null,
             "power": 3,
-            "text": "Fight: Steal 2.This card is incomplete and subject to change.",
+            "text": "Fight: Steal 2A.\nThis card is incomplete and subject to change.",
             "locale": {
                 "en": {
                     "name": "Armadrone"
@@ -44,7 +44,7 @@
             "amber": 0,
             "armor": 0,
             "power": 6,
-            "text": "All creatures lose elusive, taunt, poison and skirmish.This card has been translated from Polish and is subject to change.",
+            "text": "All creatures lose elusive, taunt, poison and skirmish.\nThis card has been translated from Polish and is subject to change.",
             "locale": {
                 "en": {
                     "name": "Captain Kresage"
@@ -66,7 +66,7 @@
             "amber": 0,
             "armor": 0,
             "power": 3,
-            "text": "Destroyed: [...]This card is incomplete and subject to change.",
+            "text": "Destroyed: [...]\nThis card is incomplete and subject to change.",
             "locale": {
                 "en": {
                     "name": "Old Egad"
@@ -156,7 +156,7 @@
             "amber": 0,
             "armor": 0,
             "power": 5,
-            "text": " After you raise the tide, ready Binary Moray. After your opponent raises the tide, exhaust Binary Moray.Reap: Archive a card.This card is translated from Portuguese and is subject to change.",
+            "text": " After you raise the tide, ready Binary Moray.\n After your opponent raises the tide, exhaust Binary Moray.\nReap: Archive a card.\nThis card is translated from Portuguese and is subject to change.",
             "locale": {
                 "en": {
                     "name": "Binary Moray"
@@ -176,7 +176,7 @@
             "amber": 0,
             "armor": null,
             "power": null,
-            "text": "Play: Choose one:• Archive 2 cards of different types from your discard pile.• Purge up to 2 cards from each discard pile.",
+            "text": "Play: Choose one:\n• Archive 2 cards of different types from your discard pile.\n• Purge up to 2 cards from each discard pile.",
             "locale": {
                 "en": {
                     "name": "Forgive or Forget"
@@ -244,7 +244,7 @@
             "amber": 0,
             "armor": null,
             "power": null,
-            "text": " Each creature gains, &quot;While the tide is low, this creature cannot reap.&quot;",
+            "text": " Each creature gains, \"While the tide is low, this creature cannot reap.\"",
             "locale": {
                 "en": {
                     "name": "Dry the River"
@@ -264,7 +264,7 @@
             "amber": 1,
             "armor": null,
             "power": null,
-            "text": "Play: Choose a friendly creature. If its left neighbor shares a house with it, gain 1 and repeat this effect on that creature.",
+            "text": "Play: Choose a friendly creature. If its left neighbor shares a house with it, gain 1A and repeat this effect on that creature.",
             "locale": {
                 "en": {
                     "name": "Harmonic Ritual"
@@ -286,7 +286,7 @@
             "amber": 0,
             "armor": 2,
             "power": 5,
-            "text": "Before Fight: You may swap the power and armor values of Lightsmith Clariel for the remainder of the turn.This card has been translated from Portuguese and is subject to change.",
+            "text": "Before Fight: You may swap the power and armor values of Lightsmith Clariel for the remainder of the turn.\nThis card has been translated from Portuguese and is subject to change.",
             "locale": {
                 "en": {
                     "name": "Lightsmith Clariel"
@@ -372,7 +372,7 @@
             "amber": 1,
             "armor": null,
             "power": null,
-            "text": "Play: A friendly creature captures 1. Each neighbor of that creature that shares a house with that creature also captures 1.This card has been translated from Polish and is subject to change.",
+            "text": "Play: A friendly creature captures 1A. Each neighbor of that creature that shares a house with that creature also captures 1A.\nThis card has been translated from Polish and is subject to change.",
             "locale": {
                 "en": {
                     "name": "Tax Pilgrimage"
@@ -395,7 +395,7 @@
             "amber": 0,
             "armor": 0,
             "power": null,
-            "text": "[...] to a creature with  [...]This card is incomplete and is subject to change.",
+            "text": "[...] to a creature with A [...]\nThis card is incomplete and is subject to change.",
             "locale": {
                 "en": {
                     "name": "Censor Philo"
@@ -461,7 +461,7 @@
             "amber": 0,
             "armor": null,
             "power": null,
-            "text": "Action: Exhaust up to 5 friendly Saurian creatures. For each creature exhausted this way, deal 1 to each enemy creature.This card is incomplete and subject to change.",
+            "text": "Action: Exhaust up to 5 friendly Saurian creatures. For each creature exhausted this way, deal 1D to each enemy creature.\nThis card is incomplete and subject to change.",
             "locale": {
                 "en": {
                     "name": "Saurian Ship (?)"
@@ -481,7 +481,7 @@
             "amber": 0,
             "armor": null,
             "power": null,
-            "text": " Play: If the tide is high, move 1 from each creature to its controller's pool. Otherwise, raise the tide.",
+            "text": " Play: If the tide is high, move 1A from each creature to its controller's pool. Otherwise, raise the tide.",
             "locale": {
                 "en": {
                     "name": "Bury Riches"
@@ -503,7 +503,7 @@
             "amber": 0,
             "armor": null,
             "power": null,
-            "text": "Trojan Sauropod enters play under your opponent's control.Omni: Gain 3. Your opponent reveals their hand and puts each creature from it into play ready, then refills their hand as if it were their &quot;draw cards&quot; step. Destroy Trojan Sauropod.",
+            "text": "Trojan Sauropod enters play under your opponent's control.\nOmni: Gain 3A. Your opponent reveals their hand and puts each creature from it into play ready, then refills their hand as if it were their \"draw cards\" step. Destroy Trojan Sauropod.",
             "locale": {
                 "en": {
                     "name": "Trojan Sauropod"
@@ -526,7 +526,7 @@
             "amber": 0,
             "armor": 0,
             "power": 5,
-            "text": "Censor Philo cannot be damaged by creatures with  on them. This card is translated from Portuguese and is subject to change.",
+            "text": "Censor Philo cannot be damaged by creatures with A on them. \nThis card is translated from Portuguese and is subject to change.",
             "locale": {
                 "en": {
                     "name": "Censor Philo"
@@ -573,7 +573,7 @@
             "amber": 0,
             "armor": 0,
             "power": 6,
-            "text": "Taunt.Destroyed: Each of Captain No-Beard's neighbors captures 1.This card is incomplete and subject to change.",
+            "text": "Taunt.\nDestroyed: Each of Captain No-Beard's neighbors captures 1A.\nThis card is incomplete and subject to change.",
             "locale": {
                 "en": {
                     "name": "Captain No-Beard"
@@ -596,7 +596,7 @@
             "amber": 0,
             "armor": 0,
             "power": 4,
-            "text": " Play: Raise the tide. Before Fight: If the tide is high, [...] 1.This card text is incomplete and subject to change.",
+            "text": " Play: Raise the tide.\n Before Fight: If the tide is high, [...] 1A.\nThis card text is incomplete and subject to change.",
             "locale": {
                 "en": {
                     "name": "Freebooter Faye"
@@ -619,7 +619,7 @@
             "amber": 0,
             "armor": 0,
             "power": 4,
-            "text": " Reap: If the tide is high, a damaged creatures captures 1  from its own side.",
+            "text": " Reap: If the tide is high, a damaged creatures captures 1 A from its own side.",
             "locale": {
                 "en": {
                     "name": "Hard Simpson"
@@ -642,7 +642,7 @@
             "amber": 0,
             "armor": 0,
             "power": 1,
-            "text": " Play: Capture 2. If the tide is high, steal 2 instead.",
+            "text": " Play: Capture 2A. If the tide is high, steal 2A instead.",
             "locale": {
                 "en": {
                     "name": "Sea Urchin"
@@ -664,7 +664,7 @@
             "amber": 0,
             "armor": null,
             "power": null,
-            "text": "Action: Exhaust up to 2 friendly Shadows creatures. For each creature exhausted this way, steal 1.",
+            "text": "Action: Exhaust up to 2 friendly Shadows creatures. For each creature exhausted this way, steal 1A.",
             "locale": {
                 "en": {
                     "name": "Archon's Revenge"
@@ -687,7 +687,7 @@
             "amber": 0,
             "armor": 0,
             "power": 3,
-            "text": "Each of Captain No-Beard's neighbors gains taunt.Reap: Capture 1.",
+            "text": "Each of Captain No-Beard's neighbors gains taunt.\nReap: Capture 1A.",
             "locale": {
                 "en": {
                     "name": "Captain No-Beard"
@@ -712,7 +712,7 @@
             "amber": 0,
             "armor": 0,
             "power": 4,
-            "text": "Elusive. (The first time this creature is attacked each turn, no damage is dealt.) After Hard Simpson is dealt damage, steal 1 . If the tide is low, your opponent steals 1  instead. (Hard Simpson must survive this damage.)",
+            "text": "Elusive. (The first time this creature is attacked each turn, no damage is dealt.)\n After Hard Simpson is dealt damage, steal 1 A. If the tide is low, your opponent steals 1 A instead. (Hard Simpson must survive this damage.)",
             "locale": {
                 "en": {
                     "name": "Hard Simpson"
@@ -737,7 +737,7 @@
             "amber": 0,
             "armor": 0,
             "power": 2,
-            "text": "Elusive. (The first time this creature is attacked each turn, no damage is dealt.) Reap: Deal 1 to a creature. If the tide is high, deal 6 to a creature instead.",
+            "text": "Elusive. (The first time this creature is attacked each turn, no damage is dealt.)\n Reap: Deal 1D to a creature. If the tide is high, deal 6D to a creature instead.",
             "locale": {
                 "en": {
                     "name": "Jackie Tar"
@@ -762,7 +762,7 @@
             "amber": 0,
             "armor": 0,
             "power": 1,
-            "text": "Poison. (Any damage dealt by this creature's power during a fight destroys the damaged creature.) Play: Capture 1. If the tide is high, steal 1 instead.",
+            "text": "Poison. (Any damage dealt by this creature's power during a fight destroys the damaged creature.)\n Play: Capture 1A. If the tide is high, steal 1A instead.",
             "locale": {
                 "en": {
                     "name": "Sea Urchin"
@@ -786,7 +786,7 @@
             "amber": 0,
             "armor": 0,
             "power": 4,
-            "text": "Skirmish. While the tide is high, Rocketeer Tryska enters play ready.",
+            "text": "Skirmish.\n While the tide is high, Rocketeer Tryska enters play ready.",
             "locale": {
                 "en": {
                     "name": "Rocketeer Tryska"
@@ -830,7 +830,7 @@
             "amber": 1,
             "armor": null,
             "power": null,
-            "text": "Play: Put 2 time counters on Ceaseforge.Players cannot forge keys.At the start of your turn, remove a time counter from Ceaseforge, then destroy it if there are no time counters on it.",
+            "text": "Play: Put 2 time counters on Ceaseforge.\nPlayers cannot forge keys.\nAt the start of your turn, remove a time counter from Ceaseforge, then destroy it if there are no time counters on it.",
             "locale": {
                 "en": {
                     "name": "Ceaseforge"
@@ -850,7 +850,7 @@
             "amber": 0,
             "armor": null,
             "power": null,
-            "text": " While the tide is high, this creature gains skirmish. While the tide is low, this creature gains elusive.This card has been translated from Polish and is subject to change.",
+            "text": " While the tide is high, this creature gains skirmish.\n While the tide is low, this creature gains elusive.\nThis card has been translated from Polish and is subject to change.",
             "locale": {
                 "en": {
                     "name": "B4-TH05"
@@ -870,7 +870,7 @@
             "amber": 1,
             "armor": null,
             "power": null,
-            "text": "Play: During your opponent's next turn, keys cost +1 for each different power value of friendly creatures.This card has been translated from Polish and is subject to change.",
+            "text": "Play: During your opponent's next turn, keys cost +1A for each different power value of friendly creatures.\nThis card has been translated from Polish and is subject to change.",
             "locale": {
                 "en": {
                     "name": "Sabotage Mission"
@@ -890,7 +890,7 @@
             "amber": 0,
             "armor": null,
             "power": null,
-            "text": " Play: Raise the tide. This creature gains, “At the start of your turn, if the tide is high, capture 2.”",
+            "text": " Play: Raise the tide.\n This creature gains, “At the start of your turn, if the tide is high, capture 2A.”",
             "locale": {
                 "en": {
                     "name": "Æmber-vac"
@@ -913,7 +913,7 @@
             "amber": 0,
             "armor": 0,
             "power": 3,
-            "text": " Play/Fight/Reap: If the tide is high, keys cost +3 during your opponent's next turn.",
+            "text": " Play/Fight/Reap: If the tide is high, keys cost +3A during your opponent's next turn.",
             "locale": {
                 "en": {
                     "name": "Lieutenant Valmart"
@@ -937,7 +937,7 @@
             "amber": 0,
             "armor": 0,
             "power": 2,
-            "text": "Poison.Taunt.",
+            "text": "Poison.\nTaunt.",
             "locale": {
                 "en": {
                     "name": "Horrid Synan"
@@ -1025,7 +1025,7 @@
             "amber": 0,
             "armor": 0,
             "power": 8,
-            "text": "Omnipus cannot fight.Play: Discard the top 8 cards of your deck. Put each Tentacle into play that was discarded this way.Reap: Gain 1 for each friendly Tentacle.This card has been translated from Portuguese and is subject to change.",
+            "text": "Omnipus cannot fight.\nPlay: Discard the top 8 cards of your deck. Play each Tentacle from your discard pile, one at a time.\nReap: Gain 1A for each friendly Tentacle.\nThis card has been translated from Portuguese and is subject to change.",
             "locale": {
                 "en": {
                     "name": "Omnipus"
@@ -1067,7 +1067,7 @@
             "amber": 1,
             "armor": null,
             "power": null,
-            "text": "After your opponent forges a key, exhaust each creature they control.This card has been translated from Polish and is subject to change.",
+            "text": "After your opponent forges a key, exhaust each creature they control.\nThis card has been translated from Polish and is subject to change.",
             "locale": {
                 "en": {
                     "name": "Sobogg's Thing ?"
@@ -1089,7 +1089,7 @@
             "amber": 0,
             "armor": 2,
             "power": 8,
-            "text": "Fight/Reap: Destroy a friendly creature and gain 1.",
+            "text": "Fight/Reap: Destroy a friendly creature and gain 1A.",
             "locale": {
                 "en": {
                     "name": "Taniwha"
@@ -1111,7 +1111,7 @@
             "amber": 0,
             "armor": null,
             "power": 9,
-            "text": "Instead of readying creatures they control during their &quot;ready cards&quot; step, your opponent deals 1 to The Chosen One for each exhausted creature they control.",
+            "text": "Instead of readying creatures they control during their \"ready cards\" step, your opponent deals 1D to The Chosen One for each exhausted creature they control.",
             "locale": {
                 "en": {
                     "name": "The Chosen One"
@@ -1133,7 +1133,7 @@
             "amber": 0,
             "armor": 0,
             "power": 4,
-            "text": " After you raise the tide, capture 2. After your opponent raises the tide, move 2 from Abyssal Zealot to the common supply.",
+            "text": " After you raise the tide, capture 2A.\n After your opponent raises the tide, move 2A from Abyssal Zealot to the common supply.",
             "locale": {
                 "en": {
                     "name": "Abyssal Zealot"
@@ -1221,7 +1221,7 @@
             "amber": 0,
             "armor": 1,
             "power": 4,
-            "text": " Fight: If the tide is high, your opponent loses 2.",
+            "text": " Fight: If the tide is high, your opponent loses 2A.",
             "locale": {
                 "en": {
                     "name": "Hookmaster"
@@ -1245,7 +1245,7 @@
             "amber": 0,
             "armor": 0,
             "power": 7,
-            "text": "Taunt. (This creature's neighbors cannot be attacked unless they have taunt.) Destroyed: Raise the tide.",
+            "text": "Taunt. (This creature's neighbors cannot be attacked unless they have taunt.)\n Destroyed: Raise the tide.",
             "locale": {
                 "en": {
                     "name": "Seabringer Kekoa"
@@ -1287,7 +1287,7 @@
             "amber": 0,
             "armor": null,
             "power": null,
-            "text": "At the end of your turn, each player [...]. Give Æmberfin Shark [...] counter for each  lost this way.This card is incomplete and subject to change.",
+            "text": "At the end of your turn, each player [...]. Give Æmberfin Shark [...] counter for each A lost this way.\nThis card is incomplete and subject to change.",
             "locale": {
                 "en": {
                     "name": "Æmberfin Shark"
@@ -1312,7 +1312,7 @@
             "amber": 0,
             "armor": 0,
             "power": 2,
-            "text": "Elusive. If the tide is high, after you play another creature, your opponent loses 1.This card is translated from Portuguese and is subject to change.",
+            "text": "Elusive.\n If the tide is high, after you play another creature, your opponent loses 1A.\nThis card is translated from Portuguese and is subject to change.",
             "locale": {
                 "en": {
                     "name": "Chelonia"
@@ -1357,7 +1357,7 @@
             "amber": 0,
             "armor": 0,
             "power": 3,
-            "text": "Play: Give Æmberfin Shark three +1 power counters.At the end of your turn, remove a +1 power counter from Æmberfin Shark. If you do, each player gains 1.",
+            "text": "Play: Give Æmberfin Shark three +1 power counters.\nAt the end of your turn, remove a +1 power counter from Æmberfin Shark. If you do, each player gains 1A.",
             "locale": {
                 "en": {
                     "name": "Æmberfin Shark"
