@@ -20,7 +20,7 @@
             "type": "creature",
             "rarity": "Evil Twin",
             "amber": 0,
-            "armor": null,
+            "armor": 0,
             "power": 3,
             "text": "Fight: Steal 2A.\nThis card is incomplete and subject to change.",
             "locale": {
@@ -59,14 +59,14 @@
             "house": "logos",
             "keywords": [],
             "traits": [
-                "??"
+                "cyborg"
             ],
             "type": "creature",
             "rarity": "Evil Twin",
             "amber": 0,
             "armor": 0,
             "power": 3,
-            "text": "Destroyed: [...]\nThis card is incomplete and subject to change.",
+            "text": "Destroyed: Enrage each enemy creature.",
             "locale": {
                 "en": {
                     "name": "Old Egad"
@@ -115,6 +115,48 @@
             "locale": {
                 "en": {
                     "name": "Captain Kresage"
+                }
+            }
+        },
+        {
+            "id": "slrs-austeralis",
+            "name": "SLRS Austeralis",
+            "number": "025",
+            "image": "Dt-025.png",
+            "house": "logos",
+            "keywords": [],
+            "traits": [
+                "ship"
+            ],
+            "type": "artifact",
+            "rarity": "Rare",
+            "amber": 1,
+            "armor": null,
+            "power": null,
+            "text": "Action: Exhaust up to 3 friendly Logos creatures. For each creature exhausted this way, play the top card of your deck, one at a time.",
+            "locale": {
+                "en": {
+                    "name": "SLRS Austeralis"
+                }
+            }
+        },
+        {
+            "id": "static-charge",
+            "name": "Static Charge",
+            "number": "026",
+            "image": "Static_charge.png",
+            "house": "logos",
+            "keywords": [],
+            "traits": [],
+            "type": "upgrade",
+            "rarity": "??",
+            "amber": 1,
+            "armor": null,
+            "power": null,
+            "text": "This creature gains, \"At the start of your turn, ...\nThis card is incomplete and subject to change.",
+            "locale": {
+                "en": {
+                    "name": "Static Charge"
                 }
             }
         },
@@ -310,6 +352,29 @@
             "locale": {
                 "en": {
                     "name": "Trial by Water"
+                }
+            }
+        },
+        {
+            "id": "orphiel-sea-s-chosen",
+            "name": "Orphiel, Sea's Chosen",
+            "number": "100",
+            "image": "Orphiel_seas_chosen.png",
+            "house": "sanctum",
+            "keywords": [],
+            "traits": [
+                "human",
+                "monk"
+            ],
+            "type": "creature",
+            "rarity": "??",
+            "amber": 0,
+            "armor": 0,
+            "power": null,
+            "text": "... While the tide is high, Orphiel, Sea's Chosen gains skirmish and, \"Fight: Gain...\nThis card is incomplete and subject to change.",
+            "locale": {
+                "en": {
+                    "name": "Orphiel, Sea's Chosen"
                 }
             }
         },
@@ -530,6 +595,30 @@
             "locale": {
                 "en": {
                     "name": "Censor Philo"
+                }
+            }
+        },
+        {
+            "id": "lapisaurus",
+            "name": "Lapisaurus",
+            "number": "176",
+            "image": "Dt-176.png",
+            "house": "saurian",
+            "keywords": [
+                "taunt"
+            ],
+            "traits": [
+                "beast"
+            ],
+            "type": "creature",
+            "rarity": "Common",
+            "amber": 0,
+            "armor": 2,
+            "power": 4,
+            "text": "Taunt. (This creature's neighbors cannot be attacked unless they have taunt.)\nWhile attacking Lapisaurus, enemy creatures gain, \"Before Fight: Exalt this creature.\"",
+            "locale": {
+                "en": {
+                    "name": "Lapisaurus"
                 }
             }
         },
@@ -1141,6 +1230,28 @@
             }
         },
         {
+            "id": "echo-pearl",
+            "name": "Echo Pearl",
+            "number": "339",
+            "image": "Echo_pearl.png",
+            "house": "unfathomable",
+            "keywords": [],
+            "traits": [
+                "??"
+            ],
+            "type": "artifact",
+            "rarity": "??",
+            "amber": 1,
+            "armor": null,
+            "power": null,
+            "text": "This card is incomplete and subject to change.",
+            "locale": {
+                "en": {
+                    "name": "Echo Pearl"
+                }
+            }
+        },
+        {
             "id": "kaupe",
             "name": "Kaupe",
             "number": "341",
@@ -1179,7 +1290,7 @@
             "amber": 0,
             "armor": 0,
             "power": 3,
-            "text": "Elusive.",
+            "text": "Elusive.\nAfter an enemy creature reaps, it does not ready during its controller's next \"ready cards\" step.",
             "locale": {
                 "en": {
                     "name": "Kiri Giltspine"
@@ -1207,6 +1318,50 @@
             }
         },
         {
+            "id": "tomwa-of-the-glow",
+            "name": "Tomwa of the Glow",
+            "number": "348",
+            "image": "Tomwa_of_the_Glow.png",
+            "house": "unfathomable",
+            "keywords": [],
+            "traits": [
+                "aquan"
+            ],
+            "type": "creature",
+            "rarity": "Uncommon",
+            "amber": 0,
+            "armor": 0,
+            "power": 3,
+            "text": " Reap: Exhaust a creature. If the tide is high, draw a card for each exhausted enemy creature.",
+            "locale": {
+                "en": {
+                    "name": "Tomwa of the Glow"
+                }
+            }
+        },
+        {
+            "id": "&quot;bubbles&quot;",
+            "name": "&quot;Bubbles&quot;",
+            "number": "353",
+            "image": "Dt-353.png",
+            "house": "unfathomable",
+            "keywords": [],
+            "traits": [
+                "aquan"
+            ],
+            "type": "creature",
+            "rarity": "Common",
+            "amber": 0,
+            "armor": 0,
+            "power": 5,
+            "text": "Play: Put an enemy creature on top of its owner's deck.",
+            "locale": {
+                "en": {
+                    "name": "&quot;Bubbles&quot;"
+                }
+            }
+        },
+        {
             "id": "hookmaster",
             "name": "Hookmaster",
             "number": "358",
@@ -1225,6 +1380,28 @@
             "locale": {
                 "en": {
                     "name": "Hookmaster"
+                }
+            }
+        },
+        {
+            "id": "photic-raider",
+            "name": "Photic Raider",
+            "number": "361",
+            "image": "Dt-361.png",
+            "house": "unfathomable",
+            "keywords": [],
+            "traits": [
+                "aquan"
+            ],
+            "type": "creature",
+            "rarity": "Common",
+            "amber": 0,
+            "armor": 0,
+            "power": 2,
+            "text": "Play: Capture 2A.\n If the tide is high, Photic Raider gets +4 power.",
+            "locale": {
+                "en": {
+                    "name": "Photic Raider"
                 }
             }
         },
@@ -1273,9 +1450,29 @@
             }
         },
         {
+            "id": "storm-surge",
+            "name": "Storm Surge",
+            "number": "366",
+            "image": "Dt-366.png",
+            "house": "unfathomable",
+            "keywords": [],
+            "traits": [],
+            "type": "action",
+            "rarity": "Common",
+            "amber": 0,
+            "armor": null,
+            "power": null,
+            "text": "Play: Your opponent cannot ready cards during the “ready cards” step of their next turn.",
+            "locale": {
+                "en": {
+                    "name": "Storm Surge"
+                }
+            }
+        },
+        {
             "id": "æmberfin-shark-evil-twin",
             "name": "Æmberfin Shark (Evil Twin)",
-            "number": "366",
+            "number": "367",
             "image": "Aemberfin_Shark_(Evil_Twin).png",
             "house": "untamed",
             "keywords": [],
