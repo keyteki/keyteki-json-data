@@ -153,10 +153,11 @@ class DecksOfKeyforgeApiToKeytekiConverter {
                 newCard = {
                     id: card.Name.toLowerCase()
                         .replace(/[?.!",“”]/gi, '')
+                        .replace(/&quot;/gi, '"')
                         .replace(/[ '’]/gi, '-')
                         .replace('-(evil-twin)', '-evil-twin')
                         .replace('-()', ''),
-                    name: card.Name,
+                    name: card.Name.replace(/&quot;/gi, '"'),
                     number: card.CardNumber,
                     image: card.Image,
                     //expansion: card.expansion,
