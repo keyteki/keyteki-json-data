@@ -336,6 +336,28 @@
             }
         },
         {
+            "id": "lightbringers",
+            "name": "Lightbringers?",
+            "number": "089",
+            "image": "Dt-089.jpg",
+            "house": "sanctum",
+            "keywords": [],
+            "traits": [
+                "ship"
+            ],
+            "type": "artifact",
+            "rarity": "Rare",
+            "amber": 0,
+            "armor": null,
+            "power": null,
+            "text": "Action: Exhaust up to 4 friendly Sanctum creatures. Stun and exalt a creature for each creature exhausted this way.\nThis card has been translated from Russian and is subject to change.",
+            "locale": {
+                "en": {
+                    "name": "Lightbringers?"
+                }
+            }
+        },
+        {
             "id": "trial-by-water",
             "name": "Trial by Water",
             "number": "092",
@@ -375,6 +397,28 @@
             "locale": {
                 "en": {
                     "name": "Orphiel, Sea's Chosen"
+                }
+            }
+        },
+        {
+            "id": "dog-",
+            "name": "Dog ??",
+            "number": "102",
+            "image": "Dt-102.png",
+            "house": "sanctum",
+            "keywords": [],
+            "traits": [
+                "beast"
+            ],
+            "type": "creature",
+            "rarity": "Uncommon",
+            "amber": 0,
+            "armor": 0,
+            "power": 6,
+            "text": "After Dog's neighbor is dealt damage, ready Dog.\nThis card has been translated from Polish and is subject to change.",
+            "locale": {
+                "en": {
+                    "name": "Dog ??"
                 }
             }
         },
@@ -784,6 +828,93 @@
             }
         },
         {
+            "id": "dead-man-s-chest",
+            "name": "Dead Man's Chest?",
+            "number": "193",
+            "image": "Dt-193.png",
+            "house": "shadows",
+            "keywords": [],
+            "traits": [
+                "treasure"
+            ],
+            "type": "artifact",
+            "rarity": "Rare",
+            "amber": 1,
+            "armor": null,
+            "power": null,
+            "text": "Play: Put 4A on Dead Man’s Chest from the supply. Deal 2D to a creature.\n\nIf 6 or more creatures are destroyed during a turn and Dead Man’s Chest is ready, move all A from Dead Man’s Chest to the active player’s pool.\n\nThis card has been translated from Russian and is subject to change.",
+            "locale": {
+                "en": {
+                    "name": "Dead Man's Chest?"
+                }
+            }
+        },
+        {
+            "id": "early-birds",
+            "name": "Early Birds?",
+            "number": "195",
+            "image": "Dt-195.png",
+            "house": "shadows",
+            "keywords": [
+                "alpha"
+            ],
+            "traits": [],
+            "type": "action",
+            "rarity": "Rare",
+            "amber": 2,
+            "armor": null,
+            "power": null,
+            "text": "Alpha.\n\nPlay: Ready each Shadows card.\nThis card has been translated from Russian and is subject to change.",
+            "locale": {
+                "en": {
+                    "name": "Early Birds?"
+                }
+            }
+        },
+        {
+            "id": "ransom",
+            "name": "Ransom?",
+            "number": "203",
+            "image": "Dt-203.png",
+            "house": "shadows",
+            "keywords": [],
+            "traits": [],
+            "type": "upgrade",
+            "rarity": "Rare",
+            "amber": 0,
+            "armor": null,
+            "power": null,
+            "text": "This creature cannot be used, and it gains, “At the start of your turn, you may give your opponent 2A. If you do, destroy Ransom.”\n\nThis card has been translated from Russian and is subject to change.",
+            "locale": {
+                "en": {
+                    "name": "Ransom?"
+                }
+            }
+        },
+        {
+            "id": "scammer",
+            "name": "Scammer?",
+            "number": "219",
+            "image": "Dt-219.png",
+            "house": "shadows",
+            "keywords": [],
+            "traits": [
+                "elf",
+                "thief"
+            ],
+            "type": "creature",
+            "rarity": "Uncommon",
+            "amber": 0,
+            "armor": 0,
+            "power": 1,
+            "text": "Play: Exalt Scammer once or twice. \n\nAction: Steal 1A for each A on Scammer.\n\nThis card has been translated from Russian and is subject to change.",
+            "locale": {
+                "en": {
+                    "name": "Scammer?"
+                }
+            }
+        },
+        {
             "id": "hard-simpson",
             "name": "Hard Simpson",
             "number": "230",
@@ -859,6 +990,26 @@
             }
         },
         {
+            "id": "walk-the-plank",
+            "name": "Walk the Plank?",
+            "number": "242",
+            "image": "Dt-242.jpg",
+            "house": "shadows",
+            "keywords": [],
+            "traits": [],
+            "type": "action",
+            "rarity": "Common",
+            "amber": 0,
+            "armor": null,
+            "power": null,
+            "text": "Play: If your opponent has no A, deal 4D to a creature. Otherwise, steal 1A.\nThis card has been translated from Russian and is subject to change.",
+            "locale": {
+                "en": {
+                    "name": "Walk the Plank?"
+                }
+            }
+        },
+        {
             "id": "rocketeer-tryska-evil-twin",
             "name": "Rocketeer Tryska (Evil Twin)",
             "number": "250",
@@ -879,6 +1030,28 @@
             "locale": {
                 "en": {
                     "name": "Rocketeer Tryska"
+                }
+            }
+        },
+        {
+            "id": "com-officer-gross",
+            "name": "Com. Officer Gross?",
+            "number": "251",
+            "image": "Dt-251.png",
+            "house": "staralliance",
+            "keywords": [],
+            "traits": [
+                "human"
+            ],
+            "type": "creature",
+            "rarity": "Special?",
+            "amber": 0,
+            "armor": 0,
+            "power": 3,
+            "text": "Play: You may search your deck for Liaison Officer Hings (?), reveal it, and add it to your hand. Shuffle your deck.\n\nFight/Reap: Give a +1 power token to each creature between Com. Officer Gross and Liaison Officer Hings.\n\nThis card has been translated from Russian and is subject to change.",
+            "locale": {
+                "en": {
+                    "name": "Com. Officer Gross?"
                 }
             }
         },
@@ -987,6 +1160,26 @@
             }
         },
         {
+            "id": "supreme-alliance-council",
+            "name": "Supreme Alliance Council?",
+            "number": "294",
+            "image": "Dt-294.jpg",
+            "house": "staralliance",
+            "keywords": [],
+            "traits": [],
+            "type": "action",
+            "rarity": "Common",
+            "amber": 0,
+            "armor": null,
+            "power": null,
+            "text": "Action: Choose 1 creature belonging to each house. Destroy each creature except the chosen creatures.\nThis card has been translated from Russian and is subject to change.",
+            "locale": {
+                "en": {
+                    "name": "Supreme Alliance Council?"
+                }
+            }
+        },
+        {
             "id": "lieutenant-valmart",
             "name": "Lieutenant Valmart",
             "number": "296",
@@ -1006,6 +1199,26 @@
             "locale": {
                 "en": {
                     "name": "Lieutenant Valmart"
+                }
+            }
+        },
+        {
+            "id": "officer-blaster",
+            "name": "Officer Blaster?",
+            "number": "298",
+            "image": "Dt-298.png",
+            "house": "staralliance",
+            "keywords": [],
+            "traits": [],
+            "type": "upgrade",
+            "rarity": "Common",
+            "amber": 1,
+            "armor": null,
+            "power": null,
+            "text": "This creature gains +2 power.\n\nThis creature gains, “Destroyed: Attach Officer Blaster to the neighbor to the right of this creature.”\n\nThis card has been translated from Russian and is subject to change.",
+            "locale": {
+                "en": {
+                    "name": "Officer Blaster?"
                 }
             }
         },
@@ -1140,6 +1353,28 @@
             "locale": {
                 "en": {
                     "name": "Kiligog's Trench"
+                }
+            }
+        },
+        {
+            "id": "portal-worker-",
+            "name": "Portal Worker ??",
+            "number": "326",
+            "image": "Dt-326.png",
+            "house": "unfathomable",
+            "keywords": [],
+            "traits": [
+                "aquan"
+            ],
+            "type": "creature",
+            "rarity": "Rare",
+            "amber": 0,
+            "armor": 0,
+            "power": 4,
+            "text": " While the tide is high, your opponent's keys cost +4A.\nThis card has been translated from Polish and is subject to change.",
+            "locale": {
+                "en": {
+                    "name": "Portal Worker ??"
                 }
             }
         },
@@ -1624,6 +1859,28 @@
             "locale": {
                 "en": {
                     "name": "Ol’ Paddy"
+                }
+            }
+        },
+        {
+            "id": "murmookling-",
+            "name": "Murmookling ??",
+            "number": "421",
+            "image": "Dt-421.png",
+            "house": "untamed",
+            "keywords": [],
+            "traits": [
+                "beast"
+            ],
+            "type": "creature",
+            "rarity": "Common",
+            "amber": 0,
+            "armor": 0,
+            "power": 2,
+            "text": "Your opponent's keys cost +XA, where X is Murmookling's power.\nThis card has been translated from Polish and is subject to change.",
+            "locale": {
+                "en": {
+                    "name": "Murmookling ??"
                 }
             }
         }
