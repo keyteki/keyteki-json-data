@@ -25,7 +25,32 @@
             "text": "Fight: Steal 2A.\nThis card is incomplete and subject to change.",
             "locale": {
                 "en": {
-                    "name": "Armadrone"
+                    "name": "Armadrone (Evil Twin)"
+                }
+            }
+        },
+        {
+            "id": "binary-moray-evil-twin",
+            "name": "Binary Moray (Evil Twin)",
+            "number": "002",
+            "image": "Dt-002.png",
+            "house": "logos",
+            "keywords": [
+                "skirmish"
+            ],
+            "traits": [
+                "ai",
+                "beast"
+            ],
+            "type": "creature",
+            "rarity": "Evil Twin",
+            "amber": 0,
+            "armor": 0,
+            "power": 5,
+            "text": "Skirmish.\n When you raise the tide, ready Binary Moray.\n When your opponent raises the tide, exhaust Binary Moray.\nThis card has been translated from Chinese and is subject to change.",
+            "locale": {
+                "en": {
+                    "name": "Binary Moray (Evil Twin)"
                 }
             }
         },
@@ -44,10 +69,10 @@
             "amber": 0,
             "armor": 0,
             "power": 6,
-            "text": "All creatures lose elusive, taunt, poison and skirmish.\nThis card has been translated from Polish and is subject to change.",
+            "text": "Each creature loses elusive, taunt, poison and skirmish.\nThis card has been translated from Polish and is subject to change.",
             "locale": {
                 "en": {
-                    "name": "Captain Kresage"
+                    "name": "Captain Kresage (Evil Twin)"
                 }
             }
         },
@@ -55,7 +80,7 @@
             "id": "old-egad-evil-twin",
             "name": "Old Egad (Evil Twin)",
             "number": "004",
-            "image": "Old_Egad_(Evil_Twin).png",
+            "image": "Dt-004.png",
             "house": "logos",
             "keywords": [],
             "traits": [
@@ -66,10 +91,10 @@
             "amber": 0,
             "armor": 0,
             "power": 3,
-            "text": "Destroyed: Enrage each enemy creature.",
+            "text": "Destroyed: Enrage each enemy creature.\nThis card has been translated from Chinese and is subject to change.",
             "locale": {
                 "en": {
-                    "name": "Old Egad"
+                    "name": "Old Egad (Evil Twin)"
                 }
             }
         },
@@ -92,7 +117,156 @@
             "text": " Reap: If the tide is high, your opponent discards a random card from their hand.",
             "locale": {
                 "en": {
-                    "name": "PI Sweven"
+                    "name": "PI Sweven (Evil Twin)"
+                }
+            }
+        },
+        {
+            "id": "professor-gwyne-evil-twin",
+            "name": "Professor Gwyne? (Evil Twin)",
+            "number": "006",
+            "image": "Dt-006.png",
+            "house": "logos",
+            "keywords": [],
+            "traits": [],
+            "type": "creature",
+            "rarity": "Evil Twin",
+            "amber": 0,
+            "armor": 0,
+            "power": 2,
+            "text": "Skrimish.\nFight: You may choose a card from your archives and put it in your hand.\nThis card has been translated from Chinese and is subject to change.",
+            "locale": {
+                "en": {
+                    "name": "Professor Gwyne? (Evil Twin)"
+                }
+            }
+        },
+        {
+            "id": "talmage-steelheart-evil-twin",
+            "name": "Talmage Steelheart (Evil Twin)",
+            "number": "007",
+            "image": "Dt-007.png",
+            "house": "logos",
+            "keywords": [],
+            "traits": [
+                "human"
+            ],
+            "type": "creature",
+            "rarity": "Evil Twin",
+            "amber": 0,
+            "armor": 0,
+            "power": 3,
+            "text": "Play: Deal damage to an enemy creature equal to the number of cards you have played this turn (including this one).\n\nThis card has been translated from Chinese and is subject to change.",
+            "locale": {
+                "en": {
+                    "name": "Talmage Steelheart (Evil Twin)"
+                }
+            }
+        },
+        {
+            "id": "doctor-verokter",
+            "name": "Doctor Verokter?",
+            "number": "008",
+            "image": "Dt-008.png",
+            "house": "logos",
+            "keywords": [
+                "elusive"
+            ],
+            "traits": [
+                "human",
+                "scientist"
+            ],
+            "type": "creature",
+            "rarity": "Rare",
+            "amber": 0,
+            "armor": 0,
+            "power": 2,
+            "text": "Elusive.\nReap: Put an upgrade or action card from your discard pile on top of your deck.\nThis card has been translated from Polish and is subject to change.",
+            "locale": {
+                "en": {
+                    "name": "Doctor Verokter?"
+                }
+            }
+        },
+        {
+            "id": "roof-laboratory",
+            "name": "Roof Laboratory?",
+            "number": "009",
+            "image": "Dt-009.png",
+            "house": "logos",
+            "keywords": [],
+            "traits": [
+                "location"
+            ],
+            "type": "artifact",
+            "rarity": "Special",
+            "amber": 0,
+            "armor": null,
+            "power": null,
+            "text": "Each friendly Scientist creature enters play ready.\nThis card has been translated from Polish and is subject to change.",
+            "locale": {
+                "en": {
+                    "name": "Roof Laboratory?"
+                }
+            }
+        },
+        {
+            "id": "reckless-experiment",
+            "name": "Reckless Experiment ?",
+            "number": "010",
+            "image": "Dt-010.png",
+            "house": "logos",
+            "keywords": [],
+            "traits": [],
+            "type": "upgrade",
+            "rarity": "Special",
+            "amber": 1,
+            "armor": null,
+            "power": null,
+            "text": "This creature gains: \"Reap: Play the top card of your deck.\"\nThis card has been translated from Polish and is subject to change.",
+            "locale": {
+                "en": {
+                    "name": "Reckless Experiment ?"
+                }
+            }
+        },
+        {
+            "id": "groundbreaking-discovery",
+            "name": "Groundbreaking Discovery?",
+            "number": "011",
+            "image": "Dt-011.png",
+            "house": "logos",
+            "keywords": [],
+            "traits": [],
+            "type": "action",
+            "rarity": "Special",
+            "amber": 1,
+            "armor": null,
+            "power": null,
+            "text": "Play: If you control \"Doctor Verokter\", \"Roof Laboratory\", and \"Reckless Experiment\", destroy each card in play, unforge an opponent's key and purge Groundbreaking Discovery.\nThis card has been translated from Polish and is subject to change.",
+            "locale": {
+                "en": {
+                    "name": "Groundbreaking Discovery?"
+                }
+            }
+        },
+        {
+            "id": "backup-plan",
+            "name": "Backup Plan ?",
+            "number": "015",
+            "image": "Dt-015.png",
+            "house": "logos",
+            "keywords": [],
+            "traits": [],
+            "type": "action",
+            "rarity": "Rare",
+            "amber": 0,
+            "armor": null,
+            "power": null,
+            "text": "Play: Archive the top deck card of your deck for each creature your opponent controls in excess of you.\nThis card has been translated from Chinese and is subject to change.",
+            "locale": {
+                "en": {
+                    "name": "Backup Plan ?"
                 }
             }
         },
@@ -119,6 +293,69 @@
             }
         },
         {
+            "id": "chronophage",
+            "name": "Chronophage",
+            "number": "017",
+            "image": "Dt-017.png",
+            "house": "logos",
+            "keywords": [],
+            "traits": [
+                "beast",
+                "robot"
+            ],
+            "type": "creature",
+            "rarity": "Rare",
+            "amber": 0,
+            "armor": 0,
+            "power": 3,
+            "text": "Your opponent's artifacts and creatures gain Omega.",
+            "locale": {
+                "en": {
+                    "name": "Chronophage"
+                }
+            }
+        },
+        {
+            "id": "honors-keysis",
+            "name": "Honors Keysis",
+            "number": "018",
+            "image": "Dt-018.png",
+            "house": "logos",
+            "keywords": [],
+            "traits": [],
+            "type": "action",
+            "rarity": "Rare",
+            "amber": 1,
+            "armor": null,
+            "power": null,
+            "text": "Play: Forge a key at +7A current cost, reduced by 1A for each card you have played this turn (including this one). If you do, purge Honors Keysis.",
+            "locale": {
+                "en": {
+                    "name": "Honors Keysis"
+                }
+            }
+        },
+        {
+            "id": "ruined-city",
+            "name": "Ruined City?",
+            "number": "024",
+            "image": "Dt-024.png",
+            "house": "logos",
+            "keywords": [],
+            "traits": [],
+            "type": "artifact",
+            "rarity": "Rare",
+            "amber": 1,
+            "armor": null,
+            "power": null,
+            "text": "Play: Place 4A from the common supply on Ruined City and archive a card. After a player plays 6 cards on their turn, if Ruined City is ready, move all A from it to their pool.\nThis card has been translated from Chinese and is subject to change.",
+            "locale": {
+                "en": {
+                    "name": "Ruined City?"
+                }
+            }
+        },
+        {
             "id": "slrs-austeralis",
             "name": "SLRS Austeralis",
             "number": "025",
@@ -141,26 +378,6 @@
             }
         },
         {
-            "id": "static-charge",
-            "name": "Static Charge",
-            "number": "026",
-            "image": "Static_charge.png",
-            "house": "logos",
-            "keywords": [],
-            "traits": [],
-            "type": "upgrade",
-            "rarity": "??",
-            "amber": 1,
-            "armor": null,
-            "power": null,
-            "text": "This creature gains, \"At the start of your turn, ...\nThis card is incomplete and subject to change.",
-            "locale": {
-                "en": {
-                    "name": "Static Charge"
-                }
-            }
-        },
-        {
             "id": "tide-warp",
             "name": "Tide Warp",
             "number": "028",
@@ -179,6 +396,28 @@
             "locale": {
                 "en": {
                     "name": "Tide Warp"
+                }
+            }
+        },
+        {
+            "id": "archon-s-recall",
+            "name": "Archon's Recall?",
+            "number": "033",
+            "image": "Dt-033.png",
+            "house": "logos",
+            "keywords": [
+                "omega"
+            ],
+            "traits": [],
+            "type": "action",
+            "rarity": "Uncommon",
+            "amber": 0,
+            "armor": null,
+            "power": null,
+            "text": "Omega.\nPlay: Draw 5 cards.\nThis card has been translated from Chinese and is subject to change.",
+            "locale": {
+                "en": {
+                    "name": "Archon's Recall?"
                 }
             }
         },
@@ -226,6 +465,419 @@
             }
         },
         {
+            "id": "isotropic-core",
+            "name": "Isotropic Core",
+            "number": "041",
+            "image": "Dt-041.jpg",
+            "house": "logos",
+            "keywords": [],
+            "traits": [
+                "item"
+            ],
+            "type": "artifact",
+            "rarity": "Uncommon",
+            "amber": 1,
+            "armor": null,
+            "power": null,
+            "text": "Each friendly creature gains Hazardous 1.\nThis card has been translated from Chinese and is subject to change.",
+            "locale": {
+                "en": {
+                    "name": "Isotropic Core"
+                }
+            }
+        },
+        {
+            "id": "mechabuoy",
+            "name": "Mechabuoy",
+            "number": "042",
+            "image": "Dt-042.png",
+            "house": "logos",
+            "keywords": [],
+            "traits": [
+                "item"
+            ],
+            "type": "artifact",
+            "rarity": "Uncommon",
+            "amber": 1,
+            "armor": null,
+            "power": null,
+            "text": " At the start of each player's turn, if the tide is high for that player, they gain 1A.",
+            "locale": {
+                "en": {
+                    "name": "Mechabuoy"
+                }
+            }
+        },
+        {
+            "id": "mind-bullet",
+            "name": "Mind Bullet?",
+            "number": "043",
+            "image": "Dt-043.png",
+            "house": "logos",
+            "keywords": [],
+            "traits": [],
+            "type": "action",
+            "rarity": "Uncommon",
+            "amber": 0,
+            "armor": null,
+            "power": null,
+            "text": "Play: Deal 1D to each creature for each card you played this turn (including this one.)\nThis card has been translated from Chinese and is subject to change.",
+            "locale": {
+                "en": {
+                    "name": "Mind Bullet?"
+                }
+            }
+        },
+        {
+            "id": "professor-gwyne",
+            "name": "Professor Gwyne?",
+            "number": "046",
+            "image": "Dt-046.png",
+            "house": "logos",
+            "keywords": [
+                "elusive"
+            ],
+            "traits": [
+                "human",
+                "scientist"
+            ],
+            "type": "creature",
+            "rarity": "Uncommon",
+            "amber": 0,
+            "armor": 0,
+            "power": 3,
+            "text": "Elusive.\nReap: You may choose a card from your archives and put it in your hand.\nThis card has been translated from Chinese and is subject to change.",
+            "locale": {
+                "en": {
+                    "name": "Professor Gwyne?"
+                }
+            }
+        },
+        {
+            "id": "think-twice",
+            "name": "Think Twice",
+            "number": "047",
+            "image": "Dt-047.png",
+            "house": "logos",
+            "keywords": [],
+            "traits": [],
+            "type": "action",
+            "rarity": "Uncommon",
+            "amber": 0,
+            "armor": null,
+            "power": null,
+            "text": "Play: Play an action card from your discard pile, then purge it.",
+            "locale": {
+                "en": {
+                    "name": "Think Twice"
+                }
+            }
+        },
+        {
+            "id": "armadrone",
+            "name": "Armadrone",
+            "number": "048",
+            "image": "Dt-048.png",
+            "house": "logos",
+            "keywords": [],
+            "traits": [
+                "robot"
+            ],
+            "type": "creature",
+            "rarity": "Common",
+            "amber": 0,
+            "armor": 3,
+            "power": 1,
+            "text": "Fight: Steal 1A.\nThis card has been translated from Chinese and is subject to change.",
+            "locale": {
+                "en": {
+                    "name": "Armadrone"
+                }
+            }
+        },
+        {
+            "id": "austeralis-sea-robot",
+            "name": "Austeralis Sea Robot?",
+            "number": "049",
+            "image": "Dt-049.png",
+            "house": "logos",
+            "keywords": [],
+            "traits": [
+                "robot"
+            ],
+            "type": "creature",
+            "rarity": "Common",
+            "amber": 0,
+            "armor": 0,
+            "power": 4,
+            "text": " Reap: Deal 2D to a creature. If this damage destroys that creature, raise the tide.\nThis card has been translated from Chinese and is subject to change.",
+            "locale": {
+                "en": {
+                    "name": "Austeralis Sea Robot?"
+                }
+            }
+        },
+        {
+            "id": "bilgewarden",
+            "name": "Bilgewarden",
+            "number": "050",
+            "image": "Dt-050.jpg",
+            "house": "logos",
+            "keywords": [],
+            "traits": [
+                "human",
+                "scientist"
+            ],
+            "type": "creature",
+            "rarity": "Common",
+            "amber": 0,
+            "armor": 0,
+            "power": 2,
+            "text": " Play/Reap: If the tide is high, your opponent raises the tide. Otherwise, raise the tide.\nThis card has been translated from Chinese and is subject to change.",
+            "locale": {
+                "en": {
+                    "name": "Bilgewarden"
+                }
+            }
+        },
+        {
+            "id": "final-analysis",
+            "name": "Final Analysis",
+            "number": "052",
+            "image": "Dt-052.png",
+            "house": "logos",
+            "keywords": [],
+            "traits": [],
+            "type": "action",
+            "rarity": "Common",
+            "amber": 0,
+            "armor": null,
+            "power": null,
+            "text": "Play: Destroy each creature. Each player draws a card for each creature they controlled that was destroyed this way. \nThis card has been translated from Chinese and is subject to change.",
+            "locale": {
+                "en": {
+                    "name": "Final Analysis"
+                }
+            }
+        },
+        {
+            "id": "hydrocataloguer",
+            "name": "Hydrocataloguer",
+            "number": "053",
+            "image": "Dt-053.png",
+            "house": "logos",
+            "keywords": [],
+            "traits": [
+                "item"
+            ],
+            "type": "artifact",
+            "rarity": "Common",
+            "amber": 1,
+            "armor": null,
+            "power": null,
+            "text": " After a player raises the tide, they archive the top card of their deck.",
+            "locale": {
+                "en": {
+                    "name": "Hydrocataloguer"
+                }
+            }
+        },
+        {
+            "id": "old-egad",
+            "name": "Old Egad",
+            "number": "056",
+            "image": "Dt-056.png",
+            "house": "logos",
+            "keywords": [],
+            "traits": [
+                "cyborg"
+            ],
+            "type": "creature",
+            "rarity": "Common",
+            "amber": 0,
+            "armor": 2,
+            "power": 1,
+            "text": "Destroyed: Ward each of Old Egad's neighbors.\nThis card has been translated from Chinese and is subject to change.",
+            "locale": {
+                "en": {
+                    "name": "Old Egad"
+                }
+            }
+        },
+        {
+            "id": "pi-sweven",
+            "name": "PI Sweven",
+            "number": "058",
+            "image": "Dt-058.png",
+            "house": "logos",
+            "keywords": [],
+            "traits": [
+                "human",
+                "scientist"
+            ],
+            "type": "creature",
+            "rarity": "Common",
+            "amber": 0,
+            "armor": 0,
+            "power": 2,
+            "text": " Reap: If the tide is high, draw 3 cards.",
+            "locale": {
+                "en": {
+                    "name": "PI Sweven"
+                }
+            }
+        },
+        {
+            "id": "science",
+            "name": "Science!",
+            "number": "059",
+            "image": "Dt-059.png",
+            "house": "logos",
+            "keywords": [],
+            "traits": [],
+            "type": "action",
+            "rarity": "Common",
+            "amber": 0,
+            "armor": null,
+            "power": null,
+            "text": "Play: For the remainder of the turn, gain 1A each time you play another action card.\nThis card has been translated from Polish and is subject to change.",
+            "locale": {
+                "en": {
+                    "name": "Science!"
+                }
+            }
+        },
+        {
+            "id": "static-charge",
+            "name": "Static Charge",
+            "number": "060",
+            "image": "Dt-060.png",
+            "house": "logos",
+            "keywords": [],
+            "traits": [],
+            "type": "upgrade",
+            "rarity": "Common",
+            "amber": 1,
+            "armor": null,
+            "power": null,
+            "text": "This creature gains, \"At the start of your turn, deal 2D to each neighbor of this creature.\"\nThis card has been translated from Chinese and is subject to change.",
+            "locale": {
+                "en": {
+                    "name": "Static Charge"
+                }
+            }
+        },
+        {
+            "id": "submersive-principle",
+            "name": "Submersive Principle",
+            "number": "061",
+            "image": "Dt-061.png",
+            "house": "logos",
+            "keywords": [],
+            "traits": [],
+            "type": "action",
+            "rarity": "Common",
+            "amber": 0,
+            "armor": null,
+            "power": null,
+            "text": " Play: Each player loses 1A. If the tide is high, each player loses half their A instead (rounding down the loss).",
+            "locale": {
+                "en": {
+                    "name": "Submersive Principle"
+                }
+            }
+        },
+        {
+            "id": "talmage-steelheart",
+            "name": "Talmage Steelheart",
+            "number": "062",
+            "image": "Dt-062.png",
+            "house": "logos",
+            "keywords": [],
+            "traits": [
+                "human"
+            ],
+            "type": "creature",
+            "rarity": "Common",
+            "amber": 0,
+            "armor": 0,
+            "power": 3,
+            "text": "Play: Give Talmage Steelheart a +1 power counter for each card you have played this turn (including this one).",
+            "locale": {
+                "en": {
+                    "name": "Talmage Steelheart"
+                }
+            }
+        },
+        {
+            "id": "theory-or-conjecture",
+            "name": "Theory or Conjecture?",
+            "number": "063",
+            "image": "Dt-063.jpg",
+            "house": "logos",
+            "keywords": [],
+            "traits": [],
+            "type": "action",
+            "rarity": "Common",
+            "amber": 0,
+            "armor": null,
+            "power": null,
+            "text": "Play: Choose one:\n• Archive the top 2 cards of your deck.\n•Play the top card of your deck.\nThis card has been translated from Chinese and is subject to change.",
+            "locale": {
+                "en": {
+                    "name": "Theory or Conjecture?"
+                }
+            }
+        },
+        {
+            "id": "almsmaster-evil-twin",
+            "name": "Almsmaster (Evil Twin)",
+            "number": "064",
+            "image": "Dt-064.png",
+            "house": "sanctum",
+            "keywords": [
+                "deploy"
+            ],
+            "traits": [
+                "human",
+                "knight"
+            ],
+            "type": "creature",
+            "rarity": "Evil Twin",
+            "amber": 0,
+            "armor": 1,
+            "power": 4,
+            "text": "Deploy.\nEach of Almsmaster's neighbors gains, \"Destroyed: Steal 1A.\"\nThis card has been translated from Polish and is subject to change.",
+            "locale": {
+                "en": {
+                    "name": "Almsmaster (Evil Twin)"
+                }
+            }
+        },
+        {
+            "id": "grey-augur-evil-twin",
+            "name": "Grey Augur (Evil Twin)",
+            "number": "065",
+            "image": "Dt-065.png",
+            "house": "sanctum",
+            "keywords": [],
+            "traits": [
+                "human",
+                "monk"
+            ],
+            "type": "creature",
+            "rarity": "Evil Twin",
+            "amber": 0,
+            "armor": 1,
+            "power": 3,
+            "text": "Each of Grey Augur's neighbors gains, \"Reap: Gain 1A and exalt this creature.\"\nThis card has been translated from Chinese and is subject to change.",
+            "locale": {
+                "en": {
+                    "name": "Grey Augur (Evil Twin)"
+                }
+            }
+        },
+        {
             "id": "lærie-of-the-lake-evil-twin",
             "name": "Lærie of the Lake (Evil Twin)",
             "number": "066",
@@ -244,15 +896,37 @@
             "text": " While the tide is high, Lærie of the Lake gets +5 armor.",
             "locale": {
                 "en": {
-                    "name": "Lærie of the Lake"
+                    "name": "Lærie of the Lake (Evil Twin)"
+                }
+            }
+        },
+        {
+            "id": "lightsmith-clariel-evil-twin",
+            "name": "Lightsmith Clariel (Evil Twin)",
+            "number": "067",
+            "image": "Dt-067.png",
+            "house": "sanctum",
+            "keywords": [],
+            "traits": [
+                "angel"
+            ],
+            "type": "creature",
+            "rarity": "Evil Twin",
+            "amber": 0,
+            "armor": 0,
+            "power": 5,
+            "text": "Action: You may swap the power and armor values of a creature.\nThis card has been translated from Chinese and is subject to change.",
+            "locale": {
+                "en": {
+                    "name": "Lightsmith Clariel (Evil Twin)"
                 }
             }
         },
         {
             "id": "seneschal-sargassa-evil-twin",
             "name": "Seneschal Sargassa (Evil Twin)",
-            "number": "070",
-            "image": "Seneschal_Sargassa_(Evil_Twin).png",
+            "number": "068",
+            "image": "Dt-068.png",
             "house": "sanctum",
             "keywords": [],
             "traits": [
@@ -264,10 +938,147 @@
             "amber": 0,
             "armor": 0,
             "power": 6,
-            "text": "This card is incomplete and subject to change.",
+            "text": " After a player raises the tide, Seneschal Sargassa captures 2A.\nThis card has been translated from Polish and is subject to change.",
             "locale": {
                 "en": {
-                    "name": "Seneschal Sargassa"
+                    "name": "Seneschal Sargassa (Evil Twin)"
+                }
+            }
+        },
+        {
+            "id": "sir-bevor-evil-twin",
+            "name": "Sir Bevor (Evil Twin)",
+            "number": "069",
+            "image": "Dt-069.png",
+            "house": "sanctum",
+            "keywords": [
+                "poison"
+            ],
+            "traits": [
+                "alien",
+                "knight"
+            ],
+            "type": "creature",
+            "rarity": "Evil Twin",
+            "amber": 0,
+            "armor": 5,
+            "power": 1,
+            "text": "Poison.\nThis card has been translated from Chinese and is subject to change.",
+            "locale": {
+                "en": {
+                    "name": "Sir Bevor (Evil Twin)"
+                }
+            }
+        },
+        {
+            "id": "timid-julian-evil-twin",
+            "name": "Timid Julian? (Evil Twin)",
+            "number": "070",
+            "image": "Dt-070.png",
+            "house": "sanctum",
+            "keywords": [],
+            "traits": [
+                "human",
+                "knight"
+            ],
+            "type": "creature",
+            "rarity": "Evil Twin",
+            "amber": 0,
+            "armor": 1,
+            "power": 3,
+            "text": "Reap: Your opponent loses A equal to Timid Julian's armor.\nThis card has been translated from Chinese and is subject to change.",
+            "locale": {
+                "en": {
+                    "name": "Timid Julian? (Evil Twin)"
+                }
+            }
+        },
+        {
+            "id": "orphiel-sea-s-chosen",
+            "name": "Orphiel, Sea's Chosen",
+            "number": "071",
+            "image": "Dt-071.png",
+            "house": "sanctum",
+            "keywords": [],
+            "traits": [
+                "human",
+                "monk"
+            ],
+            "type": "creature",
+            "rarity": "Uncommon",
+            "amber": 0,
+            "armor": 0,
+            "power": 3,
+            "text": "While the tide is high, Orphiel, Sea's Chosen gains skirmish and, \"Fight: Gain 2A.\"\nThis card has been translated from Chinese and is subject to change.",
+            "locale": {
+                "en": {
+                    "name": "Orphiel, Sea's Chosen"
+                }
+            }
+        },
+        {
+            "id": "orphion-land-s-chosen",
+            "name": "Orphion, Land's Chosen",
+            "number": "072",
+            "image": "Dt-072.png",
+            "house": "sanctum",
+            "keywords": [],
+            "traits": [
+                "human",
+                "monk"
+            ],
+            "type": "creature",
+            "rarity": "Special",
+            "amber": 0,
+            "armor": 0,
+            "power": 3,
+            "text": "While the tide is low, Orphion, Land's Chosen gains +3 armor and, \"Reap: Capture 2A.\"\nThis card has been translated from Chinese and is subject to change.",
+            "locale": {
+                "en": {
+                    "name": "Orphion, Land's Chosen"
+                }
+            }
+        },
+        {
+            "id": "aja-the-inconspicuous",
+            "name": "Aja the Inconspicuous",
+            "number": "073",
+            "image": "Dt-073.png",
+            "house": "sanctum",
+            "keywords": [],
+            "traits": [
+                "human",
+                "monk"
+            ],
+            "type": "creature",
+            "rarity": "Rare",
+            "amber": 0,
+            "armor": 0,
+            "power": 3,
+            "text": "While Aja the Inconspicuous is not on a flank, it cannot be dealt damage.",
+            "locale": {
+                "en": {
+                    "name": "Aja the Inconspicuous"
+                }
+            }
+        },
+        {
+            "id": "avenging-aura",
+            "name": "Avenging Aura",
+            "number": "074",
+            "image": "Dt-074.png",
+            "house": "sanctum",
+            "keywords": [],
+            "traits": [],
+            "type": "action",
+            "rarity": "Rare",
+            "amber": 1,
+            "armor": null,
+            "power": null,
+            "text": "Play: Each friendly creature gains Assault X for the rest of this turn, where X is the number of keys your opponent has forged.\nThis card has been translated from Chinese and is subject to change.",
+            "locale": {
+                "en": {
+                    "name": "Avenging Aura"
                 }
             }
         },
@@ -336,8 +1147,8 @@
             }
         },
         {
-            "id": "lightbringers",
-            "name": "Lightbringers?",
+            "id": "sgs-luminiferous",
+            "name": "SGS Luminiferous ?",
             "number": "089",
             "image": "Dt-089.jpg",
             "house": "sanctum",
@@ -353,7 +1164,29 @@
             "text": "Action: Exhaust up to 4 friendly Sanctum creatures. Stun and exalt a creature for each creature exhausted this way.\nThis card has been translated from Russian and is subject to change.",
             "locale": {
                 "en": {
-                    "name": "Lightbringers?"
+                    "name": "SGS Luminiferous ?"
+                }
+            }
+        },
+        {
+            "id": "corpulent-colle",
+            "name": "Corpulent Colle ?",
+            "number": "090",
+            "image": "Dt-090.png",
+            "house": "sanctum",
+            "keywords": [],
+            "traits": [
+                "human"
+            ],
+            "type": "creature",
+            "rarity": "Rare",
+            "amber": 0,
+            "armor": 0,
+            "power": 7,
+            "text": "Play: Capture all your opponent's A. Deal 1D to Corpulent Colle (?) for each A on it.\nThis card has been translated from Chinese and is subject to change.",
+            "locale": {
+                "en": {
+                    "name": "Corpulent Colle ?"
                 }
             }
         },
@@ -378,10 +1211,56 @@
             }
         },
         {
-            "id": "orphiel-sea-s-chosen",
-            "name": "Orphiel, Sea's Chosen",
+            "id": "director",
+            "name": "Director?",
+            "number": "093",
+            "image": "Dt-093.png",
+            "house": "sanctum",
+            "keywords": [
+                "deploy",
+                "taunt"
+            ],
+            "traits": [
+                "human",
+                "knight"
+            ],
+            "type": "creature",
+            "rarity": "Uncommon",
+            "amber": 0,
+            "armor": 1,
+            "power": 4,
+            "text": "Deploy. Taunt.\nPlay: Each of Director's neighbors captures 1A.\nThis card has been translated from Chinese and is subject to change.",
+            "locale": {
+                "en": {
+                    "name": "Director?"
+                }
+            }
+        },
+        {
+            "id": "first-or-last",
+            "name": "First or Last?",
+            "number": "097",
+            "image": "Dt-097.png",
+            "house": "sanctum",
+            "keywords": [],
+            "traits": [],
+            "type": "action",
+            "rarity": "Uncommon",
+            "amber": 0,
+            "armor": null,
+            "power": null,
+            "text": "Play: Choose one:\n• Purge each creature with the highest power.\n• Purge each creature with the lowest power.\nThis card has been translated from Chinese and is subject to change.",
+            "locale": {
+                "en": {
+                    "name": "First or Last?"
+                }
+            }
+        },
+        {
+            "id": "grey-augur",
+            "name": "Grey Augur",
             "number": "100",
-            "image": "Orphiel_seas_chosen.png",
+            "image": "Dt-100.png",
             "house": "sanctum",
             "keywords": [],
             "traits": [
@@ -389,19 +1268,19 @@
                 "monk"
             ],
             "type": "creature",
-            "rarity": "??",
+            "rarity": "Uncommon",
             "amber": 0,
-            "armor": 0,
-            "power": null,
-            "text": "... While the tide is high, Orphiel, Sea's Chosen gains skirmish and, \"Fight: Gain...\nThis card is incomplete and subject to change.",
+            "armor": 1,
+            "power": 3,
+            "text": "Each of Grey Augur's neighbors gains, \"Fight: Gain 1A.\"",
             "locale": {
                 "en": {
-                    "name": "Orphiel, Sea's Chosen"
+                    "name": "Grey Augur"
                 }
             }
         },
         {
-            "id": "dog-",
+            "id": "dog",
             "name": "Dog ??",
             "number": "102",
             "image": "Dt-102.png",
@@ -415,10 +1294,157 @@
             "amber": 0,
             "armor": 0,
             "power": 6,
-            "text": "After Dog's neighbor is dealt damage, ready Dog.\nThis card has been translated from Polish and is subject to change.",
+            "text": "After one of Dog's neighbors is dealt damage, ready Dog.\nThis card has been translated from Polish and is subject to change.",
             "locale": {
                 "en": {
                     "name": "Dog ??"
+                }
+            }
+        },
+        {
+            "id": "honor-or-glory",
+            "name": "Honor or Glory",
+            "number": "103",
+            "image": "Dt-103.png",
+            "house": "sanctum",
+            "keywords": [],
+            "traits": [],
+            "type": "action",
+            "rarity": "Uncommon",
+            "amber": 0,
+            "armor": null,
+            "power": null,
+            "text": "Play: Choose one:\n• Deal 3D to each flank creature.\n• Deal 3D to each creature not on a flank.",
+            "locale": {
+                "en": {
+                    "name": "Honor or Glory"
+                }
+            }
+        },
+        {
+            "id": "eternal-light",
+            "name": "Eternal Light?",
+            "number": "104",
+            "image": "Dt-104.png",
+            "house": "sanctum",
+            "keywords": [],
+            "traits": [],
+            "type": "action",
+            "rarity": "Uncommon",
+            "amber": 1,
+            "armor": null,
+            "power": null,
+            "text": "Play: Play a Sanctum creature from your discard pile as if it had deploy.\nThis card has been translated from Chinese and is subject to change.",
+            "locale": {
+                "en": {
+                    "name": "Eternal Light?"
+                }
+            }
+        },
+        {
+            "id": "redhand-registry",
+            "name": "Redhand Registry",
+            "number": "106",
+            "image": "Dt-106.png",
+            "house": "sanctum",
+            "keywords": [],
+            "traits": [
+                "law"
+            ],
+            "type": "artifact",
+            "rarity": "Uncommon",
+            "amber": 1,
+            "armor": null,
+            "power": null,
+            "text": "After A is stolen from you, your opponent skips the “forge a key” step during their next turn. \nThis card has been translated from Chinese and is subject to change.",
+            "locale": {
+                "en": {
+                    "name": "Redhand Registry"
+                }
+            }
+        },
+        {
+            "id": "badgemagus",
+            "name": "Badgemagus",
+            "number": "108",
+            "image": "Dt-108.png",
+            "house": "sanctum",
+            "keywords": [
+                "deploy"
+            ],
+            "traits": [
+                "human",
+                "knight"
+            ],
+            "type": "creature",
+            "rarity": "Common",
+            "amber": 0,
+            "armor": 0,
+            "power": 4,
+            "text": "Deploy.\nFight: Ready and fight with each of Badgemagus' neighbors, one at a time.\nThis card has been translated from Polish and is subject to change.",
+            "locale": {
+                "en": {
+                    "name": "Badgemagus"
+                }
+            }
+        },
+        {
+            "id": "card-112",
+            "name": "??",
+            "number": "112",
+            "image": "Dt-112.jpg",
+            "house": "sanctum",
+            "keywords": [],
+            "traits": [],
+            "type": "action",
+            "rarity": "Common",
+            "amber": 0,
+            "armor": null,
+            "power": null,
+            "text": "Play: Destroy each creature that does not share a house with at least 1 of its neighbors.\nThis card has been translated from Chinese and is subject to change.",
+            "locale": {
+                "en": {
+                    "name": "??"
+                }
+            }
+        },
+        {
+            "id": "hammer-gram",
+            "name": "Hammer-gram",
+            "number": "113",
+            "image": "Dt-113.png",
+            "house": "sanctum",
+            "keywords": [],
+            "traits": [],
+            "type": "action",
+            "rarity": "Common",
+            "amber": 0,
+            "armor": null,
+            "power": null,
+            "text": "Play: Deal 3D to a creature and stun it.",
+            "locale": {
+                "en": {
+                    "name": "Hammer-gram"
+                }
+            }
+        },
+        {
+            "id": "heal-or-harm",
+            "name": "Heal or Harm",
+            "number": "114",
+            "image": "Dt-114.png",
+            "house": "sanctum",
+            "keywords": [],
+            "traits": [],
+            "type": "action",
+            "rarity": "Common",
+            "amber": 0,
+            "armor": null,
+            "power": null,
+            "text": "Play: Choose one:\n• Fully heal a creature and gain 1A.\n• Ready and fight with a friendly creature.",
+            "locale": {
+                "en": {
+                    "name": "Heal or Harm"
                 }
             }
         },
@@ -469,10 +1495,33 @@
             }
         },
         {
-            "id": "tax-pilgrimage",
-            "name": "Tax Pilgrimage",
-            "number": "122",
-            "image": "Dt-122.jpg",
+            "id": "seneschal-sargassa",
+            "name": "Seneschal Sargassa",
+            "number": "117",
+            "image": "Dt-117.png",
+            "house": "sanctum",
+            "keywords": [],
+            "traits": [
+                "spirit",
+                "knight"
+            ],
+            "type": "creature",
+            "rarity": "Common",
+            "amber": 0,
+            "armor": 2,
+            "power": 6,
+            "text": " After a player raises the tide, a creature they control captures 2A from their opponent.",
+            "locale": {
+                "en": {
+                    "name": "Seneschal Sargassa"
+                }
+            }
+        },
+        {
+            "id": "shifting-battlefield",
+            "name": "Shifting Battlefield",
+            "number": "118",
+            "image": "Dt-118.png",
             "house": "sanctum",
             "keywords": [],
             "traits": [],
@@ -481,10 +1530,120 @@
             "amber": 1,
             "armor": null,
             "power": null,
-            "text": "Play: A friendly creature captures 1A. Each neighbor of that creature that shares a house with that creature also captures 1A.\nThis card has been translated from Polish and is subject to change.",
+            "text": "Play: Move a friendly creature anywhere in your battleline. That creature captures 1A.",
             "locale": {
                 "en": {
-                    "name": "Tax Pilgrimage"
+                    "name": "Shifting Battlefield"
+                }
+            }
+        },
+        {
+            "id": "sir-bevor",
+            "name": "Sir Bevor",
+            "number": "119",
+            "image": "Dt-119.png",
+            "house": "sanctum",
+            "keywords": [
+                "taunt"
+            ],
+            "traits": [
+                "alien",
+                "knight"
+            ],
+            "type": "creature",
+            "rarity": "Common",
+            "amber": 0,
+            "armor": 5,
+            "power": 1,
+            "text": "Taunt.",
+            "locale": {
+                "en": {
+                    "name": "Sir Bevor"
+                }
+            }
+        },
+        {
+            "id": "strange-ordination",
+            "name": "Strange Ordination",
+            "number": "121",
+            "image": "Dt-121.png",
+            "house": "sanctum",
+            "keywords": [],
+            "traits": [],
+            "type": "action",
+            "rarity": "Common",
+            "amber": 3,
+            "armor": null,
+            "power": null,
+            "text": " Play only if the tide is high.",
+            "locale": {
+                "en": {
+                    "name": "Strange Ordination"
+                }
+            }
+        },
+        {
+            "id": "taxing-journey",
+            "name": "Taxing Journey",
+            "number": "122",
+            "image": "Dt-122.png",
+            "house": "sanctum",
+            "keywords": [],
+            "traits": [],
+            "type": "action",
+            "rarity": "Common",
+            "amber": 1,
+            "armor": null,
+            "power": null,
+            "text": "Play: A friendly creature captures 1A. Each of its neighbors that shares a house with it also captures 1A.",
+            "locale": {
+                "en": {
+                    "name": "Taxing Journey"
+                }
+            }
+        },
+        {
+            "id": "timid-julian",
+            "name": "Timid Julian ?",
+            "number": "123",
+            "image": "Dt-123.png",
+            "house": "sanctum",
+            "keywords": [],
+            "traits": [
+                "human",
+                "knight"
+            ],
+            "type": "creature",
+            "rarity": "Common",
+            "amber": 0,
+            "armor": 1,
+            "power": 3,
+            "text": "Reap: Gain 1A equal to the amount of Timid Julien's armor. (?)\nThis card has been translated from Chinese and is subject to change.",
+            "locale": {
+                "en": {
+                    "name": "Timid Julian ?"
+                }
+            }
+        },
+        {
+            "id": "beast-fighter-urso-evil-twin",
+            "name": "Beast Fighter Urso? (Evil Twin)",
+            "number": "124",
+            "image": "Dt-124.png",
+            "house": "saurian",
+            "keywords": [],
+            "traits": [
+                "dinosaur"
+            ],
+            "type": "creature",
+            "rarity": "Evil Twin",
+            "amber": 0,
+            "armor": 1,
+            "power": 5,
+            "text": "Play/Fight: Stun a creature.\nThis card has been translated from Chinese and is subject to change.",
+            "locale": {
+                "en": {
+                    "name": "Beast Fighter Urso? (Evil Twin)"
                 }
             }
         },
@@ -492,7 +1651,7 @@
             "id": "censor-philo-evil-twin",
             "name": "Censor Philo (Evil Twin)",
             "number": "125",
-            "image": "Censor_Philo_(Evil_Twin).png",
+            "image": "Dt-125.png",
             "house": "saurian",
             "keywords": [],
             "traits": [
@@ -503,11 +1662,11 @@
             "rarity": "Evil Twin",
             "amber": 0,
             "armor": 0,
-            "power": null,
-            "text": "[...] to a creature with A [...]\nThis card is incomplete and is subject to change.",
+            "power": 5,
+            "text": "Play: Deal 5D to a creature with A on it.\nThis card has been translated from Chinese and is subject to change.",
             "locale": {
                 "en": {
-                    "name": "Censor Philo"
+                    "name": "Censor Philo (Evil Twin)"
                 }
             }
         },
@@ -529,7 +1688,71 @@
             "text": "Reap: Put an ignorance counter on an enemy creature. As long as that creature has an ignorance counter, its text box is considered blank (except for traits).",
             "locale": {
                 "en": {
-                    "name": "Eclectic Ambrosius"
+                    "name": "Eclectic Ambrosius (Evil Twin)"
+                }
+            }
+        },
+        {
+            "id": "lapisaurus-evil-twin",
+            "name": "Lapisaurus? (Evil Twin)",
+            "number": "127",
+            "image": "Dt-127.png",
+            "house": "saurian",
+            "keywords": [
+                "skirmish"
+            ],
+            "traits": [
+                "beast"
+            ],
+            "type": "creature",
+            "rarity": "Evil Twin",
+            "amber": 0,
+            "armor": 0,
+            "power": 3,
+            "text": "Skirmish.\n Fight: Exalt the creature Lapisaurus fights.",
+            "locale": {
+                "en": {
+                    "name": "Lapisaurus? (Evil Twin)"
+                }
+            }
+        },
+        {
+            "id": "magistra-vita-evil-twin",
+            "name": "Magistra Vita (Evil Twin)",
+            "number": "128",
+            "image": "Dt-128.png",
+            "house": "saurian",
+            "keywords": [],
+            "traits": [],
+            "type": "creature",
+            "rarity": "Evil Twin",
+            "amber": 0,
+            "armor": 0,
+            "power": 5,
+            "text": "Play/Fight: You may exalt a friendly non-Saurian creature. If you do, fight with it.",
+            "locale": {
+                "en": {
+                    "name": "Magistra Vita (Evil Twin)"
+                }
+            }
+        },
+        {
+            "id": "lex-evil-twin",
+            "name": "Lex ? (Evil Twin)",
+            "number": "129",
+            "image": "Dt-129.png",
+            "house": "saurian",
+            "keywords": [],
+            "traits": [],
+            "type": "creature",
+            "rarity": "Evil Twin",
+            "amber": 0,
+            "armor": 0,
+            "power": 5,
+            "text": " Play/Fight: If the tide is low, you may exalt a creature.\nThis card has been translated from Chinese and is subject to change.",
+            "locale": {
+                "en": {
+                    "name": "Lex ? (Evil Twin)"
                 }
             }
         },
@@ -551,7 +1774,117 @@
             "text": " While the tide is low, double all damage dealt to Undagnathus.",
             "locale": {
                 "en": {
-                    "name": "Undagnathus"
+                    "name": "Undagnathus (Evil Twin)"
+                }
+            }
+        },
+        {
+            "id": "saurian-treasure",
+            "name": "Saurian Treasure ?",
+            "number": "133",
+            "image": "Dt-133.png",
+            "house": "saurian",
+            "keywords": [],
+            "traits": [
+                "treasure"
+            ],
+            "type": "artifact",
+            "rarity": "Rare",
+            "amber": 0,
+            "armor": null,
+            "power": null,
+            "text": "Play: Put 4A on Saurian Treasure ?.\nAt the start of a player's turn, if they control at least four creatures with A on them, move all A from Saurian Treasure ? to their pool.\nThis card has been translated from Chinese and is subject to change.",
+            "locale": {
+                "en": {
+                    "name": "Saurian Treasure ?"
+                }
+            }
+        },
+        {
+            "id": "brachiosaurus",
+            "name": "Brachiosaurus ?",
+            "number": "134",
+            "image": "Dt-134.png",
+            "house": "saurian",
+            "keywords": [
+                "deploy"
+            ],
+            "traits": [],
+            "type": "creature",
+            "rarity": "Rare",
+            "amber": 0,
+            "armor": 0,
+            "power": 9,
+            "text": "Deploy.\nPlay: Stun each neighboring creature. Move 1A from each of those creatures to the common supply.\nThis card has been translated from Chinese and is subject to change.",
+            "locale": {
+                "en": {
+                    "name": "Brachiosaurus ?"
+                }
+            }
+        },
+        {
+            "id": "ecletic-ambrosius",
+            "name": "Ecletic Ambrosius",
+            "number": "137",
+            "image": "Dt-137.png",
+            "house": "saurian",
+            "keywords": [],
+            "traits": [
+                "dinosaur",
+                "philosopher"
+            ],
+            "type": "creature",
+            "rarity": "Rare",
+            "amber": 0,
+            "armor": 0,
+            "power": 4,
+            "text": "At the end of your turn, put a knowledge counter on Ecletic Ambrosius.\nAction: Remove 3 knowledge counters from Ecletic Ambrosius. If you do, gain 6A.\nThis card has been translated from Chinese and is subject to change.",
+            "locale": {
+                "en": {
+                    "name": "Ecletic Ambrosius"
+                }
+            }
+        },
+        {
+            "id": "foreign-legion",
+            "name": "Foreign Legion?",
+            "number": "138",
+            "image": "Dt-138.png",
+            "house": "saurian",
+            "keywords": [],
+            "traits": [],
+            "type": "action",
+            "rarity": "Rare",
+            "amber": 1,
+            "armor": null,
+            "power": null,
+            "text": "Play: Take control of an enemy creature with A on it. While under your control, it belongs to house Saurian.\nThis card has been translated from Chinese and is subject to change.",
+            "locale": {
+                "en": {
+                    "name": "Foreign Legion?"
+                }
+            }
+        },
+        {
+            "id": "hastatus-raptor",
+            "name": "Hastatus Raptor",
+            "number": "141",
+            "image": "Dt-141.png",
+            "house": "saurian",
+            "keywords": [],
+            "traits": [
+                "dinosaur",
+                "soldier"
+            ],
+            "type": "creature",
+            "rarity": "Rare",
+            "amber": 0,
+            "armor": 1,
+            "power": 5,
+            "text": "Before Fight: You may exalt Hastatus Raptor. If you do, for each A on friendly Hastatus Raptors, deal 1D to the attacked creature.\nThis card has been translated from Chinese and is subject to change.",
+            "locale": {
+                "en": {
+                    "name": "Hastatus Raptor"
                 }
             }
         },
@@ -578,6 +1911,88 @@
             }
         },
         {
+            "id": "engulf",
+            "name": "Engulf ?",
+            "number": "148",
+            "image": "Dt-148.png",
+            "house": "saurian",
+            "keywords": [],
+            "traits": [],
+            "type": "action",
+            "rarity": "Rare",
+            "amber": 0,
+            "armor": null,
+            "power": null,
+            "text": " Can only be played if the tide is high.\nPlay: Choose two creatures. Purge the creature with lower power, then put a number of +1 power tokens equal to that creature's power on the other chosen creature.\nThis card has been translated from Chinese and is subject to change.",
+            "locale": {
+                "en": {
+                    "name": "Engulf ?"
+                }
+            }
+        },
+        {
+            "id": "the-first-scroll",
+            "name": "The First Scroll",
+            "number": "151",
+            "image": "Dt-151.png",
+            "house": "saurian",
+            "keywords": [],
+            "traits": [],
+            "type": "artifact",
+            "rarity": "Rare",
+            "amber": 0,
+            "armor": null,
+            "power": null,
+            "text": "After a player forges a key, each creature controlled by that player captures 1A from their own side.\nThis card has been translated from Chinese and is subject to change.",
+            "locale": {
+                "en": {
+                    "name": "The First Scroll"
+                }
+            }
+        },
+        {
+            "id": "ankylosaurus-formation",
+            "name": "Ankylosaurus Formation?",
+            "number": "152",
+            "image": "Dt-152.png",
+            "house": "saurian",
+            "keywords": [],
+            "traits": [],
+            "type": "action",
+            "rarity": "Uncommon",
+            "amber": 1,
+            "armor": null,
+            "power": null,
+            "text": "Play: Choose one:\n• A friendly creature gains skirmish for the rest of your turn.\n• Exalt a friendly creature. Each friendly creature gains skirmish for the rest of your turn.\nThis card has been translated from Chinese and is subject to change.",
+            "locale": {
+                "en": {
+                    "name": "Ankylosaurus Formation?"
+                }
+            }
+        },
+        {
+            "id": "beast-fighter-urso",
+            "name": "Beast Fighter Urso?",
+            "number": "153",
+            "image": "Dt-153.png",
+            "house": "saurian",
+            "keywords": [],
+            "traits": [
+                "dinosaur"
+            ],
+            "type": "creature",
+            "rarity": "Uncommon",
+            "amber": 0,
+            "armor": 1,
+            "power": 5,
+            "text": "Play/Reap: You may unstun a creature.\nThis card has been translated from Chinese and is subject to change.",
+            "locale": {
+                "en": {
+                    "name": "Beast Fighter Urso?"
+                }
+            }
+        },
+        {
             "id": "bury-riches",
             "name": "Bury Riches",
             "number": "154",
@@ -594,6 +2009,71 @@
             "locale": {
                 "en": {
                     "name": "Bury Riches"
+                }
+            }
+        },
+        {
+            "id": "saurian-deny",
+            "name": "Saurian Deny ?",
+            "number": "156",
+            "image": "Dt-156.png",
+            "house": "saurian",
+            "keywords": [],
+            "traits": [],
+            "type": "action",
+            "rarity": "Uncommon",
+            "amber": 1,
+            "armor": null,
+            "power": null,
+            "text": "Play: Destroy an enemy creature with A on it.\nThis card has been translated from Chinese and is subject to change.",
+            "locale": {
+                "en": {
+                    "name": "Saurian Deny ?"
+                }
+            }
+        },
+        {
+            "id": "lex",
+            "name": "Lex ?",
+            "number": "161",
+            "image": "Dt-161.png",
+            "house": "saurian",
+            "keywords": [],
+            "traits": [
+                "dinosaur",
+                "philosopher"
+            ],
+            "type": "creature",
+            "rarity": "Uncommon",
+            "amber": 0,
+            "armor": 0,
+            "power": 5,
+            "text": " Play/Fight: If the tide is high, you may exalt a creature.\nThis card has been translated from Chinese and is subject to change.",
+            "locale": {
+                "en": {
+                    "name": "Lex ?"
+                }
+            }
+        },
+        {
+            "id": "saurarium",
+            "name": "Saurarium",
+            "number": "162",
+            "image": "Dt-162.png",
+            "house": "saurian",
+            "keywords": [],
+            "traits": [
+                "location"
+            ],
+            "type": "artifact",
+            "rarity": "Uncommon",
+            "amber": 1,
+            "armor": null,
+            "power": null,
+            "text": "Each creature with the lowest power cannot reap.\nThis card has been translated from Chinese and is subject to change.",
+            "locale": {
+                "en": {
+                    "name": "Saurarium"
                 }
             }
         },
@@ -620,6 +2100,68 @@
             }
         },
         {
+            "id": "wipe-clear",
+            "name": "Wipe Clear",
+            "number": "167",
+            "image": "Dt-167.png",
+            "house": "saurian",
+            "keywords": [],
+            "traits": [],
+            "type": "action",
+            "rarity": "Uncommon",
+            "amber": 1,
+            "armor": null,
+            "power": null,
+            "text": "Play: Deal 1D to each creature. Destroy each upgrade.\nThis card has been translated from Chinese and is subject to change.",
+            "locale": {
+                "en": {
+                    "name": "Wipe Clear"
+                }
+            }
+        },
+        {
+            "id": "altruist-s-rostrum",
+            "name": "Altruist's Rostrum",
+            "number": "168",
+            "image": "Dt-168.png",
+            "house": "saurian",
+            "keywords": [],
+            "traits": [
+                "location"
+            ],
+            "type": "artifact",
+            "rarity": "Common",
+            "amber": 0,
+            "armor": null,
+            "power": null,
+            "text": "Action: Move 1A from a creature to another creature.",
+            "locale": {
+                "en": {
+                    "name": "Altruist's Rostrum"
+                }
+            }
+        },
+        {
+            "id": "carpe-vinum",
+            "name": "Carpe Vinum",
+            "number": "169",
+            "image": "Dt-169.png",
+            "house": "saurian",
+            "keywords": [],
+            "traits": [],
+            "type": "action",
+            "rarity": "Common",
+            "amber": 0,
+            "armor": null,
+            "power": null,
+            "text": "Play: Exalt two enemy creatures.\nThis card has been translated from Chinese and is subject to change.",
+            "locale": {
+                "en": {
+                    "name": "Carpe Vinum"
+                }
+            }
+        },
+        {
             "id": "censor-philo",
             "name": "Censor Philo",
             "number": "170",
@@ -639,6 +2181,46 @@
             "locale": {
                 "en": {
                     "name": "Censor Philo"
+                }
+            }
+        },
+        {
+            "id": "card-173",
+            "name": "?",
+            "number": "173",
+            "image": "Dt-173.png",
+            "house": "saurian",
+            "keywords": [],
+            "traits": [],
+            "type": "action",
+            "rarity": "Common",
+            "amber": 0,
+            "armor": null,
+            "power": null,
+            "text": "Play: Destroy each creature with 4 power or less. Gain 1 chain.\nThis card has been translated from Chinese and is subject to change.",
+            "locale": {
+                "en": {
+                    "name": "?"
+                }
+            }
+        },
+        {
+            "id": "card-174",
+            "name": "?",
+            "number": "174",
+            "image": "Dt-174.png",
+            "house": "saurian",
+            "keywords": [],
+            "traits": [],
+            "type": "action",
+            "rarity": "Common",
+            "amber": 0,
+            "armor": null,
+            "power": null,
+            "text": "Play: Choose one:\n• Exalt, ready and use a friendly creature.\n• Move 1A from one creature to another.\nThis card has been translated from Chinese and is subject to change.",
+            "locale": {
+                "en": {
+                    "name": "?"
                 }
             }
         },
@@ -667,6 +2249,91 @@
             }
         },
         {
+            "id": "magistra-vita",
+            "name": "Magistra Vita",
+            "number": "177",
+            "image": "Dt-177.png",
+            "house": "saurian",
+            "keywords": [],
+            "traits": [
+                "dinosaur"
+            ],
+            "type": "creature",
+            "rarity": "Common",
+            "amber": 0,
+            "armor": 0,
+            "power": 5,
+            "text": "Play/Reap: You may exalt a friendly non-Saurian creature. If you do, reap with it.",
+            "locale": {
+                "en": {
+                    "name": "Magistra Vita"
+                }
+            }
+        },
+        {
+            "id": "medicus-lacus",
+            "name": "Medicus Lacus",
+            "number": "178",
+            "image": "Dt-178.png",
+            "house": "saurian",
+            "keywords": [],
+            "traits": [
+                "dinosaur",
+                "philosopher"
+            ],
+            "type": "creature",
+            "rarity": "Common",
+            "amber": 0,
+            "armor": 0,
+            "power": 5,
+            "text": " While the tide is high, you may spend A on friendly creatures as if it were in your pool.\nThis card has been translated from Chinese and is subject to change.",
+            "locale": {
+                "en": {
+                    "name": "Medicus Lacus"
+                }
+            }
+        },
+        {
+            "id": "ostracize",
+            "name": "Ostracize",
+            "number": "179",
+            "image": "Dt-179.png",
+            "house": "saurian",
+            "keywords": [],
+            "traits": [],
+            "type": "action",
+            "rarity": "Common",
+            "amber": 0,
+            "armor": null,
+            "power": null,
+            "text": "Play: Lose 1A. If you do, purge a creature.\nThis card has been translated from Chinese and is subject to change.",
+            "locale": {
+                "en": {
+                    "name": "Ostracize"
+                }
+            }
+        },
+        {
+            "id": "reach-advantage",
+            "name": "Reach Advantage?",
+            "number": "180",
+            "image": "Dt-180.png",
+            "house": "saurian",
+            "keywords": [],
+            "traits": [],
+            "type": "action",
+            "rarity": "Common",
+            "amber": 1,
+            "armor": null,
+            "power": null,
+            "text": " Play: If the tide is high, a friendly creature captures 3A. Otherwise, raise the tide.",
+            "locale": {
+                "en": {
+                    "name": "Reach Advantage?"
+                }
+            }
+        },
+        {
             "id": "undagnathus",
             "name": "Undagnathus",
             "number": "182",
@@ -685,6 +2352,29 @@
             "locale": {
                 "en": {
                     "name": "Undagnathus"
+                }
+            }
+        },
+        {
+            "id": "venator-altum",
+            "name": "Venator Altum",
+            "number": "183",
+            "image": "Dt-183.png",
+            "house": "saurian",
+            "keywords": [],
+            "traits": [
+                "dinosaur",
+                "soldier"
+            ],
+            "type": "creature",
+            "rarity": "Common",
+            "amber": 0,
+            "armor": 2,
+            "power": 7,
+            "text": " After Venator Altum is dealt damage, if the tide is low, exalt Venator Altum.",
+            "locale": {
+                "en": {
+                    "name": "Venator Altum"
                 }
             }
         },
@@ -709,7 +2399,7 @@
             "text": "Taunt.\nDestroyed: Each of Captain No-Beard's neighbors captures 1A.\nThis card is incomplete and subject to change.",
             "locale": {
                 "en": {
-                    "name": "Captain No-Beard"
+                    "name": "Captain No-Beard (Evil Twin)"
                 }
             }
         },
@@ -729,10 +2419,10 @@
             "amber": 0,
             "armor": 0,
             "power": 4,
-            "text": " Play: Raise the tide.\n Before Fight: If the tide is high, [...] 1A.\nThis card text is incomplete and subject to change.",
+            "text": " Play: Raise the tide.\n Before Fight: If the tide is high, steal 1A. \nThis card has been translated from Chinese and is subject to change.",
             "locale": {
                 "en": {
-                    "name": "Freebooter Faye"
+                    "name": "Freebooter Faye (Evil Twin)"
                 }
             }
         },
@@ -755,7 +2445,78 @@
             "text": " Reap: If the tide is high, a damaged creatures captures 1 A from its own side.",
             "locale": {
                 "en": {
-                    "name": "Hard Simpson"
+                    "name": "Hard Simpson (Evil Twin)"
+                }
+            }
+        },
+        {
+            "id": "hobnobber-evil-twin",
+            "name": "Hobnobber (Evil Twin)",
+            "number": "187",
+            "image": "Dt-187.png",
+            "house": "shadows",
+            "keywords": [],
+            "traits": [
+                "elf",
+                "thief"
+            ],
+            "type": "creature",
+            "rarity": "Evil Twin",
+            "amber": 0,
+            "armor": 0,
+            "power": 3,
+            "text": "Omni: If your opponent has exactly 1A, steal it.\nThis card has been translated from Polish and is subject to change.",
+            "locale": {
+                "en": {
+                    "name": "Hobnobber (Evil Twin)"
+                }
+            }
+        },
+        {
+            "id": "-evil-twin",
+            "name": "? (Evil Twin)",
+            "number": "188",
+            "image": "Dt-188.png",
+            "house": "shadows",
+            "keywords": [
+                "elusive"
+            ],
+            "traits": [
+                "elf",
+                "thief"
+            ],
+            "type": "creature",
+            "rarity": "Evil Twin",
+            "amber": 0,
+            "armor": 0,
+            "power": 1,
+            "text": "Elusive.\nPlay: Exalt this creature twice.\nAction: Steal 1A for each A on this creature.\nThis card has been translated from Polish and is subject to change.",
+            "locale": {
+                "en": {
+                    "name": "? (Evil Twin)"
+                }
+            }
+        },
+        {
+            "id": "one-eyed-willa-evil-twin",
+            "name": "One-Eyed Willa (Evil Twin)",
+            "number": "189",
+            "image": "Dt-189.png",
+            "house": "shadows",
+            "keywords": [
+                "elusive",
+                "skirmish"
+            ],
+            "traits": [],
+            "type": "creature",
+            "rarity": "Evil Twin",
+            "amber": 0,
+            "armor": 0,
+            "power": 2,
+            "text": "Elusive. Skirmish.\n Fight: If the tide is high, your opponent loses 2A.\nThis card has been translated from Chinese and is subject to change.",
+            "locale": {
+                "en": {
+                    "name": "One-Eyed Willa (Evil Twin)"
                 }
             }
         },
@@ -778,7 +2539,7 @@
             "text": " Play: Capture 2A. If the tide is high, steal 2A instead.",
             "locale": {
                 "en": {
-                    "name": "Sea Urchin"
+                    "name": "Sea Urchin (Evil Twin)"
                 }
             }
         },
@@ -829,7 +2590,7 @@
         },
         {
             "id": "dead-man-s-chest",
-            "name": "Dead Man's Chest?",
+            "name": "Dead Man's Chest",
             "number": "193",
             "image": "Dt-193.png",
             "house": "shadows",
@@ -845,13 +2606,13 @@
             "text": "Play: Put 4A on Dead Man’s Chest from the supply. Deal 2D to a creature.\n\nIf 6 or more creatures are destroyed during a turn and Dead Man’s Chest is ready, move all A from Dead Man’s Chest to the active player’s pool.\n\nThis card has been translated from Russian and is subject to change.",
             "locale": {
                 "en": {
-                    "name": "Dead Man's Chest?"
+                    "name": "Dead Man's Chest"
                 }
             }
         },
         {
             "id": "early-birds",
-            "name": "Early Birds?",
+            "name": "Early Birds",
             "number": "195",
             "image": "Dt-195.png",
             "house": "shadows",
@@ -867,13 +2628,33 @@
             "text": "Alpha.\n\nPlay: Ready each Shadows card.\nThis card has been translated from Russian and is subject to change.",
             "locale": {
                 "en": {
-                    "name": "Early Birds?"
+                    "name": "Early Birds"
+                }
+            }
+        },
+        {
+            "id": "easy-marks",
+            "name": "Easy Marks?",
+            "number": "196",
+            "image": "Dt-196.png",
+            "house": "shadows",
+            "keywords": [],
+            "traits": [],
+            "type": "action",
+            "rarity": "Rare",
+            "amber": 0,
+            "armor": null,
+            "power": null,
+            "text": "Play: Exalt each damaged enemy creature.\n\nThis card has been translated from Chinese and is subject to change.",
+            "locale": {
+                "en": {
+                    "name": "Easy Marks?"
                 }
             }
         },
         {
             "id": "ransom",
-            "name": "Ransom?",
+            "name": "Ransom",
             "number": "203",
             "image": "Dt-203.png",
             "house": "shadows",
@@ -887,13 +2668,120 @@
             "text": "This creature cannot be used, and it gains, “At the start of your turn, you may give your opponent 2A. If you do, destroy Ransom.”\n\nThis card has been translated from Russian and is subject to change.",
             "locale": {
                 "en": {
-                    "name": "Ransom?"
+                    "name": "Ransom"
                 }
             }
         },
         {
-            "id": "scammer",
-            "name": "Scammer?",
+            "id": "submersible",
+            "name": "Submersible",
+            "number": "208",
+            "image": "Dt-208.png",
+            "house": "shadows",
+            "keywords": [],
+            "traits": [
+                "ship"
+            ],
+            "type": "artifact",
+            "rarity": "Rare",
+            "amber": 1,
+            "armor": null,
+            "power": null,
+            "text": " While the tide is high, each friendly Thief creature gains elusive.",
+            "locale": {
+                "en": {
+                    "name": "Submersible"
+                }
+            }
+        },
+        {
+            "id": "widespread-corruption",
+            "name": "Widespread Corruption?",
+            "number": "210",
+            "image": "Dt-210.png",
+            "house": "shadows",
+            "keywords": [],
+            "traits": [
+                "power"
+            ],
+            "type": "artifact",
+            "rarity": "Rare",
+            "amber": 1,
+            "armor": null,
+            "power": null,
+            "text": "After a player gains A by reaping, their opponent captures that A onto a creature they control.\n\nThis card has been translated from Chinese and is subject to change.",
+            "locale": {
+                "en": {
+                    "name": "Widespread Corruption?"
+                }
+            }
+        },
+        {
+            "id": "public-theft",
+            "name": "Public Theft ?",
+            "number": "211",
+            "image": "Dt-211.png",
+            "house": "shadows",
+            "keywords": [],
+            "traits": [],
+            "type": "action",
+            "rarity": "Uncommon",
+            "amber": 1,
+            "armor": null,
+            "power": null,
+            "text": "Play: Enrage an enemy creature. Move all A from that creature to your pool.\n\nThis card has been translated from Chinese and is subject to change.",
+            "locale": {
+                "en": {
+                    "name": "Public Theft ?"
+                }
+            }
+        },
+        {
+            "id": "freebooter-faye",
+            "name": "Freebooter Faye",
+            "number": "215",
+            "image": "Dt-215.png",
+            "house": "shadows",
+            "keywords": [],
+            "traits": [
+                "elf",
+                "thief"
+            ],
+            "type": "creature",
+            "rarity": "Uncommon",
+            "amber": 0,
+            "armor": 0,
+            "power": 4,
+            "text": " Play: Raise the tide.\n\n Reap: Steal 1A if the tide is high.\n\nThis card has been translated from Chinese and is subject to change.",
+            "locale": {
+                "en": {
+                    "name": "Freebooter Faye"
+                }
+            }
+        },
+        {
+            "id": "hand-cannon",
+            "name": "Hand Cannon",
+            "number": "216",
+            "image": "Dt-216.png",
+            "house": "shadows",
+            "keywords": [],
+            "traits": [],
+            "type": "upgrade",
+            "rarity": "Uncommon",
+            "amber": 1,
+            "armor": null,
+            "power": null,
+            "text": "This creature gains skirmish and, \"Fight: Move 1A from the creature this creature fights to your pool.\"",
+            "locale": {
+                "en": {
+                    "name": "Hand Cannon"
+                }
+            }
+        },
+        {
+            "id": "monty-bank",
+            "name": "Monty Bank",
             "number": "219",
             "image": "Dt-219.png",
             "house": "shadows",
@@ -907,10 +2795,137 @@
             "amber": 0,
             "armor": 0,
             "power": 1,
-            "text": "Play: Exalt Scammer once or twice. \n\nAction: Steal 1A for each A on Scammer.\n\nThis card has been translated from Russian and is subject to change.",
+            "text": "Play: You may exalt Monty Bank once or twice. \n\nAction: Steal 1A for each A on Monty Bank.\n\nThis card has been translated from Russian and is subject to change.",
             "locale": {
                 "en": {
-                    "name": "Scammer?"
+                    "name": "Monty Bank"
+                }
+            }
+        },
+        {
+            "id": "cautious-or-reckless",
+            "name": "Cautious or Reckless ?",
+            "number": "222",
+            "image": "Dt-222.png",
+            "house": "shadows",
+            "keywords": [],
+            "traits": [],
+            "type": "action",
+            "rarity": "Uncommon",
+            "amber": 0,
+            "armor": null,
+            "power": null,
+            "text": "Choose one: \n\n- Archive any number of friendly creatures from play.\n\n- Choose a creature. Deal 1D to that creature for each A your opponent has in their pool.\n\nThis card has been translated from Chinese and is subject to change.",
+            "locale": {
+                "en": {
+                    "name": "Cautious or Reckless ?"
+                }
+            }
+        },
+        {
+            "id": "stir-trouble",
+            "name": "Stir Trouble?",
+            "number": "223",
+            "image": "Dt-223.png",
+            "house": "shadows",
+            "keywords": [],
+            "traits": [],
+            "type": "action",
+            "rarity": "Uncommon",
+            "amber": 0,
+            "armor": null,
+            "power": null,
+            "text": "Play: Choose a creature and one of its neighbors. Each chosen creature deals damage to the other creature equal to its power.\nThis card has been translated from Chinese and is subject to change.",
+            "locale": {
+                "en": {
+                    "name": "Stir Trouble?"
+                }
+            }
+        },
+        {
+            "id": "flying-specter",
+            "name": "Flying Specter ?",
+            "number": "224",
+            "image": "Dt-224.png",
+            "house": "shadows",
+            "keywords": [],
+            "traits": [
+                "ship"
+            ],
+            "type": "artifact",
+            "rarity": "Uncommon",
+            "amber": 0,
+            "armor": null,
+            "power": null,
+            "text": " When your opponent raises the tide, destroy Flying Specter (?).\n Action: If the tide is high, steal 1A.\nThis card has been translated from Chinese and is subject to change.",
+            "locale": {
+                "en": {
+                    "name": "Flying Specter ?"
+                }
+            }
+        },
+        {
+            "id": "trickle-down-theory",
+            "name": "Trickle-Down Theory",
+            "number": "225",
+            "image": "Dt-225.png",
+            "house": "shadows",
+            "keywords": [],
+            "traits": [
+                "power"
+            ],
+            "type": "artifact",
+            "rarity": "Uncommon",
+            "amber": 0,
+            "armor": null,
+            "power": null,
+            "text": " Play: Raise the tide.\nOmni: Gain 1A if your opponent has 6A or more.",
+            "locale": {
+                "en": {
+                    "name": "Trickle-Down Theory"
+                }
+            }
+        },
+        {
+            "id": "cement-shoes",
+            "name": "Cement Shoes",
+            "number": "227",
+            "image": "Dt-227.png",
+            "house": "shadows",
+            "keywords": [],
+            "traits": [],
+            "type": "action",
+            "rarity": "Common",
+            "amber": 1,
+            "armor": null,
+            "power": null,
+            "text": " Play: Deal 2D to a creature. If this damage destroys that creature, raise the tide.",
+            "locale": {
+                "en": {
+                    "name": "Cement Shoes"
+                }
+            }
+        },
+        {
+            "id": "gas-pipes-malone",
+            "name": "Gas-Pipes Malone",
+            "number": "229",
+            "image": "Dt-229.png",
+            "house": "shadows",
+            "keywords": [],
+            "traits": [
+                "elf",
+                "thief"
+            ],
+            "type": "creature",
+            "rarity": "Common",
+            "amber": 0,
+            "armor": 0,
+            "power": 3,
+            "text": "Before Fight: The creature Gas-Pipes Malone fights captures 1A from its own side.",
+            "locale": {
+                "en": {
+                    "name": "Gas-Pipes Malone"
                 }
             }
         },
@@ -940,6 +2955,52 @@
             }
         },
         {
+            "id": "hobnobber",
+            "name": "Hobnobber",
+            "number": "231",
+            "image": "Dt-231.png",
+            "house": "shadows",
+            "keywords": [],
+            "traits": [
+                "elf",
+                "thief"
+            ],
+            "type": "creature",
+            "rarity": "Common",
+            "amber": 0,
+            "armor": 0,
+            "power": 3,
+            "text": "Action: If your opponent has  6A or more, steal 2A.",
+            "locale": {
+                "en": {
+                    "name": "Hobnobber"
+                }
+            }
+        },
+        {
+            "id": "card-232",
+            "name": "?",
+            "number": "232",
+            "image": "Dt-232.png",
+            "house": "shadows",
+            "keywords": [],
+            "traits": [
+                "elf",
+                "thief"
+            ],
+            "type": "action",
+            "rarity": "Common",
+            "amber": 1,
+            "armor": null,
+            "power": null,
+            "text": "Play: Use an opponent's artifact as if it were yours.\nThis card has been translated from Chinese and is subject to change.",
+            "locale": {
+                "en": {
+                    "name": "?"
+                }
+            }
+        },
+        {
             "id": "jackie-tar",
             "name": "Jackie Tar",
             "number": "233",
@@ -961,6 +3022,89 @@
             "locale": {
                 "en": {
                     "name": "Jackie Tar"
+                }
+            }
+        },
+        {
+            "id": "kerwollop",
+            "name": "Kerwollop",
+            "number": "234",
+            "image": "Dt-234.png",
+            "house": "shadows",
+            "keywords": [],
+            "traits": [],
+            "type": "action",
+            "rarity": "Common",
+            "amber": 0,
+            "armor": null,
+            "power": null,
+            "text": "Play: Deal 1D to each creature. Gain 1A for each creature destroyed this way.",
+            "locale": {
+                "en": {
+                    "name": "Kerwollop"
+                }
+            }
+        },
+        {
+            "id": "loot-or-pillage",
+            "name": "Loot or Pillage",
+            "number": "235",
+            "image": "Dt-235.png",
+            "house": "shadows",
+            "keywords": [],
+            "traits": [],
+            "type": "action",
+            "rarity": "Common",
+            "amber": 0,
+            "armor": null,
+            "power": null,
+            "text": "Play: Choose one: \n\n- Steal 1A.\n\n- A friendly creature captures 3A.",
+            "locale": {
+                "en": {
+                    "name": "Loot or Pillage"
+                }
+            }
+        },
+        {
+            "id": "one-eyed-willa",
+            "name": "One-Eyed Willa",
+            "number": "237",
+            "image": "Dt-237.png",
+            "house": "shadows",
+            "keywords": [],
+            "traits": [
+                "elf",
+                "thief"
+            ],
+            "type": "creature",
+            "rarity": "Common",
+            "amber": 0,
+            "armor": 0,
+            "power": 2,
+            "text": " While the tide is high, One-eyed Willa gains elusive and skirmish.\nFight: Steal 1A.",
+            "locale": {
+                "en": {
+                    "name": "One-Eyed Willa"
+                }
+            }
+        },
+        {
+            "id": "scooped",
+            "name": "Scooped",
+            "number": "238",
+            "image": "Dt-238.png",
+            "house": "shadows",
+            "keywords": [],
+            "traits": [],
+            "type": "action",
+            "rarity": "Common",
+            "amber": 1,
+            "armor": null,
+            "power": null,
+            "text": "Play: Deal 2D to a creature. If it is not destroyed, it captures 1A from its own side.",
+            "locale": {
+                "en": {
+                    "name": "Scooped"
                 }
             }
         },
@@ -991,7 +3135,7 @@
         },
         {
             "id": "walk-the-plank",
-            "name": "Walk the Plank?",
+            "name": "Walk the Plank",
             "number": "242",
             "image": "Dt-242.jpg",
             "house": "shadows",
@@ -1005,14 +3149,132 @@
             "text": "Play: If your opponent has no A, deal 4D to a creature. Otherwise, steal 1A.\nThis card has been translated from Russian and is subject to change.",
             "locale": {
                 "en": {
-                    "name": "Walk the Plank?"
+                    "name": "Walk the Plank"
+                }
+            }
+        },
+        {
+            "id": "5c077-evil-twin",
+            "name": "5C077 (Evil Twin)",
+            "number": "243",
+            "image": "Dt-253.png",
+            "house": "staralliance",
+            "keywords": [],
+            "traits": [
+                "robot"
+            ],
+            "type": "creature",
+            "rarity": "Evil Twin",
+            "amber": 0,
+            "armor": 0,
+            "power": 2,
+            "text": "Reap: Destroy another creature with the same power as 5C077. You may give 5C077 a +1 power counter or remove a +1 power counter from it.\nThis card has been translated from Chinese and is subject to change.",
+            "locale": {
+                "en": {
+                    "name": "5C077 (Evil Twin)"
+                }
+            }
+        },
+        {
+            "id": "cr-officer-hawkins-evil-twin",
+            "name": "C.R. Officer Hawkins (Evil Twin)",
+            "number": "244",
+            "image": "Dt-244.jpg",
+            "house": "staralliance",
+            "keywords": [
+                "deploy"
+            ],
+            "traits": [
+                "human"
+            ],
+            "type": "creature",
+            "rarity": "Evil Twin",
+            "amber": 0,
+            "armor": 0,
+            "power": 2,
+            "text": "Deploy. (This creature can enter play\nanywhere in your battleline.)\n Play: Your opponent loses 1A for each of C.R. Officer Hawkins’s non‑Star Alliance neighbors.\nThis card has been translated from Chinese and is subject to change.",
+            "locale": {
+                "en": {
+                    "name": "C.R. Officer Hawkins (Evil Twin)"
+                }
+            }
+        },
+        {
+            "id": "ch-337a-evil-twin",
+            "name": "CH-337A (Evil Twin)",
+            "number": "245",
+            "image": "Dt-245.png",
+            "house": "staralliance",
+            "keywords": [
+                "skirmish"
+            ],
+            "traits": [
+                "robot"
+            ],
+            "type": "creature",
+            "rarity": "Evil Twin",
+            "amber": 0,
+            "armor": 0,
+            "power": 3,
+            "text": "Skirmish.\n If the tide is high, CH-337A (Evil Twin)'s neighbors gain Skirmish.",
+            "locale": {
+                "en": {
+                    "name": "CH-337A (Evil Twin)"
+                }
+            }
+        },
+        {
+            "id": "colonist-chapman-evil-twin",
+            "name": "Colonist Chapman (Evil Twin)",
+            "number": "246",
+            "image": "Dt-246.png",
+            "house": "staralliance",
+            "keywords": [
+                "elusive"
+            ],
+            "traits": [
+                "human"
+            ],
+            "type": "creature",
+            "rarity": "Evil Twin",
+            "amber": 0,
+            "armor": 0,
+            "power": 3,
+            "text": "Elusive.\nPlay: Capture all A from each player.\nThis card has been translated from Polish and is subject to change.",
+            "locale": {
+                "en": {
+                    "name": "Colonist Chapman (Evil Twin)"
+                }
+            }
+        },
+        {
+            "id": "recon-agent-aspen-evil-twin",
+            "name": "Recon Agent Aspen (Evil Twin)",
+            "number": "247",
+            "image": "Dt-247.png",
+            "house": "staralliance",
+            "keywords": [
+                "elusive"
+            ],
+            "traits": [
+                "alien"
+            ],
+            "type": "creature",
+            "rarity": "Evil Twin",
+            "amber": 0,
+            "armor": 0,
+            "power": 4,
+            "text": "Elusive.\nAfter a player raises the tide during their turn, they may deal 3D to a creature.",
+            "locale": {
+                "en": {
+                    "name": "Recon Agent Aspen (Evil Twin)"
                 }
             }
         },
         {
             "id": "rocketeer-tryska-evil-twin",
             "name": "Rocketeer Tryska (Evil Twin)",
-            "number": "250",
+            "number": "248",
             "image": "Rocketeer_Tryska_(Evil_Twin).png",
             "house": "staralliance",
             "keywords": [
@@ -1029,7 +3291,51 @@
             "text": "Skirmish.\n While the tide is high, Rocketeer Tryska enters play ready.",
             "locale": {
                 "en": {
-                    "name": "Rocketeer Tryska"
+                    "name": "Rocketeer Tryska (Evil Twin)"
+                }
+            }
+        },
+        {
+            "id": "shield-u-later-evil-twin",
+            "name": "Shield-U-Later (Evil Twin)",
+            "number": "249",
+            "image": "Dt-249.png",
+            "house": "staralliance",
+            "keywords": [],
+            "traits": [
+                "robot"
+            ],
+            "type": "creature",
+            "rarity": "Evil Twin",
+            "amber": 0,
+            "armor": 0,
+            "power": 5,
+            "text": "This creature may be played as an upgrade instead of a creature, with the text: “This creature loses all armor and gets -2 power”.\nThis card has been translated from Chinese and is subject to change.",
+            "locale": {
+                "en": {
+                    "name": "Shield-U-Later (Evil Twin)"
+                }
+            }
+        },
+        {
+            "id": "com-officer-hings",
+            "name": "Com. Officer Hings?",
+            "number": "250",
+            "image": "Dt-250.png",
+            "house": "staralliance",
+            "keywords": [],
+            "traits": [
+                "human"
+            ],
+            "type": "creature",
+            "rarity": "Rare",
+            "amber": 0,
+            "armor": 0,
+            "power": 3,
+            "text": "Play: You may search your deck for Com. Officer Gross (?), reveal it, and add it to your hand. Shuffle your deck.\n\nFight/Reap: Draw 1 card for each creature between Com. Officer Gross and Com. Officer Hings.\n\nThis card has been translated from Polish and is subject to change.",
+            "locale": {
+                "en": {
+                    "name": "Com. Officer Hings?"
                 }
             }
         },
@@ -1044,11 +3350,11 @@
                 "human"
             ],
             "type": "creature",
-            "rarity": "Special?",
+            "rarity": "Special",
             "amber": 0,
             "armor": 0,
             "power": 3,
-            "text": "Play: You may search your deck for Liaison Officer Hings (?), reveal it, and add it to your hand. Shuffle your deck.\n\nFight/Reap: Give a +1 power token to each creature between Com. Officer Gross and Liaison Officer Hings.\n\nThis card has been translated from Russian and is subject to change.",
+            "text": "Play: You may search your deck for Com. Officer Hings (?), reveal it, and add it to your hand. Shuffle your deck.\n\nFight/Reap: Give a +1 power token to each creature between Com. Officer Gross and Com. Officer Hings.\n\nThis card has been translated from Russian and is subject to change.",
             "locale": {
                 "en": {
                     "name": "Com. Officer Gross?"
@@ -1100,8 +3406,8 @@
             }
         },
         {
-            "id": "b4-th05",
-            "name": "B4-TH05",
+            "id": "d1-v3",
+            "name": "D1-V3",
             "number": "262",
             "image": "Dt-262.jpg",
             "house": "staralliance",
@@ -1115,13 +3421,171 @@
             "text": " While the tide is high, this creature gains skirmish.\n While the tide is low, this creature gains elusive.\nThis card has been translated from Polish and is subject to change.",
             "locale": {
                 "en": {
-                    "name": "B4-TH05"
+                    "name": "D1-V3"
+                }
+            }
+        },
+        {
+            "id": "exploration-vessel",
+            "name": "Exploration Vessel ?",
+            "number": "265",
+            "image": "Dt-265.png",
+            "house": "staralliance",
+            "keywords": [],
+            "traits": [
+                "ship"
+            ],
+            "type": "artifact",
+            "rarity": "Rare",
+            "amber": 0,
+            "armor": null,
+            "power": null,
+            "text": "Action: Exhaust up to 3 friendly creatures. Draw 1 card for each house represented among these creatures.\nThis card has been translated from Chinese and is subject to change.",
+            "locale": {
+                "en": {
+                    "name": "Exploration Vessel ?"
+                }
+            }
+        },
+        {
+            "id": "make-it-so",
+            "name": "Make It So",
+            "number": "268",
+            "image": "Dt-268.png",
+            "house": "staralliance",
+            "keywords": [],
+            "traits": [],
+            "type": "action",
+            "rarity": "Rare",
+            "amber": 1,
+            "armor": null,
+            "power": null,
+            "text": "Play: Choose a house. Reveal the top card of your deck. If it belongs to that house, draw that card and repeat this effect.\nThis card has been translated from Chinese and is subject to change.",
+            "locale": {
+                "en": {
+                    "name": "Make It So"
+                }
+            }
+        },
+        {
+            "id": "professor-emeritus-colin",
+            "name": "Professor Emeritus Colin?",
+            "number": "271",
+            "image": "Dt-271.png",
+            "house": "staralliance",
+            "keywords": [
+                "deploy"
+            ],
+            "traits": [
+                "human"
+            ],
+            "type": "creature",
+            "rarity": "Rare",
+            "amber": 0,
+            "armor": 0,
+            "power": 1,
+            "text": "Deploy.\nPlay/Fight/Reap: Use one of this creature's neighbors. If the tide is high, use its other neighbor.",
+            "locale": {
+                "en": {
+                    "name": "Professor Emeritus Colin?"
+                }
+            }
+        },
+        {
+            "id": "accessory",
+            "name": "Accessory?",
+            "number": "272",
+            "image": "Dt-272.png",
+            "house": "staralliance",
+            "keywords": [],
+            "traits": [
+                "item"
+            ],
+            "type": "artifact",
+            "rarity": "Rare",
+            "amber": 1,
+            "armor": null,
+            "power": null,
+            "text": "Players cannot choose the same house as they did on their last turn.\nThis card has been translated from Polish and is subject to change.",
+            "locale": {
+                "en": {
+                    "name": "Accessory?"
+                }
+            }
+        },
+        {
+            "id": "agent-sepdia",
+            "name": "Agent Sepdia",
+            "number": "274",
+            "image": "Dt-274.png",
+            "house": "staralliance",
+            "keywords": [],
+            "traits": [
+                "aquan"
+            ],
+            "type": "creature",
+            "rarity": "Uncommon",
+            "amber": 0,
+            "armor": 1,
+            "power": 4,
+            "text": " Fight/Reap: Deal 1D to a creature. If the tide is high, stun it.",
+            "locale": {
+                "en": {
+                    "name": "Agent Sepdia"
+                }
+            }
+        },
+        {
+            "id": "ch-337a",
+            "name": "CH-337A",
+            "number": "276",
+            "image": "Dt-276.png",
+            "house": "staralliance",
+            "keywords": [
+                "elusive"
+            ],
+            "traits": [
+                "robot"
+            ],
+            "type": "creature",
+            "rarity": "Uncommon",
+            "amber": 0,
+            "armor": 0,
+            "power": 3,
+            "text": "Elusive.\n While the tide is high, each of CH-337A's neighbors gains elusive.",
+            "locale": {
+                "en": {
+                    "name": "CH-337A"
+                }
+            }
+        },
+        {
+            "id": "colonist-chapman",
+            "name": "Colonist Chapman?",
+            "number": "277",
+            "image": "Dt-277.png",
+            "house": "staralliance",
+            "keywords": [
+                "taunt"
+            ],
+            "traits": [
+                "human"
+            ],
+            "type": "creature",
+            "rarity": "Uncommon",
+            "amber": 0,
+            "armor": 0,
+            "power": 3,
+            "text": "Taunt.\nEach of Colonist Chapman's non-Star Alliance neighbors gains, \"Reap: Gain 1A.\"\nThis card has been translated from Polish and is subject to change.",
+            "locale": {
+                "en": {
+                    "name": "Colonist Chapman?"
                 }
             }
         },
         {
             "id": "sabotage-mission",
-            "name": "Sabotage Mission",
+            "name": "Sabotage Mission?",
             "number": "282",
             "image": "Dt-sabotage.png",
             "house": "staralliance",
@@ -1132,10 +3596,94 @@
             "amber": 1,
             "armor": null,
             "power": null,
-            "text": "Play: During your opponent's next turn, keys cost +1A for each different power value of friendly creatures.\nThis card has been translated from Polish and is subject to change.",
+            "text": "Play: During your opponent's next turn, keys cost +1A for each different power value among friendly creatures.\nThis card has been translated from Polish and is subject to change.",
             "locale": {
                 "en": {
-                    "name": "Sabotage Mission"
+                    "name": "Sabotage Mission?"
+                }
+            }
+        },
+        {
+            "id": "selective-preservation",
+            "name": "Selective Preservation",
+            "number": "283",
+            "image": "Dt-283.png",
+            "house": "staralliance",
+            "keywords": [],
+            "traits": [],
+            "type": "action",
+            "rarity": "Uncommon",
+            "amber": 0,
+            "armor": null,
+            "power": null,
+            "text": "Play: Choose a creature of each power value. Destroy each creature not chosen.\n",
+            "locale": {
+                "en": {
+                    "name": "Selective Preservation"
+                }
+            }
+        },
+        {
+            "id": "static-collection-array",
+            "name": "Static Collection Array",
+            "number": "284",
+            "image": "Dt-284.png",
+            "house": "staralliance",
+            "keywords": [],
+            "traits": [
+                "item"
+            ],
+            "type": "artifact",
+            "rarity": "Uncommon",
+            "amber": 1,
+            "armor": null,
+            "power": null,
+            "text": " While the tide is high, your keys cost -1A. While the tide is low, your keys cost +1A. \nThis card has been translated from Polish and is subject to change.",
+            "locale": {
+                "en": {
+                    "name": "Static Collection Array"
+                }
+            }
+        },
+        {
+            "id": "t3r-35a",
+            "name": "T3R-35A?",
+            "number": "286",
+            "image": "Dt-286.png",
+            "house": "staralliance",
+            "keywords": [],
+            "traits": [
+                "robot"
+            ],
+            "type": "creature",
+            "rarity": "Uncommon",
+            "amber": 0,
+            "armor": 0,
+            "power": 3,
+            "text": "This creature can be used as if it belongs to the same house as its neighbor. \nThis creature may be played as an upgrade with the text, \"This creature can be used as if it belongs to the same house as its neighbor.\"\n\nThis card has been translated from Chinese and is subject to change.",
+            "locale": {
+                "en": {
+                    "name": "T3R-35A?"
+                }
+            }
+        },
+        {
+            "id": "together",
+            "name": "Together ?",
+            "number": "287",
+            "image": "Dt-287.png",
+            "house": "staralliance",
+            "keywords": [],
+            "traits": [],
+            "type": "action",
+            "rarity": "Uncommon",
+            "amber": 0,
+            "armor": null,
+            "power": null,
+            "text": " Play: You may play a non-Star Alliance card. If the tide is high, you may play another non-Star Alliance card.\nThis card has been translated from Chinese and is subject to change.",
+            "locale": {
+                "en": {
+                    "name": "Together ?"
                 }
             }
         },
@@ -1160,8 +3708,75 @@
             }
         },
         {
-            "id": "supreme-alliance-council",
-            "name": "Supreme Alliance Council?",
+            "id": "discovery-community",
+            "name": "Discovery community?",
+            "number": "291",
+            "image": "Dt-291.png",
+            "house": "staralliance",
+            "keywords": [],
+            "traits": [],
+            "type": "action",
+            "rarity": "Common",
+            "amber": 1,
+            "armor": null,
+            "power": null,
+            "text": "Play: If the tide is high, look at the top 2 cards of your deck and discard 1. Otherwise, raise the tide.",
+            "locale": {
+                "en": {
+                    "name": "Discovery community?"
+                }
+            }
+        },
+        {
+            "id": "cr-officer-hawkins",
+            "name": "C.R. Officer Hawkins ?",
+            "number": "292",
+            "image": "Dt-292.png",
+            "house": "staralliance",
+            "keywords": [
+                "deploy"
+            ],
+            "traits": [
+                "human"
+            ],
+            "type": "creature",
+            "rarity": "Common",
+            "amber": 0,
+            "armor": 0,
+            "power": 2,
+            "text": "Deploy.\nPlay: Gain 1A for each of C.R. Officer Hawkins' non-Star Alliance neighbor.\nThis card has been translated from Chinese and is subject to change.",
+            "locale": {
+                "en": {
+                    "name": "C.R. Officer Hawkins ?"
+                }
+            }
+        },
+        {
+            "id": "diplomat-agung",
+            "name": "Diplomat Agung",
+            "number": "293",
+            "image": "Dt-293.png",
+            "house": "staralliance",
+            "keywords": [],
+            "traits": [
+                "alien",
+                "krxix"
+            ],
+            "type": "creature",
+            "rarity": "Common",
+            "amber": 0,
+            "armor": 0,
+            "power": 2,
+            "text": "Play/Fight/Reap: For the remainder of your turn, a friendly creature belongs to the house of your choice in addition to its other houses.",
+            "locale": {
+                "en": {
+                    "name": "Diplomat Agung"
+                }
+            }
+        },
+        {
+            "id": "grand-alliance-council",
+            "name": "Grand Alliance Council?",
             "number": "294",
             "image": "Dt-294.jpg",
             "house": "staralliance",
@@ -1175,7 +3790,7 @@
             "text": "Action: Choose 1 creature belonging to each house. Destroy each creature except the chosen creatures.\nThis card has been translated from Russian and is subject to change.",
             "locale": {
                 "en": {
-                    "name": "Supreme Alliance Council?"
+                    "name": "Grand Alliance Council?"
                 }
             }
         },
@@ -1203,8 +3818,8 @@
             }
         },
         {
-            "id": "officer-blaster",
-            "name": "Officer Blaster?",
+            "id": "officer-s-blaster",
+            "name": "Officer's Blaster",
             "number": "298",
             "image": "Dt-298.png",
             "house": "staralliance",
@@ -1215,10 +3830,160 @@
             "amber": 1,
             "armor": null,
             "power": null,
-            "text": "This creature gains +2 power.\n\nThis creature gains, “Destroyed: Attach Officer Blaster to the neighbor to the right of this creature.”\n\nThis card has been translated from Russian and is subject to change.",
+            "text": "This creature gains +2 power.\n\nThis creature gains, “Destroyed: Attach Officer's Blaster to this creature's right neighbor.”",
             "locale": {
                 "en": {
-                    "name": "Officer Blaster?"
+                    "name": "Officer's Blaster"
+                }
+            }
+        },
+        {
+            "id": "recon-agent-aspen",
+            "name": "Recon Agent Aspen?",
+            "number": "299",
+            "image": "Dt-299.png",
+            "house": "staralliance",
+            "keywords": [
+                "elusive"
+            ],
+            "traits": [
+                "alien"
+            ],
+            "type": "creature",
+            "rarity": "Common",
+            "amber": 0,
+            "armor": 0,
+            "power": 4,
+            "text": "Elusive.\n\nAfter a player raises the tide during their turn, they may use a creature they control.\n\nThis card has been translated from Chinese and is subject to change.",
+            "locale": {
+                "en": {
+                    "name": "Recon Agent Aspen?"
+                }
+            }
+        },
+        {
+            "id": "rocketeer-tryska",
+            "name": "Rocketeer Tryska",
+            "number": "300",
+            "image": "Dt-300.png",
+            "house": "staralliance",
+            "keywords": [],
+            "traits": [
+                "human"
+            ],
+            "type": "creature",
+            "rarity": "Common",
+            "amber": 0,
+            "armor": 0,
+            "power": 4,
+            "text": " While the tide is high, Rocketeer Tryska's neighbors enter play ready.",
+            "locale": {
+                "en": {
+                    "name": "Rocketeer Tryska"
+                }
+            }
+        },
+        {
+            "id": "shield-u-later",
+            "name": "Shield-U-Later",
+            "number": "302",
+            "image": "Dt-302.jpg",
+            "house": "staralliance",
+            "keywords": [],
+            "traits": [],
+            "type": "creature",
+            "rarity": "Common",
+            "amber": 0,
+            "armor": 2,
+            "power": 3,
+            "text": "This creature may be played as an upgrade instead of a creature, with the text: “This creature gains +2 armor” .\nThis card has been translated from Chinese and is subject to change.",
+            "locale": {
+                "en": {
+                    "name": "Shield-U-Later"
+                }
+            }
+        },
+        {
+            "id": "technobabble",
+            "name": "Technobabble ?",
+            "number": "303",
+            "image": "Dt-303.png",
+            "house": "staralliance",
+            "keywords": [],
+            "traits": [],
+            "type": "action",
+            "rarity": "Common",
+            "amber": 1,
+            "armor": null,
+            "power": null,
+            "text": "Play: Stun a creature and each of its neighbors that shares a house with it.\nThis card has been translated from Chinese and is subject to change.",
+            "locale": {
+                "en": {
+                    "name": "Technobabble ?"
+                }
+            }
+        },
+        {
+            "id": "unity-or-contradiction",
+            "name": "Unity or Contradiction?",
+            "number": "304",
+            "image": "Dt-304.png",
+            "house": "staralliance",
+            "keywords": [],
+            "traits": [],
+            "type": "action",
+            "rarity": "Common",
+            "amber": 0,
+            "armor": null,
+            "power": null,
+            "text": "Choose one: \n\n- Use a friendly non-Star Alliance creature.\n\n- Return up to 2 friendly creatures and their upgrades back to their owner's hand.\n\nThis card has been translated from Chinese and is subject to change.",
+            "locale": {
+                "en": {
+                    "name": "Unity or Contradiction?"
+                }
+            }
+        },
+        {
+            "id": "flamegill-enforcer-evil-twin",
+            "name": "Flamegill Enforcer (Evil Twin)",
+            "number": "306",
+            "image": "Dt-306.png",
+            "house": "unfathomable",
+            "keywords": [],
+            "traits": [
+                "aquan"
+            ],
+            "type": "creature",
+            "rarity": "Evil Twin",
+            "amber": 0,
+            "armor": 0,
+            "power": 6,
+            "text": " After your opponent raises the tide, enrage Flamegill Enforcer.\nAction: Steal 1A.\nThis card has been translated from Chinese and is subject to change.",
+            "locale": {
+                "en": {
+                    "name": "Flamegill Enforcer (Evil Twin)"
+                }
+            }
+        },
+        {
+            "id": "giltspine-netcaster-evil-twin",
+            "name": "Giltspine Netcaster (Evil Twin)",
+            "number": "307",
+            "image": "Dt-307.png",
+            "house": "unfathomable",
+            "keywords": [],
+            "traits": [
+                "aquan"
+            ],
+            "type": "creature",
+            "rarity": "Evil Twin",
+            "amber": 0,
+            "armor": 0,
+            "power": 2,
+            "text": "Enhance . (These icons have already been added to cards in your deck.)\n Reap: Ready and use a non-Aquan friendly creature.\nThis card has been translated from Chinese and is subject to change.",
+            "locale": {
+                "en": {
+                    "name": "Giltspine Netcaster (Evil Twin)"
                 }
             }
         },
@@ -1242,7 +4007,7 @@
             "text": "Poison.\nTaunt.",
             "locale": {
                 "en": {
-                    "name": "Horrid Synan"
+                    "name": "Horrid Synan (Evil Twin)"
                 }
             }
         },
@@ -1250,7 +4015,7 @@
             "id": "kaupe-evil-twin",
             "name": "Kaupe (Evil Twin)",
             "number": "309",
-            "image": "Kaupe_(Evil_Twin).png",
+            "image": "Dt-309.png",
             "house": "unfathomable",
             "keywords": [],
             "traits": [
@@ -1259,12 +4024,12 @@
             "type": "creature",
             "rarity": "Evil Twin",
             "amber": 0,
-            "armor": null,
+            "armor": 0,
             "power": 7,
-            "text": "This card is incomplete and subject to change.",
+            "text": "You cannot play more than 1 card of each card type each turn.\nFight/Reap:You may discard any number of cards from your hand. Deal 2D to an enemy creature for each card discarded this way.\nThis card has been translated from Polish and is subject to change.",
             "locale": {
                 "en": {
-                    "name": "Kaupe"
+                    "name": "Kaupe (Evil Twin)"
                 }
             }
         },
@@ -1286,7 +4051,7 @@
             "text": "Fight/Reap: Put a creature from your discard pile on top of your deck.",
             "locale": {
                 "en": {
-                    "name": "Taniwha"
+                    "name": "Taniwha (Evil Twin)"
                 }
             }
         },
@@ -1308,7 +4073,89 @@
             "text": " Reap: If the tide is high, exhaust an enemy creature and your opponent discards a random card from their hand.",
             "locale": {
                 "en": {
-                    "name": "Tomwa of the Glow"
+                    "name": "Tomwa of the Glow (Evil Twin)"
+                }
+            }
+        },
+        {
+            "id": "wikolia-evil-twin",
+            "name": "Wikolia (Evil Twin)",
+            "number": "312",
+            "image": "Dt-312.png",
+            "house": "unfathomable",
+            "keywords": [],
+            "traits": [
+                "beast"
+            ],
+            "type": "creature",
+            "rarity": "Evil Twin",
+            "amber": 0,
+            "armor": 0,
+            "power": 3,
+            "text": "Reap: Exalt Wikolia. Your opponent’s keys cost +4A during their next turn.",
+            "locale": {
+                "en": {
+                    "name": "Wikolia (Evil Twin)"
+                }
+            }
+        },
+        {
+            "id": "drawn-by-the-depths",
+            "name": "Drawn by the depths?",
+            "number": "313",
+            "image": "Dt-313.png",
+            "house": "unfathomable",
+            "keywords": [],
+            "traits": [],
+            "type": "action",
+            "rarity": "Rare",
+            "amber": 0,
+            "armor": null,
+            "power": null,
+            "text": "Play: Look at the top 3 cards of your opponent's deck. Discard one, put one on the bottom, and put one on the top.",
+            "locale": {
+                "en": {
+                    "name": "Drawn by the depths?"
+                }
+            }
+        },
+        {
+            "id": "deep-dive",
+            "name": "Deep Dive?",
+            "number": "314",
+            "image": "Dt-314.png",
+            "house": "unfathomable",
+            "keywords": [],
+            "traits": [],
+            "type": "action",
+            "rarity": "Special",
+            "amber": 0,
+            "armor": null,
+            "power": null,
+            "text": "Play: Discard the top card of your opponent's deck. Put a creature that shares a house with the discarded card on the bottom of its owner's deck.\nThis card has been translated from Polish and is subject to change.",
+            "locale": {
+                "en": {
+                    "name": "Deep Dive?"
+                }
+            }
+        },
+        {
+            "id": "dark-discovery",
+            "name": "Dark Discovery",
+            "number": "315",
+            "image": "Dt-315.png",
+            "house": "unfathomable",
+            "keywords": [],
+            "traits": [],
+            "type": "action",
+            "rarity": "Special",
+            "amber": 1,
+            "armor": null,
+            "power": null,
+            "text": "Play: Name 2 cards. Discard the bottom 2 cards of your opponent’s deck. If they are the named cards, purge Dark Discovery and forge a key at no cost.\nThis card is incomplete and subject to change.",
+            "locale": {
+                "en": {
+                    "name": "Dark Discovery"
                 }
             }
         },
@@ -1335,6 +4182,155 @@
             }
         },
         {
+            "id": "tentacle",
+            "name": "Tentacle",
+            "number": "317",
+            "image": "Dt-317.png",
+            "house": "unfathomable",
+            "keywords": [
+                "taunt",
+                "skirmish"
+            ],
+            "traits": [],
+            "type": "creature",
+            "rarity": "Special",
+            "amber": 0,
+            "armor": 0,
+            "power": 3,
+            "text": "Taunt. Skirmish.\nTentacle cannot reap.\nThis card has been translated from Chinese and is subject to change.",
+            "locale": {
+                "en": {
+                    "name": "Tentacle"
+                }
+            }
+        },
+        {
+            "id": "corrode",
+            "name": "Corrode",
+            "number": "318",
+            "image": "Dt-318.png",
+            "house": "unfathomable",
+            "keywords": [],
+            "traits": [],
+            "type": "action",
+            "rarity": "Rare",
+            "amber": 1,
+            "armor": null,
+            "power": null,
+            "text": "Play: Choose one: \n• Destroy an artifact.\n• Destroy an upgrade.\n• Destroy a creature with armor.\nThis card has been translated from Polish and is subject to change.",
+            "locale": {
+                "en": {
+                    "name": "Corrode"
+                }
+            }
+        },
+        {
+            "id": "cup-splashed",
+            "name": "Cup Splashed ?",
+            "number": "319",
+            "image": "Dt-319.png",
+            "house": "unfathomable",
+            "keywords": [],
+            "traits": [],
+            "type": "action",
+            "rarity": "Rare",
+            "amber": 1,
+            "armor": null,
+            "power": null,
+            "text": "Play: Stun each cyborg creature and each robot creature.\nThis card has been translated from Chinese and is subject to change.",
+            "locale": {
+                "en": {
+                    "name": "Cup Splashed ?"
+                }
+            }
+        },
+        {
+            "id": "abyssal-priest",
+            "name": "Abyssal Priest ?",
+            "number": "320",
+            "image": "Dt-320.png",
+            "house": "unfathomable",
+            "keywords": [],
+            "traits": [
+                "aquan"
+            ],
+            "type": "creature",
+            "rarity": "Rare",
+            "amber": 0,
+            "armor": 0,
+            "power": 5,
+            "text": "After you play an Aquan creature, exhaust an enemy creature.\nThis card has been translated from Chinese and is subject to change.",
+            "locale": {
+                "en": {
+                    "name": "Abyssal Priest ?"
+                }
+            }
+        },
+        {
+            "id": "card-321",
+            "name": "???",
+            "number": "321",
+            "image": "Dt-321.jpg",
+            "house": "unfathomable",
+            "keywords": [],
+            "traits": [
+                "item"
+            ],
+            "type": "artifact",
+            "rarity": "Rare",
+            "amber": 0,
+            "armor": null,
+            "power": null,
+            "text": "After an enemy creature reaps, put a counter on (this artifact). When there are 6 or more counters, move this card to a flank of your battleline. While in the battleline, it is a creature with 100 power and 100 armor. \nThis card has been translated from Chinese and is subject to change.",
+            "locale": {
+                "en": {
+                    "name": "???"
+                }
+            }
+        },
+        {
+            "id": "card-322",
+            "name": "??",
+            "number": "322",
+            "image": "Dt-322.png",
+            "house": "unfathomable",
+            "keywords": [],
+            "traits": [],
+            "type": "action",
+            "rarity": "Rare",
+            "amber": 1,
+            "armor": null,
+            "power": null,
+            "text": "Play: For the remainder of the turn, after you play another card, exhaust a creature.",
+            "locale": {
+                "en": {
+                    "name": "??"
+                }
+            }
+        },
+        {
+            "id": "card-323",
+            "name": "??",
+            "number": "323",
+            "image": "Dt-323.png",
+            "house": "unfathomable",
+            "keywords": [],
+            "traits": [
+                "beast"
+            ],
+            "type": "creature",
+            "rarity": "Rare",
+            "amber": 0,
+            "armor": 0,
+            "power": 10,
+            "text": "This creature deals no damage when fighting.\n\nPlay: Purge each other creature. If this creature leaves play, return to play all creatures purged this way.",
+            "locale": {
+                "en": {
+                    "name": "??"
+                }
+            }
+        },
+        {
             "id": "kiligog-s-trench",
             "name": "Kiligog's Trench",
             "number": "324",
@@ -1357,8 +4353,30 @@
             }
         },
         {
-            "id": "portal-worker-",
-            "name": "Portal Worker ??",
+            "id": "llack-gaboon",
+            "name": "Llack Gaboon",
+            "number": "325",
+            "image": "Dt-325.png",
+            "house": "unfathomable",
+            "keywords": [],
+            "traits": [
+                "aquan"
+            ],
+            "type": "creature",
+            "rarity": "Rare",
+            "amber": 0,
+            "armor": 0,
+            "power": 3,
+            "text": "Llack Gaboon gets +1 power for each other exhausted creature. If there are 3 or more other exhausted creatures, Llack Gaboon gains skirmish and hazardous 5.",
+            "locale": {
+                "en": {
+                    "name": "Llack Gaboon"
+                }
+            }
+        },
+        {
+            "id": "portal-seller",
+            "name": "Portal Seller ??",
             "number": "326",
             "image": "Dt-326.png",
             "house": "unfathomable",
@@ -1374,18 +4392,42 @@
             "text": " While the tide is high, your opponent's keys cost +4A.\nThis card has been translated from Polish and is subject to change.",
             "locale": {
                 "en": {
-                    "name": "Portal Worker ??"
+                    "name": "Portal Seller ??"
                 }
             }
         },
         {
-            "id": "sobogg-s-thing-",
+            "id": "card-327",
+            "name": "??",
+            "number": "327",
+            "image": "Dt-327.png",
+            "house": "unfathomable",
+            "keywords": [],
+            "traits": [
+                "beast"
+            ],
+            "type": "creature",
+            "rarity": "Rare",
+            "amber": 0,
+            "armor": null,
+            "power": 5,
+            "text": "Reap: Exhaust each enemy artifact.",
+            "locale": {
+                "en": {
+                    "name": "??"
+                }
+            }
+        },
+        {
+            "id": "sobogg-s-thing",
             "name": "Sobogg's Thing ?",
             "number": "328",
             "image": "Dt-328.jpg",
             "house": "unfathomable",
             "keywords": [],
-            "traits": [],
+            "traits": [
+                "item"
+            ],
             "type": "artifact",
             "rarity": "Rare",
             "amber": 1,
@@ -1421,6 +4463,48 @@
             }
         },
         {
+            "id": "sea-monster",
+            "name": "Sea Monster ?",
+            "number": "330",
+            "image": "Dt-330.png",
+            "house": "unfathomable",
+            "keywords": [],
+            "traits": [
+                "beast"
+            ],
+            "type": "creature",
+            "rarity": "Rare",
+            "amber": 0,
+            "armor": 0,
+            "power": 12,
+            "text": "Play: Exhaust 2 friendly Unfathomable creatures. If you do not, destroy Sea Monster.\nFight/Reap: Deal 2D to a creature with 2D splash.\nThis card has been translated from Chinese and is subject to change.",
+            "locale": {
+                "en": {
+                    "name": "Sea Monster ?"
+                }
+            }
+        },
+        {
+            "id": "card-331",
+            "name": "??",
+            "number": "331",
+            "image": "Dt-331.png",
+            "house": "unfathomable",
+            "keywords": [],
+            "traits": [],
+            "type": "action",
+            "rarity": "Rare",
+            "amber": 1,
+            "armor": null,
+            "power": null,
+            "text": "Play: Discard the top 10 cards of your opponent's deck.",
+            "locale": {
+                "en": {
+                    "name": "??"
+                }
+            }
+        },
+        {
             "id": "the-chosen-one",
             "name": "The Chosen One",
             "number": "332",
@@ -1443,10 +4527,96 @@
             }
         },
         {
+            "id": "the-murmur",
+            "name": "The Murmur?",
+            "number": "333",
+            "image": "Dt-333.png",
+            "house": "unfathomable",
+            "keywords": [],
+            "traits": [
+                "ship"
+            ],
+            "type": "artifact",
+            "rarity": "Rare",
+            "amber": 0,
+            "armor": null,
+            "power": null,
+            "text": "Action: Exhaust a friendly Unfathomable creature. If you do exhaust up to 3 creatures or artifacts. \nThis card has been translated from Chinese and is subject to change.",
+            "locale": {
+                "en": {
+                    "name": "The Murmur?"
+                }
+            }
+        },
+        {
+            "id": "card-334",
+            "name": "?",
+            "number": "334",
+            "image": "Dt-334.png",
+            "house": "unfathomable",
+            "keywords": [],
+            "traits": [
+                "aquan"
+            ],
+            "type": "creature",
+            "rarity": "Rare",
+            "amber": 0,
+            "armor": 1,
+            "power": 5,
+            "text": " While the tide is high, friendly creatures gain +1 power and +1 armor.\n While the tide is low, enemy creatures gain +1 power and +1 armor.\nThis card has been translated from Polish and is subject to change.",
+            "locale": {
+                "en": {
+                    "name": "?"
+                }
+            }
+        },
+        {
+            "id": "whirlpool",
+            "name": "Whirlpool",
+            "number": "335",
+            "image": "Dt-335.png",
+            "house": "unfathomable",
+            "keywords": [],
+            "traits": [
+                "location"
+            ],
+            "type": "artifact",
+            "rarity": "Rare",
+            "amber": 0,
+            "armor": null,
+            "power": null,
+            "text": "At the end of each player's turn, move the active player's right most creature to its opponent's left flank.\nThis card has been translated from Chinese and is subject to change.",
+            "locale": {
+                "en": {
+                    "name": "Whirlpool"
+                }
+            }
+        },
+        {
+            "id": "card-336",
+            "name": "??",
+            "number": "336",
+            "image": "Dt-336.png",
+            "house": "unfathomable",
+            "keywords": [],
+            "traits": [],
+            "type": "action",
+            "rarity": "Uncommon",
+            "amber": 1,
+            "armor": null,
+            "power": null,
+            "text": "Play: Return a creature to its owner's hand. If the tide is high, return 4 creatures to their owner's hands instead.\nThis card has been translated from Chinese and is subject to change.",
+            "locale": {
+                "en": {
+                    "name": "??"
+                }
+            }
+        },
+        {
             "id": "abyssal-zealot",
             "name": "Abyssal Zealot",
             "number": "337",
-            "image": "AbyssalZealot.png",
+            "image": "Dt-337.png",
             "house": "unfathomable",
             "keywords": [],
             "traits": [
@@ -1465,24 +4635,68 @@
             }
         },
         {
-            "id": "echo-pearl",
-            "name": "Echo Pearl",
-            "number": "339",
-            "image": "Echo_pearl.png",
+            "id": "allusions-of-grandeur",
+            "name": "Allusions of Grandeur",
+            "number": "338",
+            "image": "Dt-338.png",
             "house": "unfathomable",
             "keywords": [],
-            "traits": [
-                "??"
-            ],
-            "type": "artifact",
-            "rarity": "??",
+            "traits": [],
+            "type": "action",
+            "rarity": "Uncommon",
             "amber": 1,
             "armor": null,
             "power": null,
-            "text": "This card is incomplete and subject to change.",
+            "text": "Play: Choose a house on your opponent's identity card. If your opponent does not choose that house as their active house on their next turn, gain 3A.",
+            "locale": {
+                "en": {
+                    "name": "Allusions of Grandeur"
+                }
+            }
+        },
+        {
+            "id": "echo-pearl",
+            "name": "Echo Pearl",
+            "number": "339",
+            "image": "Dt-339.png",
+            "house": "unfathomable",
+            "keywords": [],
+            "traits": [
+                "item"
+            ],
+            "type": "artifact",
+            "rarity": "Uncommon",
+            "amber": 1,
+            "armor": null,
+            "power": null,
+            "text": "Omni: Destroy Echo Pearl. Exhaust, stun, and enrage a creature.",
             "locale": {
                 "en": {
                     "name": "Echo Pearl"
+                }
+            }
+        },
+        {
+            "id": "card-340",
+            "name": "???",
+            "number": "340",
+            "image": "Dt-340.png",
+            "house": "unfathomable",
+            "keywords": [
+                "poison"
+            ],
+            "traits": [
+                "aquan"
+            ],
+            "type": "creature",
+            "rarity": "Uncommon",
+            "amber": 0,
+            "armor": 0,
+            "power": 1,
+            "text": "Poison.\nYour opponent draws one fewer card during their draw card phase.\n\nThis card has been translated from Chinese and is subject to change.",
+            "locale": {
+                "en": {
+                    "name": "???"
                 }
             }
         },
@@ -1533,6 +4747,30 @@
             }
         },
         {
+            "id": "jellyfish",
+            "name": "Jellyfish ?",
+            "number": "343",
+            "image": "Dt-343.png",
+            "house": "unfathomable",
+            "keywords": [
+                "hazardous:4"
+            ],
+            "traits": [
+                "beast"
+            ],
+            "type": "creature",
+            "rarity": "Uncommon",
+            "amber": 0,
+            "armor": 0,
+            "power": 3,
+            "text": "Hazardous 4.\n Destroyed: If the tide is high, archive Jellyfish (?).\nThis card has been translated from Chinese and is subject to change.",
+            "locale": {
+                "en": {
+                    "name": "Jellyfish ?"
+                }
+            }
+        },
+        {
             "id": "sleep-with-the-fishes",
             "name": "Sleep with the Fishes",
             "number": "344",
@@ -1553,10 +4791,74 @@
             }
         },
         {
+            "id": "sparkfist",
+            "name": "Sparkfist",
+            "number": "345",
+            "image": "Dt-345.png",
+            "house": "unfathomable",
+            "keywords": [
+                "skirmish"
+            ],
+            "traits": [
+                "aquan"
+            ],
+            "type": "creature",
+            "rarity": "Uncommon",
+            "amber": 0,
+            "armor": 0,
+            "power": 2,
+            "text": "Skirmish.\nFight: Stun and exhaust the creature Sparkfist attacks.\n\nThis card has been translated from Chinese and is subject to change.",
+            "locale": {
+                "en": {
+                    "name": "Sparkfist"
+                }
+            }
+        },
+        {
+            "id": "thundertow",
+            "name": "Thundertow",
+            "number": "346",
+            "image": "Dt-346.png",
+            "house": "unfathomable",
+            "keywords": [],
+            "traits": [],
+            "type": "action",
+            "rarity": "Uncommon",
+            "amber": 1,
+            "armor": null,
+            "power": null,
+            "text": "Play: Exhaust 2 creatures. Deal 2D to each exhausted creature.",
+            "locale": {
+                "en": {
+                    "name": "Thundertow"
+                }
+            }
+        },
+        {
+            "id": "tidal-wave",
+            "name": "Tidal Wave",
+            "number": "347",
+            "image": "Dt-347.png",
+            "house": "unfathomable",
+            "keywords": [],
+            "traits": [],
+            "type": "action",
+            "rarity": "Uncommon",
+            "amber": 1,
+            "armor": null,
+            "power": null,
+            "text": "Play: If the tide is high, destroy a creature and each of its neighbors. Your opponent raises the tide.",
+            "locale": {
+                "en": {
+                    "name": "Tidal Wave"
+                }
+            }
+        },
+        {
             "id": "tomwa-of-the-glow",
             "name": "Tomwa of the Glow",
             "number": "348",
-            "image": "Tomwa_of_the_Glow.png",
+            "image": "Dt-348.png",
             "house": "unfathomable",
             "keywords": [],
             "traits": [
@@ -1571,6 +4873,66 @@
             "locale": {
                 "en": {
                     "name": "Tomwa of the Glow"
+                }
+            }
+        },
+        {
+            "id": "under-pressure",
+            "name": "Under Pressure",
+            "number": "349",
+            "image": "Dt-349.png",
+            "house": "unfathomable",
+            "keywords": [],
+            "traits": [],
+            "type": "upgrade",
+            "rarity": "Uncommon",
+            "amber": 1,
+            "armor": null,
+            "power": null,
+            "text": "This creature cannot ready.\nThis card has been translated from Chinese and is subject to change.",
+            "locale": {
+                "en": {
+                    "name": "Under Pressure"
+                }
+            }
+        },
+        {
+            "id": "anger-or-destruction",
+            "name": "Anger or Destruction?",
+            "number": "351",
+            "image": "Dt-351.png",
+            "house": "unfathomable",
+            "keywords": [],
+            "traits": [],
+            "type": "action",
+            "rarity": "Uncommon",
+            "amber": 0,
+            "armor": null,
+            "power": null,
+            "text": "Choose one: \n\n- Destroy a flank creature.\n\n- Return two creatures to their owners' hands.\n\nThis card has been translated from Chinese and is subject to change.",
+            "locale": {
+                "en": {
+                    "name": "Anger or Destruction?"
+                }
+            }
+        },
+        {
+            "id": "brain-drain",
+            "name": "Brain Drain",
+            "number": "352",
+            "image": "Dt-352.png",
+            "house": "unfathomable",
+            "keywords": [],
+            "traits": [],
+            "type": "action",
+            "rarity": "Common",
+            "amber": 1,
+            "armor": null,
+            "power": null,
+            "text": "Play: Look at your opponent's hand. Choose one card from their hand and put it on top of their deck.\nThis card is translated from Chinese and is subject to change.",
+            "locale": {
+                "en": {
+                    "name": "Brain Drain"
                 }
             }
         },
@@ -1592,7 +4954,93 @@
             "text": "Play: Put an enemy creature on top of its owner's deck.",
             "locale": {
                 "en": {
-                    "name": "&quot;Bubbles&quot;"
+                    "name": "\"Bubbles\""
+                }
+            }
+        },
+        {
+            "id": "call-of-the-void",
+            "name": "Call of the Void",
+            "number": "354",
+            "image": "Dt-354.png",
+            "house": "unfathomable",
+            "keywords": [],
+            "traits": [],
+            "type": "action",
+            "rarity": "Common",
+            "amber": 1,
+            "armor": null,
+            "power": null,
+            "text": "Play: Exhaust a creature. If it was already exhausted, destroy it instead and its controller loses 1A.",
+            "locale": {
+                "en": {
+                    "name": "Call of the Void"
+                }
+            }
+        },
+        {
+            "id": "flamegill-enforcer",
+            "name": "Flamegill Enforcer",
+            "number": "355",
+            "image": "Dt-355.png",
+            "house": "unfathomable",
+            "keywords": [],
+            "traits": [
+                "aquan"
+            ],
+            "type": "creature",
+            "rarity": "Common",
+            "amber": 0,
+            "armor": 0,
+            "power": 6,
+            "text": " After your opponent raises the tide, enrage Flamegill Enforcer.\nAction: Capture 3A.\nThis card has been translated from Chinese and is subject to change.",
+            "locale": {
+                "en": {
+                    "name": "Flamegill Enforcer"
+                }
+            }
+        },
+        {
+            "id": "frigorific-rod",
+            "name": "Frigorific Rod",
+            "number": "356",
+            "image": "Dt-356.png",
+            "house": "unfathomable",
+            "keywords": [],
+            "traits": [
+                "item"
+            ],
+            "type": "artifact",
+            "rarity": "Common",
+            "amber": 1,
+            "armor": null,
+            "power": null,
+            "text": "Action: Exhaust a creature or artifact.\nThis card has been translated from Chinese and is subject to change.",
+            "locale": {
+                "en": {
+                    "name": "Frigorific Rod"
+                }
+            }
+        },
+        {
+            "id": "giltspine-netcaster",
+            "name": "Giltspine Netcaster",
+            "number": "357",
+            "image": "Dt-357.png",
+            "house": "unfathomable",
+            "keywords": [],
+            "traits": [
+                "aquan"
+            ],
+            "type": "creature",
+            "rarity": "Common",
+            "amber": 0,
+            "armor": 0,
+            "power": 2,
+            "text": "Enhance .\nReap: Exhaust a creature.",
+            "locale": {
+                "en": {
+                    "name": "Giltspine Netcaster"
                 }
             }
         },
@@ -1619,6 +5067,50 @@
             }
         },
         {
+            "id": "horrid-synan",
+            "name": "Horrid Synan",
+            "number": "359",
+            "image": "Dt-359.png",
+            "house": "unfathomable",
+            "keywords": [
+                "poison"
+            ],
+            "traits": [
+                "beast"
+            ],
+            "type": "creature",
+            "rarity": "Common",
+            "amber": 0,
+            "armor": 0,
+            "power": 4,
+            "text": "Poison.",
+            "locale": {
+                "en": {
+                    "name": "Horrid Synan"
+                }
+            }
+        },
+        {
+            "id": "mælstrom",
+            "name": "Mælstrom",
+            "number": "360",
+            "image": "Dt-360.png",
+            "house": "unfathomable",
+            "keywords": [],
+            "traits": [],
+            "type": "action",
+            "rarity": "Common",
+            "amber": 0,
+            "armor": null,
+            "power": null,
+            "text": "Play: Put each creature on top of its owner's deck in a random order. Gain 2 chains.",
+            "locale": {
+                "en": {
+                    "name": "Mælstrom"
+                }
+            }
+        },
+        {
             "id": "photic-raider",
             "name": "Photic Raider",
             "number": "361",
@@ -1637,6 +5129,46 @@
             "locale": {
                 "en": {
                     "name": "Photic Raider"
+                }
+            }
+        },
+        {
+            "id": "pour-tal",
+            "name": "Pour-tal",
+            "number": "362",
+            "image": "Dt-362.png",
+            "house": "unfathomable",
+            "keywords": [],
+            "traits": [],
+            "type": "action",
+            "rarity": "Common",
+            "amber": 1,
+            "armor": null,
+            "power": null,
+            "text": " Play: If the tide is high, archive Pour-tal. Otherwise, raise the tide.",
+            "locale": {
+                "en": {
+                    "name": "Pour-tal"
+                }
+            }
+        },
+        {
+            "id": "rakuzel-s-chant",
+            "name": "Rakuzel's Chant",
+            "number": "363",
+            "image": "Dt-363.png",
+            "house": "unfathomable",
+            "keywords": [],
+            "traits": [],
+            "type": "action",
+            "rarity": "Common",
+            "amber": 1,
+            "armor": null,
+            "power": null,
+            "text": " Play: Exhaust a creature. If the tide is high, exhaust each creature instead.",
+            "locale": {
+                "en": {
+                    "name": "Rakuzel's Chant"
                 }
             }
         },
@@ -1705,10 +5237,32 @@
             }
         },
         {
+            "id": "wikolia",
+            "name": "Wikolia",
+            "number": "367",
+            "image": "Dt-367.png",
+            "house": "unfathomable",
+            "keywords": [],
+            "traits": [
+                "beast"
+            ],
+            "type": "creature",
+            "rarity": "Common",
+            "amber": 0,
+            "armor": 0,
+            "power": 3,
+            "text": "Reap: Keys cost +2A during your opponent's next turn.",
+            "locale": {
+                "en": {
+                    "name": "Wikolia"
+                }
+            }
+        },
+        {
             "id": "æmberfin-shark-evil-twin",
             "name": "Æmberfin Shark (Evil Twin)",
-            "number": "367",
-            "image": "Aemberfin_Shark_(Evil_Twin).png",
+            "number": "368",
+            "image": "Dt-368.png",
             "house": "untamed",
             "keywords": [],
             "traits": [
@@ -1717,12 +5271,12 @@
             "type": "creature",
             "rarity": "Evil Twin",
             "amber": 0,
-            "armor": null,
-            "power": null,
-            "text": "At the end of your turn, each player [...]. Give Æmberfin Shark [...] counter for each A lost this way.\nThis card is incomplete and subject to change.",
+            "armor": 0,
+            "power": 3,
+            "text": "At the end of your turn, each player loses 1A. For each A lost this way, give Æmberfin Shark a +1 power counter.\nThis card has been translated from Chinese and is subject to change.",
             "locale": {
                 "en": {
-                    "name": "Æmberfin Shark"
+                    "name": "Æmberfin Shark (Evil Twin)"
                 }
             }
         },
@@ -1747,7 +5301,29 @@
             "text": "Elusive.\n If the tide is high, after you play another creature, your opponent loses 1A.\nThis card is translated from Portuguese and is subject to change.",
             "locale": {
                 "en": {
-                    "name": "Chelonia"
+                    "name": "Chelonia (Evil Twin)"
+                }
+            }
+        },
+        {
+            "id": "mookling-evil-twin",
+            "name": "Mookling (Evil Twin)",
+            "number": "370",
+            "image": "Dt-370.png",
+            "house": "untamed",
+            "keywords": [],
+            "traits": [
+                "beast"
+            ],
+            "type": "creature",
+            "rarity": "Evil Twin",
+            "amber": 0,
+            "armor": 0,
+            "power": 2,
+            "text": "After your opponent forges a key, for each A spent to forge the key, give Mookling a +1 power counter.",
+            "locale": {
+                "en": {
+                    "name": "Mookling (Evil Twin)"
                 }
             }
         },
@@ -1770,7 +5346,140 @@
             "text": " Reap: Discard the bottom card of your opponent’s deck, or the bottom 3 cards instead if the tide is high. Destroy a creature that shares a house with 1 of the discarded cards.",
             "locale": {
                 "en": {
-                    "name": "Ol’ Paddy"
+                    "name": "Ol’ Paddy (Evil Twin)"
+                }
+            }
+        },
+        {
+            "id": "mushroom-pig-evil-twin",
+            "name": "Mushroom Pig? (Evil Twin)",
+            "number": "372",
+            "image": "Dt-372.png",
+            "house": "untamed",
+            "keywords": [],
+            "traits": [
+                "beast",
+                "mushroom"
+            ],
+            "type": "creature",
+            "rarity": "Evil Twin",
+            "amber": 0,
+            "armor": 0,
+            "power": 4,
+            "text": "Play: Move all +1 power counters in play onto Mushroom Pig (?).\nReap: You may remove all +1 power counters from Mushroom Pig (?). For each counter removed this way deal 1D to each other creature.\nThis card has been translated from Polish and is subject to change.",
+            "locale": {
+                "en": {
+                    "name": "Mushroom Pig? (Evil Twin)"
+                }
+            }
+        },
+        {
+            "id": "witch-of-the-dawn-evil-twin",
+            "name": "Witch of the Dawn (Evil Twin)",
+            "number": "373",
+            "image": "Dt-373.png",
+            "house": "untamed",
+            "keywords": [],
+            "traits": [
+                "witch"
+            ],
+            "type": "creature",
+            "rarity": "Evil Twin",
+            "amber": 0,
+            "armor": 0,
+            "power": 3,
+            "text": "Play: Destroy another friendly creature. If you do, play a different creature from your discard pile. Ready and use that creature.\nThis card has been translated from Chinese and is subject to change.",
+            "locale": {
+                "en": {
+                    "name": "Witch of the Dawn (Evil Twin)"
+                }
+            }
+        },
+        {
+            "id": "youngest-bear-evil-twin",
+            "name": "Youngest Bear (Evil Twin)",
+            "number": "374",
+            "image": "Dt-374.png",
+            "house": "untamed",
+            "keywords": [],
+            "traits": [],
+            "type": "creature",
+            "rarity": "Evil Twin",
+            "amber": 0,
+            "armor": 0,
+            "power": 2,
+            "text": "Reap: Use a neighboring creature to fight.\nThis card has been translated from Chinese and is subject to change.",
+            "locale": {
+                "en": {
+                    "name": "Youngest Bear (Evil Twin)"
+                }
+            }
+        },
+        {
+            "id": "larva",
+            "name": "Larva?",
+            "number": "375",
+            "image": "Dt-375.png",
+            "house": "untamed",
+            "keywords": [
+                "hazardous:6"
+            ],
+            "traits": [
+                "insect"
+            ],
+            "type": "creature",
+            "rarity": "Rare",
+            "amber": 0,
+            "armor": 0,
+            "power": 1,
+            "text": "Hazardous 6.\nAction: Return a Cocoon from your discard pile to your hand.\n\nThis card has been translated from Polish and is subject to change.",
+            "locale": {
+                "en": {
+                    "name": "Larva?"
+                }
+            }
+        },
+        {
+            "id": "cocoon",
+            "name": "Cocoon?",
+            "number": "376",
+            "image": "Dt-376.png",
+            "house": "untamed",
+            "keywords": [],
+            "traits": [
+                "insect"
+            ],
+            "type": "creature",
+            "rarity": "Special",
+            "amber": 1,
+            "armor": 6,
+            "power": 2,
+            "text": "Play: Destroy a friendly Larva. If you do not, destroy Cocoon.\nAction: Return a Butterfly from your discard pile to your hand.\n\nThis card has been translated from Polish and is subject to change.",
+            "locale": {
+                "en": {
+                    "name": "Cocoon?"
+                }
+            }
+        },
+        {
+            "id": "butterfly",
+            "name": "Butterfly?",
+            "number": "377",
+            "image": "Dt-377.png",
+            "house": "untamed",
+            "keywords": [],
+            "traits": [
+                "insect"
+            ],
+            "type": "creature",
+            "rarity": "Special",
+            "amber": 1,
+            "armor": 0,
+            "power": 9,
+            "text": "Play: Destroy a friendly Cocoon. If you do not, destroy Butterfly.\nFight/Reap: Fully heal Butterfly. Gain 1A.\n\nThis card has been translated from Polish and is subject to change.",
+            "locale": {
+                "en": {
+                    "name": "Butterfly?"
                 }
             }
         },
@@ -1793,6 +5502,97 @@
             "locale": {
                 "en": {
                     "name": "Æmberfin Shark"
+                }
+            }
+        },
+        {
+            "id": "dredging-druid",
+            "name": "Dredging Druid ?",
+            "number": "382",
+            "image": "Dt-382.png",
+            "house": "untamed",
+            "keywords": [
+                "elusive"
+            ],
+            "traits": [
+                "human",
+                "witch"
+            ],
+            "type": "creature",
+            "rarity": "Rare",
+            "amber": 0,
+            "armor": 0,
+            "power": 2,
+            "text": "Elusive.\n Reap: If the tide is high, put up to 3 creatures from your discard pile on top of your deck.\nThis card has been translated from Chinese and is subject to change.",
+            "locale": {
+                "en": {
+                    "name": "Dredging Druid ?"
+                }
+            }
+        },
+        {
+            "id": "pestilence-forest",
+            "name": "Pestilence Forest?",
+            "number": "387",
+            "image": "Dt-387.png",
+            "house": "untamed",
+            "keywords": [],
+            "traits": [
+                "location"
+            ],
+            "type": "artifact",
+            "rarity": "Rare",
+            "amber": 1,
+            "armor": null,
+            "power": null,
+            "text": "Each creature enters play enraged.\nThis card has been translated from Chinese and is subject to change.",
+            "locale": {
+                "en": {
+                    "name": "Pestilence Forest?"
+                }
+            }
+        },
+        {
+            "id": "primal-relic",
+            "name": "Primal Relic ?",
+            "number": "389",
+            "image": "Dt-389.png",
+            "house": "untamed",
+            "keywords": [],
+            "traits": [
+                "treasure"
+            ],
+            "type": "artifact",
+            "rarity": "Rare",
+            "amber": 1,
+            "armor": null,
+            "power": null,
+            "text": "Play: Put 4A from the common supply onto Primal Relic (?). Put a +1 power counter on 3 creatures.\n At the start of each turn, if a player controls creatures with combined power greater than or equal to 20, move all A on Primal Relic to that player's pool.",
+            "locale": {
+                "en": {
+                    "name": "Primal Relic ?"
+                }
+            }
+        },
+        {
+            "id": "ritual-of-life",
+            "name": "Ritual of Life?",
+            "number": "391",
+            "image": "Dt-391.png",
+            "house": "untamed",
+            "keywords": [],
+            "traits": [
+                "power"
+            ],
+            "type": "artifact",
+            "rarity": "Rare",
+            "amber": 0,
+            "armor": null,
+            "power": null,
+            "text": "Action: Destroy a friendly creature. If you do, return a different creature from your discard pile to your hand.\nThis card is translated from Chinese and is subject to change.",
+            "locale": {
+                "en": {
+                    "name": "Ritual of Life?"
                 }
             }
         },
@@ -1820,6 +5620,66 @@
             }
         },
         {
+            "id": "washed-away",
+            "name": "Washed Away?",
+            "number": "394",
+            "image": "Dt-394.png",
+            "house": "untamed",
+            "keywords": [],
+            "traits": [],
+            "type": "action",
+            "rarity": "Rare",
+            "amber": 1,
+            "armor": null,
+            "power": null,
+            "text": " Play: If the tide is high, destroy each artifact. Otherwise, raise the tide.\nThis card has been translated from Polish and is subject to change.",
+            "locale": {
+                "en": {
+                    "name": "Washed Away?"
+                }
+            }
+        },
+        {
+            "id": "æmbermancy",
+            "name": "Æmbermancy",
+            "number": "397",
+            "image": "Dt-397.png",
+            "house": "untamed",
+            "keywords": [],
+            "traits": [],
+            "type": "action",
+            "rarity": "Uncommon",
+            "amber": 1,
+            "armor": null,
+            "power": null,
+            "text": "Play: Remove up to 3 +1 power counters from a creature. Gain 1A for each power counter removed this way.",
+            "locale": {
+                "en": {
+                    "name": "Æmbermancy"
+                }
+            }
+        },
+        {
+            "id": "beach-day",
+            "name": "Beach Day",
+            "number": "398",
+            "image": "Dt-398.png",
+            "house": "untamed",
+            "keywords": [],
+            "traits": [],
+            "type": "action",
+            "rarity": "Uncommon",
+            "amber": 1,
+            "armor": null,
+            "power": null,
+            "text": "Play: Return a creature to its owner's hand. If the tide is high, gain 1A.",
+            "locale": {
+                "en": {
+                    "name": "Beach Day"
+                }
+            }
+        },
+        {
             "id": "cross-porpoises",
             "name": "Cross Porpoises",
             "number": "400",
@@ -1836,6 +5696,26 @@
             "locale": {
                 "en": {
                     "name": "Cross Porpoises"
+                }
+            }
+        },
+        {
+            "id": "card-403",
+            "name": "?",
+            "number": "403",
+            "image": "Dt-403.png",
+            "house": "untamed",
+            "keywords": [],
+            "traits": [],
+            "type": "action",
+            "rarity": "Uncommon",
+            "amber": 1,
+            "armor": null,
+            "power": null,
+            "text": "Play: Put a +1 power counter on a creature. Then put a +1 power counter on each creature that has a +1 power counter on it.\nThis card has been translated from Polish and is subject to change.",
+            "locale": {
+                "en": {
+                    "name": "?"
                 }
             }
         },
@@ -1863,8 +5743,200 @@
             }
         },
         {
-            "id": "murmookling-",
-            "name": "Murmookling ??",
+            "id": "mushroom-pig",
+            "name": "Mushroom Pig?",
+            "number": "410",
+            "image": "Dt-410.png",
+            "house": "untamed",
+            "keywords": [],
+            "traits": [
+                "beast",
+                "mushroom"
+            ],
+            "type": "creature",
+            "rarity": "Uncommon",
+            "amber": 0,
+            "armor": 0,
+            "power": 4,
+            "text": "Reap: Give this creature a +1 power counter. You may remove all +1 power counters from this creature. If you do, deal 1D to each other creature for each +1 power counter removed this way.",
+            "locale": {
+                "en": {
+                    "name": "Mushroom Pig?"
+                }
+            }
+        },
+        {
+            "id": "thin-the-herd",
+            "name": "Thin the Herd",
+            "number": "411",
+            "image": "Dt-411.png",
+            "house": "untamed",
+            "keywords": [],
+            "traits": [],
+            "type": "action",
+            "rarity": "Uncommon",
+            "amber": 1,
+            "armor": null,
+            "power": null,
+            "text": "Play: Shuffle the 4 least powerful creatures into their owners' decks.",
+            "locale": {
+                "en": {
+                    "name": "Thin the Herd"
+                }
+            }
+        },
+        {
+            "id": "waste-not",
+            "name": "Waste Not",
+            "number": "412",
+            "image": "Dt-412.png",
+            "house": "untamed",
+            "keywords": [],
+            "traits": [],
+            "type": "action",
+            "rarity": "Uncommon",
+            "amber": 1,
+            "armor": null,
+            "power": null,
+            "text": "Play: Destroy a friendly creature. Draw cards equal to half its power rounded up.",
+            "locale": {
+                "en": {
+                    "name": "Waste Not"
+                }
+            }
+        },
+        {
+            "id": "all-tide-up",
+            "name": "All Tide Up",
+            "number": "413",
+            "image": "Dt-413.png",
+            "house": "untamed",
+            "keywords": [],
+            "traits": [],
+            "type": "action",
+            "rarity": "Common",
+            "amber": 1,
+            "armor": null,
+            "power": null,
+            "text": " Play: If the tide is high, gain 1A. Otherwise, raise the tide.\nThis card has been translated from Chinese and is subject to change.",
+            "locale": {
+                "en": {
+                    "name": "All Tide Up"
+                }
+            }
+        },
+        {
+            "id": "assert-dominance",
+            "name": "Assert Dominance",
+            "number": "414",
+            "image": "Dt-414.png",
+            "house": "untamed",
+            "keywords": [],
+            "traits": [],
+            "type": "action",
+            "rarity": "Common",
+            "amber": 0,
+            "armor": null,
+            "power": null,
+            "text": "Play: For the remainder of the turn, a friendly creature gains Skirmish. Ready and fight with that creature.",
+            "locale": {
+                "en": {
+                    "name": "Assert Dominance"
+                }
+            }
+        },
+        {
+            "id": "chelonia",
+            "name": "Chelonia",
+            "number": "415",
+            "image": "Dt-415.png",
+            "house": "untamed",
+            "keywords": [
+                "elusive"
+            ],
+            "traits": [
+                "beast",
+                "witch"
+            ],
+            "type": "creature",
+            "rarity": "Common",
+            "amber": 0,
+            "armor": 0,
+            "power": 2,
+            "text": "Elusive.\nWhile the tide is high, after you play another creature, gain 1A.",
+            "locale": {
+                "en": {
+                    "name": "Chelonia"
+                }
+            }
+        },
+        {
+            "id": "deepwater-gruen",
+            "name": "Deepwater Gruen",
+            "number": "416",
+            "image": "Dt-416.png",
+            "house": "untamed",
+            "keywords": [],
+            "traits": [
+                "beast"
+            ],
+            "type": "creature",
+            "rarity": "Common",
+            "amber": 2,
+            "armor": 0,
+            "power": 5,
+            "text": " Play/Reap: If the tide is low, your opponent gains 1A.\nThis card has been translated from Chinese and is subject to change.",
+            "locale": {
+                "en": {
+                    "name": "Deepwater Gruen"
+                }
+            }
+        },
+        {
+            "id": "internal-strife",
+            "name": "Internal Strife?",
+            "number": "418",
+            "image": "Dt-418.png",
+            "house": "untamed",
+            "keywords": [],
+            "traits": [],
+            "type": "action",
+            "rarity": "Common",
+            "amber": 0,
+            "armor": null,
+            "power": null,
+            "text": "Play: Each creature deals damage to its right neighbor equal to its power.",
+            "locale": {
+                "en": {
+                    "name": "Internal Strife?"
+                }
+            }
+        },
+        {
+            "id": "mollymawk",
+            "name": "Mollymawk",
+            "number": "420",
+            "image": "Dt-420.png",
+            "house": "untamed",
+            "keywords": [],
+            "traits": [
+                "??"
+            ],
+            "type": "creature",
+            "rarity": "Common",
+            "amber": 0,
+            "armor": 0,
+            "power": 5,
+            "text": "Play: Destroy an artifact.",
+            "locale": {
+                "en": {
+                    "name": "Mollymawk"
+                }
+            }
+        },
+        {
+            "id": "mookling",
+            "name": "Mookling",
             "number": "421",
             "image": "Dt-421.png",
             "house": "untamed",
@@ -1877,10 +5949,117 @@
             "amber": 0,
             "armor": 0,
             "power": 2,
-            "text": "Your opponent's keys cost +XA, where X is Murmookling's power.\nThis card has been translated from Polish and is subject to change.",
+            "text": "Your opponent's keys cost +XA, where X is Mookling's power.\nThis card has been translated from Polish and is subject to change.",
             "locale": {
                 "en": {
-                    "name": "Murmookling ??"
+                    "name": "Mookling"
+                }
+            }
+        },
+        {
+            "id": "myliobe",
+            "name": "Myliobe",
+            "number": "422",
+            "image": "Dt-422.png",
+            "house": "untamed",
+            "keywords": [],
+            "traits": [
+                "beast"
+            ],
+            "type": "creature",
+            "rarity": "Common",
+            "amber": 0,
+            "armor": 0,
+            "power": 4,
+            "text": "While the tide is high, Myliobe gains skirmish.\nBefore Fight: Enrage the attacked creature and its neighbors.",
+            "locale": {
+                "en": {
+                    "name": "Myliobe"
+                }
+            }
+        },
+        {
+            "id": "reap-or-sow",
+            "name": "Reap or Sow",
+            "number": "424",
+            "image": "Dt-424.png",
+            "house": "untamed",
+            "keywords": [],
+            "traits": [],
+            "type": "action",
+            "rarity": "Common",
+            "amber": 0,
+            "armor": null,
+            "power": null,
+            "text": "Play: Choose one:\n\n• Ready and reap with a friendly creature. \n\n• Give three +1 power counters to creatures, distributed as you choose.",
+            "locale": {
+                "en": {
+                    "name": "Reap or Sow"
+                }
+            }
+        },
+        {
+            "id": "way-of-the-fairy",
+            "name": "Way of the Fairy?",
+            "number": "426",
+            "image": "Dt-426.png",
+            "house": "untamed",
+            "keywords": [],
+            "traits": [],
+            "type": "upgrade",
+            "rarity": "Common",
+            "amber": 0,
+            "armor": null,
+            "power": null,
+            "text": "This creature gains, \"Reap: Gain 1A.\"",
+            "locale": {
+                "en": {
+                    "name": "Way of the Fairy?"
+                }
+            }
+        },
+        {
+            "id": "witch-of-the-dawn",
+            "name": "Witch of the Dawn",
+            "number": "427",
+            "image": "Dt-427.png",
+            "house": "untamed",
+            "keywords": [],
+            "traits": [
+                "human",
+                "witch"
+            ],
+            "type": "creature",
+            "rarity": "Common",
+            "amber": 0,
+            "armor": 0,
+            "power": 3,
+            "text": "Play: Return a creature from your discard pile to your hand.",
+            "locale": {
+                "en": {
+                    "name": "Witch of the Dawn"
+                }
+            }
+        },
+        {
+            "id": "youngest-bear",
+            "name": "Youngest Bear",
+            "number": "428",
+            "image": "Dt-428.png",
+            "house": "untamed",
+            "keywords": [],
+            "traits": [
+                "beast"
+            ],
+            "type": "creature",
+            "rarity": "Common",
+            "amber": 0,
+            "armor": 0,
+            "power": 2,
+            "text": "Reap: You may reap with one of Youngest Bear's neighbors.\n\nThis card has been translated from Polish and is subject to change.",
+            "locale": {
+                "en": {
+                    "name": "Youngest Bear"
                 }
             }
         }
