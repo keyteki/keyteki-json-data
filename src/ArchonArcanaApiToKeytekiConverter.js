@@ -138,6 +138,19 @@ class DecksOfKeyforgeApiToKeytekiConverter {
                 card.house = 'brobnar';
             }
 
+            let cardId = card.Name;
+            while (cardId.endsWith(' ') || cardId.endsWith('?')) {
+                cardId = cardId.substring(0, cardId.length - 1);
+            }
+            
+            while (card.CardNumber.endsWith(' ') || card.CardNumber.endsWith('?')) {
+                card.CardNumber = card.CardNumber.substring(0, card.length - 1);
+            }
+    
+            if (cardId === '') {
+                cardId = 'card-' + card.CardNumber;
+            }
+
             let newCard = null;
 
             if (language === 'en') {
@@ -151,9 +164,12 @@ class DecksOfKeyforgeApiToKeytekiConverter {
                     .replace(/<[^>]+>/gi, '');
 
                 newCard = {
-                    id: card.Name.toLowerCase()
+                    id: cardId.toLowerCase()
                         .replace(/[?.!",“”]/gi, '')
                         .replace(/&quot;/gi, '')
+                        .replace('??', ' ')
+                        .replace('   ', ' ')
+                        .replace('  ', ' ')
                         .replace(/[ '’]/gi, '-')
                         .replace('-(evil-twin)', '-evil-twin')
                         .replace('-()', ''),
@@ -174,7 +190,7 @@ class DecksOfKeyforgeApiToKeytekiConverter {
                     text: cardText,
                     locale: {
                         'en': {
-                            name: card.Name.replace(' (Evil Twin)', '')
+                            name: card.Name.replace(/&quot;/gi, '"')
                         }
                     }
                 };
