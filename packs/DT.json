@@ -437,7 +437,7 @@
             "amber": 0,
             "armor": 0,
             "power": 5,
-            "text": " After you raise the tide, ready Binary Moray.\n After your opponent raises the tide, exhaust Binary Moray.\nReap: Archive a card.\nThis card is translated from Portuguese and is subject to change.",
+            "text": " After you raise the tide, ready Binary Moray.\n After your opponent raises the tide, exhaust Binary Moray.\nReap: Archive a card.\n",
             "locale": {
                 "en": {
                     "name": "Binary Moray"
@@ -479,7 +479,7 @@
             "amber": 1,
             "armor": null,
             "power": null,
-            "text": "Each friendly creature gains Hazardous 1.\nThis card has been translated from Chinese and is subject to change.",
+            "text": "Each friendly creature gains Hazardous 1.",
             "locale": {
                 "en": {
                     "name": "Isotropic Core"
@@ -509,8 +509,8 @@
             }
         },
         {
-            "id": "mind-bullet",
-            "name": "Mind Bullet?",
+            "id": "mind-bullets",
+            "name": "Mind Bullets",
             "number": "043",
             "image": "Dt-043.png",
             "house": "logos",
@@ -521,10 +521,10 @@
             "amber": 0,
             "armor": null,
             "power": null,
-            "text": "Play: Deal 1D to each creature for each card you played this turn (including this one.)\nThis card has been translated from Chinese and is subject to change.",
+            "text": "Play: Deal 1D to each creature for each card you have played this turn (including this one).",
             "locale": {
                 "en": {
-                    "name": "Mind Bullet?"
+                    "name": "Mind Bullets"
                 }
             }
         },
@@ -588,7 +588,7 @@
             "amber": 0,
             "armor": 3,
             "power": 1,
-            "text": "Fight: Steal 1A.\nThis card has been translated from Chinese and is subject to change.",
+            "text": "Fight: Steal 1A.",
             "locale": {
                 "en": {
                     "name": "Armadrone"
@@ -621,7 +621,7 @@
             "id": "bilgewarden",
             "name": "Bilgewarden",
             "number": "050",
-            "image": "Dt-050.jpg",
+            "image": "Dt-050.png",
             "house": "logos",
             "keywords": [],
             "traits": [
@@ -633,7 +633,7 @@
             "amber": 0,
             "armor": 0,
             "power": 2,
-            "text": " Play/Reap: If the tide is high, your opponent raises the tide. Otherwise, raise the tide.\nThis card has been translated from Chinese and is subject to change.",
+            "text": " Play/Reap: If the tide is high, your opponent raises the tide. Otherwise, raise the tide.>",
             "locale": {
                 "en": {
                     "name": "Bilgewarden"
@@ -697,7 +697,7 @@
             "amber": 0,
             "armor": 2,
             "power": 1,
-            "text": "Destroyed: Ward each of Old Egad's neighbors.\nThis card has been translated from Chinese and is subject to change.",
+            "text": "Destroyed: Ward each of Old Egad's neighbors.\n",
             "locale": {
                 "en": {
                     "name": "Old Egad"
@@ -740,7 +740,7 @@
             "amber": 0,
             "armor": null,
             "power": null,
-            "text": "Play: For the remainder of the turn, gain 1A each time you play another action card.\nThis card has been translated from Polish and is subject to change.",
+            "text": "Play: For the remainder of the turn, after you play another action card, gain 1A.",
             "locale": {
                 "en": {
                     "name": "Science!"
@@ -760,7 +760,7 @@
             "amber": 1,
             "armor": null,
             "power": null,
-            "text": "This creature gains, \"At the start of your turn, deal 2D to each neighbor of this creature.\"\nThis card has been translated from Chinese and is subject to change.",
+            "text": "This creature gains, \"At the start of your turn, deal 2D to each of this creature's neighbors.\"",
             "locale": {
                 "en": {
                     "name": "Static Charge"
@@ -811,7 +811,7 @@
         },
         {
             "id": "theory-or-conjecture",
-            "name": "Theory or Conjecture?",
+            "name": "Theory or Conjecture",
             "number": "063",
             "image": "Dt-063.jpg",
             "house": "logos",
@@ -822,10 +822,10 @@
             "amber": 0,
             "armor": null,
             "power": null,
-            "text": "Play: Choose one:\n• Archive the top 2 cards of your deck.\n•Play the top card of your deck.\nThis card has been translated from Chinese and is subject to change.",
+            "text": "Play: Choose one:\n• Archive the top 2 cards of your deck.\n•Play the top card of your deck.",
             "locale": {
                 "en": {
-                    "name": "Theory or Conjecture?"
+                    "name": "Theory or Conjecture"
                 }
             }
         },
@@ -971,8 +971,8 @@
             }
         },
         {
-            "id": "timid-julian-evil-twin",
-            "name": "Timid Julian? (Evil Twin)",
+            "id": "urien-the-circumspect-evil-twin",
+            "name": "Urien the Circumspect (Evil Twin)",
             "number": "070",
             "image": "Dt-070.png",
             "house": "sanctum",
@@ -986,10 +986,10 @@
             "amber": 0,
             "armor": 1,
             "power": 3,
-            "text": "Reap: Your opponent loses A equal to Timid Julian's armor.\nThis card has been translated from Chinese and is subject to change.",
+            "text": "Reap: Your opponent loses A equal to Urien the Circumspect's armor.\nThis card has been translated from Chinese and is subject to change.",
             "locale": {
                 "en": {
-                    "name": "Timid Julian? (Evil Twin)"
+                    "name": "Urien the Circumspect (Evil Twin)"
                 }
             }
         },
@@ -1139,7 +1139,7 @@
             "amber": 0,
             "armor": 2,
             "power": 5,
-            "text": "Before Fight: You may swap the power and armor values of Lightsmith Clariel for the remainder of the turn.\nThis card has been translated from Portuguese and is subject to change.",
+            "text": "Before Fight: You may switch Lightsmith Clariel's power and armor for the remainder of the turn.",
             "locale": {
                 "en": {
                     "name": "Lightsmith Clariel"
@@ -1211,8 +1211,8 @@
             }
         },
         {
-            "id": "director",
-            "name": "Director?",
+            "id": "almsmaster",
+            "name": "Almsmaster",
             "number": "093",
             "image": "Dt-093.png",
             "house": "sanctum",
@@ -1232,7 +1232,7 @@
             "text": "Deploy. Taunt.\nPlay: Each of Director's neighbors captures 1A.\nThis card has been translated from Chinese and is subject to change.",
             "locale": {
                 "en": {
-                    "name": "Director?"
+                    "name": "Almsmaster"
                 }
             }
         },
@@ -1356,7 +1356,7 @@
             "amber": 1,
             "armor": null,
             "power": null,
-            "text": "After A is stolen from you, your opponent skips the “forge a key” step during their next turn. \nThis card has been translated from Chinese and is subject to change.",
+            "text": "After A is stolen from you, your opponent skips the “forge a key” step during their next turn.",
             "locale": {
                 "en": {
                     "name": "Redhand Registry"
@@ -1381,7 +1381,7 @@
             "amber": 0,
             "armor": 0,
             "power": 4,
-            "text": "Deploy.\nFight: Ready and fight with each of Badgemagus' neighbors, one at a time.\nThis card has been translated from Polish and is subject to change.",
+            "text": "Deploy.\nFight: Ready and fight with each of Badgemagus's neighbors, one at a time.",
             "locale": {
                 "en": {
                     "name": "Badgemagus"
@@ -1389,8 +1389,8 @@
             }
         },
         {
-            "id": "card-112",
-            "name": "??",
+            "id": "grand-melee",
+            "name": "Grand Melee",
             "number": "112",
             "image": "Dt-112.jpg",
             "house": "sanctum",
@@ -1401,10 +1401,10 @@
             "amber": 0,
             "armor": null,
             "power": null,
-            "text": "Play: Destroy each creature that does not share a house with at least 1 of its neighbors.\nThis card has been translated from Chinese and is subject to change.",
+            "text": "Play: Destroy each creature that does not share a house with at least 1 of its neighbors.",
             "locale": {
                 "en": {
-                    "name": "??"
+                    "name": "Grand Melee"
                 }
             }
         },
@@ -1603,8 +1603,8 @@
             }
         },
         {
-            "id": "timid-julian",
-            "name": "Timid Julian ?",
+            "id": "urien-the-circumspect",
+            "name": "Urien the Circumspect",
             "number": "123",
             "image": "Dt-123.png",
             "house": "sanctum",
@@ -1618,10 +1618,10 @@
             "amber": 0,
             "armor": 1,
             "power": 3,
-            "text": "Reap: Gain 1A equal to the amount of Timid Julien's armor. (?)\nThis card has been translated from Chinese and is subject to change.",
+            "text": "Reap: Gain A equal to the amount of Urien the Circumspect's armor.\n",
             "locale": {
                 "en": {
-                    "name": "Timid Julian ?"
+                    "name": "Urien the Circumspect"
                 }
             }
         },
@@ -1694,7 +1694,7 @@
         },
         {
             "id": "lapisaurus-evil-twin",
-            "name": "Lapisaurus? (Evil Twin)",
+            "name": "Lapisaurus (Evil Twin)",
             "number": "127",
             "image": "Dt-127.png",
             "house": "saurian",
@@ -1712,7 +1712,7 @@
             "text": "Skirmish.\n Fight: Exalt the creature Lapisaurus fights.",
             "locale": {
                 "en": {
-                    "name": "Lapisaurus? (Evil Twin)"
+                    "name": "Lapisaurus (Evil Twin)"
                 }
             }
         },
@@ -1881,7 +1881,7 @@
             "amber": 0,
             "armor": 1,
             "power": 5,
-            "text": "Before Fight: You may exalt Hastatus Raptor. If you do, for each A on friendly Hastatus Raptors, deal 1D to the attacked creature.\nThis card has been translated from Chinese and is subject to change.",
+            "text": "Before Fight: You may exalt Hastatus Raptor. If you do, deal 1D to the creature Hastatus Raptor fights for each A on friendly Hastatus Raptors.",
             "locale": {
                 "en": {
                     "name": "Hastatus Raptor"
@@ -2315,7 +2315,7 @@
         },
         {
             "id": "reach-advantage",
-            "name": "Reach Advantage?",
+            "name": "Reach Advantage",
             "number": "180",
             "image": "Dt-180.png",
             "house": "saurian",
@@ -2329,7 +2329,7 @@
             "text": " Play: If the tide is high, a friendly creature captures 3A. Otherwise, raise the tide.",
             "locale": {
                 "en": {
-                    "name": "Reach Advantage?"
+                    "name": "Reach Advantage"
                 }
             }
         },
@@ -2473,8 +2473,8 @@
             }
         },
         {
-            "id": "-evil-twin",
-            "name": "? (Evil Twin)",
+            "id": "monty-bank-evil-twin",
+            "name": "Monty Bank (Evil Twin)",
             "number": "188",
             "image": "Dt-188.png",
             "house": "shadows",
@@ -2493,7 +2493,7 @@
             "text": "Elusive.\nPlay: Exalt this creature twice.\nAction: Steal 1A for each A on this creature.\nThis card has been translated from Polish and is subject to change.",
             "locale": {
                 "en": {
-                    "name": "? (Evil Twin)"
+                    "name": "Monty Bank (Evil Twin)"
                 }
             }
         },
@@ -2843,8 +2843,8 @@
             }
         },
         {
-            "id": "flying-specter",
-            "name": "Flying Specter ?",
+            "id": "the-flyin--specter",
+            "name": "The Flyin' Specter",
             "number": "224",
             "image": "Dt-224.png",
             "house": "shadows",
@@ -2857,10 +2857,10 @@
             "amber": 0,
             "armor": null,
             "power": null,
-            "text": " When your opponent raises the tide, destroy Flying Specter (?).\n Action: If the tide is high, steal 1A.\nThis card has been translated from Chinese and is subject to change.",
+            "text": " After your opponent raises the tide, destroy The Flyin' Specter.\n Action: Steal 1A if the tide is high.",
             "locale": {
                 "en": {
-                    "name": "Flying Specter ?"
+                    "name": "The Flyin' Specter"
                 }
             }
         },
@@ -3585,7 +3585,7 @@
         },
         {
             "id": "sabotage-mission",
-            "name": "Sabotage Mission?",
+            "name": "Sabotage Mission",
             "number": "282",
             "image": "Dt-sabotage.png",
             "house": "staralliance",
@@ -3596,10 +3596,10 @@
             "amber": 1,
             "armor": null,
             "power": null,
-            "text": "Play: During your opponent's next turn, keys cost +1A for each different power value among friendly creatures.\nThis card has been translated from Polish and is subject to change.",
+            "text": "Play: Keys cost +1A for each different power value among friendly creatures during your opponent's next turn.",
             "locale": {
                 "en": {
-                    "name": "Sabotage Mission?"
+                    "name": "Sabotage Mission"
                 }
             }
         },
@@ -3638,7 +3638,7 @@
             "amber": 1,
             "armor": null,
             "power": null,
-            "text": " While the tide is high, your keys cost -1A. While the tide is low, your keys cost +1A. \nThis card has been translated from Polish and is subject to change.",
+            "text": " Your keys cost -1A while the tide is high and +1A while the tide is low.",
             "locale": {
                 "en": {
                     "name": "Static Collection Array"
@@ -3669,7 +3669,7 @@
         },
         {
             "id": "together",
-            "name": "Together ?",
+            "name": "Together!",
             "number": "287",
             "image": "Dt-287.png",
             "house": "staralliance",
@@ -3680,10 +3680,10 @@
             "amber": 0,
             "armor": null,
             "power": null,
-            "text": " Play: You may play a non-Star Alliance card. If the tide is high, you may play another non-Star Alliance card.\nThis card has been translated from Chinese and is subject to change.",
+            "text": " Play: You may play a non-Star Alliance card. If the tide is high, you may play another non-Star Alliance card.",
             "locale": {
                 "en": {
-                    "name": "Together ?"
+                    "name": "Together!"
                 }
             }
         },
@@ -3708,8 +3708,8 @@
             }
         },
         {
-            "id": "discovery-community",
-            "name": "Discovery community?",
+            "id": "biome-discovery",
+            "name": "Biome Discovery",
             "number": "291",
             "image": "Dt-291.png",
             "house": "staralliance",
@@ -3720,10 +3720,10 @@
             "amber": 1,
             "armor": null,
             "power": null,
-            "text": "Play: If the tide is high, look at the top 2 cards of your deck and discard 1. Otherwise, raise the tide.",
+            "text": " Play: If the tide is high, you may look at the top 2 cards of your deck and discard 1 of them. Otherwise, raise the tide.",
             "locale": {
                 "en": {
-                    "name": "Discovery community?"
+                    "name": "Biome Discovery"
                 }
             }
         },
@@ -3776,7 +3776,7 @@
         },
         {
             "id": "grand-alliance-council",
-            "name": "Grand Alliance Council?",
+            "name": "Grand Alliance Council",
             "number": "294",
             "image": "Dt-294.jpg",
             "house": "staralliance",
@@ -3787,10 +3787,10 @@
             "amber": 0,
             "armor": null,
             "power": null,
-            "text": "Action: Choose 1 creature belonging to each house. Destroy each creature except the chosen creatures.\nThis card has been translated from Russian and is subject to change.",
+            "text": "Play: Choose a creature of each house. Destroy each creature not chosen.",
             "locale": {
                 "en": {
-                    "name": "Grand Alliance Council?"
+                    "name": "Grand Alliance Council"
                 }
             }
         },
@@ -3838,8 +3838,8 @@
             }
         },
         {
-            "id": "recon-agent-aspen",
-            "name": "Recon Agent Aspen?",
+            "id": "operative-espion",
+            "name": "Operative Espion",
             "number": "299",
             "image": "Dt-299.png",
             "house": "staralliance",
@@ -3854,10 +3854,10 @@
             "amber": 0,
             "armor": 0,
             "power": 4,
-            "text": "Elusive.\n\nAfter a player raises the tide during their turn, they may use a creature they control.\n\nThis card has been translated from Chinese and is subject to change.",
+            "text": "Elusive.\n\n After a player raises the tide during their turn, they may use a creature they control.",
             "locale": {
                 "en": {
-                    "name": "Recon Agent Aspen?"
+                    "name": "Operative Espion"
                 }
             }
         },
@@ -3890,13 +3890,15 @@
             "image": "Dt-302.jpg",
             "house": "staralliance",
             "keywords": [],
-            "traits": [],
+            "traits": [
+                "robot"
+            ],
             "type": "creature",
             "rarity": "Common",
             "amber": 0,
             "armor": 2,
             "power": 3,
-            "text": "This creature may be played as an upgrade instead of a creature, with the text: “This creature gains +2 armor” .\nThis card has been translated from Chinese and is subject to change.",
+            "text": "Shield-U-Later may be played as an upgrade instead of a creature, with the text: “This creature gains +2 armor.\"",
             "locale": {
                 "en": {
                     "name": "Shield-U-Later"
@@ -3924,8 +3926,8 @@
             }
         },
         {
-            "id": "unity-or-contradiction",
-            "name": "Unity or Contradiction?",
+            "id": "unity-or-discord",
+            "name": "Unity or Discord",
             "number": "304",
             "image": "Dt-304.png",
             "house": "staralliance",
@@ -3936,10 +3938,10 @@
             "amber": 0,
             "armor": null,
             "power": null,
-            "text": "Choose one: \n\n- Use a friendly non-Star Alliance creature.\n\n- Return up to 2 friendly creatures and their upgrades back to their owner's hand.\n\nThis card has been translated from Chinese and is subject to change.",
+            "text": "Play: Choose one: \n\n&amp;middot; Use a friendly non-Star Alliance creature.\n\n&amp;middot; Return up to 2 friendly creatures and each upgrade attached to them to their owners' hands.",
             "locale": {
                 "en": {
-                    "name": "Unity or Contradiction?"
+                    "name": "Unity or Discord"
                 }
             }
         },
@@ -4585,7 +4587,7 @@
             "amber": 0,
             "armor": null,
             "power": null,
-            "text": "At the end of each player's turn, move the active player's right most creature to its opponent's left flank.\nThis card has been translated from Chinese and is subject to change.",
+            "text": "At the end of each player's turn, that player gives control of the creature on their right flank to their opponent and moves it to that player's left flank.",
             "locale": {
                 "en": {
                     "name": "Whirlpool"
@@ -4747,8 +4749,8 @@
             }
         },
         {
-            "id": "jellyfish",
-            "name": "Jellyfish ?",
+            "id": "scyphos",
+            "name": "Scyphos",
             "number": "343",
             "image": "Dt-343.png",
             "house": "unfathomable",
@@ -4763,10 +4765,10 @@
             "amber": 0,
             "armor": 0,
             "power": 3,
-            "text": "Hazardous 4.\n Destroyed: If the tide is high, archive Jellyfish (?).\nThis card has been translated from Chinese and is subject to change.",
+            "text": "Hazardous 4.\n Destroyed: If the tide is high, archive Scyphos.",
             "locale": {
                 "en": {
-                    "name": "Jellyfish ?"
+                    "name": "Scyphos"
                 }
             }
         },
@@ -4897,8 +4899,8 @@
             }
         },
         {
-            "id": "anger-or-destruction",
-            "name": "Anger or Destruction?",
+            "id": "wrath-or-ruin",
+            "name": "Wrath or Ruin",
             "number": "351",
             "image": "Dt-351.png",
             "house": "unfathomable",
@@ -4909,10 +4911,10 @@
             "amber": 0,
             "armor": null,
             "power": null,
-            "text": "Choose one: \n\n- Destroy a flank creature.\n\n- Return two creatures to their owners' hands.\n\nThis card has been translated from Chinese and is subject to change.",
+            "text": "Play: Choose one: \n\n&amp;middot; Destroy a flank creature.\n\n&amp;middot; Return 2 enemy creatures to their owners' hands.",
             "locale": {
                 "en": {
-                    "name": "Anger or Destruction?"
+                    "name": "Wrath or Ruin"
                 }
             }
         },
@@ -4929,7 +4931,7 @@
             "amber": 1,
             "armor": null,
             "power": null,
-            "text": "Play: Look at your opponent's hand. Choose one card from their hand and put it on top of their deck.\nThis card is translated from Chinese and is subject to change.",
+            "text": "Play: Look at your opponent's hand. Choose a card from it and put it on top of their deck.",
             "locale": {
                 "en": {
                     "name": "Brain Drain"
@@ -4993,7 +4995,7 @@
             "amber": 0,
             "armor": 0,
             "power": 6,
-            "text": " After your opponent raises the tide, enrage Flamegill Enforcer.\nAction: Capture 3A.\nThis card has been translated from Chinese and is subject to change.",
+            "text": " After your opponent raises the tide, enrage Flamegill Enforcer.\nAction: Capture 3A.",
             "locale": {
                 "en": {
                     "name": "Flamegill Enforcer"
@@ -5015,7 +5017,7 @@
             "amber": 1,
             "armor": null,
             "power": null,
-            "text": "Action: Exhaust a creature or artifact.\nThis card has been translated from Chinese and is subject to change.",
+            "text": "Action: Exhaust a creature or artifact.",
             "locale": {
                 "en": {
                     "name": "Frigorific Rod"
@@ -5531,8 +5533,8 @@
             }
         },
         {
-            "id": "pestilence-forest",
-            "name": "Pestilence Forest?",
+            "id": "pestergrove",
+            "name": "Pestergrove",
             "number": "387",
             "image": "Dt-387.png",
             "house": "untamed",
@@ -5545,10 +5547,10 @@
             "amber": 1,
             "armor": null,
             "power": null,
-            "text": "Each creature enters play enraged.\nThis card has been translated from Chinese and is subject to change.",
+            "text": "Each creature enters play enraged.",
             "locale": {
                 "en": {
-                    "name": "Pestilence Forest?"
+                    "name": "Pestergrove"
                 }
             }
         },
@@ -5818,7 +5820,7 @@
             "amber": 1,
             "armor": null,
             "power": null,
-            "text": " Play: If the tide is high, gain 1A. Otherwise, raise the tide.\nThis card has been translated from Chinese and is subject to change.",
+            "text": " Play: If the tide is high, gain 1A. Otherwise, raise the tide.",
             "locale": {
                 "en": {
                     "name": "All Tide Up"
@@ -5885,7 +5887,7 @@
             "amber": 2,
             "armor": 0,
             "power": 5,
-            "text": " Play/Reap: If the tide is low, your opponent gains 1A.\nThis card has been translated from Chinese and is subject to change.",
+            "text": " Play/Reap: If the tide is low, your opponent gains 1A.",
             "locale": {
                 "en": {
                     "name": "Deepwater Gruen"
@@ -5893,8 +5895,8 @@
             }
         },
         {
-            "id": "internal-strife",
-            "name": "Internal Strife?",
+            "id": "infighting",
+            "name": "Infighting",
             "number": "418",
             "image": "Dt-418.png",
             "house": "untamed",
@@ -5905,10 +5907,10 @@
             "amber": 0,
             "armor": null,
             "power": null,
-            "text": "Play: Each creature deals damage to its right neighbor equal to its power.",
+            "text": "Play: Each creature deals damage equal to its power to its right neighbor.",
             "locale": {
                 "en": {
-                    "name": "Internal Strife?"
+                    "name": "Infighting"
                 }
             }
         },
@@ -5920,7 +5922,7 @@
             "house": "untamed",
             "keywords": [],
             "traits": [
-                "??"
+                "beast"
             ],
             "type": "creature",
             "rarity": "Common",
@@ -6056,7 +6058,7 @@
             "amber": 0,
             "armor": 0,
             "power": 2,
-            "text": "Reap: You may reap with one of Youngest Bear's neighbors.\n\nThis card has been translated from Polish and is subject to change.",
+            "text": "Reap: You may reap with 1 of Youngest Bear's neighbors.",
             "locale": {
                 "en": {
                     "name": "Youngest Bear"
