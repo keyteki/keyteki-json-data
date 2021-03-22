@@ -336,8 +336,8 @@
             }
         },
         {
-            "id": "ruined-city",
-            "name": "Ruined City?",
+            "id": "ruins-of-archonis",
+            "name": "Ruins of Archonis",
             "number": "024",
             "image": "Dt-024.png",
             "house": "logos",
@@ -348,10 +348,10 @@
             "amber": 1,
             "armor": null,
             "power": null,
-            "text": "Play: Place 4A from the common supply on Ruined City and archive a card. After a player plays 6 cards on their turn, if Ruined City is ready, move all A from it to their pool.\nThis card has been translated from Chinese and is subject to change.",
+            "text": "Play: Put 4A on Ruins of Archonis  from the common supply. Archive a card.\nAfter a player plays their 6th card in a turn, if Ruins of Archonis is ready, move each A from Ruins of Archonis to that player's pool.",
             "locale": {
                 "en": {
-                    "name": "Ruined City?"
+                    "name": "Ruins of Archonis"
                 }
             }
         },
@@ -596,8 +596,8 @@
             }
         },
         {
-            "id": "austeralis-sea-robot",
-            "name": "Austeralis Sea Robot?",
+            "id": "austeralis-seaborg",
+            "name": "Austeralis Seaborg",
             "number": "049",
             "image": "Dt-049.png",
             "house": "logos",
@@ -610,10 +610,10 @@
             "amber": 0,
             "armor": 0,
             "power": 4,
-            "text": " Reap: Deal 2D to a creature. If this damage destroys that creature, raise the tide.\nThis card has been translated from Chinese and is subject to change.",
+            "text": " Reap: Deal 2D to a creature. If this damage destroys that creature, raise the tide.",
             "locale": {
                 "en": {
-                    "name": "Austeralis Sea Robot?"
+                    "name": "Austeralis Seaborg"
                 }
             }
         },
@@ -813,7 +813,7 @@
             "id": "theory-or-conjecture",
             "name": "Theory or Conjecture",
             "number": "063",
-            "image": "Dt-063.jpg",
+            "image": "Dt-063.png",
             "house": "logos",
             "keywords": [],
             "traits": [],
@@ -915,7 +915,7 @@
             "amber": 0,
             "armor": 0,
             "power": 5,
-            "text": "Action: You may swap the power and armor values of a creature.\nThis card has been translated from Chinese and is subject to change.",
+            "text": "Action: Switch a creature's power and armor for the remainder of the turn.\nThis card has been translated from Polish and is subject to change.",
             "locale": {
                 "en": {
                     "name": "Lightsmith Clariel (Evil Twin)"
@@ -1238,7 +1238,7 @@
         },
         {
             "id": "first-or-last",
-            "name": "First or Last?",
+            "name": "First or Last",
             "number": "097",
             "image": "Dt-097.png",
             "house": "sanctum",
@@ -1249,10 +1249,10 @@
             "amber": 0,
             "armor": null,
             "power": null,
-            "text": "Play: Choose one:\n• Purge each creature with the highest power.\n• Purge each creature with the lowest power.\nThis card has been translated from Chinese and is subject to change.",
+            "text": "Play: Choose one:\n• Purge each creature with the highest power.\n• Purge each creature with the lowest power.",
             "locale": {
                 "en": {
-                    "name": "First or Last?"
+                    "name": "First or Last"
                 }
             }
         },
@@ -1322,8 +1322,8 @@
             }
         },
         {
-            "id": "eternal-light",
-            "name": "Eternal Light?",
+            "id": "light-everlasting",
+            "name": "Light Everlasting",
             "number": "104",
             "image": "Dt-104.png",
             "house": "sanctum",
@@ -1334,10 +1334,10 @@
             "amber": 1,
             "armor": null,
             "power": null,
-            "text": "Play: Play a Sanctum creature from your discard pile as if it had deploy.\nThis card has been translated from Chinese and is subject to change.",
+            "text": "Play: Play a Sanctum creature from your discard pile anywhere in your battleline.",
             "locale": {
                 "en": {
-                    "name": "Eternal Light?"
+                    "name": "Light Everlasting"
                 }
             }
         },
@@ -2185,8 +2185,8 @@
             }
         },
         {
-            "id": "card-173",
-            "name": "?",
+            "id": "crushing-charge",
+            "name": "Crushing Charge",
             "number": "173",
             "image": "Dt-173.png",
             "house": "saurian",
@@ -2197,16 +2197,16 @@
             "amber": 0,
             "armor": null,
             "power": null,
-            "text": "Play: Destroy each creature with 4 power or less. Gain 1 chain.\nThis card has been translated from Chinese and is subject to change.",
+            "text": "Play: Destroy each creature with power 4 or lower. Gain 1 chain.",
             "locale": {
                 "en": {
-                    "name": "?"
+                    "name": "Crushing Charge"
                 }
             }
         },
         {
-            "id": "card-174",
-            "name": "?",
+            "id": "decadence",
+            "name": "Decadence",
             "number": "174",
             "image": "Dt-174.png",
             "house": "saurian",
@@ -2220,7 +2220,7 @@
             "text": "Play: Choose one:\n• Exalt, ready and use a friendly creature.\n• Move 1A from one creature to another.\nThis card has been translated from Chinese and is subject to change.",
             "locale": {
                 "en": {
-                    "name": "?"
+                    "name": "Decadence"
                 }
             }
         },
@@ -2978,16 +2978,13 @@
             }
         },
         {
-            "id": "card-232",
-            "name": "?",
+            "id": "hornswoggle",
+            "name": "Hornswoggle",
             "number": "232",
             "image": "Dt-232.png",
             "house": "shadows",
             "keywords": [],
-            "traits": [
-                "elf",
-                "thief"
-            ],
+            "traits": [],
             "type": "action",
             "rarity": "Common",
             "amber": 1,
@@ -2996,7 +2993,7 @@
             "text": "Play: Use an opponent's artifact as if it were yours.\nThis card has been translated from Chinese and is subject to change.",
             "locale": {
                 "en": {
-                    "name": "?"
+                    "name": "Hornswoggle"
                 }
             }
         },
@@ -3492,8 +3489,8 @@
             }
         },
         {
-            "id": "accessory",
-            "name": "Accessory?",
+            "id": "the-ulfberht-device",
+            "name": "The Ulfberht Device",
             "number": "272",
             "image": "Dt-272.png",
             "house": "staralliance",
@@ -3506,10 +3503,10 @@
             "amber": 1,
             "armor": null,
             "power": null,
-            "text": "Players cannot choose the same house as they did on their last turn.\nThis card has been translated from Polish and is subject to change.",
+            "text": "Each player cannot choose the same active house they chose on their previous turn.",
             "locale": {
                 "en": {
-                    "name": "Accessory?"
+                    "name": "The Ulfberht Device"
                 }
             }
         },
@@ -3907,7 +3904,7 @@
         },
         {
             "id": "technobabble",
-            "name": "Technobabble ?",
+            "name": "Technobabble",
             "number": "303",
             "image": "Dt-303.png",
             "house": "staralliance",
@@ -3918,10 +3915,10 @@
             "amber": 1,
             "armor": null,
             "power": null,
-            "text": "Play: Stun a creature and each of its neighbors that shares a house with it.\nThis card has been translated from Chinese and is subject to change.",
+            "text": "Play: Stun a creature and each of its neighbors that shares a house with it.",
             "locale": {
                 "en": {
-                    "name": "Technobabble ?"
+                    "name": "Technobabble"
                 }
             }
         },
@@ -4227,8 +4224,8 @@
             }
         },
         {
-            "id": "cup-splashed",
-            "name": "Cup Splashed ?",
+            "id": "cup-of-water",
+            "name": "Cup of Water",
             "number": "319",
             "image": "Dt-319.png",
             "house": "unfathomable",
@@ -4239,16 +4236,16 @@
             "amber": 1,
             "armor": null,
             "power": null,
-            "text": "Play: Stun each cyborg creature and each robot creature.\nThis card has been translated from Chinese and is subject to change.",
+            "text": "Play: Stun each Cyborg creature and each Robot creature.",
             "locale": {
                 "en": {
-                    "name": "Cup Splashed ?"
+                    "name": "Cup of Water"
                 }
             }
         },
         {
-            "id": "abyssal-priest",
-            "name": "Abyssal Priest ?",
+            "id": "deep-priest-glebe",
+            "name": "Deep Priest Glebe",
             "number": "320",
             "image": "Dt-320.png",
             "house": "unfathomable",
@@ -4261,10 +4258,10 @@
             "amber": 0,
             "armor": 0,
             "power": 5,
-            "text": "After you play an Aquan creature, exhaust an enemy creature.\nThis card has been translated from Chinese and is subject to change.",
+            "text": "After you play an Aquan creature, exhaust an enemy creature.",
             "locale": {
                 "en": {
-                    "name": "Abyssal Priest ?"
+                    "name": "Deep Priest Glebe"
                 }
             }
         },
@@ -4377,8 +4374,8 @@
             }
         },
         {
-            "id": "portal-seller",
-            "name": "Portal Seller ??",
+            "id": "portalmonger",
+            "name": "Portalmonger",
             "number": "326",
             "image": "Dt-326.png",
             "house": "unfathomable",
@@ -4394,7 +4391,7 @@
             "text": " While the tide is high, your opponent's keys cost +4A.\nThis card has been translated from Polish and is subject to change.",
             "locale": {
                 "en": {
-                    "name": "Portal Seller ??"
+                    "name": "Portalmonger"
                 }
             }
         },
@@ -4465,8 +4462,8 @@
             }
         },
         {
-            "id": "sea-monster",
-            "name": "Sea Monster ?",
+            "id": "te-wheke-kraken",
+            "name": "Te-Wheke Kraken",
             "number": "330",
             "image": "Dt-330.png",
             "house": "unfathomable",
@@ -4479,10 +4476,10 @@
             "amber": 0,
             "armor": 0,
             "power": 12,
-            "text": "Play: Exhaust 2 friendly Unfathomable creatures. If you do not, destroy Sea Monster.\nFight/Reap: Deal 2D to a creature with 2D splash.\nThis card has been translated from Chinese and is subject to change.",
+            "text": "Play: Exhaust 2 friendly Unfathomable creatures. If you do not, destroy Te-Wheke Kraken.\nFight/Reap: Deal 2D to a creature with 2D splash.",
             "locale": {
                 "en": {
-                    "name": "Sea Monster ?"
+                    "name": "Te-Wheke Kraken"
                 }
             }
         },
@@ -4529,8 +4526,8 @@
             }
         },
         {
-            "id": "the-murmur",
-            "name": "The Murmur?",
+            "id": "the-susurrus",
+            "name": "The Susurrus",
             "number": "333",
             "image": "Dt-333.png",
             "house": "unfathomable",
@@ -4543,10 +4540,10 @@
             "amber": 0,
             "armor": null,
             "power": null,
-            "text": "Action: Exhaust a friendly Unfathomable creature. If you do exhaust up to 3 creatures or artifacts. \nThis card has been translated from Chinese and is subject to change.",
+            "text": "Action: Exhaust a friendly Unfathomable creature. If you do, exhaust up to 3 creatures or artifacts.",
             "locale": {
                 "en": {
-                    "name": "The Murmur?"
+                    "name": "The Susurrus"
                 }
             }
         },
@@ -4595,8 +4592,8 @@
             }
         },
         {
-            "id": "card-336",
-            "name": "??",
+            "id": "abandon-ship",
+            "name": "Abandon Ship",
             "number": "336",
             "image": "Dt-336.png",
             "house": "unfathomable",
@@ -4607,10 +4604,10 @@
             "amber": 1,
             "armor": null,
             "power": null,
-            "text": "Play: Return a creature to its owner's hand. If the tide is high, return 4 creatures to their owner's hands instead.\nThis card has been translated from Chinese and is subject to change.",
+            "text": "Play: Return a creature to its owner's hand. If the tide is high, return 4 creatures to their owners' hands instead.",
             "locale": {
                 "en": {
-                    "name": "??"
+                    "name": "Abandon Ship"
                 }
             }
         },
@@ -4809,7 +4806,7 @@
             "amber": 0,
             "armor": 0,
             "power": 2,
-            "text": "Skirmish.\nFight: Stun and exhaust the creature Sparkfist attacks.\n\nThis card has been translated from Chinese and is subject to change.",
+            "text": "Skirmish.\nFight: Stun and exhaust the creature Sparkfist fights.",
             "locale": {
                 "en": {
                     "name": "Sparkfist"
@@ -5840,7 +5837,7 @@
             "amber": 0,
             "armor": null,
             "power": null,
-            "text": "Play: For the remainder of the turn, a friendly creature gains Skirmish. Ready and fight with that creature.",
+            "text": "Play: For the remainder of the turn, a friendly creature gains skirmish. Ready and fight with that creature.",
             "locale": {
                 "en": {
                     "name": "Assert Dominance"
@@ -5973,7 +5970,7 @@
             "amber": 0,
             "armor": 0,
             "power": 4,
-            "text": "While the tide is high, Myliobe gains skirmish.\nBefore Fight: Enrage the attacked creature and its neighbors.",
+            "text": " While the tide is high, Myliobe gains skirmish.\nBefore Fight: Enrage the creature Myliobe fights and each of that creature's neighbors.",
             "locale": {
                 "en": {
                     "name": "Myliobe"
