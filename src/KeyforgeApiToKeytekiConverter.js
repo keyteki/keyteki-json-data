@@ -208,6 +208,10 @@ class KeyforgeApiToKeytekiConverter {
                     return newLocale;
                 }, {});
 
+                if(newCard.rarity == 'Evil Twin') {
+                    newCard.id = newCard.id + '-evil-twin';
+                }
+
                 cards[cardKey] = newCard;
             }
 
