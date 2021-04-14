@@ -125,7 +125,7 @@ class KeyforgeApiToKeytekiConverter {
 
                     console.info(`API calls being throttled, sleeping for ${timeout} seconds`);
 
-                    await sleep(timeout * 1000);
+                    await sleep(timeout * 2 * 1000);
 
                     i--;
                     continue;
