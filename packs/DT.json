@@ -4,7 +4,7 @@
     ],
     "code": "DT",
     "name": "Dark Tidings",
-    "cardCount": "428",
+    "cardCount": "429",
     "releaseDate": "2020-05-31",
     "cards": [
         {
@@ -7137,6 +7137,29 @@
             }
         },
         {
+            "id": "taniwha",
+            "name": "Taniwha",
+            "number": "310",
+            "image": "https://cdn.keyforgegame.com/media/card_front/en/496_310_6CJCM8MJVXWG_en.png",
+            "expansion": 496,
+            "house": "unfathomable",
+            "keywords": [],
+            "traits": [
+                "beast"
+            ],
+            "type": "creature",
+            "rarity": "Evil Twin",
+            "amber": 0,
+            "armor": 1,
+            "power": 4,
+            "text": "Fight/Reap: Put a creature from your discard pile on top of your deck.",
+            "locale": {
+                "en": {
+                    "name": "Taniwha"
+                }
+            }
+        },
+        {
             "id": "tomwa-of-the-glow",
             "name": "Tomwa of the Glow",
             "number": "311",
@@ -8417,6 +8440,29 @@
             "locale": {
                 "en": {
                     "name": "Wikolia"
+                }
+            }
+        },
+        {
+            "id": "æmberfin-shark",
+            "name": "Æmberfin Shark",
+            "number": "368",
+            "image": "https://cdn.keyforgegame.com/media/card_front/en/496_368_FPP9359538QF_en.png",
+            "expansion": 496,
+            "house": "untamed",
+            "keywords": [],
+            "traits": [
+                "beast"
+            ],
+            "type": "creature",
+            "rarity": "Evil Twin",
+            "amber": 0,
+            "armor": null,
+            "power": 3,
+            "text": "At the end of your turn, each player loses 1. Give Æmberfin Shark a +1 power counter for each  lost this way.",
+            "locale": {
+                "en": {
+                    "name": "Æmberfin Shark"
                 }
             }
         },
