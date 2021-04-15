@@ -180,6 +180,10 @@ class KeyforgeApiToKeytekiConverter {
                             }
                         }
                     };
+                    
+                    if(newCard.rarity == 'Evil Twin') {
+                        newCard.id = newCard.id + '-evil-twin';
+                    }
                 } else {
                     // Append locale information
                     let type = card.card_type;
@@ -207,10 +211,6 @@ class KeyforgeApiToKeytekiConverter {
                     newLocale[currentValue] = newCard.locale[currentValue];
                     return newLocale;
                 }, {});
-
-                if(newCard.rarity == 'Evil Twin') {
-                    newCard.id = newCard.id + '-evil-twin';
-                }
 
                 cards[cardKey] = newCard;
             }

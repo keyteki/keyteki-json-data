@@ -56,7 +56,7 @@
             }
         },
         {
-            "id": "armadrone-evil-twin-evil-twin-evil-twin-evil-twin-evil-twin-evil-twin-evil-twin-evil-twin-evil-twin-evil-twin-evil-twin-evil-twin",
+            "id": "armadrone-evil-twin",
             "name": "Armadrone",
             "number": "001",
             "image": "https://cdn.keyforgegame.com/media/card_front/en/496_001_3MCPH2HVX2WH_en.png",
@@ -106,7 +106,7 @@
             }
         },
         {
-            "id": "binary-moray-evil-twin-evil-twin-evil-twin-evil-twin-evil-twin-evil-twin-evil-twin-evil-twin-evil-twin-evil-twin-evil-twin-evil-twin",
+            "id": "binary-moray-evil-twin",
             "name": "Binary Moray",
             "number": "002",
             "image": "https://cdn.keyforgegame.com/media/card_front/en/496_002_QQGF32M8J5F5_en.png",
@@ -159,7 +159,7 @@
             }
         },
         {
-            "id": "captain-kresage-evil-twin-evil-twin-evil-twin-evil-twin-evil-twin-evil-twin-evil-twin-evil-twin-evil-twin-evil-twin-evil-twin-evil-twin",
+            "id": "captain-kresage-evil-twin",
             "name": "Captain Kresage",
             "number": "003",
             "image": "https://cdn.keyforgegame.com/media/card_front/en/496_003_QVQ44WVPJ2RW_en.png",
@@ -209,7 +209,7 @@
             }
         },
         {
-            "id": "old-egad-evil-twin-evil-twin-evil-twin-evil-twin-evil-twin-evil-twin-evil-twin-evil-twin-evil-twin-evil-twin-evil-twin-evil-twin",
+            "id": "old-egad-evil-twin",
             "name": "Old Egad",
             "number": "004",
             "image": "https://cdn.keyforgegame.com/media/card_front/en/496_004_H59CFQCH7582_en.png",
@@ -259,7 +259,7 @@
             }
         },
         {
-            "id": "pi-sweven-evil-twin-evil-twin-evil-twin-evil-twin-evil-twin-evil-twin-evil-twin-evil-twin-evil-twin-evil-twin-evil-twin-evil-twin",
+            "id": "pi-sweven-evil-twin",
             "name": "PI Sweven",
             "number": "005",
             "image": "https://cdn.keyforgegame.com/media/card_front/en/496_005_8G43P5V9M662_en.png",
@@ -310,7 +310,7 @@
             }
         },
         {
-            "id": "prof-garwynne-evil-twin-evil-twin-evil-twin-evil-twin-evil-twin-evil-twin-evil-twin-evil-twin-evil-twin-evil-twin-evil-twin-evil-twin",
+            "id": "prof-garwynne-evil-twin",
             "name": "Prof. Garwynne",
             "number": "006",
             "image": "https://cdn.keyforgegame.com/media/card_front/en/496_006_V2Q6G9V8P8FV_en.png",
@@ -363,7 +363,7 @@
             }
         },
         {
-            "id": "talmage-steelheart-evil-twin-evil-twin-evil-twin-evil-twin-evil-twin-evil-twin-evil-twin-evil-twin-evil-twin-evil-twin-evil-twin-evil-twin",
+            "id": "talmage-steelheart-evil-twin",
             "name": "Talmage Steelheart",
             "number": "007",
             "image": "https://cdn.keyforgegame.com/media/card_front/en/496_007_F9Q9XRVVJ7W3_en.png",
@@ -3193,7 +3193,7 @@
             }
         },
         {
-            "id": "almsmaster-evil-twin-evil-twin-evil-twin-evil-twin-evil-twin-evil-twin-evil-twin-evil-twin-evil-twin-evil-twin-evil-twin-evil-twin",
+            "id": "almsmaster-evil-twin",
             "name": "Almsmaster",
             "number": "064",
             "image": "https://cdn.keyforgegame.com/media/card_front/en/496_064_J2W3WWQ3XF5C_en.png",
@@ -3246,7 +3246,7 @@
             }
         },
         {
-            "id": "grey-augur-evil-twin-evil-twin-evil-twin-evil-twin-evil-twin-evil-twin-evil-twin-evil-twin-evil-twin-evil-twin-evil-twin-evil-twin",
+            "id": "grey-augur-evil-twin",
             "name": "Grey Augur",
             "number": "065",
             "image": "https://cdn.keyforgegame.com/media/card_front/en/496_065_VH6M3PFC2H2_en.png",
@@ -3297,7 +3297,7 @@
             }
         },
         {
-            "id": "lærie-of-the-lake-evil-twin-evil-twin-evil-twin-evil-twin-evil-twin-evil-twin-evil-twin-evil-twin-evil-twin-evil-twin-evil-twin-evil-twin",
+            "id": "lærie-of-the-lake-evil-twin",
             "name": "Lærie of the Lake",
             "number": "066",
             "image": "https://cdn.keyforgegame.com/media/card_front/en/496_066_Q2FRFRC8W4X8_en.png",
@@ -3348,7 +3348,7 @@
             }
         },
         {
-            "id": "lightsmith-clariel-evil-twin-evil-twin-evil-twin-evil-twin-evil-twin-evil-twin-evil-twin-evil-twin-evil-twin-evil-twin-evil-twin-evil-twin",
+            "id": "lightsmith-clariel-evil-twin",
             "name": "Lightsmith Clariel",
             "number": "067",
             "image": "https://cdn.keyforgegame.com/media/card_front/en/496_067_QQX4XF7P5J9Q_en.png",
@@ -3398,7 +3398,7 @@
             }
         },
         {
-            "id": "seneschal-sargassa-evil-twin-evil-twin-evil-twin-evil-twin-evil-twin-evil-twin-evil-twin-evil-twin-evil-twin-evil-twin-evil-twin-evil-twin",
+            "id": "seneschal-sargassa-evil-twin",
             "name": "Seneschal Sargassa",
             "number": "068",
             "image": "https://cdn.keyforgegame.com/media/card_front/en/496_068_6V3GQ4H3GH67_en.png",
@@ -3449,7 +3449,7 @@
             }
         },
         {
-            "id": "sir-bevor-evil-twin-evil-twin-evil-twin-evil-twin-evil-twin-evil-twin-evil-twin-evil-twin-evil-twin-evil-twin-evil-twin-evil-twin",
+            "id": "sir-bevor-evil-twin",
             "name": "Sir Bevor",
             "number": "069",
             "image": "https://cdn.keyforgegame.com/media/card_front/en/496_069_XMR45PV3G5R9_en.png",
@@ -3502,7 +3502,7 @@
             }
         },
         {
-            "id": "urien-the-circumspect-evil-twin-evil-twin-evil-twin-evil-twin-evil-twin-evil-twin-evil-twin-evil-twin-evil-twin-evil-twin-evil-twin-evil-twin",
+            "id": "urien-the-circumspect-evil-twin",
             "name": "Urien the Circumspect",
             "number": "070",
             "image": "https://cdn.keyforgegame.com/media/card_front/en/496_070_QGG5VP6Q5HF7_en.png",
@@ -6197,7 +6197,7 @@
             }
         },
         {
-            "id": "bestiarii-urso-evil-twin-evil-twin-evil-twin-evil-twin-evil-twin-evil-twin-evil-twin-evil-twin-evil-twin-evil-twin-evil-twin-evil-twin",
+            "id": "bestiarii-urso-evil-twin",
             "name": "Bestiarii Urso",
             "number": "124",
             "image": "https://cdn.keyforgegame.com/media/card_front/en/496_124_JH9VGQGCQ5G6_en.png",
@@ -6247,7 +6247,7 @@
             }
         },
         {
-            "id": "censor-philo-evil-twin-evil-twin-evil-twin-evil-twin-evil-twin-evil-twin-evil-twin-evil-twin-evil-twin-evil-twin-evil-twin-evil-twin",
+            "id": "censor-philo-evil-twin",
             "name": "Censor Philo",
             "number": "125",
             "image": "https://cdn.keyforgegame.com/media/card_front/en/496_125_33GV6CQWVQJ2_en.png",
@@ -6298,7 +6298,7 @@
             }
         },
         {
-            "id": "eclectic-ambrosius-evil-twin-evil-twin-evil-twin-evil-twin-evil-twin-evil-twin-evil-twin-evil-twin-evil-twin-evil-twin-evil-twin-evil-twin",
+            "id": "eclectic-ambrosius-evil-twin",
             "name": "Eclectic Ambrosius",
             "number": "126",
             "image": "https://cdn.keyforgegame.com/media/card_front/en/496_126_4CJ4765HJ674_en.png",
@@ -6348,7 +6348,7 @@
             }
         },
         {
-            "id": "lapisaurus-evil-twin-evil-twin-evil-twin-evil-twin-evil-twin-evil-twin-evil-twin-evil-twin-evil-twin-evil-twin-evil-twin-evil-twin",
+            "id": "lapisaurus-evil-twin",
             "name": "Lapisaurus",
             "number": "127",
             "image": "https://cdn.keyforgegame.com/media/card_front/en/496_127_R44F8PM658GH_en.png",
@@ -6400,7 +6400,7 @@
             }
         },
         {
-            "id": "magistra-vita-evil-twin-evil-twin-evil-twin-evil-twin-evil-twin-evil-twin-evil-twin-evil-twin-evil-twin-evil-twin-evil-twin-evil-twin",
+            "id": "magistra-vita-evil-twin",
             "name": "Magistra Vita",
             "number": "128",
             "image": "https://cdn.keyforgegame.com/media/card_front/en/496_128_R2CPP3J3G7X6_en.png",
@@ -6450,7 +6450,7 @@
             }
         },
         {
-            "id": "physicus-felix-evil-twin-evil-twin-evil-twin-evil-twin-evil-twin-evil-twin-evil-twin-evil-twin-evil-twin-evil-twin-evil-twin-evil-twin",
+            "id": "physicus-felix-evil-twin",
             "name": "Physicus Felix",
             "number": "129",
             "image": "https://cdn.keyforgegame.com/media/card_front/en/496_129_6MVFR6W6Q594_en.png",
@@ -6501,7 +6501,7 @@
             }
         },
         {
-            "id": "undagnathus-evil-twin-evil-twin-evil-twin-evil-twin-evil-twin-evil-twin-evil-twin-evil-twin-evil-twin-evil-twin-evil-twin-evil-twin",
+            "id": "undagnathus-evil-twin",
             "name": "Undagnathus",
             "number": "130",
             "image": "https://cdn.keyforgegame.com/media/card_front/en/496_130_VC3W7CFHV833_en.png",
@@ -9183,7 +9183,7 @@
             }
         },
         {
-            "id": "captain-no-beard-evil-twin-evil-twin-evil-twin-evil-twin-evil-twin-evil-twin-evil-twin-evil-twin-evil-twin-evil-twin-evil-twin-evil-twin",
+            "id": "captain-no-beard-evil-twin",
             "name": "Captain No-Beard",
             "number": "184",
             "image": "https://cdn.keyforgegame.com/media/card_front/en/496_184_85C27W4FCQP_en.png",
@@ -9236,7 +9236,7 @@
             }
         },
         {
-            "id": "freebooter-faye-evil-twin-evil-twin-evil-twin-evil-twin-evil-twin-evil-twin-evil-twin-evil-twin-evil-twin-evil-twin-evil-twin-evil-twin",
+            "id": "freebooter-faye-evil-twin",
             "name": "Freebooter Faye",
             "number": "185",
             "image": "https://cdn.keyforgegame.com/media/card_front/en/496_185_7HHX5JVMXG67_en.png",
@@ -9287,7 +9287,7 @@
             }
         },
         {
-            "id": "hard-simpson-evil-twin-evil-twin-evil-twin-evil-twin-evil-twin-evil-twin-evil-twin-evil-twin-evil-twin-evil-twin-evil-twin-evil-twin",
+            "id": "hard-simpson-evil-twin",
             "name": "Hard Simpson",
             "number": "186",
             "image": "https://cdn.keyforgegame.com/media/card_front/en/496_186_FJM7X672MRCC_en.png",
@@ -9338,7 +9338,7 @@
             }
         },
         {
-            "id": "hobnobber-evil-twin-evil-twin-evil-twin-evil-twin-evil-twin-evil-twin-evil-twin-evil-twin-evil-twin-evil-twin-evil-twin-evil-twin",
+            "id": "hobnobber-evil-twin",
             "name": "Hobnobber",
             "number": "187",
             "image": "https://cdn.keyforgegame.com/media/card_front/en/496_187_P26F9F3W2GC4_en.png",
@@ -9389,7 +9389,7 @@
             }
         },
         {
-            "id": "monty-bank-evil-twin-evil-twin-evil-twin-evil-twin-evil-twin-evil-twin-evil-twin-evil-twin-evil-twin-evil-twin-evil-twin-evil-twin",
+            "id": "monty-bank-evil-twin",
             "name": "Monty Bank",
             "number": "188",
             "image": "https://cdn.keyforgegame.com/media/card_front/en/496_188_55G7WJXVG24C_en.png",
@@ -9442,7 +9442,7 @@
             }
         },
         {
-            "id": "one-eyed-willa-evil-twin-evil-twin-evil-twin-evil-twin-evil-twin-evil-twin-evil-twin-evil-twin-evil-twin-evil-twin-evil-twin-evil-twin",
+            "id": "one-eyed-willa-evil-twin",
             "name": "One-Eyed Willa",
             "number": "189",
             "image": "https://cdn.keyforgegame.com/media/card_front/en/496_189_CF9PXV2VCX6Q_en.png",
@@ -9496,7 +9496,7 @@
             }
         },
         {
-            "id": "sea-urchin-evil-twin-evil-twin-evil-twin-evil-twin-evil-twin-evil-twin-evil-twin-evil-twin-evil-twin-evil-twin-evil-twin-evil-twin",
+            "id": "sea-urchin-evil-twin",
             "name": "Sea Urchin",
             "number": "190",
             "image": "https://cdn.keyforgegame.com/media/card_front/en/496_190_4PHMG63774J7_en.png",
@@ -12161,7 +12161,7 @@
             }
         },
         {
-            "id": "5c077-evil-twin-evil-twin-evil-twin-evil-twin-evil-twin-evil-twin-evil-twin-evil-twin-evil-twin-evil-twin-evil-twin-evil-twin",
+            "id": "5c077-evil-twin",
             "name": "5C077",
             "number": "243",
             "image": "https://cdn.keyforgegame.com/media/card_front/en/496_243_CFHMJPCVJQ99_en.png",
@@ -12211,7 +12211,7 @@
             }
         },
         {
-            "id": "cr-officer-hawkins-evil-twin-evil-twin-evil-twin-evil-twin-evil-twin-evil-twin-evil-twin-evil-twin-evil-twin-evil-twin-evil-twin-evil-twin",
+            "id": "cr-officer-hawkins-evil-twin",
             "name": "C.R. Officer Hawkins",
             "number": "244",
             "image": "https://cdn.keyforgegame.com/media/card_front/en/496_244_6VGCFG865JJ_en.png",
@@ -12263,7 +12263,7 @@
             }
         },
         {
-            "id": "ch-337a-evil-twin-evil-twin-evil-twin-evil-twin-evil-twin-evil-twin-evil-twin-evil-twin-evil-twin-evil-twin-evil-twin-evil-twin",
+            "id": "ch-337a-evil-twin",
             "name": "CH-337A",
             "number": "245",
             "image": "https://cdn.keyforgegame.com/media/card_front/en/496_245_5WQFX87RWG6H_en.png",
@@ -12315,7 +12315,7 @@
             }
         },
         {
-            "id": "colonist-chapman-evil-twin-evil-twin-evil-twin-evil-twin-evil-twin-evil-twin-evil-twin-evil-twin-evil-twin-evil-twin-evil-twin-evil-twin",
+            "id": "colonist-chapman-evil-twin",
             "name": "Colonist Chapman",
             "number": "246",
             "image": "https://cdn.keyforgegame.com/media/card_front/en/496_246_3HX2R44WR73H_en.png",
@@ -12367,7 +12367,7 @@
             }
         },
         {
-            "id": "operative-espion-evil-twin-evil-twin-evil-twin-evil-twin-evil-twin-evil-twin-evil-twin-evil-twin-evil-twin-evil-twin-evil-twin-evil-twin",
+            "id": "operative-espion-evil-twin",
             "name": "Operative Espion",
             "number": "247",
             "image": "https://cdn.keyforgegame.com/media/card_front/en/496_247_8PFJ3VJVQFVF_en.png",
@@ -12419,7 +12419,7 @@
             }
         },
         {
-            "id": "rocketeer-tryska-evil-twin-evil-twin-evil-twin-evil-twin-evil-twin-evil-twin-evil-twin-evil-twin-evil-twin-evil-twin-evil-twin-evil-twin",
+            "id": "rocketeer-tryska-evil-twin",
             "name": "Rocketeer Tryska",
             "number": "248",
             "image": "https://cdn.keyforgegame.com/media/card_front/en/496_248_WCQ44P8FM6RG_en.png",
@@ -12471,7 +12471,7 @@
             }
         },
         {
-            "id": "shield-u-later-evil-twin-evil-twin-evil-twin-evil-twin-evil-twin-evil-twin-evil-twin-evil-twin-evil-twin-evil-twin-evil-twin-evil-twin",
+            "id": "shield-u-later-evil-twin",
             "name": "Shield-U-Later",
             "number": "249",
             "image": "https://cdn.keyforgegame.com/media/card_front/en/496_249_XQFPP84PC4F3_en.png",
@@ -15304,7 +15304,7 @@
             }
         },
         {
-            "id": "flamegill-enforcer-evil-twin-evil-twin-evil-twin-evil-twin-evil-twin-evil-twin-evil-twin-evil-twin-evil-twin-evil-twin-evil-twin-evil-twin",
+            "id": "flamegill-enforcer-evil-twin",
             "name": "Flamegill Enforcer",
             "number": "306",
             "image": "https://cdn.keyforgegame.com/media/card_front/en/496_306_84P4JJF44CC8_en.png",
@@ -15354,7 +15354,7 @@
             }
         },
         {
-            "id": "giltspine-netcaster-evil-twin-evil-twin-evil-twin-evil-twin-evil-twin-evil-twin-evil-twin-evil-twin-evil-twin-evil-twin-evil-twin-evil-twin",
+            "id": "giltspine-netcaster-evil-twin",
             "name": "Giltspine Netcaster",
             "number": "307",
             "image": "https://cdn.keyforgegame.com/media/card_front/en/496_307_W2WPQ974P59R_en.png",
@@ -15404,7 +15404,7 @@
             }
         },
         {
-            "id": "horrid-synan-evil-twin-evil-twin-evil-twin-evil-twin-evil-twin-evil-twin-evil-twin-evil-twin-evil-twin-evil-twin-evil-twin-evil-twin",
+            "id": "horrid-synan-evil-twin",
             "name": "Horrid Synan",
             "number": "308",
             "image": "https://cdn.keyforgegame.com/media/card_front/en/496_308_MRMJX97MPH9X_en.png",
@@ -15457,7 +15457,7 @@
             }
         },
         {
-            "id": "kaupe-evil-twin-evil-twin-evil-twin-evil-twin-evil-twin-evil-twin-evil-twin-evil-twin-evil-twin-evil-twin-evil-twin-evil-twin",
+            "id": "kaupe-evil-twin",
             "name": "Kaupe",
             "number": "309",
             "image": "https://cdn.keyforgegame.com/media/card_front/en/496_309_VR296QMP4WQP_en.png",
@@ -15507,7 +15507,7 @@
             }
         },
         {
-            "id": "taniwha-evil-twin-evil-twin-evil-twin-evil-twin-evil-twin-evil-twin-evil-twin-evil-twin-evil-twin-evil-twin-evil-twin-evil-twin",
+            "id": "taniwha-evil-twin",
             "name": "Taniwha",
             "number": "310",
             "image": "https://cdn.keyforgegame.com/media/card_front/en/496_310_6CJCM8MJVXWG_en.png",
@@ -15557,7 +15557,7 @@
             }
         },
         {
-            "id": "tomwa-of-the-glow-evil-twin-evil-twin-evil-twin-evil-twin-evil-twin-evil-twin-evil-twin-evil-twin-evil-twin-evil-twin-evil-twin-evil-twin",
+            "id": "tomwa-of-the-glow-evil-twin",
             "name": "Tomwa of the Glow",
             "number": "311",
             "image": "https://cdn.keyforgegame.com/media/card_front/en/496_311_43F468RHCPP6_en.png",
@@ -15607,7 +15607,7 @@
             }
         },
         {
-            "id": "wikolia-evil-twin-evil-twin-evil-twin-evil-twin-evil-twin-evil-twin-evil-twin-evil-twin-evil-twin-evil-twin-evil-twin-evil-twin",
+            "id": "wikolia-evil-twin",
             "name": "Wikolia",
             "number": "312",
             "image": "https://cdn.keyforgegame.com/media/card_front/en/496_312_88F9H6VFHHXG_en.png",
@@ -18380,7 +18380,7 @@
             }
         },
         {
-            "id": "æmberfin-shark-evil-twin-evil-twin-evil-twin-evil-twin-evil-twin-evil-twin-evil-twin-evil-twin-evil-twin-evil-twin-evil-twin-evil-twin",
+            "id": "æmberfin-shark-evil-twin",
             "name": "Æmberfin Shark",
             "number": "368",
             "image": "https://cdn.keyforgegame.com/media/card_front/en/496_368_FPP9359538QF_en.png",
@@ -18430,7 +18430,7 @@
             }
         },
         {
-            "id": "chelonia-evil-twin-evil-twin-evil-twin-evil-twin-evil-twin-evil-twin-evil-twin-evil-twin-evil-twin-evil-twin-evil-twin-evil-twin",
+            "id": "chelonia-evil-twin",
             "name": "Chelonia",
             "number": "369",
             "image": "https://cdn.keyforgegame.com/media/card_front/en/496_369_QQ98WCXRW3QP_en.png",
@@ -18483,7 +18483,7 @@
             }
         },
         {
-            "id": "mookling-evil-twin-evil-twin-evil-twin-evil-twin-evil-twin-evil-twin-evil-twin-evil-twin-evil-twin-evil-twin-evil-twin-evil-twin",
+            "id": "mookling-evil-twin",
             "name": "Mookling",
             "number": "370",
             "image": "https://cdn.keyforgegame.com/media/card_front/en/496_370_7PQP2Q48W2VH_en.png",
@@ -18533,7 +18533,7 @@
             }
         },
         {
-            "id": "ol--paddy-evil-twin-evil-twin-evil-twin-evil-twin-evil-twin-evil-twin-evil-twin-evil-twin-evil-twin-evil-twin-evil-twin-evil-twin",
+            "id": "ol--paddy-evil-twin",
             "name": "Ol' Paddy",
             "number": "371",
             "image": "https://cdn.keyforgegame.com/media/card_front/en/496_371_9CM3M3CP75MF_en.png",
@@ -18584,7 +18584,7 @@
             }
         },
         {
-            "id": "sporegorger-evil-twin-evil-twin-evil-twin-evil-twin-evil-twin-evil-twin-evil-twin-evil-twin-evil-twin-evil-twin-evil-twin-evil-twin",
+            "id": "sporegorger-evil-twin",
             "name": "Sporegorger",
             "number": "372",
             "image": "https://cdn.keyforgegame.com/media/card_front/en/496_372_752XXM3XRP48_en.png",
@@ -18635,7 +18635,7 @@
             }
         },
         {
-            "id": "witch-of-the-dawn-evil-twin-evil-twin-evil-twin-evil-twin-evil-twin-evil-twin-evil-twin-evil-twin-evil-twin-evil-twin-evil-twin-evil-twin",
+            "id": "witch-of-the-dawn-evil-twin",
             "name": "Witch of the Dawn",
             "number": "373",
             "image": "https://cdn.keyforgegame.com/media/card_front/en/496_373_59QQ6499WX5F_en.png",
@@ -18685,7 +18685,7 @@
             }
         },
         {
-            "id": "youngest-bear-evil-twin-evil-twin-evil-twin-evil-twin-evil-twin-evil-twin-evil-twin-evil-twin-evil-twin-evil-twin-evil-twin-evil-twin",
+            "id": "youngest-bear-evil-twin",
             "name": "Youngest Bear",
             "number": "374",
             "image": "https://cdn.keyforgegame.com/media/card_front/en/496_374_PVMGXCXR7544_en.png",
