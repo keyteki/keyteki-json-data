@@ -1,0 +1,2700 @@
+{
+    "ids": [
+        "460"
+    ],
+    "code": "WoE",
+    "name": "Winds of Exchange",
+    "cardCount": "415",
+    "releaseDate": "2019-11-30",
+    "cards": [
+        {
+            "id": "berserker",
+            "name": "Berserker",
+            "number": "001",
+            "image": "Woe_Berserker.png",
+            "house": "brobnar",
+            "keywords": [],
+            "traits": [
+                "giant"
+            ],
+            "type": "token creature",
+            "rarity": "Token",
+            "amber": null,
+            "armor": null,
+            "power": 5,
+            "text": "Berserker enters play ready and enraged. Fight: Destroy Berserker.",
+            "locale": {
+                "en": {
+                    "name": "Berserker"
+                }
+            }
+        },
+        {
+            "id": "skirmisher",
+            "name": "Skirmisher",
+            "number": "003",
+            "image": "Woe_Skirmisher.png",
+            "house": "brobnar",
+            "keywords": [
+                "skirmish"
+            ],
+            "traits": [
+                "goblin"
+            ],
+            "type": "token creature",
+            "rarity": "Token",
+            "amber": null,
+            "armor": null,
+            "power": 2,
+            "text": "Skirmish. (When you use this creature to fight, it is dealt no damage in return.)",
+            "locale": {
+                "en": {
+                    "name": "Skirmisher"
+                }
+            }
+        },
+        {
+            "id": "nirbor-firewing",
+            "name": "Nirbor Firewing",
+            "number": "020",
+            "image": "Woe_nirbor.jpg",
+            "house": "brobnar",
+            "keywords": [],
+            "traits": [
+                "phoenix"
+            ],
+            "type": "creature",
+            "rarity": "Rare",
+            "amber": null,
+            "armor": null,
+            "power": 4,
+            "text": "At the start of your turn, if Nirbor Firewing is in your discard, you may destroy a friendly token creature. If you do, put Nirbor Firewing into play ready.  Destroyed: Make a token creature.",
+            "locale": {
+                "en": {
+                    "name": "Nirbor Firewing"
+                }
+            }
+        },
+        {
+            "id": "revna-starsong",
+            "name": "Revna Starsong",
+            "number": "022",
+            "image": "Woe_Revna_Starsong.png",
+            "house": "brobnar",
+            "keywords": [],
+            "traits": [
+                "giant"
+            ],
+            "type": "creature",
+            "rarity": "Rare",
+            "amber": null,
+            "armor": null,
+            "power": 7,
+            "text": "Each friendly Berserker loses all fight effects.",
+            "locale": {
+                "en": {
+                    "name": "Revna Starsong"
+                }
+            }
+        },
+        {
+            "id": "broken-axe-outpost",
+            "name": "Broken Axe Outpost",
+            "number": "027",
+            "image": "Woe_BrokenAxeOutpost.png",
+            "house": "brobnar",
+            "keywords": [],
+            "traits": [
+                "location"
+            ],
+            "type": "artifact",
+            "rarity": "Uncommon",
+            "amber": 1,
+            "armor": null,
+            "power": null,
+            "text": "Action: Put a friendly creature on the bottom of its owner&#039;s deck. If you do, deal 6 D to an enemy creature.",
+            "locale": {
+                "en": {
+                    "name": "Broken Axe Outpost"
+                }
+            }
+        },
+        {
+            "id": "vow-of-blood",
+            "name": "Vow of Blood",
+            "number": "039",
+            "image": "Woe_VowofBlood.png",
+            "house": "brobnar",
+            "keywords": [],
+            "traits": [],
+            "type": "action",
+            "rarity": "Uncommon",
+            "amber": 1,
+            "armor": null,
+            "power": null,
+            "text": "Enhance Damage DamagePlay: Deal 2 Damage to each damaged enemy creature.",
+            "locale": {
+                "en": {
+                    "name": "Vow of Blood"
+                }
+            }
+        },
+        {
+            "id": "crogg-the-clumsy",
+            "name": "Crogg The Clumsy",
+            "number": "040",
+            "image": "Woe-Crogg-the-clumsy.jpg",
+            "house": "brobnar",
+            "keywords": [],
+            "traits": [
+                "giant"
+            ],
+            "type": "creature",
+            "rarity": "Common",
+            "amber": null,
+            "armor": null,
+            "power": 7,
+            "text": "Splash-attack 2. (When this creature attacks, also deal 2 Damage to each of the attacked creature&#039;s neighbors.)",
+            "locale": {
+                "en": {
+                    "name": "Crogg The Clumsy"
+                }
+            }
+        },
+        {
+            "id": "brawl-in",
+            "name": "Brawl In",
+            "number": "042",
+            "image": "Woe_Brawl-In.png",
+            "house": "brobnar",
+            "keywords": [],
+            "traits": [],
+            "type": "action",
+            "rarity": "Uncommon",
+            "amber": null,
+            "armor": null,
+            "power": null,
+            "text": "Play: Make 2 token creatures. Enrage them.",
+            "locale": {
+                "en": {
+                    "name": "Brawl In"
+                }
+            }
+        },
+        {
+            "id": "brikk-nastee",
+            "name": "Brikk Nastee",
+            "number": "043",
+            "image": "Woe_Brikk_Nastee.jpg",
+            "house": "brobnar",
+            "keywords": [],
+            "traits": [
+                "giant"
+            ],
+            "type": "creature",
+            "rarity": "Common",
+            "amber": null,
+            "armor": null,
+            "power": 5,
+            "text": "After another friendly Brobnar creature fights, gain 1 Aember.",
+            "locale": {
+                "en": {
+                    "name": "Brikk Nastee"
+                }
+            }
+        },
+        {
+            "id": "might-club",
+            "name": "Might Club",
+            "number": "044",
+            "image": "Woe-Might-club.jpg",
+            "house": "brobnar",
+            "keywords": [],
+            "traits": [
+                "weapon"
+            ],
+            "type": "artifact",
+            "rarity": "Common",
+            "amber": null,
+            "armor": null,
+            "power": null,
+            "text": "Action: Ready and enrage a creature.",
+            "locale": {
+                "en": {
+                    "name": "Might Club"
+                }
+            }
+        },
+        {
+            "id": "rowdy-skald",
+            "name": "Rowdy Skald",
+            "number": "050",
+            "image": "Woe-Rowdy-skald.jpg",
+            "house": "brobnar",
+            "keywords": [],
+            "traits": [
+                "goblin"
+            ],
+            "type": "creature",
+            "rarity": "Common",
+            "amber": null,
+            "armor": null,
+            "power": null,
+            "text": "Enhance Aember Damage Damage",
+            "locale": {
+                "en": {
+                    "name": "Rowdy Skald"
+                }
+            }
+        },
+        {
+            "id": "shock-herder",
+            "name": "Shock Herder",
+            "number": "051",
+            "image": "Woe-Shock-herder.jpg",
+            "house": "brobnar",
+            "keywords": [
+                "deploy"
+            ],
+            "traits": [
+                "goblin"
+            ],
+            "type": "creature",
+            "rarity": "Common",
+            "amber": null,
+            "armor": null,
+            "power": 3,
+            "text": "Deploy. (This creature can enter play anywhere in your battleline.) Play: Ready and fight with a neighboring creature.",
+            "locale": {
+                "en": {
+                    "name": "Shock Herder"
+                }
+            }
+        },
+        {
+            "id": "ragnarok-prep",
+            "name": "Ragnarok Prep",
+            "number": "052",
+            "image": "Woe-Ragnarok-prep.jpg",
+            "house": "brobnar",
+            "keywords": [],
+            "traits": [],
+            "type": "action",
+            "rarity": "Common",
+            "amber": null,
+            "armor": null,
+            "power": null,
+            "text": "Play: Make a token creature. Then, if you control more creatures than your opponent, your opponent loses 2 Aember.",
+            "locale": {
+                "en": {
+                    "name": "Ragnarok Prep"
+                }
+            }
+        },
+        {
+            "id": "diplomat",
+            "name": "Diplomat",
+            "number": "057",
+            "image": "Woe_Diplomat.png",
+            "house": "ekwidon",
+            "keywords": [
+                "elusive"
+            ],
+            "traits": [
+                "getrookya",
+                "politician"
+            ],
+            "type": "token creature",
+            "rarity": "Token",
+            "amber": null,
+            "armor": null,
+            "power": 1,
+            "text": "Elusive. (The first time this creature is attacked each turn, no damage is dealt.) Reap&#039; Each player gains 1 Æmber.",
+            "locale": {
+                "en": {
+                    "name": "Diplomat"
+                }
+            }
+        },
+        {
+            "id": "trader",
+            "name": "Trader",
+            "number": "058",
+            "image": "Woe_Trader.png",
+            "house": "ekwidon",
+            "keywords": [],
+            "traits": [
+                "getrookya",
+                "merchant"
+            ],
+            "type": "token creature",
+            "rarity": "Token",
+            "amber": 0,
+            "armor": null,
+            "power": 1,
+            "text": "Action: Steal 1 A. Destroy Merchant.",
+            "locale": {
+                "en": {
+                    "name": "Trader"
+                }
+            }
+        },
+        {
+            "id": "prospector",
+            "name": "Prospector",
+            "number": "059",
+            "image": "Woe_Prospector.png",
+            "house": "ekwidon",
+            "keywords": [],
+            "traits": [
+                "human"
+            ],
+            "type": "token creature",
+            "rarity": "Token",
+            "amber": null,
+            "armor": null,
+            "power": 1,
+            "text": "Destroyed: Draw a card.",
+            "locale": {
+                "en": {
+                    "name": "Prospector"
+                }
+            }
+        },
+        {
+            "id": "strange-shell",
+            "name": "Strange Shell",
+            "number": "060",
+            "image": "Woe_Strange_Shell.jpg",
+            "house": "ekwidon",
+            "keywords": [],
+            "traits": [
+                "beast"
+            ],
+            "type": "token creature",
+            "rarity": "Token",
+            "amber": null,
+            "armor": null,
+            "power": 1,
+            "text": "Strange Shell cannot fight or reap. Action: Put Strange Shell into your hand.",
+            "locale": {
+                "en": {
+                    "name": "Strange Shell"
+                }
+            }
+        },
+        {
+            "id": "æmbitrage",
+            "name": "Æmbitrage",
+            "number": "061",
+            "image": "Woe_Æmbitrage.png",
+            "house": "ekwidon",
+            "keywords": [],
+            "traits": [
+                "power"
+            ],
+            "type": "artifact",
+            "rarity": "Rare",
+            "amber": null,
+            "armor": null,
+            "power": null,
+            "text": "Your keys cost +1 Aember. During your \"draw cards\" step, refill your hand to 1 additional card.",
+            "locale": {
+                "en": {
+                    "name": "Æmbitrage"
+                }
+            }
+        },
+        {
+            "id": "corner-the-market",
+            "name": "Corner the Market",
+            "number": "069",
+            "image": "Woe_CornertheMarket.png",
+            "house": "ekwidon",
+            "keywords": [],
+            "traits": [],
+            "type": "action",
+            "rarity": "Rare",
+            "amber": null,
+            "armor": null,
+            "power": null,
+            "text": "Play: During your opponent&#039;s next turn, they cannot play cards, and each time they discard a card from their hand, they make a token creature.",
+            "locale": {
+                "en": {
+                    "name": "Corner the Market"
+                }
+            }
+        },
+        {
+            "id": "cursed-relic",
+            "name": "Cursed Relic",
+            "number": "070",
+            "image": "Woe_CursedRelic.png",
+            "house": "ekwidon",
+            "keywords": [],
+            "traits": [],
+            "type": "artifact",
+            "rarity": "Rare",
+            "amber": null,
+            "armor": null,
+            "power": null,
+            "text": "Enhance Aember Aember Aember Aember Aember Aember. You cannot play Cursed Relic or choose to discard it from your hand.",
+            "locale": {
+                "en": {
+                    "name": "Cursed Relic"
+                }
+            }
+        },
+        {
+            "id": "envoy-of-ekwirrĕ",
+            "name": "Envoy of Ekwirrĕ",
+            "number": "071",
+            "image": "Woe_Envoy.png",
+            "house": "ekwidon",
+            "keywords": [],
+            "traits": [
+                "getrookya"
+            ],
+            "type": "creature",
+            "rarity": "Rare",
+            "amber": null,
+            "armor": null,
+            "power": 5,
+            "text": "Reap: Swap Envoy of Ekwirrĕ with one of its neighbors. Also swap all Aember, damage, counters, and upgrades on those creatures.",
+            "locale": {
+                "en": {
+                    "name": "Envoy of Ekwirrĕ"
+                }
+            }
+        },
+        {
+            "id": "flea-market",
+            "name": "Flea Market",
+            "number": "072",
+            "image": "Woe_Flea-Market.png",
+            "house": "ekwidon",
+            "keywords": [],
+            "traits": [
+                "location"
+            ],
+            "type": "artifact",
+            "rarity": "Rare",
+            "amber": null,
+            "armor": null,
+            "power": null,
+            "text": "Action: Look at a random card in your opponent&#039;s hand. You may give your opponent 1 Aember. If you do, play that card as if it were yours.",
+            "locale": {
+                "en": {
+                    "name": "Flea Market"
+                }
+            }
+        },
+        {
+            "id": "molluscaller",
+            "name": "Molluscaller",
+            "number": "076",
+            "image": "Woe_Molluscaller.jpg",
+            "house": "ekwidon",
+            "keywords": [],
+            "traits": [
+                "getrookya"
+            ],
+            "type": "creature",
+            "rarity": "Rare",
+            "amber": null,
+            "armor": 4,
+            "power": 4,
+            "text": "Reap: For the remainder of the turn, each friendly Strange Shell gets +3 power and loses all abilities.",
+            "locale": {
+                "en": {
+                    "name": "Molluscaller"
+                }
+            }
+        },
+        {
+            "id": "talent-scout",
+            "name": "Talent Scout",
+            "number": "079",
+            "image": "Woe_Talent-Scout.png",
+            "house": "ekwidon",
+            "keywords": [],
+            "traits": [
+                "getrookya"
+            ],
+            "type": "creature",
+            "rarity": "Rare",
+            "amber": 1,
+            "armor": null,
+            "power": 2,
+            "text": "Talent Hunter can be used as if it belonged to the active house. Play: Look at your opponent&#039;s hand and play a creature as if it were yours. Your opponent gains control of Talent Hunter.",
+            "locale": {
+                "en": {
+                    "name": "Talent Scout"
+                }
+            }
+        },
+        {
+            "id": "belligerent-guard",
+            "name": "Belligerent Guard",
+            "number": "084",
+            "image": "Woe_Belligerent_Guard.png",
+            "house": "ekwidon",
+            "keywords": [],
+            "traits": [
+                "giant"
+            ],
+            "type": "creature",
+            "rarity": "Common",
+            "amber": null,
+            "armor": null,
+            "power": 8,
+            "text": "Belligerent Guard enters play ready. Play: Your opponent draws a card.",
+            "locale": {
+                "en": {
+                    "name": "Belligerent Guard"
+                }
+            }
+        },
+        {
+            "id": "exchange-program",
+            "name": "Exchange Program",
+            "number": "085",
+            "image": "Woe_Exchange_Program.png",
+            "house": "ekwidon",
+            "keywords": [],
+            "traits": [],
+            "type": "action",
+            "rarity": "Uncommon",
+            "amber": 1,
+            "armor": null,
+            "power": null,
+            "text": "Play: Choose a friendly flank creature and an enemy flank creature. If you do, swap control of those creatures.",
+            "locale": {
+                "en": {
+                    "name": "Exchange Program"
+                }
+            }
+        },
+        {
+            "id": "niffle-paw",
+            "name": "Niffle Paw",
+            "number": "091",
+            "image": "Woe_Niffle_Paw.png",
+            "house": "ekwidon",
+            "keywords": [],
+            "traits": [],
+            "type": "upgrade",
+            "rarity": "Uncommon",
+            "amber": 1,
+            "armor": null,
+            "power": null,
+            "text": "This creature gains, \"Reap: Destroy this creature and attach Niffle Paw to another creature.",
+            "locale": {
+                "en": {
+                    "name": "Niffle Paw"
+                }
+            }
+        },
+        {
+            "id": "outnegotiate",
+            "name": "Outnegotiate",
+            "number": "092",
+            "image": "Woe_Outnegotiate.png",
+            "house": "ekwidon",
+            "keywords": [],
+            "traits": [],
+            "type": "action",
+            "rarity": "Uncommon",
+            "amber": 1,
+            "armor": null,
+            "power": null,
+            "text": "Play: Choose a card in your discard pile. Steal Aember equal to the number of Aember bonus icons on it and put that card on the bottom of its owner&#039;s deck.",
+            "locale": {
+                "en": {
+                    "name": "Outnegotiate"
+                }
+            }
+        },
+        {
+            "id": "puzzling-trinket",
+            "name": "Puzzling Trinket",
+            "number": "094",
+            "image": "Woe_Puzzling_Trinket.jpg",
+            "house": "ekwidon",
+            "keywords": [],
+            "traits": [
+                "item"
+            ],
+            "type": "artifact",
+            "rarity": "Uncommon",
+            "amber": null,
+            "armor": null,
+            "power": null,
+            "text": "Enhance Aember Aember. When you resolve an Aember bonus icon, you may choose to resole it as a Capture, Damage, or Draw icon instead.",
+            "locale": {
+                "en": {
+                    "name": "Puzzling Trinket"
+                }
+            }
+        },
+        {
+            "id": "scrapscrounger",
+            "name": "Scrapscrounger",
+            "number": "096",
+            "image": "Woe_096.jpg",
+            "house": "ekwidon",
+            "keywords": [],
+            "traits": [
+                "getrookya",
+                "artisan"
+            ],
+            "type": "creature",
+            "rarity": "Uncommon",
+            "amber": null,
+            "armor": null,
+            "power": 4,
+            "text": "Reap: Swap an artifact in your discard pile with a card in your hand.",
+            "locale": {
+                "en": {
+                    "name": "Scrapscrounger"
+                }
+            }
+        },
+        {
+            "id": "transitory-philosopher",
+            "name": "Transitory Philosopher",
+            "number": "098",
+            "image": "Woe_Transitory_Philosopher.png",
+            "house": "ekwidon",
+            "keywords": [],
+            "traits": [
+                "getrookya",
+                "philosopher"
+            ],
+            "type": "creature",
+            "rarity": "Uncommon",
+            "amber": null,
+            "armor": null,
+            "power": 5,
+            "text": "Action: Steal 1 Aember for each enemy artifact.",
+            "locale": {
+                "en": {
+                    "name": "Transitory Philosopher"
+                }
+            }
+        },
+        {
+            "id": "ornate-talking-tray",
+            "name": "Ornate Talking Tray",
+            "number": "100",
+            "image": "Woe-Ornate-talking-tray.jpg",
+            "house": "ekwidon",
+            "keywords": [],
+            "traits": [
+                "item"
+            ],
+            "type": "artifact",
+            "rarity": "Common",
+            "amber": null,
+            "armor": null,
+            "power": null,
+            "text": "Omni: Destroy Ornate Talking Tray. Make a token creature.",
+            "locale": {
+                "en": {
+                    "name": "Ornate Talking Tray"
+                }
+            }
+        },
+        {
+            "id": "closed-door-negotiation",
+            "name": "Closed-Door Negotiation",
+            "number": "101",
+            "image": "Woe_Closed-Door-Negotiation.png",
+            "house": "ekwidon",
+            "keywords": [],
+            "traits": [],
+            "type": "action",
+            "rarity": "Common",
+            "amber": 1,
+            "armor": null,
+            "power": null,
+            "text": "Play: Your opponent draws a card. Steal 1 Aember. If you do and your opponent still has more Aember than you, trigger this effect again.",
+            "locale": {
+                "en": {
+                    "name": "Closed-Door Negotiation"
+                }
+            }
+        },
+        {
+            "id": "gemcoat-vendor",
+            "name": "Gemcoat Vendor",
+            "number": "104",
+            "image": "Woe-Gemcoat-vendor.jpg",
+            "house": "ekwidon",
+            "keywords": [],
+            "traits": [
+                "getrookya",
+                "merchant"
+            ],
+            "type": "creature",
+            "rarity": "Common",
+            "amber": null,
+            "armor": null,
+            "power": 6,
+            "text": "Action: Steal 1 Aember. Deal 1 Damage to Gemcoat Vendor.",
+            "locale": {
+                "en": {
+                    "name": "Gemcoat Vendor"
+                }
+            }
+        },
+        {
+            "id": "general-ză-orhă",
+            "name": "General Ză Orhă",
+            "number": "105",
+            "image": "Woe-General-za-orha.jpg",
+            "house": "ekwidon",
+            "keywords": [
+                "skirmish"
+            ],
+            "traits": [
+                "getrookya",
+                "soldier"
+            ],
+            "type": "creature",
+            "rarity": "Common",
+            "amber": null,
+            "armor": null,
+            "power": 4,
+            "text": "Skirmish. (When you use this creature to fight, it is dealt no damge in return.) Play: For each forged key your opponent has, make a token creature.",
+            "locale": {
+                "en": {
+                    "name": "General Ză Orhă"
+                }
+            }
+        },
+        {
+            "id": "generous-offer",
+            "name": "Generous Offer",
+            "number": "106",
+            "image": "Woe_GenerousOffer.png",
+            "house": "ekwidon",
+            "keywords": [],
+            "traits": [],
+            "type": "action",
+            "rarity": "Common",
+            "amber": null,
+            "armor": null,
+            "power": null,
+            "text": "Play: Destroy a friendly creature. If you do, steal 2 Aember.",
+            "locale": {
+                "en": {
+                    "name": "Generous Offer"
+                }
+            }
+        },
+        {
+            "id": "hire-on",
+            "name": "Hire On",
+            "number": "107",
+            "image": "Woe-Hire-on.jpg",
+            "house": "ekwidon",
+            "keywords": [],
+            "traits": [],
+            "type": "action",
+            "rarity": "Common",
+            "amber": null,
+            "armor": null,
+            "power": null,
+            "text": "Play: Make a token creature. If there is a combined total of 6 Aember or more between both players&#039; pools, archive Hire On.",
+            "locale": {
+                "en": {
+                    "name": "Hire On"
+                }
+            }
+        },
+        {
+            "id": "mass-buyout",
+            "name": "Mass Buyout",
+            "number": "108",
+            "image": "Woe_Mass-Buyout.png",
+            "house": "ekwidon",
+            "keywords": [],
+            "traits": [],
+            "type": "action",
+            "rarity": "Common",
+            "amber": null,
+            "armor": null,
+            "power": null,
+            "text": "Play: Destroy each creature. Each player gains Æmber equal to half the number of creatures they controlled that were destroyed this way (rounded up).",
+            "locale": {
+                "en": {
+                    "name": "Mass Buyout"
+                }
+            }
+        },
+        {
+            "id": "shopping-spree",
+            "name": "Shopping Spree",
+            "number": "110",
+            "image": "Woe_Shopping_Spree.png",
+            "house": "ekwidon",
+            "keywords": [],
+            "traits": [],
+            "type": "action",
+            "rarity": "Uncommon",
+            "amber": null,
+            "armor": null,
+            "power": null,
+            "text": "Play: Discard your hand. Draw a card for each card discarded this way.",
+            "locale": {
+                "en": {
+                    "name": "Shopping Spree"
+                }
+            }
+        },
+        {
+            "id": "steward-su-uzaynĕ",
+            "name": "Steward Su-uzaynĕ",
+            "number": "112",
+            "image": "Woe-Steward-su-uzyane.jpg",
+            "house": "ekwidon",
+            "keywords": [],
+            "traits": [
+                "human",
+                "artisan"
+            ],
+            "type": "creature",
+            "rarity": "Common",
+            "amber": null,
+            "armor": null,
+            "power": 2,
+            "text": "Enhance Aember Aember Draw. (These icons have already been added to cards in your deck.)",
+            "locale": {
+                "en": {
+                    "name": "Steward Su-uzaynĕ"
+                }
+            }
+        },
+        {
+            "id": "the-old-tinker",
+            "name": "The Old Tinker",
+            "number": "113",
+            "image": "Woe_TheOldTinker.png",
+            "house": "ekwidon",
+            "keywords": [
+                "elusive"
+            ],
+            "traits": [
+                "getrookya",
+                "artisan"
+            ],
+            "type": "creature",
+            "rarity": "Common",
+            "amber": null,
+            "armor": null,
+            "power": 3,
+            "text": "Elusive. (The first time this creature is attacked each turn, no damage is dealt.) Reap: Discard a card from your hand. If you do, draw a card.",
+            "locale": {
+                "en": {
+                    "name": "The Old Tinker"
+                }
+            }
+        },
+        {
+            "id": "the-visible-hand",
+            "name": "The Visible Hand",
+            "number": "114",
+            "image": "Woe-The-visible-hand.jpg",
+            "house": "ekwidon",
+            "keywords": [],
+            "traits": [],
+            "type": "action",
+            "rarity": "Common",
+            "amber": null,
+            "armor": null,
+            "power": null,
+            "text": "Play: Make 2 token creatures. Reveal your hand to your opponent.",
+            "locale": {
+                "en": {
+                    "name": "The Visible Hand"
+                }
+            }
+        },
+        {
+            "id": "blorb",
+            "name": "Blorb",
+            "number": "116",
+            "image": "Woe_Blorb.png",
+            "house": "mars",
+            "keywords": [],
+            "traits": [
+                "beast"
+            ],
+            "type": "token creature",
+            "rarity": "Token",
+            "amber": null,
+            "armor": null,
+            "power": 1,
+            "text": "Blorb cannot reap. Destroyed: Return Blorb Hive from your discard pile to your hand.",
+            "locale": {
+                "en": {
+                    "name": "Blorb"
+                }
+            }
+        },
+        {
+            "id": "grunt",
+            "name": "Grunt",
+            "number": "117",
+            "image": "Woe_Grunt.png",
+            "house": "mars",
+            "keywords": "notihng",
+            "traits": [
+                "martian",
+                "soldier"
+            ],
+            "type": "token creature",
+            "rarity": "Token",
+            "amber": null,
+            "armor": null,
+            "power": 3,
+            "text": "no text",
+            "locale": {
+                "en": {
+                    "name": "Grunt"
+                }
+            }
+        },
+        {
+            "id": "rebel",
+            "name": "Rebel",
+            "number": "118",
+            "image": "Woe_Rebel.png",
+            "house": "mars",
+            "keywords": [],
+            "traits": [
+                "martian",
+                "ironyx"
+            ],
+            "type": "token creature",
+            "rarity": "Token",
+            "amber": null,
+            "armor": null,
+            "power": 1,
+            "text": "Reap: Deal 1 D to a creature.",
+            "locale": {
+                "en": {
+                    "name": "Rebel"
+                }
+            }
+        },
+        {
+            "id": "researcher",
+            "name": "Researcher",
+            "number": "119",
+            "image": "Woe_Researcher.png",
+            "house": "mars",
+            "keywords": [],
+            "traits": [
+                "martian",
+                "scientist"
+            ],
+            "type": "token creature",
+            "rarity": "Token",
+            "amber": null,
+            "armor": null,
+            "power": 1,
+            "text": "Omni:  Reveal a Mars card from your hand and archive it.",
+            "locale": {
+                "en": {
+                    "name": "Researcher"
+                }
+            }
+        },
+        {
+            "id": "blorb-hive",
+            "name": "Blorb Hive",
+            "number": "121",
+            "image": "Woe_BlorbHive.png",
+            "house": "mars",
+            "keywords": [],
+            "traits": [
+                "location"
+            ],
+            "type": "artifact",
+            "rarity": "Rare",
+            "amber": null,
+            "armor": null,
+            "power": null,
+            "text": "Omni:&#039;Destroy a friendly creature. If you do, make 2 Blorbs. Then, if you control 10 or more, Blorbs, destroy Blorb Hive and forge a key at no cost.",
+            "locale": {
+                "en": {
+                    "name": "Blorb Hive"
+                }
+            }
+        },
+        {
+            "id": "borka-rikk",
+            "name": "Borka Rikk",
+            "number": "122",
+            "image": "Woe_borka_nikk.png",
+            "house": "mars",
+            "keywords": [],
+            "traits": [
+                "martian",
+                "ironyx"
+            ],
+            "type": "creature",
+            "rarity": "Rare",
+            "amber": null,
+            "armor": null,
+            "power": 4,
+            "text": "Each time a Mars card is discarded from your hand, make a token creature.",
+            "locale": {
+                "en": {
+                    "name": "Borka Rikk"
+                }
+            }
+        },
+        {
+            "id": "white-aeronaut",
+            "name": "White Aeronaut",
+            "number": "136",
+            "image": "Woe_white_aeronaut.jpg",
+            "house": "mars",
+            "keywords": [],
+            "traits": [
+                "martian",
+                "pilot"
+            ],
+            "type": "creature",
+            "rarity": "Fixed",
+            "amber": null,
+            "armor": null,
+            "power": 3,
+            "text": "When you exhaust White Aeronaut to use Nautilixian, ward and heal Nautilixian completely.",
+            "locale": {
+                "en": {
+                    "name": "White Aeronaut"
+                }
+            }
+        },
+        {
+            "id": "martian-revolution",
+            "name": "Martian Revolution",
+            "number": "138",
+            "image": "Woe_Martian_Revolution.png",
+            "house": "mars",
+            "keywords": [],
+            "traits": [],
+            "type": "action",
+            "rarity": "Rare",
+            "amber": 1,
+            "armor": null,
+            "power": null,
+            "text": "Play: Destroy each friendly creature. For each creature destroyed this way, make a token creature.",
+            "locale": {
+                "en": {
+                    "name": "Martian Revolution"
+                }
+            }
+        },
+        {
+            "id": "space-invaders",
+            "name": "Space Invaders",
+            "number": "157",
+            "image": "Woe_SpaceInvaders.png",
+            "house": "mars",
+            "keywords": [],
+            "traits": [],
+            "type": "action",
+            "rarity": "Uncommon",
+            "amber": null,
+            "armor": null,
+            "power": null,
+            "text": "Play: Reveal any number of creatures from your hand. Put each creature revealed this way into play facedown as a token creature.",
+            "locale": {
+                "en": {
+                    "name": "Space Invaders"
+                }
+            }
+        },
+        {
+            "id": "yxl-the-iron-captain",
+            "name": "Yxl the Iron Captain",
+            "number": "159",
+            "image": "Woe_Yxl.png",
+            "house": "mars",
+            "keywords": [],
+            "traits": [
+                "martian",
+                "ironyx"
+            ],
+            "type": "creature",
+            "rarity": "Uncommon",
+            "amber": null,
+            "armor": 1,
+            "power": 4,
+            "text": "Play: Each friendly Ironyx creature captures 2 Aember.",
+            "locale": {
+                "en": {
+                    "name": "Yxl the Iron Captain"
+                }
+            }
+        },
+        {
+            "id": "clone-home",
+            "name": "Clone Home",
+            "number": "162",
+            "image": "Woe-Clone-home.jpg",
+            "house": "mars",
+            "keywords": [],
+            "traits": [],
+            "type": "action",
+            "rarity": "Common",
+            "amber": null,
+            "armor": null,
+            "power": null,
+            "text": "Play: Make a token creature. If there are more friendly creatures than enemy creatures, archive Clone Home.",
+            "locale": {
+                "en": {
+                    "name": "Clone Home"
+                }
+            }
+        },
+        {
+            "id": "genetic-blast",
+            "name": "Genetic Blast",
+            "number": "163",
+            "image": "Woe_Genetic_Blast.png",
+            "house": "mars",
+            "keywords": [],
+            "traits": [],
+            "type": "action",
+            "rarity": "Common",
+            "amber": 1,
+            "armor": null,
+            "power": null,
+            "text": "Play: Deal 2 Damage to a creature and each other creature with the same name as that creature.",
+            "locale": {
+                "en": {
+                    "name": "Genetic Blast"
+                }
+            }
+        },
+        {
+            "id": "glylyx-weaponsmith",
+            "name": "Glylyx Weaponsmith",
+            "number": "164",
+            "image": "Woe-Glylyx-weaponsmith.jpg",
+            "house": "mars",
+            "keywords": [],
+            "traits": [
+                "martian",
+                "artisan"
+            ],
+            "type": "creature",
+            "rarity": "Common",
+            "amber": null,
+            "armor": 1,
+            "power": 4,
+            "text": "Enhance Damage Damage Draw. (These icons have been already added to cards in your deck.)",
+            "locale": {
+                "en": {
+                    "name": "Glylyx Weaponsmith"
+                }
+            }
+        },
+        {
+            "id": "ironyx-rebel",
+            "name": "Ironyx Rebel",
+            "number": "166",
+            "image": "Woe_IronyxRebel.png",
+            "house": "mars",
+            "keywords": [
+                "deploy"
+            ],
+            "traits": [
+                "martian",
+                "ironyx"
+            ],
+            "type": "creature",
+            "rarity": "Common",
+            "amber": null,
+            "armor": null,
+            "power": null,
+            "text": "Deploy. \n &#039;&#039;&#039;Play:&#039;&#039;&#039;(?) Ready each of Ironyx Rebel&#039;s neighbors.",
+            "locale": {
+                "en": {
+                    "name": "Ironyx Rebel"
+                }
+            }
+        },
+        {
+            "id": "ironyx-vatminder",
+            "name": "Ironyx Vatminder",
+            "number": "167",
+            "image": "Woe-Ironyx-vatminder.jpg",
+            "house": "mars",
+            "keywords": [],
+            "traits": [
+                "martian",
+                "ironyx"
+            ],
+            "type": "creature",
+            "rarity": "Common",
+            "amber": null,
+            "armor": 1,
+            "power": 3,
+            "text": "Play/Destroyed: Make a token creature.",
+            "locale": {
+                "en": {
+                    "name": "Ironyx Vatminder"
+                }
+            }
+        },
+        {
+            "id": "kaboom",
+            "name": "Kaboom!",
+            "number": "168",
+            "image": "Woe-Kaboom.jpg",
+            "house": "mars",
+            "keywords": [],
+            "traits": [],
+            "type": "action",
+            "rarity": "Common",
+            "amber": null,
+            "armor": null,
+            "power": null,
+            "text": "Play: Put each Mars creature into its owner&#039;s archives. Destroy each creature. Gain 3 chains.",
+            "locale": {
+                "en": {
+                    "name": "Kaboom!"
+                }
+            }
+        },
+        {
+            "id": "mk2-generator",
+            "name": "Mk.2 Generator",
+            "number": "170",
+            "image": "Woe_Mk2Generator.png",
+            "house": "mars",
+            "keywords": [],
+            "traits": [
+                "item"
+            ],
+            "type": "artifact",
+            "rarity": "Common",
+            "amber": null,
+            "armor": null,
+            "power": null,
+            "text": "Mk.2 Generator enter play ready. Action: Make a token creature.",
+            "locale": {
+                "en": {
+                    "name": "Mk.2 Generator"
+                }
+            }
+        },
+        {
+            "id": "myx-the-tallminded",
+            "name": "Myx the Tallminded",
+            "number": "172",
+            "image": "Woe-Myx-the-tallminded.jpg",
+            "house": "mars",
+            "keywords": [],
+            "traits": [
+                "martian"
+            ],
+            "type": "creature",
+            "rarity": "Common",
+            "amber": null,
+            "armor": null,
+            "power": 5,
+            "text": "Your opponent&#039;s keys cost +1 Aember for each friendly Mars creature in play.",
+            "locale": {
+                "en": {
+                    "name": "Myx the Tallminded"
+                }
+            }
+        },
+        {
+            "id": "scoop-up",
+            "name": "Scoop Up",
+            "number": "173",
+            "image": "Woe-Scoop-up.jpg",
+            "house": "mars",
+            "keywords": [],
+            "traits": [],
+            "type": "action",
+            "rarity": "Common",
+            "amber": 1,
+            "armor": null,
+            "power": null,
+            "text": "Play: Put a friendly non-Mars creature and an enemy non-Mars creature into your archives. If that enemy creature would leave your archives, return it to its owner&#039;s hand instead.",
+            "locale": {
+                "en": {
+                    "name": "Scoop Up"
+                }
+            }
+        },
+        {
+            "id": "cleric",
+            "name": "Cleric",
+            "number": "177",
+            "image": "Woe_Cleric.png",
+            "house": "sanctum",
+            "keywords": [],
+            "traits": [
+                "human"
+            ],
+            "type": "token creature",
+            "rarity": "Token",
+            "amber": null,
+            "armor": null,
+            "power": 1,
+            "text": "When Cleric enters play, capture 1 Aember.",
+            "locale": {
+                "en": {
+                    "name": "Cleric"
+                }
+            }
+        },
+        {
+            "id": "defender",
+            "name": "Defender",
+            "number": "178",
+            "image": "Woe_Defender.png",
+            "house": "sanctum",
+            "keywords": "notihng",
+            "traits": [
+                "knight"
+            ],
+            "type": "token creature",
+            "rarity": "Token",
+            "amber": null,
+            "armor": null,
+            "power": 2,
+            "text": "no text",
+            "locale": {
+                "en": {
+                    "name": "Defender"
+                }
+            }
+        },
+        {
+            "id": "disciple",
+            "name": "Disciple",
+            "number": "179",
+            "image": "Woe_Disciple.jpg",
+            "house": "sanctum",
+            "keywords": [],
+            "traits": [
+                "human",
+                "monk"
+            ],
+            "type": "token creature",
+            "rarity": "Token",
+            "amber": null,
+            "armor": null,
+            "power": 1,
+            "text": "Disciple gets +1 power and +1 armor for each Monk neighbor it has.",
+            "locale": {
+                "en": {
+                    "name": "Disciple"
+                }
+            }
+        },
+        {
+            "id": "squire",
+            "name": "Squire",
+            "number": "180",
+            "image": "Woe_Squire.png",
+            "house": "sanctum",
+            "keywords": [
+                "taunt"
+            ],
+            "traits": [
+                "human"
+            ],
+            "type": "token creature",
+            "rarity": "Token",
+            "amber": null,
+            "armor": null,
+            "power": 2,
+            "text": "Taunt. (This creature&#039;s neighbors cannot be attacked unless they have  taunt.)",
+            "locale": {
+                "en": {
+                    "name": "Squire"
+                }
+            }
+        },
+        {
+            "id": "batariel-of-the-grey",
+            "name": "Batariel of the Grey",
+            "number": "183",
+            "image": "Woe_Batariel.jpg",
+            "house": "sanctum",
+            "keywords": [],
+            "traits": [
+                "human",
+                "monk"
+            ],
+            "type": "creature",
+            "rarity": "Rare",
+            "amber": null,
+            "armor": 2,
+            "power": 3,
+            "text": "After Reap: Ready each Disciple.",
+            "locale": {
+                "en": {
+                    "name": "Batariel of the Grey"
+                }
+            }
+        },
+        {
+            "id": "friendship",
+            "name": "Friendship",
+            "number": "185",
+            "image": "Woe_Friendship.jpg",
+            "house": "sanctum",
+            "keywords": [],
+            "traits": [],
+            "type": "upgrade",
+            "rarity": "Rare",
+            "amber": 1,
+            "armor": null,
+            "power": null,
+            "text": "When this creature is dealt damage while it has at least one neighbor, instead distribute the damage to its neighbours as evenly as possible.",
+            "locale": {
+                "en": {
+                    "name": "Friendship"
+                }
+            }
+        },
+        {
+            "id": "sariel-the-steadfast",
+            "name": "Sariel the Steadfast",
+            "number": "198",
+            "image": "Woe_Sariel.jpg",
+            "house": "sanctum",
+            "keywords": [],
+            "traits": [
+                "spirit",
+                "knight"
+            ],
+            "type": "creature",
+            "rarity": "Rare",
+            "amber": null,
+            "armor": 2,
+            "power": 5,
+            "text": "While it is not your turn, your creatures cannot become exhausted.",
+            "locale": {
+                "en": {
+                    "name": "Sariel the Steadfast"
+                }
+            }
+        },
+        {
+            "id": "zephon-the-opulent",
+            "name": "Zephon the Opulent",
+            "number": "200",
+            "image": "Woe_Zephon.png",
+            "house": "sanctum",
+            "keywords": [],
+            "traits": [
+                "human"
+            ],
+            "type": "creature",
+            "rarity": "Rare",
+            "amber": null,
+            "armor": null,
+            "power": 2,
+            "text": "Play: Make 2 token creatures. Zephon the Opulent cannot be used unless there are 2 or more friendly token creatures in play. After Reap: Gain 2 Aember.",
+            "locale": {
+                "en": {
+                    "name": "Zephon the Opulent"
+                }
+            }
+        },
+        {
+            "id": "hymn-to-duma",
+            "name": "Hymn to Duma",
+            "number": "209",
+            "image": "Woe_Hymn.jpg",
+            "house": "sanctum",
+            "keywords": [],
+            "traits": [
+                "power"
+            ],
+            "type": "artifact",
+            "rarity": "Uncommon",
+            "amber": null,
+            "armor": null,
+            "power": null,
+            "text": "Each friendly creature gains, \"Omni: Destroy this creature. A friendly creature captures 2 Aember.\"",
+            "locale": {
+                "en": {
+                    "name": "Hymn to Duma"
+                }
+            }
+        },
+        {
+            "id": "absolve",
+            "name": "Absolve",
+            "number": "217",
+            "image": "Woe_Absolve.png",
+            "house": "sanctum",
+            "keywords": [],
+            "traits": [],
+            "type": "action",
+            "rarity": "Common",
+            "amber": 1,
+            "armor": null,
+            "power": null,
+            "text": "Play: Heal 1 Damage from each creature. Each creature healed this way captures 1 Aember from its opponent.",
+            "locale": {
+                "en": {
+                    "name": "Absolve"
+                }
+            }
+        },
+        {
+            "id": "pandulf-the-provoker",
+            "name": "Pandulf the Provoker",
+            "number": "221",
+            "image": "Woe-Pandulf-the-provoker.jpg",
+            "house": "sanctum",
+            "keywords": [
+                "taunt"
+            ],
+            "traits": [
+                "human",
+                "knight"
+            ],
+            "type": "creature",
+            "rarity": "Common",
+            "amber": null,
+            "armor": 2,
+            "power": 4,
+            "text": "Taunt. (This creature&#039;s neighbors can&#039;t be attacked unless they have taunt.) Play: Enrage an enemy creature.",
+            "locale": {
+                "en": {
+                    "name": "Pandulf the Provoker"
+                }
+            }
+        },
+        {
+            "id": "knightapult",
+            "name": "Knightapult",
+            "number": "222",
+            "image": "Woe-Knightapult.jpg",
+            "house": "sanctum",
+            "keywords": [],
+            "traits": [
+                "weapon"
+            ],
+            "type": "artifact",
+            "rarity": "Common",
+            "amber": null,
+            "armor": null,
+            "power": null,
+            "text": "Action: The next time a friendly creature enters play this turn, you may have it enter anywhere in your battleline, ready.",
+            "locale": {
+                "en": {
+                    "name": "Knightapult"
+                }
+            }
+        },
+        {
+            "id": "membership-drive",
+            "name": "Membership Drive",
+            "number": "223",
+            "image": "Woe-Membership Drive.jpg",
+            "house": "sanctum",
+            "keywords": [],
+            "traits": [],
+            "type": "action",
+            "rarity": "Common",
+            "amber": null,
+            "armor": null,
+            "power": null,
+            "text": "Play: Make a token creature. Gain 1 Aember for each friendly token creature.",
+            "locale": {
+                "en": {
+                    "name": "Membership Drive"
+                }
+            }
+        },
+        {
+            "id": "muster",
+            "name": "Muster",
+            "number": "224",
+            "image": "Woe-Muster.jpg",
+            "house": "sanctum",
+            "keywords": [],
+            "traits": [],
+            "type": "action",
+            "rarity": "Common",
+            "amber": null,
+            "armor": null,
+            "power": null,
+            "text": "Play: Make a token creature. If your opponent has more Aember than you, archive Muster.",
+            "locale": {
+                "en": {
+                    "name": "Muster"
+                }
+            }
+        },
+        {
+            "id": "ostentatious-mount",
+            "name": "Ostentatious Mount",
+            "number": "225",
+            "image": "Woe_Ostentatious_Mount.png",
+            "house": "sanctum",
+            "keywords": [],
+            "traits": [],
+            "type": "upgrade",
+            "rarity": "Common",
+            "amber": 1,
+            "armor": null,
+            "power": null,
+            "text": "Play: Move this creature anywhere in its controller&#039;s battleline.\nThis creature gains taunt. (This creature&#039;s neighbors cannot be attacked unless they have taunt.)",
+            "locale": {
+                "en": {
+                    "name": "Ostentatious Mount"
+                }
+            }
+        },
+        {
+            "id": "retribution",
+            "name": "Retribution",
+            "number": "229",
+            "image": "Woe-Retribution.jpg",
+            "house": "sanctum",
+            "keywords": [],
+            "traits": [],
+            "type": "action",
+            "rarity": "Common",
+            "amber": 1,
+            "armor": null,
+            "power": null,
+            "text": "Play: If there are more enemy creatures than friendly creatures, destroy an enemy creature.",
+            "locale": {
+                "en": {
+                    "name": "Retribution"
+                }
+            }
+        },
+        {
+            "id": "revered-monk",
+            "name": "Revered Monk",
+            "number": "230",
+            "image": "Woe-Revered-monk.jpg",
+            "house": "sanctum",
+            "keywords": [],
+            "traits": [
+                "human",
+                "monk"
+            ],
+            "type": "creature",
+            "rarity": "Common",
+            "amber": null,
+            "armor": null,
+            "power": 4,
+            "text": "Revered Monk gets +2 power for each of its Sanctum neighbors",
+            "locale": {
+                "en": {
+                    "name": "Revered Monk"
+                }
+            }
+        },
+        {
+            "id": "bellatoran-warrior",
+            "name": "Bellatoran Warrior",
+            "number": "233",
+            "image": "Woe_Bellatoran_Warrior.jpg",
+            "house": "saurian",
+            "keywords": "notihng",
+            "traits": [
+                "dinosaur",
+                "soldier"
+            ],
+            "type": "token creature",
+            "rarity": "Token",
+            "amber": null,
+            "armor": null,
+            "power": 5,
+            "text": "no text",
+            "locale": {
+                "en": {
+                    "name": "Bellatoran Warrior"
+                }
+            }
+        },
+        {
+            "id": "senator",
+            "name": "Senator",
+            "number": "235",
+            "image": "Woe_Senator.png",
+            "house": "saurian",
+            "keywords": [],
+            "traits": [
+                "dinosaur",
+                "politician"
+            ],
+            "type": "token creature",
+            "rarity": "Token",
+            "amber": null,
+            "armor": null,
+            "power": 2,
+            "text": "Action: Keys cost +1 A during your opponent&#039;s next turn.",
+            "locale": {
+                "en": {
+                    "name": "Senator"
+                }
+            }
+        },
+        {
+            "id": "edict-of-nerotaurus",
+            "name": "Edict of Nerotaurus",
+            "number": "242",
+            "image": "Woe_Edict_of_Nerotaurus.png",
+            "house": "saurian",
+            "keywords": [],
+            "traits": [
+                "law"
+            ],
+            "type": "artifact",
+            "rarity": "Rare",
+            "amber": 1,
+            "armor": null,
+            "power": null,
+            "text": "After a creature reaps, the next creature used this turn cannot reap. After a creature fights, the next creature used this turn cannot fight.",
+            "locale": {
+                "en": {
+                    "name": "Edict of Nerotaurus"
+                }
+            }
+        },
+        {
+            "id": "election",
+            "name": "Election",
+            "number": "243",
+            "image": "Woe_election.jpg",
+            "house": "saurian",
+            "keywords": [],
+            "traits": [
+                "law"
+            ],
+            "type": "artifact",
+            "rarity": "Rare",
+            "amber": 1,
+            "armor": null,
+            "power": null,
+            "text": "Each creature gains, \"After Reap: Put a &#039;for&#039; or &#039;against&#039; counter on Election\".  If there are 6 &#039;for&#039; counters on Election, destroy Election and each creature.  If there are 6 &#039;against&#039; counters on Election, destroy each artifact.",
+            "locale": {
+                "en": {
+                    "name": "Election"
+                }
+            }
+        },
+        {
+            "id": "magistrate-crispus",
+            "name": "Magistrate Crispus",
+            "number": "249",
+            "image": "Woe_Crispus.jpg",
+            "house": "saurian",
+            "keywords": [],
+            "traits": [
+                "dinosaur",
+                "politician"
+            ],
+            "type": "creature",
+            "rarity": "Rare",
+            "amber": null,
+            "armor": null,
+            "power": 8,
+            "text": "At the end of your turn, each player takes control of each creature and artifact they own.",
+            "locale": {
+                "en": {
+                    "name": "Magistrate Crispus"
+                }
+            }
+        },
+        {
+            "id": "training-costs",
+            "name": "Training Costs",
+            "number": "259",
+            "image": "Woe_Training_Costs.jpg",
+            "house": "saurian",
+            "keywords": [],
+            "traits": [],
+            "type": "action",
+            "rarity": "Rare",
+            "amber": null,
+            "armor": null,
+            "power": null,
+            "text": "You cannot choose to discard Training Costs from your hand. Play: Lose 2 Aember. If you do not, shuffle Training Costs into your deck.",
+            "locale": {
+                "en": {
+                    "name": "Training Costs"
+                }
+            }
+        },
+        {
+            "id": "chaosodon",
+            "name": "Chaosodon",
+            "number": "263",
+            "image": "Woe_Chaosodon.jpg",
+            "house": "saurian",
+            "keywords": [],
+            "traits": [
+                "beast"
+            ],
+            "type": "creature",
+            "rarity": "Uncommon",
+            "amber": null,
+            "armor": null,
+            "power": 10,
+            "text": "Splash attack 3. (When this creature attacks, also deal 3 Damage to each of the attacked creature&#039;s neighbors.) Before Fight: Deal 3 Damage to each of Chaosodon&#039;s neighbors.",
+            "locale": {
+                "en": {
+                    "name": "Chaosodon"
+                }
+            }
+        },
+        {
+            "id": "phalanx-leader",
+            "name": "Phalanx Leader",
+            "number": "272",
+            "image": "Woe_PhalanxLeader.png",
+            "house": "saurian",
+            "keywords": [],
+            "traits": [
+                "dinosaur",
+                "soldier"
+            ],
+            "type": "creature",
+            "rarity": "Uncommon",
+            "amber": null,
+            "armor": null,
+            "power": 4,
+            "text": "Play: Make a token creature immediately to Phalanx Leader&#039;s left. After Fight/After Reap: Each creature to Phalanx Leader&#039;s left gets +2 power for the remainder of the turn.",
+            "locale": {
+                "en": {
+                    "name": "Phalanx Leader"
+                }
+            }
+        },
+        {
+            "id": "aquilia-lone-hero",
+            "name": "Aquilia, Lone Hero",
+            "number": "277",
+            "image": "Woe-Aquilia-lone-hero.jpg",
+            "house": "saurian",
+            "keywords": [],
+            "traits": [
+                "dinosaur",
+                "soldier"
+            ],
+            "type": "creature",
+            "rarity": "Common",
+            "amber": null,
+            "armor": 1,
+            "power": 6,
+            "text": "&#039;&#039;Omni:&#039;&#039;&#039; Capture 1 Aember if there are more enemy creatures than friendly creatures.",
+            "locale": {
+                "en": {
+                    "name": "Aquilia, Lone Hero"
+                }
+            }
+        },
+        {
+            "id": "ballistego",
+            "name": "Ballistego",
+            "number": "278",
+            "image": "Woe-Ballistego.jpg",
+            "house": "saurian",
+            "keywords": [],
+            "traits": [
+                "dinosaur",
+                "soldier"
+            ],
+            "type": "creature",
+            "rarity": "Common",
+            "amber": null,
+            "armor": null,
+            "power": 5,
+            "text": "&#039;&#039;Play:&#039;&#039;&#039; You may exalt Ballistego. While Ballistego has Aember on it, it gains splash-attack 3. (When this creature attacks, also deal 3 Damage to each of the attacked creature&#039;s neighbors.)",
+            "locale": {
+                "en": {
+                    "name": "Ballistego"
+                }
+            }
+        },
+        {
+            "id": "epic-poem",
+            "name": "Epic Poem",
+            "number": "281",
+            "image": "Woe-Epic-poem.jpg",
+            "house": "saurian",
+            "keywords": [],
+            "traits": [],
+            "type": "action",
+            "rarity": "Common",
+            "amber": null,
+            "armor": null,
+            "power": null,
+            "text": "Play: Exalt a friendly creature. Gain 1 Aember for each Aember on that creature.",
+            "locale": {
+                "en": {
+                    "name": "Epic Poem"
+                }
+            }
+        },
+        {
+            "id": "grammaticus-thrax",
+            "name": "Grammaticus Thrax",
+            "number": "283",
+            "image": "Woe-Grammaticus-thrax.jpg",
+            "house": "saurian",
+            "keywords": [],
+            "traits": [
+                "dinosaur",
+                "philosopher"
+            ],
+            "type": "creature",
+            "rarity": "Common",
+            "amber": null,
+            "armor": null,
+            "power": 5,
+            "text": "Enhance Capture Capture Damage. (These icons have already been added to cards in your deck.)",
+            "locale": {
+                "en": {
+                    "name": "Grammaticus Thrax"
+                }
+            }
+        },
+        {
+            "id": "pale-into-insignificance",
+            "name": "Pale Into Insignificance",
+            "number": "286",
+            "image": "Woe_Pale.jpg",
+            "house": "saurian",
+            "keywords": [],
+            "traits": [],
+            "type": "action",
+            "rarity": "Common",
+            "amber": 1,
+            "armor": null,
+            "power": null,
+            "text": "Play: Destroy each creature with the lowest power.",
+            "locale": {
+                "en": {
+                    "name": "Pale Into Insignificance"
+                }
+            }
+        },
+        {
+            "id": "recruit",
+            "name": "Recruit",
+            "number": "289",
+            "image": "Woe-Recruit.jpg",
+            "house": "saurian",
+            "keywords": [],
+            "traits": [],
+            "type": "action",
+            "rarity": "Common",
+            "amber": null,
+            "armor": null,
+            "power": null,
+            "text": "Play: Make a token creature. If you exalted a friendly creature this turn, archive Recruit.",
+            "locale": {
+                "en": {
+                    "name": "Recruit"
+                }
+            }
+        },
+        {
+            "id": "symposium",
+            "name": "Symposium",
+            "number": "291",
+            "image": "Woe-Symposium.jpg",
+            "house": "saurian",
+            "keywords": [],
+            "traits": [],
+            "type": "action",
+            "rarity": "Common",
+            "amber": null,
+            "armor": null,
+            "power": null,
+            "text": "Play: Exalt, ready, and use a friendly creature. If it is a token creature, you may exalt, ready and use another friendly creature.",
+            "locale": {
+                "en": {
+                    "name": "Symposium"
+                }
+            }
+        },
+        {
+            "id": "æmberling",
+            "name": "Æmberling",
+            "number": "292",
+            "image": "Woe_Aemberling.jpg",
+            "house": "staralliance",
+            "keywords": [],
+            "traits": [
+                "sylicate"
+            ],
+            "type": "token creature",
+            "rarity": "Token",
+            "amber": null,
+            "armor": null,
+            "power": 1,
+            "text": "Æmberling cannot reap. You may Æmberling as if it were Aember in your pool. (Discard it, ignoring wards.)",
+            "locale": {
+                "en": {
+                    "name": "Æmberling"
+                }
+            }
+        },
+        {
+            "id": "cadet",
+            "name": "Cadet",
+            "number": "293",
+            "image": "Woe_Cadet.png",
+            "house": "staralliance",
+            "keywords": [],
+            "traits": [
+                "human"
+            ],
+            "type": "token creature",
+            "rarity": "Token",
+            "amber": null,
+            "armor": null,
+            "power": 1,
+            "text": "Destroyed: Ready Cadet&#039;s most powerful neighbor.",
+            "locale": {
+                "en": {
+                    "name": "Cadet"
+                }
+            }
+        },
+        {
+            "id": "explorer",
+            "name": "Explorer",
+            "number": "294",
+            "image": "Woe_Explorer.png",
+            "house": "staralliance",
+            "keywords": [],
+            "traits": [
+                "alien"
+            ],
+            "type": "token creature",
+            "rarity": "Token",
+            "amber": null,
+            "armor": null,
+            "power": 2,
+            "text": "After Reap: Look at the top card of your deck. You may discard it.",
+            "locale": {
+                "en": {
+                    "name": "Explorer"
+                }
+            }
+        },
+        {
+            "id": "grunt-work",
+            "name": "Grunt Work",
+            "number": "300",
+            "image": "Woe_GruntWork.png",
+            "house": "staralliance",
+            "keywords": [],
+            "traits": [],
+            "type": "action",
+            "amber": 1,
+            "armor": null,
+            "power": null,
+            "text": "Play: Look at the top 3 cards of your deck and put them back in any order. Make a token creature.",
+            "locale": {
+                "en": {
+                    "name": "Grunt Work"
+                }
+            }
+        },
+        {
+            "id": "norbyn&#039;s-cavern",
+            "name": "Norbyn&#039;s Cavern",
+            "number": "303",
+            "image": "Woe_Norbyns_Cavern.jpg",
+            "house": "staralliance",
+            "keywords": [],
+            "traits": [
+                "location"
+            ],
+            "type": "artifact",
+            "rarity": "Rare",
+            "amber": null,
+            "armor": null,
+            "power": null,
+            "text": "Each friendly Æmberling gets +3 power and gains skirmish.",
+            "locale": {
+                "en": {
+                    "name": "Norbyn&#039;s Cavern"
+                }
+            }
+        },
+        {
+            "id": "quintrino-warp",
+            "name": "Quintrino Warp",
+            "number": "325",
+            "image": "Woe_Quintrino_Warp.png",
+            "house": "staralliance",
+            "keywords": [],
+            "traits": [],
+            "type": "action",
+            "rarity": "Uncommon",
+            "amber": null,
+            "armor": null,
+            "power": null,
+            "text": "Play: Choose a friendly creature and an enemy creature. Destroy those creatures and each creature that shares a house with either of them. Gain 1 chain.",
+            "locale": {
+                "en": {
+                    "name": "Quintrino Warp"
+                }
+            }
+        },
+        {
+            "id": "photon-blast",
+            "name": "Photon Blast",
+            "number": "331",
+            "image": "Woe_Photon-Blast.png",
+            "house": "staralliance",
+            "keywords": [],
+            "traits": [],
+            "type": "action",
+            "rarity": "Common",
+            "amber": null,
+            "armor": null,
+            "power": null,
+            "text": "Play: Deal 2 Damage to a creature, with 1 Damage splash. If this damage destroys 1 or more creatures, make a token creature.",
+            "locale": {
+                "en": {
+                    "name": "Photon Blast"
+                }
+            }
+        },
+        {
+            "id": "recorded-history",
+            "name": "Recorded History",
+            "number": "333",
+            "image": "Woe-Recorded-history.jpg",
+            "house": "staralliance",
+            "keywords": [],
+            "traits": [],
+            "type": "action",
+            "rarity": "Common",
+            "amber": 1,
+            "armor": null,
+            "power": null,
+            "text": "Play: Reveal up to 3 cards of different houses from your hand. Archive each card revealed this way.",
+            "locale": {
+                "en": {
+                    "name": "Recorded History"
+                }
+            }
+        },
+        {
+            "id": "cpo-zytar",
+            "name": "CPO Zytar",
+            "number": "334",
+            "image": "Woe-Cpo-zytar.jpg",
+            "house": "staralliance",
+            "keywords": [],
+            "traits": [
+                "alien",
+                "proximan",
+                "scientist"
+            ],
+            "type": "creature",
+            "rarity": "Common",
+            "amber": null,
+            "armor": 1,
+            "power": 4,
+            "text": "Enhance Damage Draw Draw. (These icons have already been added to cards in your deck.)",
+            "locale": {
+                "en": {
+                    "name": "CPO Zytar"
+                }
+            }
+        },
+        {
+            "id": "rogue-operation",
+            "name": "Rogue Operation",
+            "number": "335",
+            "image": "Woe-Rogue-operation.jpg",
+            "house": "staralliance",
+            "keywords": [],
+            "traits": [],
+            "type": "action",
+            "rarity": "Common",
+            "amber": null,
+            "armor": null,
+            "power": null,
+            "text": "Play: Discard the top 2 cards of your deck. Steal 1 Aember for each house represented among the discarded cards.",
+            "locale": {
+                "en": {
+                    "name": "Rogue Operation"
+                }
+            }
+        },
+        {
+            "id": "friendly-guide",
+            "name": "Friendly Guide",
+            "number": "336",
+            "image": "Woe-Friendly-guide.jpg",
+            "house": "staralliance",
+            "keywords": [
+                "elusive"
+            ],
+            "traits": [
+                "alien"
+            ],
+            "type": "creature",
+            "rarity": "Common",
+            "amber": null,
+            "armor": null,
+            "power": 3,
+            "text": "Elusive. (The first time this creature is attacked each turn, no damage is dealt.) After you use one of Friendly Guide&#039;s neighbors, you may use Friendly Guide.",
+            "locale": {
+                "en": {
+                    "name": "Friendly Guide"
+                }
+            }
+        },
+        {
+            "id": "future-booster",
+            "name": "Future Booster",
+            "number": "337",
+            "image": "Woe_Future_Booster.jpg",
+            "house": "staralliance",
+            "keywords": [],
+            "traits": [
+                "item"
+            ],
+            "type": "artifact",
+            "rarity": "Common",
+            "amber": 1,
+            "armor": null,
+            "power": null,
+            "text": "Omni: Look at the top card of your deck. You may put it on the bottom of your deck.",
+            "locale": {
+                "en": {
+                    "name": "Future Booster"
+                }
+            }
+        },
+        {
+            "id": "specialist-guthrak",
+            "name": "Specialist Guthrak",
+            "number": "338",
+            "image": "Woe-Specialist-guthrak.jpg",
+            "house": "staralliance",
+            "keywords": [
+                "skirmish"
+            ],
+            "traits": [
+                "alien",
+                "handuhan"
+            ],
+            "type": "creature",
+            "rarity": "Common",
+            "amber": null,
+            "armor": null,
+            "power": 3,
+            "text": "Skirmish. (When you use this creature to fight, it is dealt no damage in return.) After Fight/After Reap: Capture 1 Aember for each house represented among Specialist Guthrak and its neighbors.",
+            "locale": {
+                "en": {
+                    "name": "Specialist Guthrak"
+                }
+            }
+        },
+        {
+            "id": "teamwork",
+            "name": "Teamwork",
+            "number": "339",
+            "image": "Woe-Teamwork.jpg",
+            "house": "staralliance",
+            "keywords": [],
+            "traits": [],
+            "type": "action",
+            "rarity": "Common",
+            "amber": null,
+            "armor": null,
+            "power": null,
+            "text": "Play:Make a token creature. If there are more enemy creatures than friendly creatures, archive Teamwork.",
+            "locale": {
+                "en": {
+                    "name": "Teamwork"
+                }
+            }
+        },
+        {
+            "id": "cultist",
+            "name": "Cultist",
+            "number": "348",
+            "image": "Woe_Cultist.jpg",
+            "house": "unfathomable",
+            "keywords": [],
+            "traits": [],
+            "type": "token creature",
+            "rarity": "Token",
+            "amber": null,
+            "armor": null,
+            "power": 2,
+            "text": "Action:  Destroy Cultist. If you do, Ward a friendly creature.",
+            "locale": {
+                "en": {
+                    "name": "Cultist"
+                }
+            }
+        },
+        {
+            "id": "priest",
+            "name": "Priest",
+            "number": "350",
+            "image": "Woe_Priest.png",
+            "house": "unfathomable",
+            "keywords": [],
+            "traits": [
+                "aquan"
+            ],
+            "type": "token creature",
+            "rarity": "Token",
+            "amber": null,
+            "armor": null,
+            "power": 2,
+            "text": "Action: Exhaust an enemy creature.",
+            "locale": {
+                "en": {
+                    "name": "Priest"
+                }
+            }
+        },
+        {
+            "id": "infection",
+            "name": "Infection",
+            "number": "356",
+            "image": "Woe_infection.jpg",
+            "house": "unfathomable",
+            "keywords": [],
+            "traits": [],
+            "type": "upgrade",
+            "rarity": "Rare",
+            "amber": 1,
+            "armor": null,
+            "power": null,
+            "text": "Play: Put 3 hatch counters on Infection.  At the start of your turn, remove 1 hatch counter from Infection. Then, if there are no hatch counters on it, destroy this creature and make 3 token creatures.",
+            "locale": {
+                "en": {
+                    "name": "Infection"
+                }
+            }
+        },
+        {
+            "id": "giltspine-school",
+            "name": "Giltspine School",
+            "number": "357",
+            "image": "Woe_Giltspine_School.jpg",
+            "house": "unfathomable",
+            "keywords": [],
+            "traits": [
+                "aquan"
+            ],
+            "type": "creature",
+            "rarity": "Rare",
+            "amber": null,
+            "armor": 5,
+            "power": 1,
+            "text": "Play: Make 3 token creatures. Token creatures do not ready during their controller&#039;s \"ready cards\" step.",
+            "locale": {
+                "en": {
+                    "name": "Giltspine School"
+                }
+            }
+        },
+        {
+            "id": "tangaika",
+            "name": "Tangaika",
+            "number": "365",
+            "image": "Woe_365.jpg",
+            "house": "unfathomable",
+            "keywords": [],
+            "traits": [
+                "beast"
+            ],
+            "type": "creature",
+            "rarity": "Rare",
+            "amber": 2,
+            "armor": null,
+            "power": 25,
+            "text": "You cannot play Tanagaika unless you control 4 or more Cultists. Splash-attack 5. After Fight: Gain 1 Æmber.",
+            "locale": {
+                "en": {
+                    "name": "Tangaika"
+                }
+            }
+        },
+        {
+            "id": "watch-your-step",
+            "name": "Watch Your Step",
+            "number": "381",
+            "image": "Woe_Watch_Your_Step.png",
+            "house": "unfathomable",
+            "keywords": [],
+            "traits": [],
+            "type": "action",
+            "rarity": "Uncommon",
+            "amber": 1,
+            "armor": null,
+            "power": null,
+            "text": "Play: Choose a house on your opponent&#039;s identity card. If they do not choose this house as their active house during their next turn, make 2 token creatures and ready them.",
+            "locale": {
+                "en": {
+                    "name": "Watch Your Step"
+                }
+            }
+        },
+        {
+            "id": "abyssal-sight",
+            "name": "Abyssal Sight",
+            "number": "384",
+            "image": "Woe-Abyssal-sight.jpg",
+            "house": "unfathomable",
+            "keywords": [],
+            "traits": [],
+            "type": "action",
+            "rarity": "Common",
+            "amber": 1,
+            "armor": null,
+            "power": null,
+            "text": "Play: Destroy a friendly creature. If you do, look at your opponent&#039;s hand and choose a card from it. That player discards that card.",
+            "locale": {
+                "en": {
+                    "name": "Abyssal Sight"
+                }
+            }
+        },
+        {
+            "id": "stir-crazy",
+            "name": "Stir-Crazy",
+            "number": "385",
+            "image": "Woe_Stir-Crazy.png",
+            "house": "unfathomable",
+            "keywords": [],
+            "traits": [],
+            "type": "action",
+            "rarity": "Uncommon",
+            "amber": 1,
+            "armor": null,
+            "power": null,
+            "text": "Play: Each ready creature captures 1 Aember from its opponent.",
+            "locale": {
+                "en": {
+                    "name": "Stir-Crazy"
+                }
+            }
+        },
+        {
+            "id": "covetous-hema",
+            "name": "Covetous Hema",
+            "number": "387",
+            "image": "Woe-Covetous-hema.jpg",
+            "house": "unfathomable",
+            "keywords": [],
+            "traits": [
+                "aquan"
+            ],
+            "type": "creature",
+            "rarity": "Common",
+            "amber": null,
+            "armor": null,
+            "power": 3,
+            "text": "While Covetous Hema is not on a flank, it gains elusive. Play: Capture 3[[File:Enhance_aember.png|18px|frameless|class=aemberImg|link=|alt=Aember icon]].",
+            "locale": {
+                "en": {
+                    "name": "Covetous Hema"
+                }
+            }
+        },
+        {
+            "id": "crushing-deep",
+            "name": "Crushing Deep",
+            "number": "388",
+            "image": "Woe-Crushing-deep.jpg",
+            "house": "unfathomable",
+            "keywords": [],
+            "traits": [],
+            "type": "action",
+            "rarity": "Common",
+            "amber": 1,
+            "armor": null,
+            "power": null,
+            "text": "Play: During your opponent&#039;s next turn, keys cost +3 Aember for each forged key they have.",
+            "locale": {
+                "en": {
+                    "name": "Crushing Deep"
+                }
+            }
+        },
+        {
+            "id": "fathom-reaver",
+            "name": "Fathom Reaver",
+            "number": "389",
+            "image": "Woe_Fathom_Reaver.jpg",
+            "house": "unfathomable",
+            "keywords": [],
+            "traits": [
+                "aquan"
+            ],
+            "type": "creature",
+            "rarity": "Common",
+            "amber": null,
+            "armor": null,
+            "power": 4,
+            "text": "Play: Make a token creature. While you control a token creature, your opponent refills their hand to 1 less card during the \"draw cards\" step.",
+            "locale": {
+                "en": {
+                    "name": "Fathom Reaver"
+                }
+            }
+        },
+        {
+            "id": "adult-swim",
+            "name": "Adult Swim",
+            "number": "390",
+            "image": "Woe_Adult_Swim.jpg",
+            "house": "unfathomable",
+            "keywords": [],
+            "traits": [],
+            "type": "action",
+            "rarity": "Common",
+            "amber": 1,
+            "armor": null,
+            "power": null,
+            "text": "Play: Put each creature with power 3 or lower on top of its owner&#039;s deck in a random order.",
+            "locale": {
+                "en": {
+                    "name": "Adult Swim"
+                }
+            }
+        },
+        {
+            "id": "skullback-crab",
+            "name": "Skullback Crab",
+            "number": "396",
+            "image": "Woe-Skullback-crab.jpg",
+            "house": "unfathomable",
+            "keywords": [
+                "poison"
+            ],
+            "traits": [
+                "beast"
+            ],
+            "type": "creature",
+            "rarity": "Common",
+            "amber": null,
+            "armor": null,
+            "power": 1,
+            "text": "Poison. (Any damage dealt by this creature during a fight destroys the damaged creature.) Action: Steal 1 Aember.",
+            "locale": {
+                "en": {
+                    "name": "Skullback Crab"
+                }
+            }
+        },
+        {
+            "id": "sunk-cost",
+            "name": "Sunk Cost",
+            "number": "397",
+            "image": "Woe_Sunk_Cost.png",
+            "house": "unfathomable",
+            "keywords": [],
+            "traits": [],
+            "type": "action",
+            "rarity": "Common",
+            "amber": null,
+            "armor": null,
+            "power": null,
+            "text": "Play: Choose a house. Your opponent discards a random card from their hand. If that card belongs to the chosen house, make a token creature.",
+            "locale": {
+                "en": {
+                    "name": "Sunk Cost"
+                }
+            }
+        },
+        {
+            "id": "initiation",
+            "name": "Initiation",
+            "number": "398",
+            "image": "Woe-Initiation.jpg",
+            "house": "unfathomable",
+            "keywords": [],
+            "traits": [],
+            "type": "action",
+            "rarity": "Common",
+            "amber": null,
+            "armor": null,
+            "power": null,
+            "text": "Play: Make a token creature. If you have fewer than 4 cards in hand, archive Initiation.",
+            "locale": {
+                "en": {
+                    "name": "Initiation"
+                }
+            }
+        },
+        {
+            "id": "kamalani",
+            "name": "Kamalani",
+            "number": "399",
+            "image": "Woe-Kamalani.jpg",
+            "house": "unfathomable",
+            "keywords": [],
+            "traits": [
+                "aquan"
+            ],
+            "type": "creature",
+            "rarity": "Common",
+            "amber": null,
+            "armor": null,
+            "power": 4,
+            "text": "Destroyed: Make 2 token creatures.",
+            "locale": {
+                "en": {
+                    "name": "Kamalani"
+                }
+            }
+        },
+        {
+            "id": "kelpminder",
+            "name": "Kelpminder",
+            "number": "400",
+            "image": "Woe-Kelpminder.jpg",
+            "house": "unfathomable",
+            "keywords": [],
+            "traits": [
+                "aquan"
+            ],
+            "type": "creature",
+            "rarity": "Common",
+            "amber": null,
+            "armor": null,
+            "power": 5,
+            "text": "Enhance Capture Draw Draw . (These icons have already been added to cards in your deck.)",
+            "locale": {
+                "en": {
+                    "name": "Kelpminder"
+                }
+            }
+        }
+    ]
+}

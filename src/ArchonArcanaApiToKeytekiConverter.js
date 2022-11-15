@@ -68,12 +68,17 @@ class DecksOfKeyforgeApiToKeytekiConverter {
     }
 
     async getCards(pack, language) {
-        const apiUrl = 'https://archonarcana.com/api.php?action=cargoquery&format=json&tables=SpoilerData&' +
-            'fields=SpoilerData.Power,SpoilerData.Rarity,SpoilerData.Name,SpoilerData.House,SpoilerData.Type,SpoilerData.Image,SpoilerData.CardNumber,' +
-            'SpoilerData.SearchText,SpoilerData.SearchFlavorText,SpoilerData.Traits,SpoilerData.Armor,SpoilerData.IsNew,SpoilerData.Source,' +
-            'SpoilerData.Amber&group_by=SpoilerData.Power,SpoilerData.Rarity,SpoilerData.Name,SpoilerData.House,' +
-            'SpoilerData.Type,SpoilerData.Image,SpoilerData.CardNumber,SpoilerData.SearchText,SpoilerData.SearchFlavorText,SpoilerData.Traits,' +
-                       'SpoilerData.Armor,SpoilerData.IsNew,SpoilerData.Source,SpoilerData.Amber&limit=500&offset=0&order_by=CardNumber';
+        const apiUrl = 'https://archonarcana.com/api.php?action=cargoquery&format=json&tables=CardData, SetData&' +
+            'fields=CardData.Power,CardData.Rarity,CardData.Name,CardData.House,CardData.Type,CardData.Image,' +
+            'CardData.House,SetData.CardNumber,SetData.Meta,CardData.Text,CardData.SearchText,CardData.SearchFlavorText,' +
+            'CardData.Traits,CardData.Armor,CardData.Source,CardData.Amber,CardData._rowID=RowID&' +
+            'where=((SetName="Winds of Exchange") AND (Meta="SpoilerNew" AND Name IS NOT NULL))&' + 
+            'join_on=CardData._pageName=SetData._pageName&group_by=CardData.Power,CardData.Rarity,CardData.Name,' + 
+            'CardData.House,CardData.Type,CardData.Image,CardData.House,SetData.CardNumber,SetData.Meta,CardData.Text,' + 
+            'CardData.SearchText,CardData.SearchFlavorText,CardData.Traits,CardData.Armor,CardData.Source,CardData.Amber,' + 
+            'CardData._rowID&limit=250&offset=0&order_by=CardNumber';
+
+        console.log(apiUrl);
 
         let packCardMap = pack.cards.reduce(function (map, obj) {
             map[obj.number] = obj;
@@ -124,15 +129,12 @@ class DecksOfKeyforgeApiToKeytekiConverter {
                 continue;
             }
 
+            console.log(JSON.stringify(card));
+
             if(card.Name === '') {
                 continue;
             }
-
-            if (card.IsNew !== 'yes') {
-                console.log('Ignoring reprinted card: ', card.Name);
-                continue;
-            }
-
+            
             // Fix the house of an anomaly to brobnar so that we can test them until they get a real house
             if (card.anomaly) { // TODO
                 card.house = 'brobnar';
@@ -154,7 +156,7 @@ class DecksOfKeyforgeApiToKeytekiConverter {
             let newCard = null;
 
             if (language === 'en') {
-                let cardText = card.SearchText.replace(/&lt;/gi, '<')
+                let cardText = !card.SearchText ? 'no text' : card.SearchText.replace(/&lt;/gi, '<')
                     .replace(/&gt;/gi, '>')
                     .replace(/&quot;/gi, '"')
                     .replace(/<[^>]+aember[^>]+>/gi, 'A')
@@ -178,7 +180,7 @@ class DecksOfKeyforgeApiToKeytekiConverter {
                     image: card.Image,
                     //expansion: card.expansion,
                     house: card.House.toLowerCase().replace(' ', ''),
-                    keywords: this.parseKeywords(card.SearchText),
+                    keywords: !card.SearchText ? 'notihng' : this.parseKeywords(card.SearchText),
                     traits: !card.Traits
                         ? []
                         : card.Traits.split(' • ').map((trait) => trait.toLowerCase()),
