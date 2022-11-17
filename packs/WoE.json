@@ -228,7 +228,9 @@
             "number": "024",
             "image": "Woe-crim-torchtooth.jpg",
             "house": "brobnar",
-            "keywords": [],
+            "keywords": [
+                "splash-attack:4"
+            ],
             "traits": [
                 "giant"
             ],
@@ -380,7 +382,9 @@
             "number": "040",
             "image": "Woe-Crogg-the-clumsy.jpg",
             "house": "brobnar",
-            "keywords": [],
+            "keywords": [
+                "splash-attack:2"
+            ],
             "traits": [
                 "giant"
             ],
@@ -684,7 +688,9 @@
             "number": "056",
             "image": "Woe-grumpus.jpg",
             "house": "brobnar",
-            "keywords": [],
+            "keywords": [
+                "splash-attack:1"
+            ],
             "traits": [
                 "beast"
             ],
@@ -2289,11 +2295,12 @@
             "image": "Woe-zizok.jpg",
             "house": "mars",
             "keywords": [
-                "skirmish"
+                "skirmish",
+                "splash-attack:1"
             ],
             "traits": [
                 "martian",
-                "solider"
+                "soldier"
             ],
             "type": "creature",
             "rarity": "Uncommon",
@@ -2570,7 +2577,9 @@
             "number": "167",
             "image": "Woe_Blorb.png",
             "house": "mars",
-            "keywords": [],
+            "keywords": [
+                "elusive"
+            ],
             "traits": [
                 "beast"
             ],
@@ -2684,7 +2693,7 @@
             "number": "172",
             "image": "Woe_Grunt.png",
             "house": "mars",
-            "keywords": "notihng",
+            "keywords": [],
             "traits": [
                 "martian",
                 "soldier"
@@ -3403,7 +3412,7 @@
             "number": "229",
             "image": "Woe_Defender.png",
             "house": "sanctum",
-            "keywords": "notihng",
+            "keywords": [],
             "traits": [
                 "knight"
             ],
@@ -3712,7 +3721,9 @@
             "number": "256",
             "image": "Woe_Chaosodon.jpg",
             "house": "saurian",
-            "keywords": [],
+            "keywords": [
+                "splash-attack:3"
+            ],
             "traits": [
                 "beast"
             ],
@@ -4101,7 +4112,7 @@
             "number": "286",
             "image": "Woe_Bellatoran_Warrior.jpg",
             "house": "saurian",
-            "keywords": "notihng",
+            "keywords": [],
             "traits": [
                 "dinosaur",
                 "soldier"
@@ -4637,7 +4648,9 @@
             "number": "332",
             "image": "Woe-pyr0.jpg",
             "house": "staralliance",
-            "keywords": [],
+            "keywords": [
+                "splash-attack:3"
+            ],
             "traits": [
                 "robot"
             ],
@@ -4702,7 +4715,7 @@
             "keywords": [],
             "traits": [
                 "alien",
-                "krixxx"
+                "krxix"
             ],
             "type": "creature",
             "rarity": "Common",

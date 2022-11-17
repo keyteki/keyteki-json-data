@@ -10,7 +10,8 @@ const ValidKeywords = [
     'omega',
     'hazardous',
     'assault',
-    'poison'
+    'poison',
+    'splash-attack'
 ];
 
 function httpRequest(url, options = {}) {
@@ -78,8 +79,6 @@ class DecksOfKeyforgeApiToKeytekiConverter {
             'CardData.SearchText,CardData.SearchFlavorText,CardData.Traits,CardData.Armor,CardData.Source,CardData.Amber,' + 
             'CardData._rowID&limit=300&offset=0&order_by=CardNumber';
 
-        console.log(apiUrl);
-
         let packCardMap = pack.cards.reduce(function (map, obj) {
             map[obj.number] = obj;
             return map;
@@ -128,8 +127,6 @@ class DecksOfKeyforgeApiToKeytekiConverter {
                 console.log('Ignoring scenario card: ', card.Name);
                 continue;
             }
-
-            console.log(JSON.stringify(card));
 
             if(card.Name === '') {
                 continue;
@@ -186,7 +183,7 @@ class DecksOfKeyforgeApiToKeytekiConverter {
                     image: card.Image,
                     //expansion: card.expansion,
                     house: card.House.toLowerCase().replace(' ', ''),
-                    keywords: !card.SearchText ? 'notihng' : this.parseKeywords(card.SearchText),
+                    keywords: !card.Text ? [] : this.parseKeywords(card.Text),
                     traits: !card.Traits
                         ? []
                         : card.Traits.split(' • ').map((trait) => trait.toLowerCase()),
@@ -237,11 +234,14 @@ class DecksOfKeyforgeApiToKeytekiConverter {
 
         for (let line of lines) {
             potentialKeywords = potentialKeywords.concat(line.split('.').map(k => k.toLowerCase().trim().replace(' ', ':')));
+            console.log(line, potentialKeywords);
         }
 
         let printedKeywords = potentialKeywords.filter(potentialKeyword => {
             return ValidKeywords.some(keyword => potentialKeyword.indexOf(keyword) === 0);
         });
+        
+        console.log('printedKeywords: ', printedKeywords);
 
         return printedKeywords;
     }
