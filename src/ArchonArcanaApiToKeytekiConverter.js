@@ -76,7 +76,7 @@ class DecksOfKeyforgeApiToKeytekiConverter {
             'join_on=CardData._pageName=SetData._pageName&group_by=CardData.Power,CardData.Rarity,CardData.Name,' + 
             'CardData.House,CardData.Type,CardData.Image,CardData.House,SetData.CardNumber,SetData.Meta,CardData.Text,' + 
             'CardData.SearchText,CardData.SearchFlavorText,CardData.Traits,CardData.Armor,CardData.Source,CardData.Amber,' + 
-            'CardData._rowID&limit=250&offset=0&order_by=CardNumber';
+            'CardData._rowID&limit=300&offset=0&order_by=CardNumber';
 
         console.log(apiUrl);
 
@@ -170,6 +170,11 @@ class DecksOfKeyforgeApiToKeytekiConverter {
                         .replace(/[?.!",“”]/gi, '')
                         .replace(/&quot;/gi, '')
                         .replace('??', ' ')
+                        .replace(/[Ăă]/g,'a')
+                        .replace(/[Ĕĕ]/g,'e')
+                        .replace(/[Ĭĭ]/g,'i')
+                        .replace(/[Ŏŏ]/g,'o')
+                        .replace(/[Ŭŭ]/g,'u')
                         .replace('   ', ' ')
                         .replace('  ', ' ')
                         .replace(/[ '’]/gi, '-')
