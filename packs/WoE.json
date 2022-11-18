@@ -358,11 +358,12 @@
             "id": "brikk-nastee",
             "name": "Brikk Nastee",
             "number": "038",
-            "image": "Woe_Brikk_Nastee.jpg",
+            "image": "Woe-brikk-nastee.jpg",
             "house": "brobnar",
             "keywords": [],
             "traits": [
-                "giant"
+                "giant",
+                "bräkken"
             ],
             "type": "creature",
             "rarity": "Common",
@@ -2955,14 +2956,14 @@
             "id": "hymn-to-duma",
             "name": "Hymn to Duma",
             "number": "201",
-            "image": "Woe_Hymn.jpg",
+            "image": "Woe-hymn-to-duma.png",
             "house": "sanctum",
             "keywords": [],
             "traits": [
                 "power"
             ],
             "type": "artifact",
-            "rarity": "Uncommon",
+            "rarity": "Rare",
             "amber": null,
             "armor": null,
             "power": null,
@@ -3081,10 +3082,10 @@
             }
         },
         {
-            "id": "battlevangelist",
-            "name": "Battlevangelist",
+            "id": "battlefield-evangelist",
+            "name": "Battlefield Evangelist",
             "number": "210",
-            "image": "Woe-battlevangelist.jpg",
+            "image": "Woe-battlefield-evangelist.png",
             "house": "sanctum",
             "keywords": [],
             "traits": [
@@ -3099,7 +3100,7 @@
             "text": "After Fight: Make a token creature.",
             "locale": {
                 "en": {
-                    "name": "Battlevangelist"
+                    "name": "Battlefield Evangelist"
                 }
             }
         },
@@ -3107,14 +3108,14 @@
             "id": "celestial-gorm",
             "name": "Celestial Gorm",
             "number": "211",
-            "image": "Woe-celestial-gorm.jpg",
+            "image": "Woe-celestial-gorm.png",
             "house": "sanctum",
             "keywords": [],
             "traits": [
                 "item"
             ],
             "type": "artifact",
-            "rarity": "Uncommon",
+            "rarity": "Common",
             "amber": 1,
             "armor": null,
             "power": null,
@@ -3612,14 +3613,14 @@
             "id": "rampaging-brutodon",
             "name": "Rampaging Brutodon",
             "number": "247",
-            "image": "Woe-rampaging-brutodon.jpg",
+            "image": "Woe-rampaging-brutodon.png",
             "house": "saurian",
             "keywords": [],
             "traits": [
                 "beast"
             ],
             "type": "creature",
-            "rarity": "Uncommon",
+            "rarity": "Rare",
             "amber": null,
             "armor": 1,
             "power": 12,
@@ -3719,7 +3720,7 @@
             "id": "chaosodon",
             "name": "Chaosodon",
             "number": "256",
-            "image": "Woe_Chaosodon.jpg",
+            "image": "Woe-chaosodon.png",
             "house": "saurian",
             "keywords": [
                 "splash-attack:3"
@@ -3732,7 +3733,7 @@
             "amber": null,
             "armor": null,
             "power": 10,
-            "text": "Splash attack 3. (When this creature attacks, also deal 3 Damage to each of the attacked creature&#039;s neighbors.) Before Fight: Deal 3 Damage to each of Chaosodon&#039;s neighbors.",
+            "text": "Splash-attack 3. (When this creature attacks, also deal 3 Damage to each of the attacked creature&#039;s neighbors.) Before Fight: Deal 3 Damage to each of Chaosodon&#039;s neighbors.",
             "locale": {
                 "en": {
                     "name": "Chaosodon"
@@ -4874,7 +4875,7 @@
             "rarity": "Token",
             "amber": null,
             "armor": null,
-            "power": null,
+            "power": 1,
             "text": "Action: Use a friendly non-Star Alliance creature.",
             "locale": {
                 "en": {
