@@ -156,8 +156,13 @@ class DecksOfKeyforgeApiToKeytekiConverter {
                 let cardText = !card.SearchText ? '' : card.SearchText.replace(/&lt;/gi, '<')
                     .replace(/&gt;/gi, '>')
                     .replace(/&quot;/gi, '"')
+                    .replace(/&#039;(&#039;)+/gi, '')
+                    .replace(/&#039;/gi, '\'')
                     .replace(/<[^>]+aember[^>]+>/gi, 'A')
                     .replace(/<[^>]+damage[^>]+>/gi, 'D')
+                    .replace(/(?<=[0-9]) ?Aember/gi, 'A')
+                    .replace(/(?<=[0-9]) ?Damage/gi, 'D')
+                    .replace(/\[\[File:Enhance_A[^\]]+\]\]/gi, 'A')
                     .replace(/<br>/gi, '\n')
                     .replace(/<p>/gi, '\n')
                     .replace(/<[^>]+>/gi, '');
