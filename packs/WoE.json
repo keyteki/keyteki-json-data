@@ -22,7 +22,7 @@
             "amber": null,
             "armor": null,
             "power": null,
-            "text": "Each friendly creature cannot reap and gains, \"&#039;&#039;&#039;After Fight:&#039;&#039;&#039; Gain 1[[File:Enhance_aember.png|18px|frameless|class=aemberImg|link=|alt=Aember icon]].\"",
+            "text": "Each friendly creature cannot reap and gains, \"After Fight: Gain 1A.\"",
             "locale": {
                 "en": {
                     "name": "Ancient Battleground"
@@ -107,7 +107,7 @@
             "amber": null,
             "armor": null,
             "power": 5,
-            "text": "Each other friendly Brobnar creature gains, \"Destroyed:Return this creature to its owner&#039;s hand.\"",
+            "text": "Each other friendly Brobnar creature gains, \"Destroyed:Return this creature to its owner's hand.\"",
             "locale": {
                 "en": {
                     "name": "Harmal Atoon"
@@ -129,7 +129,7 @@
             "amber": null,
             "armor": null,
             "power": 3,
-            "text": "Each time a player exalts a creature or a creature captures Aember, put 1 Aember on that creature from the common supply.",
+            "text": "Each time a player exalts a creature or a creature captures Aember, put 1A on that creature from the common supply.",
             "locale": {
                 "en": {
                     "name": "Kretchee"
@@ -215,7 +215,7 @@
             "amber": 1,
             "armor": null,
             "power": null,
-            "text": "Action: Put a friendly creature on the bottom of its owner&#039;s deck. If you do, deal 6 D to an enemy creature.",
+            "text": "Action: Put a friendly creature on the bottom of its owner's deck. If you do, deal 6 D to an enemy creature.",
             "locale": {
                 "en": {
                     "name": "Broken Axe Outpost"
@@ -239,7 +239,7 @@
             "amber": null,
             "armor": null,
             "power": null,
-            "text": "Splash-attack 4. (When this creature attacks, also deal 4 Damage to each of the attacked creature&#039;s neighbors.) After Fight: Enrage each of Crim Torchtooth&#039;s neighbors.",
+            "text": "Splash-attack 4. (When this creature attacks, also deal 4D to each of the attacked creature's neighbors.) After Fight: Enrage each of Crim Torchtooth's neighbors.",
             "locale": {
                 "en": {
                     "name": "Crim Torchtooth"
@@ -324,7 +324,7 @@
             "amber": 1,
             "armor": null,
             "power": null,
-            "text": "Enhance Damage DamagePlay: Deal 2 Damage to each damaged enemy creature.",
+            "text": "Enhance Damage DamagePlay: Deal 2D to each damaged enemy creature.",
             "locale": {
                 "en": {
                     "name": "Vow of Blood"
@@ -370,7 +370,7 @@
             "amber": null,
             "armor": null,
             "power": 5,
-            "text": "After another friendly Brobnar creature fights, gain 1 Aember.",
+            "text": "After another friendly Brobnar creature fights, gain 1A.",
             "locale": {
                 "en": {
                     "name": "Brikk Nastee"
@@ -394,7 +394,7 @@
             "amber": null,
             "armor": null,
             "power": 7,
-            "text": "Splash-attack 2. (When this creature attacks, also deal 2 Damage to each of the attacked creature&#039;s neighbors.)",
+            "text": "Splash-attack 2. (When this creature attacks, also deal 2D to each of the attacked creature's neighbors.)",
             "locale": {
                 "en": {
                     "name": "Crogg The Clumsy"
@@ -482,7 +482,7 @@
             "amber": null,
             "armor": null,
             "power": 3,
-            "text": "Skirmish. (When you use this creature to fight, it is dealt no damage in return.) After Fight: Your opponent loses 1 Aember.",
+            "text": "Skirmish. (When you use this creature to fight, it is dealt no damage in return.) After Fight: Your opponent loses 1A.",
             "locale": {
                 "en": {
                     "name": "Pelf"
@@ -522,7 +522,7 @@
             "amber": null,
             "armor": null,
             "power": null,
-            "text": "Play: Make a token creature. Then, if you control more creatures than your opponent, your opponent loses 2 Aember.",
+            "text": "Play: Make a token creature. Then, if you control more creatures than your opponent, your opponent loses 2A.",
             "locale": {
                 "en": {
                     "name": "Ragnarok Prep"
@@ -542,7 +542,7 @@
             "amber": 1,
             "armor": null,
             "power": null,
-            "text": "Play: If your opponent has 8 Aember or more, they lose half their Aember (rounding down the loss).",
+            "text": "Play: If your opponent has 8A or more, they lose half their Aember (rounding down the loss).",
             "locale": {
                 "en": {
                     "name": "Rant and Rive"
@@ -608,7 +608,7 @@
             "amber": null,
             "armor": null,
             "power": null,
-            "text": "Play: Deal 3 Damage to a creature. If this damage destroys that creature, make a token creature.",
+            "text": "Play: Deal 3D to a creature. If this damage destroys that creature, make a token creature.",
             "locale": {
                 "en": {
                     "name": "Stratosmack"
@@ -700,7 +700,7 @@
             "amber": null,
             "armor": null,
             "power": 2,
-            "text": "Splash-attack 1. (When this creature attacks, also deal 1 Damage to each of the attacked creature&#039;s neighbors.)",
+            "text": "Splash-attack 1. (When this creature attacks, also deal 1D to each of the attacked creature's neighbors.)",
             "locale": {
                 "en": {
                     "name": "Grumpus"
@@ -722,7 +722,7 @@
             "amber": null,
             "armor": null,
             "power": null,
-            "text": "Your keys cost +1 Aember. During your \"draw cards\" step, refill your hand to 1 additional card.",
+            "text": "Your keys cost +1A. During your \"draw cards\" step, refill your hand to 1 additional card.",
             "locale": {
                 "en": {
                     "name": "Æmbitrage"
@@ -745,7 +745,7 @@
             "amber": null,
             "armor": null,
             "power": null,
-            "text": "Action: Gain 2 Aember if you control at least one artifact.",
+            "text": "Action: Gain 2A if you control at least one artifact.",
             "locale": {
                 "en": {
                     "name": "Antiquities Dealer"
@@ -808,7 +808,7 @@
             "amber": null,
             "armor": null,
             "power": null,
-            "text": "Play: During your opponent&#039;s next turn, they cannot play cards, and each time they discard a card from their hand, they may archive that card.",
+            "text": "Play: During your opponent's next turn, they cannot play cards, and each time they discard a card from their hand, they may archive that card.",
             "locale": {
                 "en": {
                     "name": "Corner the Market"
@@ -872,7 +872,7 @@
             "amber": null,
             "armor": null,
             "power": null,
-            "text": "Action: Look at a random card in your opponent&#039;s hand. You may give your opponent 1 Aember. If you do, play that card as if it were yours.",
+            "text": "Action: Look at a random card in your opponent's hand. You may give your opponent 1A. If you do, play that card as if it were yours.",
             "locale": {
                 "en": {
                     "name": "Flea Market"
@@ -912,7 +912,7 @@
             "amber": null,
             "armor": null,
             "power": null,
-            "text": "Play: Lose 1 Aember. This creature gains, \"Destroyed: If it is not your turn, gain 4 Aember.\"",
+            "text": "Play: Lose 1A. This creature gains, \"Destroyed: If it is not your turn, gain 4A.\"",
             "locale": {
                 "en": {
                     "name": "Insurance Policy"
@@ -976,7 +976,7 @@
             "amber": 1,
             "armor": null,
             "power": 2,
-            "text": "Talent Hunter can be used as if it belonged to the active house. Play: Look at your opponent&#039;s hand and play a creature as if it were yours. Your opponent gains control of Talent Hunter.",
+            "text": "Talent Hunter can be used as if it belonged to the active house. Play: Look at your opponent's hand and play a creature as if it were yours. Your opponent gains control of Talent Hunter.",
             "locale": {
                 "en": {
                     "name": "Talent Scout"
@@ -998,7 +998,7 @@
             "amber": null,
             "armor": null,
             "power": null,
-            "text": "Omni: Put 1 trade counter on The Æmber Road, then gain 1 Aember for each trade counter on it. Give control of The Æmber Road to your opponent.",
+            "text": "Omni: Put 1 trade counter on The Æmber Road, then gain 1A for each trade counter on it. Give control of The Æmber Road to your opponent.",
             "locale": {
                 "en": {
                     "name": "The Æmber Road"
@@ -1018,7 +1018,7 @@
             "amber": null,
             "armor": null,
             "power": null,
-            "text": "Play: Make a token creature. Forge a key at +7 Aember current cost, reduced by 1 Aember for each friendly token creature.",
+            "text": "Play: Make a token creature. Forge a key at +7A current cost, reduced by 1A for each friendly token creature.",
             "locale": {
                 "en": {
                     "name": "Token of Appreciation"
@@ -1063,7 +1063,7 @@
             "amber": null,
             "armor": null,
             "power": 5,
-            "text": "Action: Steal 1 Aember for each enemy artifact.",
+            "text": "Action: Steal 1A for each enemy artifact.",
             "locale": {
                 "en": {
                     "name": "Transitory Philosopher"
@@ -1127,7 +1127,7 @@
             "amber": null,
             "armor": null,
             "power": 3,
-            "text": "Action: Steal 2 Aember. Flip Gèzdrutyò the Arcane facedown (it becomes a token creature).",
+            "text": "Action: Steal 2A. Flip Gèzdrutyò the Arcane facedown (it becomes a token creature).",
             "locale": {
                 "en": {
                     "name": "Gèzdrutyü the Arcane"
@@ -1152,7 +1152,7 @@
             "amber": null,
             "armor": null,
             "power": 4,
-            "text": "Elusive. At the start of each player&#039;s turn, that player chooses to either make a token creature od draw a card.",
+            "text": "Elusive. At the start of each player's turn, that player chooses to either make a token creature od draw a card.",
             "locale": {
                 "en": {
                     "name": "Gezrăhi Blacksmith"
@@ -1174,7 +1174,7 @@
             "amber": 1,
             "armor": null,
             "power": null,
-            "text": "&#039;&#039;Action:&#039;&#039;&#039; Put a friendly creature on the bottom of its owner&#039;s deck. If you do, draw 3 cards.",
+            "text": "Action: Put a friendly creature on the bottom of its owner's deck. If you do, draw 3 cards.",
             "locale": {
                 "en": {
                     "name": "Ikwikĭ Outpost"
@@ -1234,7 +1234,7 @@
             "amber": 1,
             "armor": null,
             "power": null,
-            "text": "Play: Choose a card in your discard pile. Steal Aember equal to the number of Aember bonus icons on it and put that card on the bottom of its owner&#039;s deck.",
+            "text": "Play: Choose a card in your discard pile. Steal Aember equal to the number of Aember bonus icons on it and put that card on the bottom of its owner's deck.",
             "locale": {
                 "en": {
                     "name": "Outnegotiate"
@@ -1254,7 +1254,7 @@
             "amber": 1,
             "armor": null,
             "power": null,
-            "text": "Play: Shuffle 2 friendly creatures into their owners&#039; decks. Return 4 enemy creatures to their owners&#039; hands.",
+            "text": "Play: Shuffle 2 friendly creatures into their owners' decks. Return 4 enemy creatures to their owners' hands.",
             "locale": {
                 "en": {
                     "name": "Pull Up Stakes"
@@ -1299,7 +1299,7 @@
             "amber": 1,
             "armor": null,
             "power": null,
-            "text": "Action: Return a friendly creature to its owner&#039;s hand. If you do, you may play a non-Ekwidon creature from your hand.",
+            "text": "Action: Return a friendly creature to its owner's hand. If you do, you may play a non-Ekwidon creature from your hand.",
             "locale": {
                 "en": {
                     "name": "Sandhopper"
@@ -1364,7 +1364,7 @@
             "amber": null,
             "armor": null,
             "power": null,
-            "text": "Play: Discard any number of Ekwidon cards from your hand. Steal 1 Aember for each card discarded this way.",
+            "text": "Play: Discard any number of Ekwidon cards from your hand. Steal 1A for each card discarded this way.",
             "locale": {
                 "en": {
                     "name": "Trade Secrets"
@@ -1428,7 +1428,7 @@
             "amber": 1,
             "armor": null,
             "power": null,
-            "text": "Play: Purge an artifact. Its controller gains 1 Aember.",
+            "text": "Play: Purge an artifact. Its controller gains 1A.",
             "locale": {
                 "en": {
                     "name": "Auction Off"
@@ -1470,7 +1470,7 @@
             "amber": 1,
             "armor": null,
             "power": null,
-            "text": "Play: Your opponent draws a card. Steal 1 Aember. If you do and your opponent still has more Aember than you, trigger this effect again.",
+            "text": "Play: Your opponent draws a card. Steal 1A. If you do and your opponent still has more Aember than you, trigger this effect again.",
             "locale": {
                 "en": {
                     "name": "Closed-Door Negotiation"
@@ -1513,7 +1513,7 @@
             "amber": null,
             "armor": null,
             "power": null,
-            "text": "Play: Destroy a creature. If you do, its controller gains 1 Aember.",
+            "text": "Play: Destroy a creature. If you do, its controller gains 1A.",
             "locale": {
                 "en": {
                     "name": "Forced Retirement"
@@ -1536,7 +1536,7 @@
             "amber": null,
             "armor": null,
             "power": 6,
-            "text": "Action: Steal 1 Aember. Deal 1 Damage to Gemcoat Vendor.",
+            "text": "Action: Steal 1A. Deal 1D to Gemcoat Vendor.",
             "locale": {
                 "en": {
                     "name": "Gemcoat Vendor"
@@ -1581,7 +1581,7 @@
             "amber": null,
             "armor": null,
             "power": null,
-            "text": "Play: Destroy a friendly creature. If you do, steal 2 Aember.",
+            "text": "Play: Destroy a friendly creature. If you do, steal 2A.",
             "locale": {
                 "en": {
                     "name": "Generous Offer"
@@ -1601,7 +1601,7 @@
             "amber": null,
             "armor": null,
             "power": null,
-            "text": "Play: Make a token creature. If there is a combined total of 6 Aember or more between both players&#039; pools, archive Hire On.",
+            "text": "Play: Make a token creature. If there is a combined total of 6A or more between both players' pools, archive Hire On.",
             "locale": {
                 "en": {
                     "name": "Hire On"
@@ -1688,7 +1688,7 @@
             "amber": null,
             "armor": null,
             "power": 4,
-            "text": "Elusive. (The first time this creature is attacked each turn, no damage is dealt.)\n&#039;&#039;&#039;Play:&#039;&#039;&#039; You may have your opponent gain 1[[File:Enhance_aember.png|18px|frameless|class=aemberImg|link=|alt=Aember icon]]. If you do, capture 4[[File:Enhance_aember.png|18px|frameless|class=aemberImg|link=|alt=Aember icon]].",
+            "text": "Elusive. (The first time this creature is attacked each turn, no damage is dealt.)\nPlay: You may have your opponent gain 1A. If you do, capture 4A.",
             "locale": {
                 "en": {
                     "name": "Shrewd Investor"
@@ -1776,7 +1776,7 @@
             "amber": 1,
             "armor": null,
             "power": null,
-            "text": "Play: A friendly creature and an enemy creature each capture 3 Aember from their opponent.",
+            "text": "Play: A friendly creature and an enemy creature each capture 3A from their opponent.",
             "locale": {
                 "en": {
                     "name": "Trading Frenzy"
@@ -1799,7 +1799,7 @@
             "amber": null,
             "armor": null,
             "power": null,
-            "text": "Action: Destroy a friendly creature. If you do, gain 2 Aember.",
+            "text": "Action: Destroy a friendly creature. If you do, gain 2A.",
             "locale": {
                 "en": {
                     "name": "Shĭgzisŏ Buggy"
@@ -1822,7 +1822,7 @@
             "amber": null,
             "armor": null,
             "power": null,
-            "text": "Action: Lose 1 Aember. If you do, draw 3 cards.",
+            "text": "Action: Lose 1A. If you do, draw 3 cards.",
             "locale": {
                 "en": {
                     "name": "Shĭsnyasĭ Buggy"
@@ -1892,7 +1892,7 @@
             "amber": null,
             "armor": null,
             "power": 1,
-            "text": "Elusive. (The first time this creature is attacked each turn, no damage is dealt.) Reap&#039; Each player gains 1 Æmber.",
+            "text": "Elusive. (The first time this creature is attacked each turn, no damage is dealt.) Reap' Each player gains 1 Æmber.",
             "locale": {
                 "en": {
                     "name": "Diplomat"
@@ -1979,7 +1979,7 @@
             "amber": null,
             "armor": null,
             "power": null,
-            "text": "Omni:&#039;Destroy a friendly creature. If you do, make 2 Blorbs. Then, if you control 10 or more, Blorbs, destroy Blorb Hive and forge a key at no cost.",
+            "text": "Omni:'Destroy a friendly creature. If you do, make 2 Blorbs. Then, if you control 10 or more, Blorbs, destroy Blorb Hive and forge a key at no cost.",
             "locale": {
                 "en": {
                     "name": "Blorb Hive"
@@ -2086,7 +2086,7 @@
             "amber": 1,
             "armor": null,
             "power": null,
-            "text": "This creature and each creature with the same name as it gain, \"After Reap: Deal 2 Damage to an enemy creature.\"",
+            "text": "This creature and each creature with the same name as it gain, \"After Reap: Deal 2D to an enemy creature.\"",
             "locale": {
                 "en": {
                     "name": "R-Evolution"
@@ -2197,7 +2197,7 @@
             "amber": null,
             "armor": null,
             "power": 5,
-            "text": "Your opponent&#039;s cards cannot leave your archives. Action: Gain 1 Aember for each card in your archives.",
+            "text": "Your opponent's cards cannot leave your archives. Action: Gain 1A for each card in your archives.",
             "locale": {
                 "en": {
                     "name": "Memrox the Red"
@@ -2219,7 +2219,7 @@
             "amber": null,
             "armor": null,
             "power": null,
-            "text": "Action: Put a friendly creature on the bottom of its owner&#039;s deck. If you do, make 2 token creatures.",
+            "text": "Action: Put a friendly creature on the bottom of its owner's deck. If you do, make 2 token creatures.",
             "locale": {
                 "en": {
                     "name": "Nyyon Outpost"
@@ -2259,7 +2259,7 @@
             "amber": null,
             "armor": null,
             "power": null,
-            "text": "Enhance Damage Damage. Play: Put a damaged enemy creature into your archives. If it leaves your archives, put it into its owner&#039;s hand instead.",
+            "text": "Enhance Damage Damage. Play: Put a damaged enemy creature into your archives. If it leaves your archives, put it into its owner's hand instead.",
             "locale": {
                 "en": {
                     "name": "Suspended Animation"
@@ -2282,7 +2282,7 @@
             "amber": null,
             "armor": 1,
             "power": 4,
-            "text": "Play: Each friendly Ironyx creature captures 2 Aember.",
+            "text": "Play: Each friendly Ironyx creature captures 2A.",
             "locale": {
                 "en": {
                     "name": "Yxl the Iron Captain"
@@ -2308,7 +2308,7 @@
             "amber": null,
             "armor": null,
             "power": 3,
-            "text": "Skirmish. Splash-attack 1. After an enemy creature is destroyed by Zizok&#039;s splash-attack damage, ready Zizok.",
+            "text": "Skirmish. Splash-attack 1. After an enemy creature is destroyed by Zizok's splash-attack damage, ready Zizok.",
             "locale": {
                 "en": {
                     "name": "Zizok"
@@ -2328,7 +2328,7 @@
             "amber": 1,
             "armor": null,
             "power": null,
-            "text": "Play: Enrage an enemy creature. It captures 1 Aember from its own side.",
+            "text": "Play: Enrage an enemy creature. It captures 1A from its own side.",
             "locale": {
                 "en": {
                     "name": "Braindart"
@@ -2368,7 +2368,7 @@
             "amber": 1,
             "armor": null,
             "power": null,
-            "text": "Play: Deal 2 Damage to a creature and each other creature with the same name as that creature.",
+            "text": "Play: Deal 2D to a creature and each other creature with the same name as that creature.",
             "locale": {
                 "en": {
                     "name": "Genetic Blast"
@@ -2436,7 +2436,7 @@
             "amber": null,
             "armor": null,
             "power": null,
-            "text": "Deploy. \n &#039;&#039;&#039;Play:&#039;&#039;&#039;(?) Ready each of Ironyx Rebel&#039;s neighbors.",
+            "text": "Deploy. \n Play:(?) Ready each of Ironyx Rebel's neighbors.",
             "locale": {
                 "en": {
                     "name": "Ironyx Rebel"
@@ -2479,7 +2479,7 @@
             "amber": null,
             "armor": null,
             "power": null,
-            "text": "Play: Put each Mars creature into its owner&#039;s archives. Destroy each creature. Gain 3 chains.",
+            "text": "Play: Put each Mars creature into its owner's archives. Destroy each creature. Gain 3 chains.",
             "locale": {
                 "en": {
                     "name": "Kaboom!"
@@ -2523,7 +2523,7 @@
             "amber": null,
             "armor": null,
             "power": 5,
-            "text": "Your opponent&#039;s keys cost +1 Aember for each friendly Mars creature in play.",
+            "text": "Your opponent's keys cost +1A for each friendly Mars creature in play.",
             "locale": {
                 "en": {
                     "name": "Myx the Tallminded"
@@ -2543,7 +2543,7 @@
             "amber": 1,
             "armor": null,
             "power": null,
-            "text": "Play: Put a friendly non-Mars creature and an enemy non-Mars creature into your archives. If that enemy creature would leave your archives, return it to its owner&#039;s hand instead.",
+            "text": "Play: Put a friendly non-Mars creature and an enemy non-Mars creature into your archives. If that enemy creature would leave your archives, return it to its owner's hand instead.",
             "locale": {
                 "en": {
                     "name": "Scoop Up"
@@ -2565,7 +2565,7 @@
             "amber": null,
             "armor": null,
             "power": 5,
-            "text": "Action: A creature captures 1 Aember from its own side.",
+            "text": "Action: A creature captures 1A from its own side.",
             "locale": {
                 "en": {
                     "name": "Yxlix Mesmerist"
@@ -2835,7 +2835,7 @@
             "amber": 1,
             "armor": null,
             "power": null,
-            "text": "Keys cost +6 Aember. Each creature gains, \"After Reap: Gain 1 Aember.\"",
+            "text": "Keys cost +6A. Each creature gains, \"After Reap: Gain 1A.\"",
             "locale": {
                 "en": {
                     "name": "Heavy Subsidies"
@@ -2900,7 +2900,7 @@
             "amber": 1,
             "armor": null,
             "power": null,
-            "text": "At the start of each player&#039;s turn, the player with the fewest creatures in play takes control of The Promised Blade. Omni: A friendly creature captures 1 Aember.",
+            "text": "At the start of each player's turn, the player with the fewest creatures in play takes control of The Promised Blade. Omni: A friendly creature captures 1A.",
             "locale": {
                 "en": {
                     "name": "The Promised Blade"
@@ -2922,7 +2922,7 @@
             "amber": null,
             "armor": null,
             "power": 2,
-            "text": "Play: Make 2 token creatures. Zephon the Opulent cannot be used unless there are 2 or more friendly token creatures in play. After Reap: Gain 2 Aember.",
+            "text": "Play: Make 2 token creatures. Zephon the Opulent cannot be used unless there are 2 or more friendly token creatures in play. After Reap: Gain 2A.",
             "locale": {
                 "en": {
                     "name": "Zephon the Opulent"
@@ -2967,7 +2967,7 @@
             "amber": null,
             "armor": null,
             "power": null,
-            "text": "Each friendly creature gains, \"Omni: Destroy this creature. A friendly creature captures 2 Aember.\"",
+            "text": "Each friendly creature gains, \"Omni: Destroy this creature. A friendly creature captures 2A.\"",
             "locale": {
                 "en": {
                     "name": "Hymn to Duma"
@@ -2989,7 +2989,7 @@
             "amber": null,
             "armor": null,
             "power": 4,
-            "text": "Play/After Reap: Capture 1 Aember. Destroyed: Make a token creature for each Aember on Katerina the Summoner.",
+            "text": "Play/After Reap: Capture 1A. Destroyed: Make a token creature for each Aember on Katerina the Summoner.",
             "locale": {
                 "en": {
                     "name": "Katerina the Summoner"
@@ -3011,7 +3011,7 @@
             "amber": 1,
             "armor": null,
             "power": null,
-            "text": "Action: Put a friendly creature on the bottom of its owner&#039;s deck. If you do, a friendly creature captures 3 Aember.",
+            "text": "Action: Put a friendly creature on the bottom of its owner's deck. If you do, a friendly creature captures 3A.",
             "locale": {
                 "en": {
                     "name": "Lightbringer Outpost"
@@ -3034,7 +3034,7 @@
             "amber": null,
             "armor": 1,
             "power": 4,
-            "text": "Destroyed: If your opponent has 7 Aember or more, they lose all but 5 Aember.",
+            "text": "Destroyed: If your opponent has 7A or more, they lose all but 5A.",
             "locale": {
                 "en": {
                     "name": "Martyr of the Vault"
@@ -3074,7 +3074,7 @@
             "amber": 1,
             "armor": null,
             "power": null,
-            "text": "Play: Heal 1 Damage from each creature. Each creature healed this way captures 1 Aember from its opponent.",
+            "text": "Play: Heal 1D from each creature. Each creature healed this way captures 1A from its opponent.",
             "locale": {
                 "en": {
                     "name": "Absolve"
@@ -3119,7 +3119,7 @@
             "amber": 1,
             "armor": null,
             "power": null,
-            "text": "Omni: Destroy Celestial Gorm. Return each other artifact to its owner&#039;s hand.",
+            "text": "Omni: Destroy Celestial Gorm. Return each other artifact to its owner's hand.",
             "locale": {
                 "en": {
                     "name": "Celestial Gorm"
@@ -3142,7 +3142,7 @@
             "amber": null,
             "armor": 1,
             "power": 5,
-            "text": "Play: Each friendly Knight captures 1 Aember.",
+            "text": "Play: Each friendly Knight captures 1A.",
             "locale": {
                 "en": {
                     "name": "Colonel Mariana"
@@ -3207,7 +3207,7 @@
             "amber": null,
             "armor": null,
             "power": null,
-            "text": "Play: Make a token creature. Gain 1 Aember for each friendly token creature.",
+            "text": "Play: Make a token creature. Gain 1A for each friendly token creature.",
             "locale": {
                 "en": {
                     "name": "Membership Drive"
@@ -3247,7 +3247,7 @@
             "amber": 1,
             "armor": null,
             "power": null,
-            "text": "Play: Move this creature anywhere in its controller&#039;s battleline.\nThis creature gains taunt. (This creature&#039;s neighbors cannot be attacked unless they have taunt.)",
+            "text": "Play: Move this creature anywhere in its controller's battleline.\nThis creature gains taunt. (This creature's neighbors cannot be attacked unless they have taunt.)",
             "locale": {
                 "en": {
                     "name": "Ostentatious Mount"
@@ -3267,7 +3267,7 @@
             "amber": 1,
             "armor": null,
             "power": null,
-            "text": "Play: Each Sanctum flank creature captures 2 Aember from its opponent.",
+            "text": "Play: Each Sanctum flank creature captures 2A from its opponent.",
             "locale": {
                 "en": {
                     "name": "Outflank"
@@ -3292,7 +3292,7 @@
             "amber": null,
             "armor": 2,
             "power": 4,
-            "text": "Taunt. (This creature&#039;s neighbors can&#039;t be attacked unless they have taunt.) Play: Enrage an enemy creature.",
+            "text": "Taunt. (This creature's neighbors can't be attacked unless they have taunt.) Play: Enrage an enemy creature.",
             "locale": {
                 "en": {
                     "name": "Pandulf the Provoker"
@@ -3312,7 +3312,7 @@
             "amber": null,
             "armor": null,
             "power": null,
-            "text": "Play: Make a token creature. It captures 2 Aember.",
+            "text": "Play: Make a token creature. It captures 2A.",
             "locale": {
                 "en": {
                     "name": "Request Donations"
@@ -3400,7 +3400,7 @@
             "amber": null,
             "armor": null,
             "power": 1,
-            "text": "When Cleric enters play, capture 1 Aember.",
+            "text": "When Cleric enters play, capture 1A.",
             "locale": {
                 "en": {
                     "name": "Cleric"
@@ -3446,7 +3446,7 @@
             "amber": null,
             "armor": null,
             "power": 2,
-            "text": "Taunt. (This creature&#039;s neighbors cannot be attacked unless they have  taunt.)",
+            "text": "Taunt. (This creature's neighbors cannot be attacked unless they have  taunt.)",
             "locale": {
                 "en": {
                     "name": "Squire"
@@ -3556,7 +3556,7 @@
             "amber": 1,
             "armor": null,
             "power": null,
-            "text": "Each creature gains, \"After Reap: Put a &#039;for&#039; or &#039;against&#039; counter on Election\".  If there are 6 &#039;for&#039; counters on Election, destroy Election and each creature.  If there are 6 &#039;against&#039; counters on Election, destroy each artifact.",
+            "text": "Each creature gains, \"After Reap: Put a 'for' or 'against' counter on Election\".  If there are 6 'for' counters on Election, destroy Election and each creature.  If there are 6 'against' counters on Election, destroy each artifact.",
             "locale": {
                 "en": {
                     "name": "Election"
@@ -3667,7 +3667,7 @@
             "amber": null,
             "armor": null,
             "power": null,
-            "text": "Play: Divide each player&#039;s battleline in half as evenly as possible without changing the order of creatures. For each battleline, destroy each creature in one of the halves.",
+            "text": "Play: Divide each player's battleline in half as evenly as possible without changing the order of creatures. For each battleline, destroy each creature in one of the halves.",
             "locale": {
                 "en": {
                     "name": "Tectonic Shift"
@@ -3687,7 +3687,7 @@
             "amber": null,
             "armor": null,
             "power": null,
-            "text": "You cannot choose to discard Training Costs from your hand. Play: Lose 2 Aember. If you do not, shuffle Training Costs into your deck.",
+            "text": "You cannot choose to discard Training Costs from your hand. Play: Lose 2A. If you do not, shuffle Training Costs into your deck.",
             "locale": {
                 "en": {
                     "name": "Training Costs"
@@ -3709,7 +3709,7 @@
             "amber": 1,
             "armor": null,
             "power": null,
-            "text": "Action: Put a friendly creature on the bottom of its owner&#039;s deck. If you do,  move 1 Aember from a friendly creature to your pool.",
+            "text": "Action: Put a friendly creature on the bottom of its owner's deck. If you do,  move 1A from a friendly creature to your pool.",
             "locale": {
                 "en": {
                     "name": "Æmbrosia Outpost"
@@ -3733,7 +3733,7 @@
             "amber": null,
             "armor": null,
             "power": 10,
-            "text": "Splash-attack 3. (When this creature attacks, also deal 3 Damage to each of the attacked creature&#039;s neighbors.) Before Fight: Deal 3 Damage to each of Chaosodon&#039;s neighbors.",
+            "text": "Splash-attack 3. (When this creature attacks, also deal 3D to each of the attacked creature's neighbors.) Before Fight: Deal 3D to each of Chaosodon's neighbors.",
             "locale": {
                 "en": {
                     "name": "Chaosodon"
@@ -3839,7 +3839,7 @@
             "amber": null,
             "armor": null,
             "power": 4,
-            "text": "Play: Make a token creature immediately to Phalanx Leader&#039;s left. After Fight/After Reap: Each creature to Phalanx Leader&#039;s left gets +2 power for the remainder of the turn.",
+            "text": "Play: Make a token creature immediately to Phalanx Leader's left. After Fight/After Reap: Each creature to Phalanx Leader's left gets +2 power for the remainder of the turn.",
             "locale": {
                 "en": {
                     "name": "Phalanx Leader"
@@ -3862,7 +3862,7 @@
             "amber": null,
             "armor": 1,
             "power": 6,
-            "text": "&#039;&#039;Omni:&#039;&#039;&#039; Capture 1 Aember if there are more enemy creatures than friendly creatures.",
+            "text": "Omni: Capture 1A if there are more enemy creatures than friendly creatures.",
             "locale": {
                 "en": {
                     "name": "Aquilia, Lone Hero"
@@ -3905,7 +3905,7 @@
             "amber": null,
             "armor": null,
             "power": 5,
-            "text": "&#039;&#039;Play:&#039;&#039;&#039; You may exalt Ballistego. While Ballistego has Aember on it, it gains splash-attack 3. (When this creature attacks, also deal 3 Damage to each of the attacked creature&#039;s neighbors.)",
+            "text": "Play: You may exalt Ballistego. While Ballistego has Aember on it, it gains splash-attack 3. (When this creature attacks, also deal 3D to each of the attacked creature's neighbors.)",
             "locale": {
                 "en": {
                     "name": "Ballistego"
@@ -3928,7 +3928,7 @@
             "amber": null,
             "armor": null,
             "power": null,
-            "text": "After Reap: You may exalt Chancellor Dexterus&#039;s right neighbor. If you do, that creature belongs to house Saurian for the remainder of the turn (instead of its other houses).",
+            "text": "After Reap: You may exalt Chancellor Dexterus's right neighbor. If you do, that creature belongs to house Saurian for the remainder of the turn (instead of its other houses).",
             "locale": {
                 "en": {
                     "name": "Chancellor Dexterus"
@@ -3948,7 +3948,7 @@
             "amber": null,
             "armor": null,
             "power": null,
-            "text": "Play: Exalt a friendly creature. Gain 1 Aember for each Aember on that creature.",
+            "text": "Play: Exalt a friendly creature. Gain 1A for each Aember on that creature.",
             "locale": {
                 "en": {
                     "name": "Epic Poem"
@@ -4060,7 +4060,7 @@
             "amber": null,
             "armor": null,
             "power": 5,
-            "text": "After Reap: For each exhausted creature to Praetor Marius&#039;s left, capture 1 Aember.",
+            "text": "After Reap: For each exhausted creature to Praetor Marius's left, capture 1A.",
             "locale": {
                 "en": {
                     "name": "Praetor Marius"
@@ -4169,7 +4169,7 @@
             "amber": null,
             "armor": null,
             "power": 2,
-            "text": "Action: Keys cost +1 A during your opponent&#039;s next turn.",
+            "text": "Action: Keys cost +1 A during your opponent's next turn.",
             "locale": {
                 "en": {
                     "name": "Senator"
@@ -4276,7 +4276,7 @@
             "amber": null,
             "armor": null,
             "power": 3,
-            "text": "Pupgrade may be played as an upgrade instead of a creature, with the text: \"This creature gets +3 power and gains, &#039;Destroyed: Put Pupgrade on the right flank of your battleline as a creature, ready.&#039;\"",
+            "text": "Pupgrade may be played as an upgrade instead of a creature, with the text: \"This creature gets +3 power and gains, 'Destroyed: Put Pupgrade on the right flank of your battleline as a creature, ready.'\"",
             "locale": {
                 "en": {
                     "name": "Pupgrade"
@@ -4320,7 +4320,7 @@
             "amber": null,
             "armor": null,
             "power": 4,
-            "text": "After Reap: Choose a creature and discard the top card of its controller&#039;s deck. If that card shares a house with the chosen creature, its controller gains 1 Aember. Otherwise, destroy that creature.",
+            "text": "After Reap: Choose a creature and discard the top card of its controller's deck. If that card shares a house with the chosen creature, its controller gains 1A. Otherwise, destroy that creature.",
             "locale": {
                 "en": {
                     "name": "Shakedown Sullivan"
@@ -4360,7 +4360,7 @@
             "amber": 1,
             "armor": null,
             "power": null,
-            "text": "Play: Flip each token creature faceup. Put each non-creature card flipped this way into its owner&#039;s discard pile.",
+            "text": "Play: Flip each token creature faceup. Put each non-creature card flipped this way into its owner's discard pile.",
             "locale": {
                 "en": {
                     "name": "Temporal Purge"
@@ -4464,7 +4464,7 @@
             "amber": 1,
             "armor": null,
             "power": null,
-            "text": "Action: Put a friendly creature on the bottom of its owner&#039;s deck. If you do, archive 2 cards.",
+            "text": "Action: Put a friendly creature on the bottom of its owner's deck. If you do, archive 2 cards.",
             "locale": {
                 "en": {
                     "name": "Ganymede Outpost"
@@ -4570,7 +4570,7 @@
             "amber": 1,
             "armor": null,
             "power": null,
-            "text": "This creature gains, \"Your opponent&#039;s keys cost +3 A.\"",
+            "text": "This creature gains, \"Your opponent's keys cost +3 A.\"",
             "locale": {
                 "en": {
                     "name": "Echo Reflector"
@@ -4594,7 +4594,7 @@
             "amber": null,
             "armor": null,
             "power": 3,
-            "text": "Elusive. (The first time this creature is attacked each turn, no damage is dealt.) After you use one of Friendly Guide&#039;s neighbors, you may use Friendly Guide.",
+            "text": "Elusive. (The first time this creature is attacked each turn, no damage is dealt.) After you use one of Friendly Guide's neighbors, you may use Friendly Guide.",
             "locale": {
                 "en": {
                     "name": "Friendly Guide"
@@ -4636,7 +4636,7 @@
             "amber": null,
             "armor": null,
             "power": null,
-            "text": "Play: Deal 2 Damage to a creature, with 1 Damage splash. If this damage destroys 1 or more creatures, make a token creature.",
+            "text": "Play: Deal 2D to a creature, with 1D splash. If this damage destroys 1 or more creatures, make a token creature.",
             "locale": {
                 "en": {
                     "name": "Photon Blast"
@@ -4660,7 +4660,7 @@
             "amber": null,
             "armor": null,
             "power": 3,
-            "text": "Splash-attack 3. (When this creature attacks, also deal 3 Damage to each of the attacked creature&#039;s neighbors.) PYR*O may be played as an upgrade instead of a creature, with the text: \"This creature gains splash-attack 3.\"",
+            "text": "Splash-attack 3. (When this creature attacks, also deal 3D to each of the attacked creature's neighbors.) PYR*O may be played as an upgrade instead of a creature, with the text: \"This creature gains splash-attack 3.\"",
             "locale": {
                 "en": {
                     "name": "PYR*0"
@@ -4700,7 +4700,7 @@
             "amber": null,
             "armor": null,
             "power": null,
-            "text": "Play: Discard the top 2 cards of your deck. Steal 1 Aember for each house represented among the discarded cards.",
+            "text": "Play: Discard the top 2 cards of your deck. Steal 1A for each house represented among the discarded cards.",
             "locale": {
                 "en": {
                     "name": "Rogue Operation"
@@ -4748,7 +4748,7 @@
             "amber": null,
             "armor": null,
             "power": 3,
-            "text": "Skirmish. (When you use this creature to fight, it is dealt no damage in return.) After Fight/After Reap: Capture 1 Aember for each house represented among Specialist Guthrak and its neighbors.",
+            "text": "Skirmish. (When you use this creature to fight, it is dealt no damage in return.) After Fight/After Reap: Capture 1A for each house represented among Specialist Guthrak and its neighbors.",
             "locale": {
                 "en": {
                     "name": "Specialist Guthrak"
@@ -4788,7 +4788,7 @@
             "amber": 1,
             "armor": null,
             "power": null,
-            "text": "This creature gains, \"Action: Make a token creature for each of this creature&#039;s non-Star Alliance neighbors\"",
+            "text": "This creature gains, \"Action: Make a token creature for each of this creature's non-Star Alliance neighbors\"",
             "locale": {
                 "en": {
                     "name": "Uplink"
@@ -4832,7 +4832,7 @@
             "amber": null,
             "armor": null,
             "power": 1,
-            "text": "Destroyed: Ready Cadet&#039;s most powerful neighbor.",
+            "text": "Destroyed: Ready Cadet's most powerful neighbor.",
             "locale": {
                 "en": {
                     "name": "Cadet"
@@ -4898,7 +4898,7 @@
             "amber": 1,
             "armor": null,
             "power": null,
-            "text": "After a creature fights, it doesn&#039;t ready during the \"ready cards\" step this turn.",
+            "text": "After a creature fights, it doesn't ready during the \"ready cards\" step this turn.",
             "locale": {
                 "en": {
                     "name": "Brackish Shoreline"
@@ -4962,7 +4962,7 @@
             "amber": null,
             "armor": 5,
             "power": 1,
-            "text": "Play: Make 3 token creatures. Token creatures do not ready during their controller&#039;s \"ready cards\" step.",
+            "text": "Play: Make 3 token creatures. Token creatures do not ready during their controller's \"ready cards\" step.",
             "locale": {
                 "en": {
                     "name": "Giltspine School"
@@ -5024,7 +5024,7 @@
             "amber": 1,
             "armor": null,
             "power": null,
-            "text": "Play: Reveal a random unrevealed card from your opponent&#039;s hand. Then, you may either repeat this effect or your opponent discards the last revealed card.",
+            "text": "Play: Reveal a random unrevealed card from your opponent's hand. Then, you may either repeat this effect or your opponent discards the last revealed card.",
             "locale": {
                 "en": {
                     "name": "Plunder"
@@ -5068,7 +5068,7 @@
             "amber": null,
             "armor": null,
             "power": 5,
-            "text": "At the start of your opponent&#039;s turn, that player discards the top card of their deck and exhausts each creature of that card&#039;s house.",
+            "text": "At the start of your opponent's turn, that player discards the top card of their deck and exhausts each creature of that card's house.",
             "locale": {
                 "en": {
                     "name": "Sibyl Waimare"
@@ -5110,7 +5110,7 @@
             "amber": 1,
             "armor": null,
             "power": null,
-            "text": "This creature gains, \"While this creature is exhausted, your keys cost +6 Aember.\"",
+            "text": "This creature gains, \"While this creature is exhausted, your keys cost +6A.\"",
             "locale": {
                 "en": {
                     "name": "Weak Link"
@@ -5132,7 +5132,7 @@
             "amber": 1,
             "armor": null,
             "power": null,
-            "text": "Action: Put a friendly creature on the bottom of its owner&#039;s deck. If you do, exhaust 3 enemy creatures.",
+            "text": "Action: Put a friendly creature on the bottom of its owner's deck. If you do, exhaust 3 enemy creatures.",
             "locale": {
                 "en": {
                     "name": "Azure Basin Outpost"
@@ -5152,7 +5152,7 @@
             "amber": null,
             "armor": null,
             "power": null,
-            "text": "Play: Return each creature to its owner&#039;s hand. Each player discards random cards from their hand until they have 6 or fewer cards in hand. Gain 2 chains.",
+            "text": "Play: Return each creature to its owner's hand. Each player discards random cards from their hand until they have 6 or fewer cards in hand. Gain 2 chains.",
             "locale": {
                 "en": {
                     "name": "Catch and Release"
@@ -5172,7 +5172,7 @@
             "amber": 1,
             "armor": null,
             "power": null,
-            "text": "Play: Return a creature and each neighbor that shares a house with it to their owners&#039; hands.",
+            "text": "Play: Return a creature and each neighbor that shares a house with it to their owners' hands.",
             "locale": {
                 "en": {
                     "name": "Dragnet"
@@ -5238,7 +5238,7 @@
             "amber": null,
             "armor": null,
             "power": 3,
-            "text": "Destroyed: Destroy the creature on your opponent&#039;s left flank.",
+            "text": "Destroyed: Destroy the creature on your opponent's left flank.",
             "locale": {
                 "en": {
                     "name": "Soleft"
@@ -5258,7 +5258,7 @@
             "amber": 1,
             "armor": null,
             "power": null,
-            "text": "Play: Each ready creature captures 1 Aember from its opponent.",
+            "text": "Play: Each ready creature captures 1A from its opponent.",
             "locale": {
                 "en": {
                     "name": "Stir-Crazy"
@@ -5300,7 +5300,7 @@
             "amber": 1,
             "armor": null,
             "power": null,
-            "text": "Play: Choose a house on your opponent&#039;s identity card. If they do not choose this house as their active house during their next turn, make 2 token creatures and ready them.",
+            "text": "Play: Choose a house on your opponent's identity card. If they do not choose this house as their active house during their next turn, make 2 token creatures and ready them.",
             "locale": {
                 "en": {
                     "name": "Watch Your Step"
@@ -5344,7 +5344,7 @@
             "amber": 1,
             "armor": null,
             "power": null,
-            "text": "Play: Destroy a friendly creature. If you do, look at your opponent&#039;s hand and choose a card from it. That player discards that card.",
+            "text": "Play: Destroy a friendly creature. If you do, look at your opponent's hand and choose a card from it. That player discards that card.",
             "locale": {
                 "en": {
                     "name": "Abyssal Sight"
@@ -5364,7 +5364,7 @@
             "amber": 1,
             "armor": null,
             "power": null,
-            "text": "Play: Put each creature with power 3 or lower on top of its owner&#039;s deck in a random order.",
+            "text": "Play: Put each creature with power 3 or lower on top of its owner's deck in a random order.",
             "locale": {
                 "en": {
                     "name": "Adult Swim"
@@ -5384,7 +5384,7 @@
             "amber": 1,
             "armor": null,
             "power": null,
-            "text": "Play: Choose a house on your opponent&#039;s identity card. During their next turn, they cannot play cards of other houses.",
+            "text": "Play: Choose a house on your opponent's identity card. During their next turn, they cannot play cards of other houses.",
             "locale": {
                 "en": {
                     "name": "Befuddle"
@@ -5406,7 +5406,7 @@
             "amber": null,
             "armor": null,
             "power": 3,
-            "text": "While Covetous Hema is not on a flank, it gains elusive. Play: Capture 3[[File:Enhance_aember.png|18px|frameless|class=aemberImg|link=|alt=Aember icon]].",
+            "text": "While Covetous Hema is not on a flank, it gains elusive. Play: Capture 3A.",
             "locale": {
                 "en": {
                     "name": "Covetous Hema"
@@ -5426,7 +5426,7 @@
             "amber": 1,
             "armor": null,
             "power": null,
-            "text": "Play: During your opponent&#039;s next turn, keys cost +3 Aember for each forged key they have.",
+            "text": "Play: During your opponent's next turn, keys cost +3A for each forged key they have.",
             "locale": {
                 "en": {
                     "name": "Crushing Deep"
@@ -5536,7 +5536,7 @@
             "amber": null,
             "armor": null,
             "power": 1,
-            "text": "Poison. (Any damage dealt by this creature during a fight destroys the damaged creature.) Action: Steal 1 Aember.",
+            "text": "Poison. (Any damage dealt by this creature during a fight destroys the damaged creature.) Action: Steal 1A.",
             "locale": {
                 "en": {
                     "name": "Skullback Crab"
@@ -5576,7 +5576,7 @@
             "amber": 1,
             "armor": null,
             "power": null,
-            "text": "This creature gains poison. (Any damage dealt by this creature&#039;s power during a fight destroyes the damaged creature.)",
+            "text": "This creature gains poison. (Any damage dealt by this creature's power during a fight destroyes the damaged creature.)",
             "locale": {
                 "en": {
                     "name": "Toxicuda Venom"
@@ -5618,7 +5618,7 @@
             "amber": null,
             "armor": null,
             "power": null,
-            "text": "Destroyed: Destroy the creature on your opponent&#039;s right flank.",
+            "text": "Destroyed: Destroy the creature on your opponent's right flank.",
             "locale": {
                 "en": {
                     "name": "Flounderight"
@@ -5640,7 +5640,7 @@
             "amber": null,
             "armor": null,
             "power": null,
-            "text": "Destroyed: Deal 2 Damage to the most powerful enemy creature.",
+            "text": "Destroyed: Deal 2D to the most powerful enemy creature.",
             "locale": {
                 "en": {
                     "name": "Fish"
@@ -5684,7 +5684,7 @@
             "amber": null,
             "armor": null,
             "power": 1,
-            "text": "Raider gains poison during your turn. (On your turn, any damage dealt by this creature&#039;s power during a fight destroys the damaged creature.)",
+            "text": "Raider gains poison during your turn. (On your turn, any damage dealt by this creature's power during a fight destroys the damaged creature.)",
             "locale": {
                 "en": {
                     "name": "Raider"
