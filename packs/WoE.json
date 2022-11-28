@@ -315,7 +315,7 @@
             "id": "vow-of-blood",
             "name": "Vow of Blood",
             "number": "035",
-            "image": "Woe_VowofBlood.png",
+            "image": "Woe-vow-of-blood.jpg",
             "house": "brobnar",
             "keywords": [],
             "traits": [],
@@ -808,7 +808,7 @@
             "amber": null,
             "armor": null,
             "power": null,
-            "text": "Play: During your opponent's next turn, they cannot play cards, and each time they discard a card from their hand, they may archive that card.",
+            "text": "Play: During your opponent's next turn, they cannot play cards, and each time they discard a card from their hand, they may instead archive that card.",
             "locale": {
                 "en": {
                     "name": "Corner the Market"
@@ -1113,8 +1113,8 @@
             }
         },
         {
-            "id": "gezdrutyü-the-arcane",
-            "name": "Gèzdrutyü the Arcane",
+            "id": "gezdrutyo-the-arcane",
+            "name": "Gĕzdrutyŏ the Arcane",
             "number": "076",
             "image": "Woe-gezdrutyo-the-arcane.jpg",
             "house": "ekwidon",
@@ -1127,10 +1127,10 @@
             "amber": null,
             "armor": null,
             "power": 3,
-            "text": "Action: Steal 2A. Flip Gèzdrutyò the Arcane facedown (it becomes a token creature).",
+            "text": "Action: Steal 2A. Flip Gĕzdrutyŏ the Arcane facedown (it becomes a token creature).",
             "locale": {
                 "en": {
-                    "name": "Gèzdrutyü the Arcane"
+                    "name": "Gĕzdrutyŏ the Arcane"
                 }
             }
         },
@@ -1372,8 +1372,8 @@
             }
         },
         {
-            "id": "tya-arhii-esquire",
-            "name": "Tya-Arhiĭ Esquire",
+            "id": "tya-arhi-esquire",
+            "name": "Tya-Arhĭ Esquire",
             "number": "088",
             "image": "Woe-tya-arhi-esquire.jpg",
             "house": "ekwidon",
@@ -1389,7 +1389,7 @@
             "text": "Each friendly non-token creature gains, \"Destroyed: Make a token creature.”",
             "locale": {
                 "en": {
-                    "name": "Tya-Arhiĭ Esquire"
+                    "name": "Tya-Arhĭ Esquire"
                 }
             }
         },
@@ -1697,7 +1697,7 @@
         },
         {
             "id": "steward-su-uzayne",
-            "name": "Steward Su-uzaynĕ",
+            "name": "Steward Su-Uzaynĕ",
             "number": "103",
             "image": "Woe-Steward-su-uzyane.jpg",
             "house": "ekwidon",
@@ -1714,7 +1714,7 @@
             "text": "Enhance Aember Aember Draw. (These icons have already been added to cards in your deck.)",
             "locale": {
                 "en": {
-                    "name": "Steward Su-uzaynĕ"
+                    "name": "Steward Su-Uzaynĕ"
                 }
             }
         },
@@ -2677,7 +2677,7 @@
                 "pilot"
             ],
             "type": "creature",
-            "rarity": "Fixed",
+            "rarity": "Special",
             "amber": null,
             "armor": null,
             "power": 3,
@@ -2704,7 +2704,7 @@
             "amber": null,
             "armor": null,
             "power": 3,
-            "text": "no text",
+            "text": "",
             "locale": {
                 "en": {
                     "name": "Grunt"
@@ -3422,7 +3422,7 @@
             "amber": null,
             "armor": null,
             "power": 2,
-            "text": "no text",
+            "text": "",
             "locale": {
                 "en": {
                     "name": "Defender"
@@ -3492,7 +3492,7 @@
             "amber": null,
             "armor": null,
             "power": null,
-            "text": "After Reap: If Aristotlmimus has a wisom counter, draw 1 card, archive 1 card, and play a card from your archives. Otherwise, you may play a card from your archives.",
+            "text": "After Reap: If Aristotlmimus has a wisdom counter, draw 1 card, archive 1 card, and play a card from your archives. Otherwise, you may play a card from your archives.",
             "locale": {
                 "en": {
                     "name": "Aristotlmimus"
@@ -3733,7 +3733,7 @@
             "amber": null,
             "armor": null,
             "power": 10,
-            "text": "Splash-attack 3. (When this creature attacks, also deal 3D to each of the attacked creature's neighbors.) Before Fight: Deal 3D to each of Chaosodon's neighbors.",
+            "text": "Splash attack 3. (When this creature attacks, also deal 3D to each of the attacked creature's neighbors.) Before Fight: Deal 3D to each of Chaosodon's neighbors.",
             "locale": {
                 "en": {
                     "name": "Chaosodon"
@@ -4123,7 +4123,7 @@
             "amber": null,
             "armor": null,
             "power": 5,
-            "text": "no text",
+            "text": "",
             "locale": {
                 "en": {
                     "name": "Bellatoran Warrior"
@@ -5614,7 +5614,7 @@
                 "aquan"
             ],
             "type": "creature",
-            "rarity": "Token",
+            "rarity": "Special",
             "amber": null,
             "armor": null,
             "power": null,
