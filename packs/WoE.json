@@ -2435,7 +2435,7 @@
             "rarity": "Common",
             "amber": null,
             "armor": null,
-            "power": null,
+            "power": 2,
             "text": "Deploy. \n Play:(?) Ready each of Ironyx Rebel's neighbors.",
             "locale": {
                 "en": {
