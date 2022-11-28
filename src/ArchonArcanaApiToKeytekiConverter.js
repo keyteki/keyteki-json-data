@@ -153,7 +153,7 @@ class DecksOfKeyforgeApiToKeytekiConverter {
             let newCard = null;
 
             if (language === 'en') {
-                let cardText = !card.SearchText ? 'no text' : card.SearchText.replace(/&lt;/gi, '<')
+                let cardText = !card.SearchText ? '' : card.SearchText.replace(/&lt;/gi, '<')
                     .replace(/&gt;/gi, '>')
                     .replace(/&quot;/gi, '"')
                     .replace(/<[^>]+aember[^>]+>/gi, 'A')
