@@ -74,7 +74,7 @@
             "amber": 0,
             "armor": null,
             "power": 3,
-            "text": "Fight: Steal 2.",
+            "text": "Fight: Steal 2.",
             "locale": {
                 "de": {
                     "name": "Armdrohne"
@@ -130,7 +130,7 @@
             "amber": 0,
             "armor": null,
             "power": 5,
-            "text": "Skirmish.\r\n After you raise the tide, ready Binary Moray.\r\n After your opponent raises the tide, exhaust Binary Moray.",
+            "text": "Skirmish.\r\n After you raise the tide, ready Binary Moray.\r\n After your opponent raises the tide, exhaust Binary Moray.",
             "locale": {
                 "de": {
                     "name": "Binäre Muräne"
@@ -290,7 +290,7 @@
             "amber": 0,
             "armor": null,
             "power": 2,
-            "text": " Reap: If the tide is high, your opponent discards a random card from their hand.",
+            "text": " Reap: If the tide is high, your opponent discards a random card from their hand.",
             "locale": {
                 "de": {
                     "name": "Detektivin Swieben"
@@ -978,7 +978,7 @@
             "amber": 1,
             "armor": null,
             "power": null,
-            "text": "Play: Forge a key at +7 current cost, reduced by 1 for each card you have played this turn (including this one). If you do, purge Honors Keysis.",
+            "text": "Play: Forge a key at +7 current cost, reduced by 1 for each card you have played this turn (including this one). If you do, purge Honors Keysis.",
             "locale": {
                 "de": {
                     "name": "Abschlüsselprüfung"
@@ -1029,7 +1029,7 @@
             "amber": 0,
             "armor": null,
             "power": null,
-            "text": "Play: Choose one:\r\n• Archive a card.\r\n• Gain 1 for each card in your archives.",
+            "text": "Play: Choose one:\r\n• Archive a card.\r\n• Gain 1 for each card in your archives.",
             "locale": {
                 "de": {
                     "name": "Wissen ist Macht"
@@ -1290,7 +1290,7 @@
             "amber": 1,
             "armor": null,
             "power": null,
-            "text": "Play: Put  4 on Ruins of Archonis from the common supply. Archive a card.\r\nAfter a player plays their 6th card in a turn, if Ruins of Archonis is ready, move each  from Ruins of Archonis to that player's pool.",
+            "text": "Play: Put  4 on Ruins of Archonis from the common supply. Archive a card.\r\nAfter a player plays their 6th card in a turn, if Ruins of Archonis is ready, move each  from Ruins of Archonis to that player's pool.",
             "locale": {
                 "de": {
                     "name": "Ruinen von Archonis"
@@ -1502,7 +1502,7 @@
             "amber": 1,
             "armor": null,
             "power": null,
-            "text": " At the start of your turn, if the tide is high, your opponent raises the tide. Otherwise, you raise the tide.",
+            "text": " At the start of your turn, if the tide is high, your opponent raises the tide. Otherwise, you raise the tide.",
             "locale": {
                 "de": {
                     "name": "Gezeitenverzerrung"
@@ -1555,7 +1555,7 @@
             "amber": 1,
             "armor": null,
             "power": null,
-            "text": "Keys cost +3.\r\nAfter a player forges a key, destroy Universal Keylock.",
+            "text": "Keys cost +3.\r\nAfter a player forges a key, destroy Universal Keylock.",
             "locale": {
                 "de": {
                     "name": "Universalschloss"
@@ -1611,7 +1611,7 @@
             "amber": 0,
             "armor": null,
             "power": 2,
-            "text": "Elusive. (The first time this creature is attacked each turn, no damage is dealt.)\r\nReap: Choose a house. Reveal the top card of your deck. If it is of that house, archive it and gain 1. Otherwise, discard it.",
+            "text": "Elusive. (The first time this creature is attacked each turn, no damage is dealt.)\r\nReap: Choose a house. Reveal the top card of your deck. If it is of that house, archive it and gain 1. Otherwise, discard it.",
             "locale": {
                 "de": {
                     "name": "Vespilon-Theoretiker"
@@ -1825,7 +1825,7 @@
             "amber": 0,
             "armor": null,
             "power": 5,
-            "text": " After you raise the tide, ready Binary Moray.\r\n After your opponent raises the tide, exhaust Binary Moray.\r\nReap: Archive a card.",
+            "text": " After you raise the tide, ready Binary Moray.\r\n After your opponent raises the tide, exhaust Binary Moray.\r\nReap: Archive a card.",
             "locale": {
                 "de": {
                     "name": "Binäre Muräne"
@@ -1981,7 +1981,7 @@
             "amber": 1,
             "armor": null,
             "power": null,
-            "text": "Play: You may forge a key at +10 current cost, reduced by 1 for each card in your hand.",
+            "text": "Play: You may forge a key at +10 current cost, reduced by 1 for each card in your hand.",
             "locale": {
                 "de": {
                     "name": "Datenschmiede"
@@ -2034,7 +2034,7 @@
             "amber": 1,
             "armor": null,
             "power": null,
-            "text": "Alpha.\r\nPlay: Gain 2. Archive 2 random cards.",
+            "text": "Alpha.\r\nPlay: Gain 2. Archive 2 random cards.",
             "locale": {
                 "de": {
                     "name": "Heureka!"
@@ -2194,7 +2194,7 @@
             "amber": 1,
             "armor": null,
             "power": null,
-            "text": "Each friendly creature gains hazardous 1.  (Before that creature is attacked, deal 1 to the attacking enemy.)",
+            "text": "Each friendly creature gains hazardous 1.  (Before that creature is attacked, deal 1 to the attacking enemy.)",
             "locale": {
                 "de": {
                     "name": "Isotroper Kern"
@@ -2247,7 +2247,7 @@
             "amber": 1,
             "armor": null,
             "power": null,
-            "text": " At the start of each player’s turn, if the tide is high for that player, they gain 1.",
+            "text": " At the start of each player’s turn, if the tide is high for that player, they gain 1.",
             "locale": {
                 "de": {
                     "name": "Mech-Boje"
@@ -2298,7 +2298,7 @@
             "amber": 0,
             "armor": null,
             "power": null,
-            "text": "Play: Deal 1 to each creature for each card you have played this turn (including this one).",
+            "text": "Play: Deal 1 to each creature for each card you have played this turn (including this one).",
             "locale": {
                 "de": {
                     "name": "Gedanken-Geschosse"
@@ -2403,7 +2403,7 @@
             "amber": 1,
             "armor": null,
             "power": null,
-            "text": "Play: Deal 3 to a flank creature. Deal 2 to its neighbor. Deal 1 to the second creature’s other neighbor.",
+            "text": "Play: Deal 3 to a flank creature. Deal 2 to its neighbor. Deal 1 to the second creature’s other neighbor.",
             "locale": {
                 "de": {
                     "name": "Positronenblitz"
@@ -2563,7 +2563,7 @@
             "amber": 0,
             "armor": 3,
             "power": 1,
-            "text": "Fight: Steal 1.",
+            "text": "Fight: Steal 1.",
             "locale": {
                 "de": {
                     "name": "Armdrohne"
@@ -2616,7 +2616,7 @@
             "amber": 0,
             "armor": null,
             "power": 4,
-            "text": " Reap: Deal 2 to a creature. If this damage destroys that creature, raise the tide.",
+            "text": " Reap: Deal 2 to a creature. If this damage destroys that creature, raise the tide.",
             "locale": {
                 "de": {
                     "name": "Austeralis-Seeborg"
@@ -2670,7 +2670,7 @@
             "amber": 0,
             "armor": null,
             "power": 2,
-            "text": " Play/Reap: If the tide is high, your opponent raises the tide. Otherwise, you raise the tide.",
+            "text": " Play/Reap: If the tide is high, your opponent raises the tide. Otherwise, you raise the tide.",
             "locale": {
                 "de": {
                     "name": "Hüter der Bilge"
@@ -2724,7 +2724,7 @@
             "amber": 0,
             "armor": null,
             "power": 3,
-            "text": "Play: Archive a card.\r\nYour opponent’s keys cost +1 for each card in your archives.",
+            "text": "Play: Archive a card.\r\nYour opponent’s keys cost +1 for each card in your archives.",
             "locale": {
                 "de": {
                     "name": "EDAI „Edie“ 4x4"
@@ -2828,7 +2828,7 @@
             "amber": 1,
             "armor": null,
             "power": null,
-            "text": " After a player raises the tide, they archive the top card of their deck.",
+            "text": " After a player raises the tide, they archive the top card of their deck.",
             "locale": {
                 "de": {
                     "name": "Hydrokatalogisierer"
@@ -2881,7 +2881,7 @@
             "amber": 0,
             "armor": null,
             "power": 4,
-            "text": "Enhance . (These icons have already been added to cards in your deck.)",
+            "text": "Enhance . (These icons have already been added to cards in your deck.)",
             "locale": {
                 "de": {
                     "name": "Infomorph"
@@ -2932,7 +2932,7 @@
             "amber": 0,
             "armor": null,
             "power": null,
-            "text": "Play: Steal 1. If your opponent stole  from you on their previous turn, steal 2 instead.",
+            "text": "Play: Steal 1. If your opponent stole  from you on their previous turn, steal 2 instead.",
             "locale": {
                 "de": {
                     "name": "Informationsaustausch"
@@ -3090,7 +3090,7 @@
             "amber": 0,
             "armor": null,
             "power": 2,
-            "text": " Reap: If the tide is high, draw 3 cards.",
+            "text": " Reap: If the tide is high, draw 3 cards.",
             "locale": {
                 "de": {
                     "name": "Detektivin Swieben"
@@ -3141,7 +3141,7 @@
             "amber": 0,
             "armor": null,
             "power": null,
-            "text": "Play: For the remainder of the turn, after you play another action card, gain 1 .",
+            "text": "Play: For the remainder of the turn, after you play another action card, gain 1 .",
             "locale": {
                 "de": {
                     "name": "Für die Wissenschaft!"
@@ -3192,7 +3192,7 @@
             "amber": 1,
             "armor": null,
             "power": null,
-            "text": "This creature gains, \"At the start of your turn, deal 2 to each of this creature's neighbors.\"",
+            "text": "This creature gains, \"At the start of your turn, deal 2 to each of this creature's neighbors.\"",
             "locale": {
                 "de": {
                     "name": "Statische Aufladung"
@@ -3243,7 +3243,7 @@
             "amber": 0,
             "armor": null,
             "power": null,
-            "text": " Play: Each player loses 1. If the tide is high, each player loses half their  instead (rounding down the loss).",
+            "text": " Play: Each player loses 1. If the tide is high, each player loses half their  instead (rounding down the loss).",
             "locale": {
                 "de": {
                     "name": "Das Abtauch-Prinzip"
@@ -3403,7 +3403,7 @@
             "amber": 0,
             "armor": 1,
             "power": 4,
-            "text": "Deploy.\r\nEach of Almsmaster's neighbors gains, \"Destroyed: Steal 1.\"",
+            "text": "Deploy.\r\nEach of Almsmaster's neighbors gains, \"Destroyed: Steal 1.\"",
             "locale": {
                 "de": {
                     "name": "Meisterin der Almosen"
@@ -3457,7 +3457,7 @@
             "amber": 0,
             "armor": 1,
             "power": 3,
-            "text": "Each of Grey Augur's neighbors gains, \"Reap: Gain 1 and exalt this creature.\"",
+            "text": "Each of Grey Augur's neighbors gains, \"Reap: Gain 1 and exalt this creature.\"",
             "locale": {
                 "de": {
                     "name": "Graue Weissagerin"
@@ -3511,7 +3511,7 @@
             "amber": 0,
             "armor": null,
             "power": 3,
-            "text": " While the tide is high, Lærie of the Lake gets +5 armor.",
+            "text": " While the tide is high, Lærie of the Lake gets +5 armor.",
             "locale": {
                 "de": {
                     "name": "Lærie vom See"
@@ -3618,7 +3618,7 @@
             "amber": 0,
             "armor": null,
             "power": 6,
-            "text": " After a player raises the tide, Seneschal Sargassa captures 2 from your opponent.",
+            "text": " After a player raises the tide, Seneschal Sargassa captures 2 from your opponent.",
             "locale": {
                 "de": {
                     "name": "Seneschall Sargassa"
@@ -3728,7 +3728,7 @@
             "amber": 0,
             "armor": 1,
             "power": 3,
-            "text": "Reap: Your opponent loses  equal to Urien the Circumspect's armor.",
+            "text": "Reap: Your opponent loses  equal to Urien the Circumspect's armor.",
             "locale": {
                 "de": {
                     "name": "Urien der Umsichtige"
@@ -3782,7 +3782,7 @@
             "amber": 0,
             "armor": null,
             "power": 3,
-            "text": " While the tide is high, Orphiel, Sea’s Chosen gains skirmish and, “Fight: Gain 2.”",
+            "text": " While the tide is high, Orphiel, Sea’s Chosen gains skirmish and, “Fight: Gain 2.”",
             "locale": {
                 "de": {
                     "name": "Orphiel, Kind der See"
@@ -3836,7 +3836,7 @@
             "amber": 0,
             "armor": null,
             "power": 3,
-            "text": " While the tide is low, Orphion, Land’s Chosen gets +3 armor and gains, “Reap: Capture 2.”",
+            "text": " While the tide is low, Orphion, Land’s Chosen gets +3 armor and gains, “Reap: Capture 2.”",
             "locale": {
                 "de": {
                     "name": "Orphion, Kind des Landes"
@@ -3992,7 +3992,7 @@
             "amber": 1,
             "armor": null,
             "power": null,
-            "text": "Play: For the remainder of the turn, each creature you play gains, “Play: Deal 2 to an enemy creature.”",
+            "text": "Play: For the remainder of the turn, each creature you play gains, “Play: Deal 2 to an enemy creature.”",
             "locale": {
                 "de": {
                     "name": "Vorwärts!"
@@ -4045,7 +4045,7 @@
             "amber": 0,
             "armor": null,
             "power": null,
-            "text": " Each creature gains, “While the tide is low, this creature cannot reap.”",
+            "text": " Each creature gains, “While the tide is low, this creature cannot reap.”",
             "locale": {
                 "de": {
                     "name": "Den Fluss austrocknen"
@@ -4149,7 +4149,7 @@
             "amber": 1,
             "armor": null,
             "power": null,
-            "text": "Play: Choose a friendly creature. If its left neighbor shares a house with it, gain 1 and repeat this effect on that creature.",
+            "text": "Play: Choose a friendly creature. If its left neighbor shares a house with it, gain 1 and repeat this effect on that creature.",
             "locale": {
                 "de": {
                     "name": "Harmonisches Ritual"
@@ -4312,7 +4312,7 @@
             "amber": 0,
             "armor": 2,
             "power": 5,
-            "text": "Before Fight: Deal 3 to each neighbor of the creature Lord Golgotha fights.",
+            "text": "Before Fight: Deal 3 to each neighbor of the creature Lord Golgotha fights.",
             "locale": {
                 "de": {
                     "name": "Lord Golgotha"
@@ -4366,7 +4366,7 @@
             "amber": 0,
             "armor": 3,
             "power": 4,
-            "text": "While Mad Prophet Gizelhart is in the center of your battleline, it gains, \"Action: Fully heal each non-Mutant creature. Gain 1 for each creature healed this way.\"",
+            "text": "While Mad Prophet Gizelhart is in the center of your battleline, it gains, \"Action: Fully heal each non-Mutant creature. Gain 1 for each creature healed this way.\"",
             "locale": {
                 "de": {
                     "name": "Verrückter Prophet Gizelhart"
@@ -4417,7 +4417,7 @@
             "amber": 0,
             "armor": null,
             "power": null,
-            "text": "Play: Deal 3 to a creature and 3 to a neighbor of that creature.",
+            "text": "Play: Deal 3 to a creature and 3 to a neighbor of that creature.",
             "locale": {
                 "de": {
                     "name": "Lanze der Macht"
@@ -4789,7 +4789,7 @@
             "amber": 0,
             "armor": null,
             "power": 7,
-            "text": "Play: Capture all of your opponent's . Deal 1 to The Corpulent Collector for each  on it.",
+            "text": "Play: Capture all of your opponent's . Deal 1 to The Corpulent Collector for each  on it.",
             "locale": {
                 "de": {
                     "name": "Der korpulente Kollektor"
@@ -4843,7 +4843,7 @@
             "amber": 0,
             "armor": 1,
             "power": 4,
-            "text": "Your  cannot be stolen.",
+            "text": "Your  cannot be stolen.",
             "locale": {
                 "de": {
                     "name": "Schatzwächter"
@@ -4894,7 +4894,7 @@
             "amber": 1,
             "armor": null,
             "power": null,
-            "text": " Play: Reset the tide. Until the start of your next turn, players cannot raise the tide.",
+            "text": " Play: Reset the tide. Until the start of your next turn, players cannot raise the tide.",
             "locale": {
                 "de": {
                     "name": "Wasserprobe"
@@ -4951,7 +4951,7 @@
             "amber": 0,
             "armor": 1,
             "power": 4,
-            "text": "Deploy. Taunt.\r\nPlay: Each of Almsmaster's neighbors captures 1.",
+            "text": "Deploy. Taunt.\r\nPlay: Each of Almsmaster's neighbors captures 1.",
             "locale": {
                 "de": {
                     "name": "Meisterin der Almosen"
@@ -5056,7 +5056,7 @@
             "amber": 1,
             "armor": null,
             "power": null,
-            "text": "Enhance . (These icons have already been added to cards in your deck.)\r\nPlay: Capture all but 5 of your opponent’s , distributed among any number of friendly creatures.",
+            "text": "Enhance . (These icons have already been added to cards in your deck.)\r\nPlay: Capture all but 5 of your opponent’s , distributed among any number of friendly creatures.",
             "locale": {
                 "de": {
                     "name": "Niederringen"
@@ -5107,7 +5107,7 @@
             "amber": 1,
             "armor": null,
             "power": null,
-            "text": "Play: Each player with 6 or more loses all but 5 of it.",
+            "text": "Play: Each player with 6 or more loses all but 5 of it.",
             "locale": {
                 "de": {
                     "name": "Am Tor des Himmels"
@@ -5212,7 +5212,7 @@
             "amber": 0,
             "armor": 1,
             "power": 5,
-            "text": "Play: If your opponent has 7 or more, capture all but 5 of it.",
+            "text": "Play: If your opponent has 7 or more, capture all but 5 of it.",
             "locale": {
                 "de": {
                     "name": "Torwächter"
@@ -5319,7 +5319,7 @@
             "amber": 0,
             "armor": 1,
             "power": 3,
-            "text": "Each of Grey Augur's neighbors gains, \"Fight: Gain 1.\"",
+            "text": "Each of Grey Augur's neighbors gains, \"Fight: Gain 1.\"",
             "locale": {
                 "de": {
                     "name": "Graue Weissagerin"
@@ -5476,7 +5476,7 @@
             "amber": 0,
             "armor": null,
             "power": null,
-            "text": "Play: Choose one:\r\n• Deal 3 to each flank creature.\r\n• Deal 3 to each creature not on a flank.",
+            "text": "Play: Choose one:\r\n• Deal 3 to each flank creature.\r\n• Deal 3 to each creature not on a flank.",
             "locale": {
                 "de": {
                     "name": "Ehre oder Ruhm"
@@ -5631,7 +5631,7 @@
             "amber": 1,
             "armor": null,
             "power": null,
-            "text": "After  is stolen from you, your opponent skips the \"forge a key\" step during their next turn.",
+            "text": "After  is stolen from you, your opponent skips the \"forge a key\" step during their next turn.",
             "locale": {
                 "de": {
                     "name": "Langfinger-Register"
@@ -5794,7 +5794,7 @@
             "amber": 0,
             "armor": 1,
             "power": 4,
-            "text": "Assault 2. (Before this creature attacks, deal 2 to the attacked enemy.)\r\nEach of Bull-wark's neighbors gains assault 2.",
+            "text": "Assault 2. (Before this creature attacks, deal 2 to the attacked enemy.)\r\nEach of Bull-wark's neighbors gains assault 2.",
             "locale": {
                 "de": {
                     "name": "Bull-Werk"
@@ -5845,7 +5845,7 @@
             "amber": 0,
             "armor": null,
             "power": null,
-            "text": "Play: Heal 1 damage from each creature. Gain 1 for each creature healed this way.",
+            "text": "Play: Heal 1 damage from each creature. Gain 1 for each creature healed this way.",
             "locale": {
                 "de": {
                     "name": "Reinigende Welle"
@@ -5899,7 +5899,7 @@
             "amber": 0,
             "armor": 2,
             "power": 4,
-            "text": "Enhance . (These icons have already been added to cards in your deck.)",
+            "text": "Enhance . (These icons have already been added to cards in your deck.)",
             "locale": {
                 "de": {
                     "name": "General Xalvador"
@@ -6001,7 +6001,7 @@
             "amber": 0,
             "armor": null,
             "power": null,
-            "text": "Play: Deal 3 to a creature and stun it.",
+            "text": "Play: Deal 3 to a creature and stun it.",
             "locale": {
                 "de": {
                     "name": "Grammatik-Hammer"
@@ -6052,7 +6052,7 @@
             "amber": 0,
             "armor": null,
             "power": null,
-            "text": "Play: Choose one:\r\n• Fully heal a creature and gain 1.\r\n• Ready and fight with a friendly creature.",
+            "text": "Play: Choose one:\r\n• Fully heal a creature and gain 1.\r\n• Ready and fight with a friendly creature.",
             "locale": {
                 "de": {
                     "name": "Heilen oder verletzen"
@@ -6106,7 +6106,7 @@
             "amber": 0,
             "armor": null,
             "power": 3,
-            "text": " While the tide is high, each friendly creature gets +2 armor.",
+            "text": " While the tide is high, each friendly creature gets +2 armor.",
             "locale": {
                 "de": {
                     "name": "Lærie vom See"
@@ -6160,7 +6160,7 @@
             "amber": 0,
             "armor": 2,
             "power": 4,
-            "text": " Play/Fight: Raise the tide.",
+            "text": " Play/Fight: Raise the tide.",
             "locale": {
                 "de": {
                     "name": "Marschall Ewiger"
@@ -6214,7 +6214,7 @@
             "amber": 0,
             "armor": 2,
             "power": 6,
-            "text": " After a player raises the tide, a creature they control captures 2 from their opponent.",
+            "text": " After a player raises the tide, a creature they control captures 2 from their opponent.",
             "locale": {
                 "de": {
                     "name": "Seneschall Sargassa"
@@ -6265,7 +6265,7 @@
             "amber": 1,
             "armor": null,
             "power": null,
-            "text": "Play: Move a friendly creature anywhere in your battleline. That creature captures 1.",
+            "text": "Play: Move a friendly creature anywhere in your battleline. That creature captures 1.",
             "locale": {
                 "de": {
                     "name": "Unstetes Schlachtfeld"
@@ -6426,7 +6426,7 @@
             "amber": 3,
             "armor": null,
             "power": null,
-            "text": " Play only if the tide is high.",
+            "text": " Play only if the tide is high.",
             "locale": {
                 "de": {
                     "name": "Fremdartige Weihe"
@@ -6477,7 +6477,7 @@
             "amber": 1,
             "armor": null,
             "power": null,
-            "text": "Play: A friendly creature captures 1. Each of its neighbors that shares a house with it also captures 1.",
+            "text": "Play: A friendly creature captures 1. Each of its neighbors that shares a house with it also captures 1.",
             "locale": {
                 "de": {
                     "name": "Steuer-Wallfahrt"
@@ -6531,7 +6531,7 @@
             "amber": 0,
             "armor": 1,
             "power": 3,
-            "text": "Reap: Gain  equal to Urien the Circumspect's armor.",
+            "text": "Reap: Gain  equal to Urien the Circumspect's armor.",
             "locale": {
                 "de": {
                     "name": "Urien der Umsichtige"
@@ -6638,7 +6638,7 @@
             "amber": 0,
             "armor": null,
             "power": 5,
-            "text": "Play: Deal 5 to a creature with  on it.",
+            "text": "Play: Deal 5 to a creature with  on it.",
             "locale": {
                 "de": {
                     "name": "Censor Philo"
@@ -6853,7 +6853,7 @@
             "amber": 0,
             "armor": null,
             "power": 5,
-            "text": " Play/Fight: If the tide is low, you may exalt a creature.",
+            "text": " Play/Fight: If the tide is low, you may exalt a creature.",
             "locale": {
                 "de": {
                     "name": "Physicus Felix"
@@ -6906,7 +6906,7 @@
             "amber": 0,
             "armor": null,
             "power": 12,
-            "text": " While the tide is low, double all damage dealt to Undagnathus.",
+            "text": " While the tide is low, double all damage dealt to Undagnathus.",
             "locale": {
                 "de": {
                     "name": "Undagnathus"
@@ -6959,7 +6959,7 @@
             "amber": 0,
             "armor": null,
             "power": 7,
-            "text": "Each enemy creature gains, \"Reap: Deal 4 to this creature.\"",
+            "text": "Each enemy creature gains, \"Reap: Deal 4 to this creature.\"",
             "locale": {
                 "de": {
                     "name": "Scylla"
@@ -7012,7 +7012,7 @@
             "amber": 0,
             "armor": null,
             "power": 7,
-            "text": "Each enemy creatures gains, \"Before Fight: Lose 1.\"",
+            "text": "Each enemy creatures gains, \"Before Fight: Lose 1.\"",
             "locale": {
                 "de": {
                     "name": "Charybdis"
@@ -7065,7 +7065,7 @@
             "amber": 1,
             "armor": null,
             "power": null,
-            "text": "Play: Put 4 on Bracchanalia from the common supply. A friendly creature captures 1.\r\nAt the start of each player’s turn, if that player controls 4 or more creatures with  on them, move each  from Bracchanalia to that player’s pool.",
+            "text": "Play: Put 4 on Bracchanalia from the common supply. A friendly creature captures 1.\r\nAt the start of each player’s turn, if that player controls 4 or more creatures with  on them, move each  from Bracchanalia to that player’s pool.",
             "locale": {
                 "de": {
                     "name": "Bracchanal"
@@ -7120,7 +7120,7 @@
             "amber": 0,
             "armor": null,
             "power": 9,
-            "text": "Deploy.\r\nPlay: Stun each of Brachiaditus's neighbors and move 1 from each of them to the common supply.",
+            "text": "Deploy.\r\nPlay: Stun each of Brachiaditus's neighbors and move 1 from each of them to the common supply.",
             "locale": {
                 "de": {
                     "name": "Brachiaditus"
@@ -7176,7 +7176,7 @@
             "amber": 0,
             "armor": 2,
             "power": 4,
-            "text": "Elusive.\r\nPlay: Capture 10 from any combination of players. Then, if Crassosaurus has fewer than 10 on it, purge Crassosaurus.",
+            "text": "Elusive.\r\nPlay: Capture 10 from any combination of players. Then, if Crassosaurus has fewer than 10 on it, purge Crassosaurus.",
             "locale": {
                 "de": {
                     "name": "Krassosaurus"
@@ -7283,7 +7283,7 @@
             "amber": 0,
             "armor": null,
             "power": 4,
-            "text": "At the end of your turn, put a knowledge counter on Eclectic Ambrosius.\r\nAction: Remove 3 knowledge counters from Eclectic Ambrosius. If you do, gain 6.",
+            "text": "At the end of your turn, put a knowledge counter on Eclectic Ambrosius.\r\nAction: Remove 3 knowledge counters from Eclectic Ambrosius. If you do, gain 6.",
             "locale": {
                 "de": {
                     "name": "Ambrosius der Vielseitige"
@@ -7334,7 +7334,7 @@
             "amber": 1,
             "armor": null,
             "power": null,
-            "text": "Play: Take control of an enemy creature with  on it. While under your control, it belongs to house Saurian. (Instead of its original house.)",
+            "text": "Play: Take control of an enemy creature with  on it. While under your control, it belongs to house Saurian. (Instead of its original house.)",
             "locale": {
                 "de": {
                     "name": "Hilfstruppen anwerben"
@@ -7495,7 +7495,7 @@
             "amber": 0,
             "armor": 1,
             "power": 5,
-            "text": "Before Fight: You may exalt Hastatus Raptor. If you do, deal 1 to the creature Hastatus Raptor fights for each  on friendly Hastatus Raptors.",
+            "text": "Before Fight: You may exalt Hastatus Raptor. If you do, deal 1 to the creature Hastatus Raptor fights for each  on friendly Hastatus Raptors.",
             "locale": {
                 "de": {
                     "name": "Hastatus Raptor"
@@ -7600,7 +7600,7 @@
             "amber": 1,
             "armor": null,
             "power": null,
-            "text": "Play: Forge a key at +8 current cost, reduced by 1 for each  on friendly creatures.",
+            "text": "Play: Forge a key at +8 current cost, reduced by 1 for each  on friendly creatures.",
             "locale": {
                 "de": {
                     "name": "Imperiale Schmiede"
@@ -7706,7 +7706,7 @@
             "amber": 0,
             "armor": null,
             "power": null,
-            "text": "Action: Exhaust up to 5 friendly Saurian creatures. For each creature exhausted this way, deal 1 to each enemy creature.",
+            "text": "Action: Exhaust up to 5 friendly Saurian creatures. For each creature exhausted this way, deal 1 to each enemy creature.",
             "locale": {
                 "de": {
                     "name": "ISS Indominus"
@@ -7760,7 +7760,7 @@
             "amber": 0,
             "armor": 1,
             "power": 5,
-            "text": "Each friendly creature gets +2 power for each  on Primus Unguis.\r\nReap: Exalt Primus Unguis.",
+            "text": "Each friendly creature gets +2 power for each  on Primus Unguis.\r\nReap: Exalt Primus Unguis.",
             "locale": {
                 "de": {
                     "name": "Primus Unguis"
@@ -7811,7 +7811,7 @@
             "amber": 0,
             "armor": null,
             "power": null,
-            "text": "Play: Destroy a creature. Its controller gains 1.",
+            "text": "Play: Destroy a creature. Its controller gains 1.",
             "locale": {
                 "de": {
                     "name": "Sei bitte nicht saurier!"
@@ -7862,7 +7862,7 @@
             "amber": 0,
             "armor": null,
             "power": null,
-            "text": " Play only if the tide is high.\r\nPlay: Choose 2 creatures. Purge the chosen creature with the lowest power and give +1 power counters equal to its power to the other chosen creature.",
+            "text": " Play only if the tide is high.\r\nPlay: Choose 2 creatures. Purge the chosen creature with the lowest power and give +1 power counters equal to its power to the other chosen creature.",
             "locale": {
                 "de": {
                     "name": "Vollständig verschluckt"
@@ -8019,7 +8019,7 @@
             "amber": 0,
             "armor": null,
             "power": null,
-            "text": "After a player forges a key, each creature they control captures 1 from its own side.",
+            "text": "After a player forges a key, each creature they control captures 1 from its own side.",
             "locale": {
                 "de": {
                     "name": "Die Erste Schrift"
@@ -8174,7 +8174,7 @@
             "amber": 0,
             "armor": null,
             "power": null,
-            "text": " Play: If the tide is high, move 1 from each creature to its controller's pool. Otherwise, raise the tide.",
+            "text": " Play: If the tide is high, move 1 from each creature to its controller's pool. Otherwise, raise the tide.",
             "locale": {
                 "de": {
                     "name": "Reichtümer vergraben"
@@ -8225,7 +8225,7 @@
             "amber": 0,
             "armor": null,
             "power": null,
-            "text": "Play: Each friendly creature captures 1.",
+            "text": "Play: Each friendly creature captures 1.",
             "locale": {
                 "de": {
                     "name": "Stadtstaat-Abgaben"
@@ -8276,7 +8276,7 @@
             "amber": 1,
             "armor": null,
             "power": null,
-            "text": "Play: Destroy an enemy creature with  on it.",
+            "text": "Play: Destroy an enemy creature with  on it.",
             "locale": {
                 "de": {
                     "name": "So was macht ein Dino nicht!"
@@ -8329,7 +8329,7 @@
             "amber": 0,
             "armor": null,
             "power": 15,
-            "text": "Gladiodontus enters play stunned.\r\nGladiodontus only deals 5 when fighting.\r\nFight/Reap: If this is the first time Gladiodontus has been used this turn, ready and enrage it.",
+            "text": "Gladiodontus enters play stunned.\r\nGladiodontus only deals 5 when fighting.\r\nFight/Reap: If this is the first time Gladiodontus has been used this turn, ready and enrage it.",
             "locale": {
                 "de": {
                     "name": "Gladiodontus"
@@ -8431,7 +8431,7 @@
             "amber": 1,
             "armor": null,
             "power": null,
-            "text": "Play: Exhaust a creature. If you do, move 3 from that creature to the common supply.",
+            "text": "Play: Exhaust a creature. If you do, move 3 from that creature to the common supply.",
             "locale": {
                 "de": {
                     "name": "Zu Boden bringen"
@@ -8539,7 +8539,7 @@
             "amber": 0,
             "armor": null,
             "power": 5,
-            "text": " Play/Fight: If the tide is high, you may exalt a creature.",
+            "text": " Play/Fight: If the tide is high, you may exalt a creature.",
             "locale": {
                 "de": {
                     "name": "Physicus Felix"
@@ -8697,7 +8697,7 @@
             "amber": 1,
             "armor": null,
             "power": null,
-            "text": "This creature gains, \"Before Fight: Move 1 from this creature to the creature it fights.\"",
+            "text": "This creature gains, \"Before Fight: Move 1 from this creature to the creature it fights.\"",
             "locale": {
                 "de": {
                     "name": "Sirenen-Horn"
@@ -8750,7 +8750,7 @@
             "amber": 0,
             "armor": null,
             "power": 12,
-            "text": "Terrordactyl enters play stunned.\r\nTerrordactyl only deals 4 when fighting.\r\nBefore Fight: Deal 4 to each neighbor of the creature Terrordactyl fights.",
+            "text": "Terrordactyl enters play stunned.\r\nTerrordactyl only deals 4 when fighting.\r\nBefore Fight: Deal 4 to each neighbor of the creature Terrordactyl fights.",
             "locale": {
                 "de": {
                     "name": "Terrordactylus"
@@ -8803,7 +8803,7 @@
             "amber": 1,
             "armor": null,
             "power": null,
-            "text": "Trojan Sauropod enters play under your opponent’s control.\r\nOmni: Gain 3. Your opponent reveals their hand and puts each creature from it into play ready, then refills their hand as if it were their \"draw cards\" step. Destroy Trojan Sauropod.",
+            "text": "Trojan Sauropod enters play under your opponent’s control.\r\nOmni: Gain 3. Your opponent reveals their hand and puts each creature from it into play ready, then refills their hand as if it were their \"draw cards\" step. Destroy Trojan Sauropod.",
             "locale": {
                 "de": {
                     "name": "Trojanischer Sauropode"
@@ -8854,7 +8854,7 @@
             "amber": 1,
             "armor": null,
             "power": null,
-            "text": "Play: Deal 1 to each creature. Destroy each upgrade.",
+            "text": "Play: Deal 1 to each creature. Destroy each upgrade.",
             "locale": {
                 "de": {
                     "name": "Auslöschen"
@@ -8907,7 +8907,7 @@
             "amber": 0,
             "armor": null,
             "power": null,
-            "text": "Action: Move 1 from a creature to another creature.",
+            "text": "Action: Move 1 from a creature to another creature.",
             "locale": {
                 "de": {
                     "name": "Rostra des Altruisten"
@@ -9012,7 +9012,7 @@
             "amber": 0,
             "armor": null,
             "power": 5,
-            "text": "Censor Philo cannot be dealt damage by creatures with  on them.",
+            "text": "Censor Philo cannot be dealt damage by creatures with  on them.",
             "locale": {
                 "de": {
                     "name": "Censor Philo"
@@ -9066,7 +9066,7 @@
             "amber": 0,
             "armor": null,
             "power": 3,
-            "text": "Enhance . (These icons have already been added to cards in your deck.)\r\nReap: Move 1 from a creature to another creature.",
+            "text": "Enhance . (These icons have already been added to cards in your deck.)\r\nReap: Move 1 from a creature to another creature.",
             "locale": {
                 "de": {
                     "name": "Konsul Primus"
@@ -9120,7 +9120,7 @@
             "amber": 0,
             "armor": 1,
             "power": 5,
-            "text": "Action: Capture 2.",
+            "text": "Action: Capture 2.",
             "locale": {
                 "de": {
                     "name": "Hornbläserin Octavia"
@@ -9222,7 +9222,7 @@
             "amber": 0,
             "armor": null,
             "power": null,
-            "text": "Play: Choose one:\r\n• Exalt, ready, and use a friendly creature.\r\n• Move 1 from a creature to another creature.",
+            "text": "Play: Choose one:\r\n• Exalt, ready, and use a friendly creature.\r\n• Move 1 from a creature to another creature.",
             "locale": {
                 "de": {
                     "name": "Dekadenz"
@@ -9275,7 +9275,7 @@
             "amber": 0,
             "armor": null,
             "power": 4,
-            "text": "Your opponent's keys cost +1 for each friendly creature with  on it.\r\nPlay: You may exalt a friendly creature.",
+            "text": "Your opponent's keys cost +1 for each friendly creature with  on it.\r\nPlay: You may exalt a friendly creature.",
             "locale": {
                 "de": {
                     "name": "Faust der Große"
@@ -9437,7 +9437,7 @@
             "amber": 0,
             "armor": null,
             "power": 5,
-            "text": " While the tide is high, you may spend  on friendly creatures as if it were in your pool.",
+            "text": " While the tide is high, you may spend  on friendly creatures as if it were in your pool.",
             "locale": {
                 "de": {
                     "name": "Medicus Lacus"
@@ -9488,7 +9488,7 @@
             "amber": 0,
             "armor": null,
             "power": null,
-            "text": "Play: Lose 1. If you do, purge a creature.",
+            "text": "Play: Lose 1. If you do, purge a creature.",
             "locale": {
                 "de": {
                     "name": "Verstoßen"
@@ -9539,7 +9539,7 @@
             "amber": 1,
             "armor": null,
             "power": null,
-            "text": " Play: If the tide is high, a friendly creature captures 3. Otherwise, raise the tide.",
+            "text": " Play: If the tide is high, a friendly creature captures 3. Otherwise, raise the tide.",
             "locale": {
                 "de": {
                     "name": "Größenvorteil"
@@ -9590,7 +9590,7 @@
             "amber": 1,
             "armor": null,
             "power": null,
-            "text": "Play: A friendly creature captures 1. Each creature with  on it captures 1 from its opponent.",
+            "text": "Play: A friendly creature captures 1. Each creature with  on it captures 1 from its opponent.",
             "locale": {
                 "de": {
                     "name": "Kampfesbeute"
@@ -9643,7 +9643,7 @@
             "amber": 0,
             "armor": null,
             "power": 12,
-            "text": " While the tide is low, Undagnathus deals no damage when fighting.",
+            "text": " While the tide is low, Undagnathus deals no damage when fighting.",
             "locale": {
                 "de": {
                     "name": "Undagnathus"
@@ -9697,7 +9697,7 @@
             "amber": 0,
             "armor": 2,
             "power": 7,
-            "text": " After Venator Altum is dealt damage, if the tide is low, exalt Venator Altum.",
+            "text": " After Venator Altum is dealt damage, if the tide is low, exalt Venator Altum.",
             "locale": {
                 "de": {
                     "name": "Venator Altum"
@@ -9753,7 +9753,7 @@
             "amber": 0,
             "armor": null,
             "power": 6,
-            "text": "Taunt. (This creature’s neighbors cannot be attacked unless they have taunt.)\r\nDestroyed: Each of Captain No-Beard's neighbors captures 1.",
+            "text": "Taunt. (This creature’s neighbors cannot be attacked unless they have taunt.)\r\nDestroyed: Each of Captain No-Beard's neighbors captures 1.",
             "locale": {
                 "de": {
                     "name": "Käpt‘n Keinbart"
@@ -9807,7 +9807,7 @@
             "amber": 0,
             "armor": null,
             "power": 4,
-            "text": " Play: Raise the tide.\r\n Before Fight: If the tide is high, steal 1.",
+            "text": " Play: Raise the tide.\r\n Before Fight: If the tide is high, steal 1.",
             "locale": {
                 "de": {
                     "name": "Freibeuterin Faye"
@@ -9861,7 +9861,7 @@
             "amber": 0,
             "armor": null,
             "power": 4,
-            "text": " Reap: If the tide is high, a damaged creature captures 1 from its own side.",
+            "text": " Reap: If the tide is high, a damaged creature captures 1 from its own side.",
             "locale": {
                 "de": {
                     "name": "Harter Simpson"
@@ -9915,7 +9915,7 @@
             "amber": 0,
             "armor": null,
             "power": 3,
-            "text": "Omni: If your opponent has exactly 1, steal it.",
+            "text": "Omni: If your opponent has exactly 1, steal it.",
             "locale": {
                 "de": {
                     "name": "Schnösel"
@@ -9971,7 +9971,7 @@
             "amber": 0,
             "armor": null,
             "power": 1,
-            "text": "Elusive.\r\nPlay: Exalt Monty Bank 2 times.\r\nAction: Steal 1 for each  on Monty Bank.",
+            "text": "Elusive.\r\nPlay: Exalt Monty Bank 2 times.\r\nAction: Steal 1 for each  on Monty Bank.",
             "locale": {
                 "de": {
                     "name": "Charlie Tahn"
@@ -10028,7 +10028,7 @@
             "amber": 0,
             "armor": null,
             "power": 2,
-            "text": "Elusive. Skirmish.\r\n Fight: If the tide is high, your opponent loses 2.",
+            "text": "Elusive. Skirmish.\r\n Fight: If the tide is high, your opponent loses 2.",
             "locale": {
                 "de": {
                     "name": "Einäugige Willa"
@@ -10082,7 +10082,7 @@
             "amber": 0,
             "armor": null,
             "power": 1,
-            "text": " Play: Capture 2. If the tide is high, steal 2 instead.",
+            "text": " Play: Capture 2. If the tide is high, steal 2 instead.",
             "locale": {
                 "de": {
                     "name": "Meeresbengel"
@@ -10135,7 +10135,7 @@
             "amber": 0,
             "armor": null,
             "power": null,
-            "text": "Action: Exhaust up to 2 friendly Shadows creatures. For each creature exhausted this way, steal 1.",
+            "text": "Action: Exhaust up to 2 friendly Shadows creatures. For each creature exhausted this way, steal 1.",
             "locale": {
                 "de": {
                     "name": "Rache des Archonten"
@@ -10189,7 +10189,7 @@
             "amber": 0,
             "armor": null,
             "power": 3,
-            "text": "Each of Captain No-Beard’s neighbors gains taunt.\r\nReap: Capture 1.",
+            "text": "Each of Captain No-Beard’s neighbors gains taunt.\r\nReap: Capture 1.",
             "locale": {
                 "de": {
                     "name": "Käpt‘n Keinbart"
@@ -10242,7 +10242,7 @@
             "amber": 1,
             "armor": null,
             "power": null,
-            "text": "Play: Put 4 on Dead Man’s Chest from the common supply. Deal 2 to a creature.\r\nAfter 6 or more creatures are destroyed in a turn, if Dead Man’s Chest is ready, move each  from Dead Man’s Chest to the active player's pool.",
+            "text": "Play: Put 4 on Dead Man’s Chest from the common supply. Deal 2 to a creature.\r\nAfter 6 or more creatures are destroyed in a turn, if Dead Man’s Chest is ready, move each  from Dead Man’s Chest to the active player's pool.",
             "locale": {
                 "de": {
                     "name": "Des toten Mannes Kiste"
@@ -10456,7 +10456,7 @@
             "amber": 0,
             "armor": null,
             "power": 4,
-            "text": "Fight/Reap: If you have less  than your opponent, steal 1. Otherwise, each player gains 1.",
+            "text": "Fight/Reap: If you have less  than your opponent, steal 1. Otherwise, each player gains 1.",
             "locale": {
                 "de": {
                     "name": "Finkmantel"
@@ -10507,7 +10507,7 @@
             "amber": 1,
             "armor": null,
             "power": null,
-            "text": "Play: Destroy a damaged creature. If you do, steal 1.",
+            "text": "Play: Destroy a damaged creature. If you do, steal 1.",
             "locale": {
                 "de": {
                     "name": "Todesstoß"
@@ -10563,7 +10563,7 @@
             "amber": 0,
             "armor": null,
             "power": 3,
-            "text": "Elusive.\r\nYou may use Mack the Knife as if it belonged to the active house.\r\nAction: Deal 1 to a creature. If this damage destroys that creature, gain 1.",
+            "text": "Elusive.\r\nYou may use Mack the Knife as if it belonged to the active house.\r\nAction: Deal 1 to a creature. If this damage destroys that creature, gain 1.",
             "locale": {
                 "de": {
                     "name": "Mackie Messer"
@@ -10619,7 +10619,7 @@
             "amber": 0,
             "armor": null,
             "power": 2,
-            "text": "Elusive.\r\nAt the end of your turn, put a scheme counter on Mastermindy.\r\nAction: Remove each scheme counter from Mastermindy. Steal 1 for each scheme counter removed this way.",
+            "text": "Elusive.\r\nAt the end of your turn, put a scheme counter on Mastermindy.\r\nAction: Remove each scheme counter from Mastermindy. Steal 1 for each scheme counter removed this way.",
             "locale": {
                 "de": {
                     "name": "„Strippenzieherin“ Mindy"
@@ -10723,7 +10723,7 @@
             "amber": 1,
             "armor": null,
             "power": null,
-            "text": "This creature gains, \"Your opponent may spend  on this creature as if it were in their pool.\"",
+            "text": "This creature gains, \"Your opponent may spend  on this creature as if it were in their pool.\"",
             "locale": {
                 "de": {
                     "name": "Maulwurf"
@@ -10774,7 +10774,7 @@
             "amber": 0,
             "armor": null,
             "power": null,
-            "text": "This creature cannot be used and gains, \"At the start of your turn, you may give your opponent 2. If you do, destroy Ransom.\"",
+            "text": "This creature cannot be used and gains, \"At the start of your turn, you may give your opponent 2. If you do, destroy Ransom.\"",
             "locale": {
                 "de": {
                     "name": "Lösegeld"
@@ -10876,7 +10876,7 @@
             "amber": 1,
             "armor": null,
             "power": null,
-            "text": "Play: Deal 1 to a creature for each  you have.",
+            "text": "Play: Deal 1 to a creature for each  you have.",
             "locale": {
                 "de": {
                     "name": "Sack voll Münzen"
@@ -11041,7 +11041,7 @@
             "amber": 1,
             "armor": null,
             "power": null,
-            "text": " While the tide is high, each friendly Thief creature gains elusive.",
+            "text": " While the tide is high, each friendly Thief creature gains elusive.",
             "locale": {
                 "de": {
                     "name": "Tauchboot"
@@ -11098,7 +11098,7 @@
             "amber": 0,
             "armor": null,
             "power": 3,
-            "text": "Elusive.\r\nWhile The Shadow Council is in the center of your battleline, it gains, \"Action: Steal 2.\"",
+            "text": "Elusive.\r\nWhile The Shadow Council is in the center of your battleline, it gains, \"Action: Steal 2.\"",
             "locale": {
                 "de": {
                     "name": "Der Schattenrat"
@@ -11151,7 +11151,7 @@
             "amber": 1,
             "armor": null,
             "power": null,
-            "text": "After a player gains  by reaping, a creature they do not control captures that .",
+            "text": "After a player gains  by reaping, a creature they do not control captures that .",
             "locale": {
                 "de": {
                     "name": "Weitverbreitete Korruption"
@@ -11202,7 +11202,7 @@
             "amber": 1,
             "armor": null,
             "power": null,
-            "text": "Play: Enrage an enemy creature. Move all  from that creature to your pool.",
+            "text": "Play: Enrage an enemy creature. Move all  from that creature to your pool.",
             "locale": {
                 "de": {
                     "name": "Dreister Diebstahl"
@@ -11253,7 +11253,7 @@
             "amber": 1,
             "armor": null,
             "power": null,
-            "text": "Play: Deal 4 to a creature that is not on a flank, with 2 splash.",
+            "text": "Play: Deal 4 to a creature that is not on a flank, with 2 splash.",
             "locale": {
                 "de": {
                     "name": "Sprengfalle"
@@ -11360,7 +11360,7 @@
             "amber": 0,
             "armor": null,
             "power": 3,
-            "text": "Skirmish.\r\nPlay: Your opponent gains 1.\r\nDestroyed: Steal 3.",
+            "text": "Skirmish.\r\nPlay: Your opponent gains 1.\r\nDestroyed: Steal 3.",
             "locale": {
                 "de": {
                     "name": "Brend der Fanatische"
@@ -11414,7 +11414,7 @@
             "amber": 0,
             "armor": null,
             "power": 4,
-            "text": " Play: Raise the tide.\r\n Reap: If the tide is high, steal 1.",
+            "text": " Play: Raise the tide.\r\n Reap: If the tide is high, steal 1.",
             "locale": {
                 "de": {
                     "name": "Freibeuterin Faye"
@@ -11465,7 +11465,7 @@
             "amber": 1,
             "armor": null,
             "power": null,
-            "text": "This creature gains skirmish and, \"Fight: Move 1 from the creature this creature fights to your pool.\"",
+            "text": "This creature gains skirmish and, \"Fight: Move 1 from the creature this creature fights to your pool.\"",
             "locale": {
                 "de": {
                     "name": "Handkanone"
@@ -11523,7 +11523,7 @@
             "amber": 0,
             "armor": null,
             "power": 2,
-            "text": "Omega. Deploy. Elusive.\r\nAfter a neighbor of Little Niff fights, steal 1.",
+            "text": "Omega. Deploy. Elusive.\r\nAfter a neighbor of Little Niff fights, steal 1.",
             "locale": {
                 "de": {
                     "name": "Klein Niff"
@@ -11576,7 +11576,7 @@
             "amber": 0,
             "armor": null,
             "power": null,
-            "text": "Enhance . (These icons have already been added to cards in your deck.)\r\nAction: Destroy Miasma Bomb. Your opponent skips the \"forge a key\" step during their next turn.",
+            "text": "Enhance . (These icons have already been added to cards in your deck.)\r\nAction: Destroy Miasma Bomb. Your opponent skips the \"forge a key\" step during their next turn.",
             "locale": {
                 "de": {
                     "name": "Miasma-Bombe"
@@ -11630,7 +11630,7 @@
             "amber": 0,
             "armor": null,
             "power": 1,
-            "text": "Play: You may exalt Monty Bank up to 2 times.\r\nAction: Steal 1 for each  on Monty Bank.",
+            "text": "Play: You may exalt Monty Bank up to 2 times.\r\nAction: Steal 1 for each  on Monty Bank.",
             "locale": {
                 "de": {
                     "name": "Charlie Tahn"
@@ -11686,7 +11686,7 @@
             "amber": 0,
             "armor": null,
             "power": 3,
-            "text": "Elusive. (The first time this creature is attacked each turn, no damage is dealt.)\r\nPlay: Capture 3.",
+            "text": "Elusive. (The first time this creature is attacked each turn, no damage is dealt.)\r\nPlay: Capture 3.",
             "locale": {
                 "de": {
                     "name": "Alter Bruno"
@@ -11737,7 +11737,7 @@
             "amber": 0,
             "armor": null,
             "power": null,
-            "text": "Play: Steal 1. Discard the top card of your deck. If that card is a Shadows card, trigger this effect again.",
+            "text": "Play: Steal 1. Discard the top card of your deck. If that card is a Shadows card, trigger this effect again.",
             "locale": {
                 "de": {
                     "name": "Plündern"
@@ -11788,7 +11788,7 @@
             "amber": 0,
             "armor": null,
             "power": null,
-            "text": "Play: Choose one:\r\n• Archive any number of friendly creatures from play.\r\n• Choose a creature. Deal 1 to it for each  your opponent has.",
+            "text": "Play: Choose one:\r\n• Archive any number of friendly creatures from play.\r\n• Choose a creature. Deal 1 to it for each  your opponent has.",
             "locale": {
                 "de": {
                     "name": "Vorsicht oder Nachsicht"
@@ -11892,7 +11892,7 @@
             "amber": 0,
             "armor": null,
             "power": null,
-            "text": " After your opponent raises the tide, destroy The Flyin’ Specter.\r\n Action: Steal 1 if the tide is high. ",
+            "text": " After your opponent raises the tide, destroy The Flyin’ Specter.\r\n Action: Steal 1 if the tide is high. ",
             "locale": {
                 "de": {
                     "name": "Das Fliegende Phantom"
@@ -11945,7 +11945,7 @@
             "amber": 0,
             "armor": null,
             "power": null,
-            "text": " Play: Raise the tide.\r\nOmni: Gain 1 if your opponent has 6 or more.",
+            "text": " Play: Raise the tide.\r\nOmni: Gain 1 if your opponent has 6 or more.",
             "locale": {
                 "de": {
                     "name": "Trickle-down-Theorie"
@@ -12001,7 +12001,7 @@
             "amber": 0,
             "armor": null,
             "power": 3,
-            "text": "Elusive.\r\nAction: Lose 1. If you do, destroy a creature.",
+            "text": "Elusive.\r\nAction: Lose 1. If you do, destroy a creature.",
             "locale": {
                 "de": {
                     "name": "Wisper"
@@ -12052,7 +12052,7 @@
             "amber": 1,
             "armor": null,
             "power": null,
-            "text": " Play: Deal 2 to a creature. If this damage destroys that creature, raise the tide.",
+            "text": " Play: Deal 2 to a creature. If this damage destroys that creature, raise the tide.",
             "locale": {
                 "de": {
                     "name": "Betonschuhe"
@@ -12108,7 +12108,7 @@
             "amber": 0,
             "armor": null,
             "power": 3,
-            "text": "Skirmish. (When you use this creature to fight, it is dealt no damage in return.)\r\nFight: Each player gains 1.",
+            "text": "Skirmish. (When you use this creature to fight, it is dealt no damage in return.)\r\nFight: Each player gains 1.",
             "locale": {
                 "de": {
                     "name": "Francis der „Ökonom“"
@@ -12162,7 +12162,7 @@
             "amber": 0,
             "armor": null,
             "power": 3,
-            "text": "Before Fight: The creature Gas-Pipes Malone fights captures 1 from its own side.",
+            "text": "Before Fight: The creature Gas-Pipes Malone fights captures 1 from its own side.",
             "locale": {
                 "de": {
                     "name": "„Gasrohr“ Malone"
@@ -12218,7 +12218,7 @@
             "amber": 0,
             "armor": null,
             "power": 4,
-            "text": "Elusive. (The first time this creature is attacked each turn, no damage is dealt.)\r\n After Hard Simpson is dealt damage, steal 1. If the tide is low, your opponent steals 1 instead. (Hard Simpson must survive this damage.)",
+            "text": "Elusive. (The first time this creature is attacked each turn, no damage is dealt.)\r\n After Hard Simpson is dealt damage, steal 1. If the tide is low, your opponent steals 1 instead. (Hard Simpson must survive this damage.)",
             "locale": {
                 "de": {
                     "name": "Harter Simpson"
@@ -12272,7 +12272,7 @@
             "amber": 0,
             "armor": null,
             "power": 3,
-            "text": "Action: If your opponent has 6 or more, steal 2.",
+            "text": "Action: If your opponent has 6 or more, steal 2.",
             "locale": {
                 "de": {
                     "name": "Schnösel"
@@ -12379,7 +12379,7 @@
             "amber": 0,
             "armor": null,
             "power": 2,
-            "text": "Elusive. (The first time this creature is attacked each turn, no damage is dealt.)\r\n Reap: Deal 1 to a creature. If the tide is high, deal 6 to a creature instead.",
+            "text": "Elusive. (The first time this creature is attacked each turn, no damage is dealt.)\r\n Reap: Deal 1 to a creature. If the tide is high, deal 6 to a creature instead.",
             "locale": {
                 "de": {
                     "name": "Jackie die Seebärin"
@@ -12430,7 +12430,7 @@
             "amber": 0,
             "armor": null,
             "power": null,
-            "text": "Play: Deal 1 to each creature. Gain 1 for each creature destroyed this way.",
+            "text": "Play: Deal 1 to each creature. Gain 1 for each creature destroyed this way.",
             "locale": {
                 "de": {
                     "name": "Holterdiepolter"
@@ -12481,7 +12481,7 @@
             "amber": 0,
             "armor": null,
             "power": null,
-            "text": "Play: Choose one:\r\n• Steal 1.\r\n• A friendly creature captures 3.",
+            "text": "Play: Choose one:\r\n• Steal 1.\r\n• A friendly creature captures 3.",
             "locale": {
                 "de": {
                     "name": "Plündern oder brandschatzen"
@@ -12532,7 +12532,7 @@
             "amber": 1,
             "armor": null,
             "power": null,
-            "text": "Play: Move 1 from a creature to your pool. Deal 2 to that creature. ",
+            "text": "Play: Move 1 from a creature to your pool. Deal 2 to that creature. ",
             "locale": {
                 "de": {
                     "name": "Abschöpfen"
@@ -12586,7 +12586,7 @@
             "amber": 0,
             "armor": null,
             "power": 2,
-            "text": " While the tide is high, One-Eyed Willa gains elusive and skirmish.\r\nFight: Steal 1.",
+            "text": " While the tide is high, One-Eyed Willa gains elusive and skirmish.\r\nFight: Steal 1.",
             "locale": {
                 "de": {
                     "name": "Einäugige Willa"
@@ -12637,7 +12637,7 @@
             "amber": 1,
             "armor": null,
             "power": null,
-            "text": "Play: Deal 2 to a creature. If it is not destroyed, it captures 1 from its own side.",
+            "text": "Play: Deal 2 to a creature. If it is not destroyed, it captures 1 from its own side.",
             "locale": {
                 "de": {
                     "name": "Abgeräumt"
@@ -12693,7 +12693,7 @@
             "amber": 0,
             "armor": null,
             "power": 1,
-            "text": "Poison.  (Any damage dealt by this creature’s power during a fight destroys the damaged creature.)\r\n Play: Capture 1. If the tide is high, steal 1 instead.",
+            "text": "Poison.  (Any damage dealt by this creature’s power during a fight destroys the damaged creature.)\r\n Play: Capture 1. If the tide is high, steal 1 instead.",
             "locale": {
                 "de": {
                     "name": "Meeresbengel"
@@ -12746,7 +12746,7 @@
             "amber": 0,
             "armor": null,
             "power": null,
-            "text": "Action: Deal 1 to a creature. If this damage destroys that creature, gain 1.",
+            "text": "Action: Deal 1 to a creature. If this damage destroys that creature, gain 1.",
             "locale": {
                 "de": {
                     "name": "Zielsuchender Dorn"
@@ -12801,7 +12801,7 @@
             "amber": 0,
             "armor": null,
             "power": 6,
-            "text": "Taunt. (This creature’s neighbors cannot be attacked unless they have taunt.)\r\nShoulder Id cannot fight.\r\nWhen Shoulder Id would deal damage, steal 1 instead.",
+            "text": "Taunt. (This creature’s neighbors cannot be attacked unless they have taunt.)\r\nShoulder Id cannot fight.\r\nWhen Shoulder Id would deal damage, steal 1 instead.",
             "locale": {
                 "de": {
                     "name": "Schulter-Es"
@@ -12852,7 +12852,7 @@
             "amber": 0,
             "armor": null,
             "power": null,
-            "text": "Play: If your opponent has no , deal 4 to a creature. Otherwise, steal 1. ",
+            "text": "Play: If your opponent has no , deal 4 to a creature. Otherwise, steal 1. ",
             "locale": {
                 "de": {
                     "name": "Über die Planke gehen"
@@ -12960,7 +12960,7 @@
             "amber": 0,
             "armor": null,
             "power": 2,
-            "text": "Deploy. (This creature can enter play anywhere in your battleline.)\r\nPlay: Your opponent loses 1 for each of C.R. Officer Hawkins's non-Star Alliance neighbors.",
+            "text": "Deploy. (This creature can enter play anywhere in your battleline.)\r\nPlay: Your opponent loses 1 for each of C.R. Officer Hawkins's non-Star Alliance neighbors.",
             "locale": {
                 "de": {
                     "name": "Personaloffizier Hawkins"
@@ -13015,7 +13015,7 @@
             "amber": 0,
             "armor": null,
             "power": 3,
-            "text": "Skirmish. (When you use this creature to fight, it is dealt no damage in return.)\r\n While the tide is high, each of CH-337A's neighbors gains skirmish.",
+            "text": "Skirmish. (When you use this creature to fight, it is dealt no damage in return.)\r\n While the tide is high, each of CH-337A's neighbors gains skirmish.",
             "locale": {
                 "de": {
                     "name": "CH-337A"
@@ -13070,7 +13070,7 @@
             "amber": 0,
             "armor": null,
             "power": 3,
-            "text": "Elusive. (The first time this creature is attacked each turn, no damage is dealt.)\r\nPlay: Capture all  from each player.",
+            "text": "Elusive. (The first time this creature is attacked each turn, no damage is dealt.)\r\nPlay: Capture all  from each player.",
             "locale": {
                 "de": {
                     "name": "Kolonist Chapman"
@@ -13125,7 +13125,7 @@
             "amber": 0,
             "armor": null,
             "power": 4,
-            "text": "Elusive. (The first time this creature is attacked each turn, no damage is dealt.)\r\n After a player raises the tide during their turn, they may deal 3 to a creature.",
+            "text": "Elusive. (The first time this creature is attacked each turn, no damage is dealt.)\r\n After a player raises the tide during their turn, they may deal 3 to a creature.",
             "locale": {
                 "de": {
                     "name": "Geheimagent Espion"
@@ -13180,7 +13180,7 @@
             "amber": 0,
             "armor": null,
             "power": 4,
-            "text": "Skirmish.\r\n While the tide is high, Rocketeer Tryska enters play ready.",
+            "text": "Skirmish.\r\n While the tide is high, Rocketeer Tryska enters play ready.",
             "locale": {
                 "de": {
                     "name": "Raketenfrau Tryska"
@@ -13392,7 +13392,7 @@
             "amber": 0,
             "armor": null,
             "power": 5,
-            "text": "Fight: Gain 1 for each upgrade on Z-Force Agent 14.",
+            "text": "Fight: Gain 1 for each upgrade on Z-Force Agent 14.",
             "locale": {
                 "de": {
                     "name": "Z-Kraft-Agent 14"
@@ -13494,7 +13494,7 @@
             "amber": 1,
             "armor": null,
             "power": null,
-            "text": "This creature gets +3 power and gains, \"Before Fight: Deal 3 to each neighbor of the creature this creature fights.\"",
+            "text": "This creature gets +3 power and gains, \"Before Fight: Deal 3 to each neighbor of the creature this creature fights.\"",
             "locale": {
                 "de": {
                     "name": "Z-Strahlen-Blaster"
@@ -13811,7 +13811,7 @@
             "amber": 0,
             "armor": null,
             "power": 4,
-            "text": "After an upgrade is attached to Commander Dhrxgar or 1 of its neighbors, gain 1.",
+            "text": "After an upgrade is attached to Commander Dhrxgar or 1 of its neighbors, gain 1.",
             "locale": {
                 "de": {
                     "name": "Commander Dhrxgar"
@@ -13918,7 +13918,7 @@
             "amber": 0,
             "armor": null,
             "power": null,
-            "text": " While the tide is high, this creature gains skirmish.\r\n While the tide is low, this creature gains elusive.",
+            "text": " While the tide is high, this creature gains skirmish.\r\n While the tide is low, this creature gains elusive.",
             "locale": {
                 "de": {
                     "name": "D1-V3-Tauchkapsel"
@@ -13974,7 +13974,7 @@
             "amber": 0,
             "armor": null,
             "power": 3,
-            "text": "Elusive.\r\nAction: Heal 2 damage from a creature. Gain 1 for each damage healed this way.",
+            "text": "Elusive.\r\nAction: Heal 2 damage from a creature. Gain 1 for each damage healed this way.",
             "locale": {
                 "de": {
                     "name": "Doktor Driscoll"
@@ -14129,7 +14129,7 @@
             "amber": 1,
             "armor": null,
             "power": null,
-            "text": "Play: Forge a key at +7 current cost, reduced by 1 (to a maximum of 6) for each house represented among cards in play.",
+            "text": "Play: Forge a key at +7 current cost, reduced by 1 (to a maximum of 6) for each house represented among cards in play.",
             "locale": {
                 "de": {
                     "name": "Eine Allianz schmieden"
@@ -14337,7 +14337,7 @@
             "amber": 1,
             "armor": null,
             "power": null,
-            "text": "This creature gains, \"Before Fight: Deal 2 to the attacked creature, with 2 splash.\"",
+            "text": "This creature gains, \"Before Fight: Deal 2 to the attacked creature, with 2 splash.\"",
             "locale": {
                 "de": {
                     "name": "Plasmadüse"
@@ -14392,7 +14392,7 @@
             "amber": 0,
             "armor": null,
             "power": 1,
-            "text": "Deploy.\r\n Play/Fight/Reap: Use 1 of Prof. Emeritus Kering's neighbors. If the tide is high, also use Prof. Emeritus Kering's other neighbor.",
+            "text": "Deploy.\r\n Play/Fight/Reap: Use 1 of Prof. Emeritus Kering's neighbors. If the tide is high, also use Prof. Emeritus Kering's other neighbor.",
             "locale": {
                 "de": {
                     "name": "Prof. Emeritus Kering"
@@ -14551,7 +14551,7 @@
             "amber": 0,
             "armor": 1,
             "power": 4,
-            "text": " Fight/Reap: Deal 1 to a creature. If the tide is high, stun that creature.",
+            "text": " Fight/Reap: Deal 1 to a creature. If the tide is high, stun that creature.",
             "locale": {
                 "de": {
                     "name": "Agentin Sepdia"
@@ -14661,7 +14661,7 @@
             "amber": 0,
             "armor": null,
             "power": 3,
-            "text": "Elusive.\r\n While the tide is high, each of CH-337A's neighbors gains elusive.",
+            "text": "Elusive.\r\n While the tide is high, each of CH-337A's neighbors gains elusive.",
             "locale": {
                 "de": {
                     "name": "CH-337A"
@@ -14716,7 +14716,7 @@
             "amber": 0,
             "armor": null,
             "power": 3,
-            "text": "Taunt.\r\nEach of Colonist Chapman's non-Star Alliance neighbors gains, \"Reap: Gain 1.\"",
+            "text": "Taunt.\r\nEach of Colonist Chapman's non-Star Alliance neighbors gains, \"Reap: Gain 1.\"",
             "locale": {
                 "de": {
                     "name": "Kolonist Chapman"
@@ -14926,7 +14926,7 @@
             "amber": 0,
             "armor": null,
             "power": 3,
-            "text": "Enhance . (These icons have already been added to cards in your deck.)",
+            "text": "Enhance . (These icons have already been added to cards in your deck.)",
             "locale": {
                 "de": {
                     "name": "Mutagenese-Forscherin"
@@ -14977,7 +14977,7 @@
             "amber": 1,
             "armor": null,
             "power": null,
-            "text": "Play: Keys cost +1 for each different power value among friendly creatures during your opponent’s next turn.",
+            "text": "Play: Keys cost +1 for each different power value among friendly creatures during your opponent’s next turn.",
             "locale": {
                 "de": {
                     "name": "Sabotagemission"
@@ -15081,7 +15081,7 @@
             "amber": 1,
             "armor": null,
             "power": null,
-            "text": " Your keys cost –1 while the tide is high and +1 while the tide is low.",
+            "text": " Your keys cost –1 while the tide is high and +1 while the tide is low.",
             "locale": {
                 "de": {
                     "name": "Statischer Rauschkollektor"
@@ -15236,7 +15236,7 @@
             "amber": 0,
             "armor": null,
             "power": null,
-            "text": " Play: You may play a non-Star Alliance card. If the tide is high, you may play another non-Star Alliance card.",
+            "text": " Play: You may play a non-Star Alliance card. If the tide is high, you may play another non-Star Alliance card.",
             "locale": {
                 "de": {
                     "name": "Zusammen!"
@@ -15338,7 +15338,7 @@
             "amber": 1,
             "armor": null,
             "power": null,
-            "text": "Play: For each house represented among friendly creatures, a friendly creature captures 1.",
+            "text": "Play: For each house represented among friendly creatures, a friendly creature captures 1.",
             "locale": {
                 "de": {
                     "name": "Xeno-Training"
@@ -15389,7 +15389,7 @@
             "amber": 0,
             "armor": null,
             "power": null,
-            "text": " Play: Raise the tide.\r\n This creature gains, \"At the start of your turn, if the tide is high, capture 2.\"",
+            "text": " Play: Raise the tide.\r\n This creature gains, \"At the start of your turn, if the tide is high, capture 2.\"",
             "locale": {
                 "de": {
                     "name": "Æmber-Sauger"
@@ -15440,7 +15440,7 @@
             "amber": 1,
             "armor": null,
             "power": null,
-            "text": " Play: If the tide is high, you may look at the top 2 cards of your deck and discard 1 of them. Otherwise, raise the tide.",
+            "text": " Play: If the tide is high, you may look at the top 2 cards of your deck and discard 1 of them. Otherwise, raise the tide.",
             "locale": {
                 "de": {
                     "name": "Biom-Entdeckung"
@@ -15495,7 +15495,7 @@
             "amber": 0,
             "armor": null,
             "power": 2,
-            "text": "Deploy. (This creature can enter play anywhere in your battleline.)\r\nPlay: Gain 1 for each of C.R. Officer Hawkins's non-Star Alliance neighbors.",
+            "text": "Deploy. (This creature can enter play anywhere in your battleline.)\r\nPlay: Gain 1 for each of C.R. Officer Hawkins's non-Star Alliance neighbors.",
             "locale": {
                 "de": {
                     "name": "Personaloffizier Hawkins"
@@ -15657,7 +15657,7 @@
             "amber": 0,
             "armor": null,
             "power": 5,
-            "text": "Taunt. (This creature’s neighbors cannot be attacked unless they have taunt.)\r\nHazardous 3. (Before this creature is attacked, deal 3 to the attacking enemy.)",
+            "text": "Taunt. (This creature’s neighbors cannot be attacked unless they have taunt.)\r\nHazardous 3. (Before this creature is attacked, deal 3 to the attacking enemy.)",
             "locale": {
                 "de": {
                     "name": "Lieutenant Khrkhar"
@@ -15711,7 +15711,7 @@
             "amber": 0,
             "armor": null,
             "power": 3,
-            "text": " Play/Fight/Reap: If the tide is high, keys cost +3 during your opponent's next turn. ",
+            "text": " Play/Fight/Reap: If the tide is high, keys cost +3 during your opponent's next turn. ",
             "locale": {
                 "de": {
                     "name": "Lieutenant Valmart"
@@ -15868,7 +15868,7 @@
             "amber": 0,
             "armor": null,
             "power": 4,
-            "text": "Elusive. (The first time this creature is attacked each turn, no damage is dealt.)\r\n After a player raises the tide during their turn, they may use a creature they control.",
+            "text": "Elusive. (The first time this creature is attacked each turn, no damage is dealt.)\r\n After a player raises the tide during their turn, they may use a creature they control.",
             "locale": {
                 "de": {
                     "name": "Geheimagent Espion"
@@ -15921,7 +15921,7 @@
             "amber": 0,
             "armor": null,
             "power": 4,
-            "text": " While the tide is high, Rocketeer Tryska’s neighbors enter play ready.",
+            "text": " While the tide is high, Rocketeer Tryska’s neighbors enter play ready.",
             "locale": {
                 "de": {
                     "name": "Raketenfrau Tryska"
@@ -15978,7 +15978,7 @@
             "amber": 0,
             "armor": null,
             "power": 2,
-            "text": "Elusive. (The first time this creature is attacked each turn, no damage is dealt.)\r\nAfter a player chooses an active house which matches no cards in play, steal 1.",
+            "text": "Elusive. (The first time this creature is attacked each turn, no damage is dealt.)\r\nAfter a player chooses an active house which matches no cards in play, steal 1.",
             "locale": {
                 "de": {
                     "name": "Forschungsoff. Qincan"
@@ -16184,7 +16184,7 @@
             "amber": 1,
             "armor": null,
             "power": null,
-            "text": "Play: Deal 1 to a creature for each house represented among creatures in play.",
+            "text": "Play: Deal 1 to a creature for each house represented among creatures in play.",
             "locale": {
                 "de": {
                     "name": "Zappen"
@@ -16237,7 +16237,7 @@
             "amber": 0,
             "armor": null,
             "power": 6,
-            "text": " After your opponent raises the tide, enrage Flamegill Enforcer.\r\nAction: Steal 1.",
+            "text": " After your opponent raises the tide, enrage Flamegill Enforcer.\r\nAction: Steal 1.",
             "locale": {
                 "de": {
                     "name": "Feuerkiemen-Vollstrecker"
@@ -16290,7 +16290,7 @@
             "amber": 0,
             "armor": null,
             "power": 2,
-            "text": "Enhance (). (These icons have already been added to cards in your deck.)\r\nReap: Ready and use a friendly non-Aquan creature.",
+            "text": "Enhance (). (These icons have already been added to cards in your deck.)\r\nReap: Ready and use a friendly non-Aquan creature.",
             "locale": {
                 "de": {
                     "name": "Goldkamm-Netzwerfer"
@@ -16399,7 +16399,7 @@
             "amber": 0,
             "armor": null,
             "power": 7,
-            "text": "You cannot play more than 1 card of each type each turn.\r\nFight/Reap: Discard any number of cards from your hand. For each card discarded this way, deal 2 to an enemy creature.",
+            "text": "You cannot play more than 1 card of each type each turn.\r\nFight/Reap: Discard any number of cards from your hand. For each card discarded this way, deal 2 to an enemy creature.",
             "locale": {
                 "de": {
                     "name": "Kaupe"
@@ -16505,7 +16505,7 @@
             "amber": 0,
             "armor": null,
             "power": 3,
-            "text": " Reap: If the tide is high, exhaust an enemy creature and your opponent discards a random card from their hand.",
+            "text": " Reap: If the tide is high, exhaust an enemy creature and your opponent discards a random card from their hand.",
             "locale": {
                 "de": {
                     "name": "Tomwa die Leuchtende"
@@ -16558,7 +16558,7 @@
             "amber": 0,
             "armor": null,
             "power": 3,
-            "text": "Reap: Exalt Wikolia. Keys cost +4 during your opponent's next turn.",
+            "text": "Reap: Exalt Wikolia. Keys cost +4 during your opponent's next turn.",
             "locale": {
                 "de": {
                     "name": "Wikolia"
@@ -16764,7 +16764,7 @@
             "amber": 0,
             "armor": null,
             "power": 8,
-            "text": "Omnipus cannot fight.\r\nPlay: Discard the top 8 cards of your deck. Play each Tentaclid from your discard pile, one at a time.\r\nReap: Gain 1 for each friendly Tentaclid.",
+            "text": "Omnipus cannot fight.\r\nPlay: Discard the top 8 cards of your deck. Play each Tentaclid from your discard pile, one at a time.\r\nReap: Gain 1 for each friendly Tentaclid.",
             "locale": {
                 "de": {
                     "name": "Omnipus"
@@ -17291,7 +17291,7 @@
             "amber": 0,
             "armor": null,
             "power": 4,
-            "text": " While the tide is high, your opponent’s keys cost +4.",
+            "text": " While the tide is high, your opponent’s keys cost +4.",
             "locale": {
                 "de": {
                     "name": "Portalformer"
@@ -17450,7 +17450,7 @@
             "amber": 0,
             "armor": 2,
             "power": 8,
-            "text": "Fight/Reap: Destroy a friendly creature and gain 1.",
+            "text": "Fight/Reap: Destroy a friendly creature and gain 1.",
             "locale": {
                 "de": {
                     "name": "Taniwha"
@@ -17503,7 +17503,7 @@
             "amber": 0,
             "armor": null,
             "power": 12,
-            "text": "Play: Exhaust 2 friendly Unfathomable creatures. If you do not, destroy Te-wheke Kraken.\r\nFight/Reap: Deal 2 to a creature, with 2 splash.",
+            "text": "Play: Exhaust 2 friendly Unfathomable creatures. If you do not, destroy Te-wheke Kraken.\r\nFight/Reap: Deal 2 to a creature, with 2 splash.",
             "locale": {
                 "de": {
                     "name": "Te-Wheke-Krake"
@@ -17607,7 +17607,7 @@
             "amber": 0,
             "armor": null,
             "power": 9,
-            "text": "Instead of readying creatures they control during their “ready cards” step, your opponent deals 1 to The Chosen One for each exhausted creature they control.",
+            "text": "Instead of readying creatures they control during their “ready cards” step, your opponent deals 1 to The Chosen One for each exhausted creature they control.",
             "locale": {
                 "de": {
                     "name": "Der Auserwählte"
@@ -17713,7 +17713,7 @@
             "amber": 0,
             "armor": 1,
             "power": 5,
-            "text": " While the tide is high, each friendly creature gets +1 power and +1 armor.\r\n While the tide is low, each enemy creature gets +1 power and +1 armor.",
+            "text": " While the tide is high, each friendly creature gets +1 power and +1 armor.\r\n While the tide is low, each enemy creature gets +1 power and +1 armor.",
             "locale": {
                 "de": {
                     "name": "Rakuzels Stimme"
@@ -17817,7 +17817,7 @@
             "amber": 1,
             "armor": null,
             "power": null,
-            "text": " Play: Return a creature to its owner’s hand. If the tide is high, return 4 creatures to their owners’ hands instead.",
+            "text": " Play: Return a creature to its owner’s hand. If the tide is high, return 4 creatures to their owners’ hands instead.",
             "locale": {
                 "de": {
                     "name": "Schiff aufgeben"
@@ -17870,7 +17870,7 @@
             "amber": 0,
             "armor": null,
             "power": 4,
-            "text": " After you raise the tide, capture 2.\r\n After your opponent raises the tide, move 2 from Abyssal Zealot to the common supply.",
+            "text": " After you raise the tide, capture 2.\r\n After your opponent raises the tide, move 2 from Abyssal Zealot to the common supply.",
             "locale": {
                 "de": {
                     "name": "Abyssischer Zelot"
@@ -17921,7 +17921,7 @@
             "amber": 1,
             "armor": null,
             "power": null,
-            "text": "Play: Choose a house on your opponent's identity card. If your opponent does not choose that house as their active house on their next turn, gain 3.",
+            "text": "Play: Choose a house on your opponent's identity card. If your opponent does not choose that house as their active house on their next turn, gain 3.",
             "locale": {
                 "de": {
                     "name": "Dezenter Größenwahn"
@@ -18192,7 +18192,7 @@
             "amber": 0,
             "armor": null,
             "power": 3,
-            "text": "Hazardous 4.\r\n Destroyed: If the tide is high, archive Scyphos.",
+            "text": "Hazardous 4.\r\n Destroyed: If the tide is high, archive Scyphos.",
             "locale": {
                 "de": {
                     "name": "Schirmqualle"
@@ -18349,7 +18349,7 @@
             "amber": 1,
             "armor": null,
             "power": null,
-            "text": "Play: Exhaust 2 creatures. Deal 2 to each exhausted creature.",
+            "text": "Play: Exhaust 2 creatures. Deal 2 to each exhausted creature.",
             "locale": {
                 "de": {
                     "name": "Donnernde Brandung"
@@ -18400,7 +18400,7 @@
             "amber": 1,
             "armor": null,
             "power": null,
-            "text": " Play: If the tide is high, destroy a creature and each of its neighbors. Your opponent raises the tide.",
+            "text": " Play: If the tide is high, destroy a creature and each of its neighbors. Your opponent raises the tide.",
             "locale": {
                 "de": {
                     "name": "Flutwelle"
@@ -18453,7 +18453,7 @@
             "amber": 0,
             "armor": null,
             "power": 3,
-            "text": " Reap: Exhaust a creature. If the tide is high, draw a card for each exhausted enemy creature.",
+            "text": " Reap: Exhaust a creature. If the tide is high, draw a card for each exhausted enemy creature.",
             "locale": {
                 "de": {
                     "name": "Tomwa die Leuchtende"
@@ -18557,7 +18557,7 @@
             "amber": 0,
             "armor": null,
             "power": 6,
-            "text": " While the tide is low, Valoocanth cannot be used.\r\nFight/Reap: Exhaust an enemy creature and each of its neighbors.",
+            "text": " While the tide is low, Valoocanth cannot be used.\r\nFight/Reap: Exhaust an enemy creature and each of its neighbors.",
             "locale": {
                 "de": {
                     "name": "Valoocanth"
@@ -18763,7 +18763,7 @@
             "amber": 1,
             "armor": null,
             "power": null,
-            "text": "Play: Exhaust a creature. If it was already exhausted, destroy it instead and its controller loses 1.",
+            "text": "Play: Exhaust a creature. If it was already exhausted, destroy it instead and its controller loses 1.",
             "locale": {
                 "de": {
                     "name": "Ruf der Leere"
@@ -18816,7 +18816,7 @@
             "amber": 0,
             "armor": null,
             "power": 6,
-            "text": " After your opponent raises the tide, enrage Flamegill Enforcer.\r\nAction: Capture 3.",
+            "text": " After your opponent raises the tide, enrage Flamegill Enforcer.\r\nAction: Capture 3.",
             "locale": {
                 "de": {
                     "name": "Feuerkiemen-Vollstrecker"
@@ -18922,7 +18922,7 @@
             "amber": 0,
             "armor": null,
             "power": 2,
-            "text": "Enhance (). (These icons have already been added to cards in your deck.)\r\nReap: Exhaust a creature.",
+            "text": "Enhance (). (These icons have already been added to cards in your deck.)\r\nReap: Exhaust a creature.",
             "locale": {
                 "de": {
                     "name": "Goldkamm-Netzwerfer"
@@ -18975,7 +18975,7 @@
             "amber": 0,
             "armor": 1,
             "power": 4,
-            "text": " Fight: If the tide is high, your opponent loses 2.",
+            "text": " Fight: If the tide is high, your opponent loses 2.",
             "locale": {
                 "de": {
                     "name": "Meisterin der Haken"
@@ -19134,7 +19134,7 @@
             "amber": 0,
             "armor": null,
             "power": 2,
-            "text": "Play: Capture 2.\r\n While the tide is high, Photic Raider gets +4 power.",
+            "text": "Play: Capture 2.\r\n While the tide is high, Photic Raider gets +4 power.",
             "locale": {
                 "de": {
                     "name": "Flachwasser-Räuber"
@@ -19185,7 +19185,7 @@
             "amber": 1,
             "armor": null,
             "power": null,
-            "text": " Play: If the tide is high, archive Pour-tal. Otherwise, raise the tide.",
+            "text": " Play: If the tide is high, archive Pour-tal. Otherwise, raise the tide.",
             "locale": {
                 "de": {
                     "name": "Portwal"
@@ -19236,7 +19236,7 @@
             "amber": 1,
             "armor": null,
             "power": null,
-            "text": " Play: Exhaust a creature. If the tide is high, exhaust each creature instead.",
+            "text": " Play: Exhaust a creature. If the tide is high, exhaust each creature instead.",
             "locale": {
                 "de": {
                     "name": "Rakuzels Gesang"
@@ -19291,7 +19291,7 @@
             "amber": 0,
             "armor": null,
             "power": 7,
-            "text": "Taunt. (This creature’s neighbors cannot be attacked unless they have taunt.)\r\n Destroyed: Raise the tide.",
+            "text": "Taunt. (This creature’s neighbors cannot be attacked unless they have taunt.)\r\n Destroyed: Raise the tide.",
             "locale": {
                 "de": {
                     "name": "Meeresbote Kekoa"
@@ -19446,7 +19446,7 @@
             "amber": 0,
             "armor": null,
             "power": 3,
-            "text": "Reap: Keys cost +2 during your opponent's next turn.",
+            "text": "Reap: Keys cost +2 during your opponent's next turn.",
             "locale": {
                 "de": {
                     "name": "Wikolia"
@@ -19499,7 +19499,7 @@
             "amber": 0,
             "armor": null,
             "power": 3,
-            "text": "At the end of your turn, each player loses 1. Give Æmberfin Shark a +1 power counter for each  lost this way.",
+            "text": "At the end of your turn, each player loses 1. Give Æmberfin Shark a +1 power counter for each  lost this way.",
             "locale": {
                 "de": {
                     "name": "Æmberflossen-Hai"
@@ -19555,7 +19555,7 @@
             "amber": 0,
             "armor": null,
             "power": 2,
-            "text": "Elusive. (The first time this creature is attacked each turn, no damage is dealt.)\r\n After you play another creature, if the tide is high, your opponent loses 1.",
+            "text": "Elusive. (The first time this creature is attacked each turn, no damage is dealt.)\r\n After you play another creature, if the tide is high, your opponent loses 1.",
             "locale": {
                 "de": {
                     "name": "Chelonia"
@@ -19608,7 +19608,7 @@
             "amber": 0,
             "armor": null,
             "power": 2,
-            "text": "After your opponent forges a key, give Mookling a +1 power counter for each  spent to forge that key.",
+            "text": "After your opponent forges a key, give Mookling a +1 power counter for each  spent to forge that key.",
             "locale": {
                 "de": {
                     "name": "Muckling"
@@ -19662,7 +19662,7 @@
             "amber": 0,
             "armor": null,
             "power": 5,
-            "text": " Reap: Discard the bottom card of your opponent's deck, or the bottom 3 cards instead if the tide is high. Destroy a creature that shares a house with 1 of the discarded cards.",
+            "text": " Reap: Discard the bottom card of your opponent's deck, or the bottom 3 cards instead if the tide is high. Destroy a creature that shares a house with 1 of the discarded cards.",
             "locale": {
                 "de": {
                     "name": "Alter Petz"
@@ -19716,7 +19716,7 @@
             "amber": 0,
             "armor": null,
             "power": 4,
-            "text": "Play: Move each +1 power counter in play to Sporegorger.\r\nReap: You may remove each +1 power counter from Sporegorger. For each counter removed this way, deal 1 to each other creature.",
+            "text": "Play: Move each +1 power counter in play to Sporegorger.\r\nReap: You may remove each +1 power counter from Sporegorger. For each counter removed this way, deal 1 to each other creature.",
             "locale": {
                 "de": {
                     "name": "Sporenschlund"
@@ -19983,7 +19983,7 @@
             "amber": 1,
             "armor": null,
             "power": 9,
-            "text": "Play: Destroy a friendly Bombyx. If you do not, destroy Fifalde.\r\nFight/Reap: Fully heal Fifalde and gain 1.",
+            "text": "Play: Destroy a friendly Bombyx. If you do not, destroy Fifalde.\r\nFight/Reap: Fully heal Fifalde and gain 1.",
             "locale": {
                 "de": {
                     "name": "Fifalde"
@@ -20036,7 +20036,7 @@
             "amber": 0,
             "armor": null,
             "power": 3,
-            "text": "Play: Give Æmberfin Shark three +1 power counters.\r\nAt the end of your turn, remove a +1 power counter from Æmberfin Shark. If you do, each player gains 1.",
+            "text": "Play: Give Æmberfin Shark three +1 power counters.\r\nAt the end of your turn, remove a +1 power counter from Æmberfin Shark. If you do, each player gains 1.",
             "locale": {
                 "de": {
                     "name": "Æmberflossen-Hai"
@@ -20253,7 +20253,7 @@
             "amber": 0,
             "armor": null,
             "power": 2,
-            "text": "Elusive.\r\n Reap: If the tide is high, put up to 3 creatures from your discard pile on top of your deck.",
+            "text": "Elusive.\r\n Reap: If the tide is high, put up to 3 creatures from your discard pile on top of your deck.",
             "locale": {
                 "de": {
                     "name": "Schöpfende Druidin"
@@ -20310,7 +20310,7 @@
             "amber": 0,
             "armor": null,
             "power": 5,
-            "text": "Assault 3.\r\nWhile Eldest Bear is in the center of your battleline, it gains, \"Before Fight: Gain 2.\"",
+            "text": "Assault 3.\r\nWhile Eldest Bear is in the center of your battleline, it gains, \"Before Fight: Gain 2.\"",
             "locale": {
                 "de": {
                     "name": "Älteste Bärin"
@@ -20361,7 +20361,7 @@
             "amber": 4,
             "armor": null,
             "power": null,
-            "text": "Play: Your opponent gains 2.",
+            "text": "Play: Your opponent gains 2.",
             "locale": {
                 "de": {
                     "name": "Fruchtbarkeitsgesang"
@@ -20414,7 +20414,7 @@
             "amber": 2,
             "armor": null,
             "power": 5,
-            "text": "Play: Your opponent gains 1.",
+            "text": "Play: Your opponent gains 1.",
             "locale": {
                 "de": {
                     "name": "Flauschiger Gruun"
@@ -20469,7 +20469,7 @@
             "amber": 0,
             "armor": null,
             "power": 6,
-            "text": "Skirmish. (When you use this creature to fight, it is dealt no damage in return.)\r\nPlay: Deal 2 to an enemy creature.",
+            "text": "Skirmish. (When you use this creature to fight, it is dealt no damage in return.)\r\nPlay: Deal 2 to an enemy creature.",
             "locale": {
                 "de": {
                     "name": "Lupo der Vernarbte"
@@ -20575,7 +20575,7 @@
             "amber": 0,
             "armor": null,
             "power": 2,
-            "text": "Play/Reap: Deal 2 to each other creature.",
+            "text": "Play/Reap: Deal 2 to each other creature.",
             "locale": {
                 "de": {
                     "name": "Piranha-Äffchen"
@@ -20628,7 +20628,7 @@
             "amber": 1,
             "armor": null,
             "power": null,
-            "text": "Play: Put  4 on Primal Relic from the common supply. Give 3 creatures a +1 power counter.\r\nAt the start of each player’s turn, if they control creatures with total power 20 or higher, move each  from Primal Relic to that player's pool.",
+            "text": "Play: Put  4 on Primal Relic from the common supply. Give 3 creatures a +1 power counter.\r\nAt the start of each player’s turn, if they control creatures with total power 20 or higher, move each  from Primal Relic to that player's pool.",
             "locale": {
                 "de": {
                     "name": "Urzeitliches Relikt"
@@ -20783,7 +20783,7 @@
             "amber": 1,
             "armor": null,
             "power": null,
-            "text": "Play: If you used 3 or more creatures this turn, steal 2.",
+            "text": "Play: If you used 3 or more creatures this turn, steal 2.",
             "locale": {
                 "de": {
                     "name": "Stampede"
@@ -20888,7 +20888,7 @@
             "amber": 1,
             "armor": null,
             "power": null,
-            "text": " Play: If the tide is high, destroy each artifact. Otherwise, raise the tide.",
+            "text": " Play: If the tide is high, destroy each artifact. Otherwise, raise the tide.",
             "locale": {
                 "de": {
                     "name": "Weggespült"
@@ -20939,7 +20939,7 @@
             "amber": 1,
             "armor": null,
             "power": null,
-            "text": "Play: Deal 1 to each enemy creature for each  on it. Move each  from those creatures to your pool.",
+            "text": "Play: Deal 1 to each enemy creature for each  on it. Move each  from those creatures to your pool.",
             "locale": {
                 "de": {
                     "name": "Wort der Wiederkehr"
@@ -21043,7 +21043,7 @@
             "amber": 1,
             "armor": null,
             "power": null,
-            "text": "Play: Remove up to three +1 power counters from a creature. Gain 1 for each counter removed this way.",
+            "text": "Play: Remove up to three +1 power counters from a creature. Gain 1 for each counter removed this way.",
             "locale": {
                 "de": {
                     "name": "Æmbermantie"
@@ -21094,7 +21094,7 @@
             "amber": 1,
             "armor": null,
             "power": null,
-            "text": " Play: Return a creature to its owner's hand. If the tide is high, gain 1.",
+            "text": " Play: Return a creature to its owner's hand. If the tide is high, gain 1.",
             "locale": {
                 "de": {
                     "name": "Tag am Strand"
@@ -21201,7 +21201,7 @@
             "amber": 1,
             "armor": null,
             "power": null,
-            "text": " Play: Raise the tide. Enrage 2 enemy creatures. ",
+            "text": " Play: Raise the tide. Enrage 2 enemy creatures. ",
             "locale": {
                 "de": {
                     "name": "Schweinswale ärgern"
@@ -21460,7 +21460,7 @@
             "amber": 0,
             "armor": null,
             "power": null,
-            "text": "This creature gains skirmish and, “Fight: Gain 1.”",
+            "text": "This creature gains skirmish and, “Fight: Gain 1.”",
             "locale": {
                 "de": {
                     "name": "Instrument der Stille"
@@ -21621,7 +21621,7 @@
             "amber": 0,
             "armor": null,
             "power": 5,
-            "text": " Reap: Discard the bottom card of your deck, or the bottom 3 cards instead if the tide is high. Play each creature discarded this way, one at a time.",
+            "text": " Reap: Discard the bottom card of your deck, or the bottom 3 cards instead if the tide is high. Play each creature discarded this way, one at a time.",
             "locale": {
                 "de": {
                     "name": "Alter Petz"
@@ -21674,7 +21674,7 @@
             "amber": 0,
             "armor": null,
             "power": null,
-            "text": "Action: If your opponent has 6 or more, steal 1.",
+            "text": "Action: If your opponent has 6 or more, steal 1.",
             "locale": {
                 "de": {
                     "name": "Ritual des Gleichgewichts"
@@ -21728,7 +21728,7 @@
             "amber": 0,
             "armor": null,
             "power": 4,
-            "text": "Reap: Give Sporegorger a +1 power counter. You may remove each +1 power counter from Sporegorger. For each counter removed this way, deal 1 to each other creature.",
+            "text": "Reap: Give Sporegorger a +1 power counter. You may remove each +1 power counter from Sporegorger. For each counter removed this way, deal 1 to each other creature.",
             "locale": {
                 "de": {
                     "name": "Sporenschlund"
@@ -21881,7 +21881,7 @@
             "amber": 1,
             "armor": null,
             "power": null,
-            "text": " Play: If the tide is high, gain 1. Otherwise, raise the tide.",
+            "text": " Play: If the tide is high, gain 1. Otherwise, raise the tide.",
             "locale": {
                 "de": {
                     "name": "Im Strudel gefangen"
@@ -21988,7 +21988,7 @@
             "amber": 0,
             "armor": null,
             "power": 2,
-            "text": "Elusive. (The first time this creature is attacked each turn, no damage is dealt.)\r\n After you play another creature, if the tide is high, gain 1.",
+            "text": "Elusive. (The first time this creature is attacked each turn, no damage is dealt.)\r\n After you play another creature, if the tide is high, gain 1.",
             "locale": {
                 "de": {
                     "name": "Chelonia"
@@ -22041,7 +22041,7 @@
             "amber": 2,
             "armor": null,
             "power": 5,
-            "text": " Play/Reap: If the tide is low, your opponent gains 1.",
+            "text": " Play/Reap: If the tide is low, your opponent gains 1.",
             "locale": {
                 "de": {
                     "name": "Tiefsee-Gruun"
@@ -22307,7 +22307,7 @@
             "amber": 0,
             "armor": null,
             "power": 2,
-            "text": "Your opponent's keys cost +X, where X is Mookling's power.",
+            "text": "Your opponent's keys cost +X, where X is Mookling's power.",
             "locale": {
                 "de": {
                     "name": "Muckling"
@@ -22360,7 +22360,7 @@
             "amber": 0,
             "armor": null,
             "power": 4,
-            "text": " While the tide is high, Myliobe gains skirmish. (When you use this creature to fight, it is dealt no damage in return.)\r\nBefore Fight: Enrage the creature Myliobe fights and each of that creature’s neighbors.",
+            "text": " While the tide is high, Myliobe gains skirmish. (When you use this creature to fight, it is dealt no damage in return.)\r\nBefore Fight: Enrage the creature Myliobe fights and each of that creature’s neighbors.",
             "locale": {
                 "de": {
                     "name": "Adlerrochen"
@@ -22564,7 +22564,7 @@
             "amber": 0,
             "armor": null,
             "power": null,
-            "text": "This creature gains, \"Reap: Gain 1.\"",
+            "text": "This creature gains, \"Reap: Gain 1.\"",
             "locale": {
                 "de": {
                     "name": "Die Lehre der Fee"
