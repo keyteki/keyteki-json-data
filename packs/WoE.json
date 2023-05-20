@@ -744,7 +744,7 @@
             "rarity": "Rare",
             "amber": null,
             "armor": null,
-            "power": null,
+            "power": 3,
             "text": "Action: Gain 2A if you control at least one artifact.",
             "locale": {
                 "en": {
