@@ -238,7 +238,7 @@
             "rarity": "Uncommon",
             "amber": null,
             "armor": null,
-            "power": null,
+            "power": 7,
             "text": "Splash-attack 4. (When this creature attacks, also deal 4D to each of the attacked creature's neighbors.) After Fight: Enrage each of Crim Torchtooth's neighbors.",
             "locale": {
                 "en": {
