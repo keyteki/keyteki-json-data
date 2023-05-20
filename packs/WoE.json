@@ -787,7 +787,7 @@
             "rarity": "Rare",
             "amber": null,
             "armor": null,
-            "power": null,
+            "power": 5,
             "text": "After Reap: Ready each friendly Buggy artifact.",
             "locale": {
                 "en": {
@@ -1342,8 +1342,8 @@
             "type": "creature",
             "rarity": "Uncommon",
             "amber": null,
-            "armor": null,
-            "power": null,
+            "armor": 5,
+            "power": 1,
             "text": "After Fight: Swap control of this creature and the creature it fights. (Both creatures must survive the fight.)",
             "locale": {
                 "en": {
