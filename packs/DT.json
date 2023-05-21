@@ -38,6 +38,9 @@
                 "it": {
                     "name": "Marea"
                 },
+                "ko": {
+                    "name": "물결"
+                },
                 "pl": {
                     "name": "Karta pływu"
                 },
@@ -87,6 +90,9 @@
                 },
                 "it": {
                     "name": "Armadrone"
+                },
+                "ko": {
+                    "name": "무장 드론"
                 },
                 "pl": {
                     "name": "Grabobot"
@@ -141,6 +147,9 @@
                 "it": {
                     "name": "Murena Binaria"
                 },
+                "ko": {
+                    "name": "이진곰치"
+                },
                 "pl": {
                     "name": "Binarna murena"
                 },
@@ -190,6 +199,9 @@
                 },
                 "it": {
                     "name": "Capitano Kresage"
+                },
+                "ko": {
+                    "name": "선장 크레세이지"
                 },
                 "pl": {
                     "name": "Kapitan Kresage"
@@ -241,6 +253,9 @@
                 "it": {
                     "name": "Vecchio Egad"
                 },
+                "ko": {
+                    "name": "낡은 에가드"
+                },
                 "pl": {
                     "name": "Stary Obosz"
                 },
@@ -291,6 +306,9 @@
                 },
                 "it": {
                     "name": "Sweven, P.I."
+                },
+                "ko": {
+                    "name": "탐정 스웨벤"
                 },
                 "pl": {
                     "name": "Detektyw Epifania"
@@ -345,6 +363,9 @@
                 "it": {
                     "name": "Prof.ssa Garwynne"
                 },
+                "ko": {
+                    "name": "교수 가윈"
+                },
                 "pl": {
                     "name": "Prof. Garwynne"
                 },
@@ -394,6 +415,9 @@
                 },
                 "it": {
                     "name": "Burberio Cuor d’Acciaio"
+                },
+                "ko": {
+                    "name": "강철 심장 탤메이즈"
                 },
                 "pl": {
                     "name": "Talmag Stalowosercy"
@@ -448,6 +472,9 @@
                 "it": {
                     "name": "Dottor Verokter"
                 },
+                "ko": {
+                    "name": "박사 베록터"
+                },
                 "pl": {
                     "name": "Dr Verokter"
                 },
@@ -498,6 +525,9 @@
                 "it": {
                     "name": "Laboratorio sul Tetto"
                 },
+                "ko": {
+                    "name": "옥상 실험실"
+                },
                 "pl": {
                     "name": "Laboratorium na dachu"
                 },
@@ -546,6 +576,9 @@
                 "it": {
                     "name": "Esperimento Avventato"
                 },
+                "ko": {
+                    "name": "무모한 실험"
+                },
                 "pl": {
                     "name": "Ryzykowny eksperyment"
                 },
@@ -593,6 +626,9 @@
                 },
                 "it": {
                     "name": "Scoperta Devastante"
+                },
+                "ko": {
+                    "name": "획기적인 발견"
                 },
                 "pl": {
                     "name": "Wstrząsające odkrycie"
@@ -645,6 +681,9 @@
                 "it": {
                     "name": "Hyde"
                 },
+                "ko": {
+                    "name": "하이드"
+                },
                 "pl": {
                     "name": "Hyde"
                 },
@@ -696,6 +735,9 @@
                 "it": {
                     "name": "Velum"
                 },
+                "ko": {
+                    "name": "빌럼"
+                },
                 "pl": {
                     "name": "Velum"
                 },
@@ -744,6 +786,9 @@
                 "it": {
                     "name": "Formazione Accademica"
                 },
+                "ko": {
+                    "name": "학술원 연수"
+                },
                 "pl": {
                     "name": "Trening w akademii"
                 },
@@ -791,6 +836,9 @@
                 },
                 "it": {
                     "name": "Piano di Riserva"
+                },
+                "ko": {
+                    "name": "백업 계획"
                 },
                 "pl": {
                     "name": "Plan awaryjny"
@@ -841,6 +889,9 @@
                 },
                 "it": {
                     "name": "Capitano Kresage"
+                },
+                "ko": {
+                    "name": "선장 크레세이지"
                 },
                 "pl": {
                     "name": "Kapitan Kresage"
@@ -893,6 +944,9 @@
                 "it": {
                     "name": "Cronofago"
                 },
+                "ko": {
+                    "name": "크로노파지"
+                },
                 "pl": {
                     "name": "Chronofag"
                 },
@@ -941,6 +995,9 @@
                 "it": {
                     "name": "Honoris Chiavis"
                 },
+                "ko": {
+                    "name": "열쇠적인 논문"
+                },
                 "pl": {
                     "name": "Honoris kluczis"
                 },
@@ -988,6 +1045,9 @@
                 },
                 "it": {
                     "name": "Conoscenza è Potere"
+                },
+                "ko": {
+                    "name": "지식이 곧 힘이다"
                 },
                 "pl": {
                     "name": "Wiedza to potęga"
@@ -1039,6 +1099,9 @@
                 "it": {
                     "name": "Tessera della Biblioteca"
                 },
+                "ko": {
+                    "name": "도서관 카드"
+                },
                 "pl": {
                     "name": "Karta biblioteczna"
                 },
@@ -1087,6 +1150,9 @@
                 "it": {
                     "name": "Padroneggiare la Teoria"
                 },
+                "ko": {
+                    "name": "이론의 대가"
+                },
                 "pl": {
                     "name": "Mistrzostwo teorii"
                 },
@@ -1134,6 +1200,9 @@
                 },
                 "it": {
                     "name": "Mente sulla Materia"
+                },
+                "ko": {
+                    "name": "현실에 덧씌우는 정신"
                 },
                 "pl": {
                     "name": "Umysł ponad materią"
@@ -1185,6 +1254,9 @@
                 "it": {
                     "name": "Pergamena di Mobius"
                 },
+                "ko": {
+                    "name": "뫼비우스 두루마리"
+                },
                 "pl": {
                     "name": "Zwój Mobiusa"
                 },
@@ -1234,6 +1306,9 @@
                 },
                 "it": {
                     "name": "Rovine di Arcontis"
+                },
+                "ko": {
+                    "name": "집정관 유적"
                 },
                 "pl": {
                     "name": "Ruiny Archonis"
@@ -1285,6 +1360,9 @@
                 "it": {
                     "name": "NSLR Australis"
                 },
+                "ko": {
+                    "name": "SLRS 오스테랄리스"
+                },
                 "pl": {
                     "name": "OTLR Austeralis"
                 },
@@ -1334,6 +1412,9 @@
                 },
                 "it": {
                     "name": "L’Archivista"
+                },
+                "ko": {
+                    "name": "기록 보관 담당자"
                 },
                 "pl": {
                     "name": "Archiwista"
@@ -1385,6 +1466,9 @@
                 "it": {
                     "name": "Fossa Ululante"
                 },
+                "ko": {
+                    "name": "울부짖는 구덩이"
+                },
                 "pl": {
                     "name": "Wyjąca przepaść"
                 },
@@ -1435,6 +1519,9 @@
                 "it": {
                     "name": "Scambio di Flussi"
                 },
+                "ko": {
+                    "name": "물결 조작"
+                },
                 "pl": {
                     "name": "Przesunięcie pływowe"
                 },
@@ -1484,6 +1571,9 @@
                 },
                 "it": {
                     "name": "Serratura Universale"
+                },
+                "ko": {
+                    "name": "범우주적 자물쇠"
                 },
                 "pl": {
                     "name": "Blokada kluczy"
@@ -1538,6 +1628,9 @@
                 "it": {
                     "name": "Teorico Vespilon"
                 },
+                "ko": {
+                    "name": "베스필론 이론가"
+                },
                 "pl": {
                     "name": "Teoretyk Vespilonu"
                 },
@@ -1589,6 +1682,9 @@
                 "it": {
                     "name": "Zenzizenzizenzic"
                 },
+                "ko": {
+                    "name": "제곱의제곱의제곱"
+                },
                 "pl": {
                     "name": "Zenzizenzizenzic"
                 },
@@ -1639,6 +1735,9 @@
                 "it": {
                     "name": "Exploiter di Anomalie"
                 },
+                "ko": {
+                    "name": "어뷰저"
+                },
                 "pl": {
                     "name": "Manipulator anomalii"
                 },
@@ -1688,6 +1787,9 @@
                 },
                 "it": {
                     "name": "Il Ritorno dell’Arconte"
+                },
+                "ko": {
+                    "name": "집정관의 응답"
                 },
                 "pl": {
                     "name": "Wezwanie Archonta"
@@ -1740,6 +1842,9 @@
                 "it": {
                     "name": "Murena Binaria"
                 },
+                "ko": {
+                    "name": "이진곰치"
+                },
                 "pl": {
                     "name": "Binarna murena"
                 },
@@ -1787,6 +1892,9 @@
                 },
                 "it": {
                     "name": "Quark Letale Rimbalzante"
+                },
+                "ko": {
+                    "name": "튀어오르는 죽음의 쿼크"
                 },
                 "pl": {
                     "name": "Skaczący kwark śmierci"
@@ -1839,6 +1947,9 @@
                 "it": {
                     "name": "Assimilamente"
                 },
+                "ko": {
+                    "name": "두뇌 포식자"
+                },
                 "pl": {
                     "name": "Pożeracz mózgów"
                 },
@@ -1886,6 +1997,9 @@
                 },
                 "it": {
                     "name": "Forgia di Dati"
+                },
+                "ko": {
+                    "name": "데이터 구축"
                 },
                 "pl": {
                     "name": "Kuźnia danych"
@@ -1936,6 +2050,9 @@
                 },
                 "it": {
                     "name": "Eureka!"
+                },
+                "ko": {
+                    "name": "유레카!"
                 },
                 "pl": {
                     "name": "Eureka!"
@@ -1990,6 +2107,9 @@
                 "it": {
                     "name": "Fila la Ricercatrice"
                 },
+                "ko": {
+                    "name": "연구원 필라"
+                },
                 "pl": {
                     "name": "Fila Badaczka"
                 },
@@ -2037,6 +2157,9 @@
                 },
                 "it": {
                     "name": "Perdono od Oblio"
+                },
+                "ko": {
+                    "name": "용서냐 망각이냐"
                 },
                 "pl": {
                     "name": "Wybacz albo zapomnij"
@@ -2088,6 +2211,9 @@
                 "it": {
                     "name": "Nucleo Isotropico"
                 },
+                "ko": {
+                    "name": "등방성 코어"
+                },
                 "pl": {
                     "name": "Rdzeń izotropowy"
                 },
@@ -2138,6 +2264,9 @@
                 "it": {
                     "name": "Robo-Boa"
                 },
+                "ko": {
+                    "name": "기계식 부표"
+                },
                 "pl": {
                     "name": "Mechaboja"
                 },
@@ -2185,6 +2314,9 @@
                 },
                 "it": {
                     "name": "Psicornata"
+                },
+                "ko": {
+                    "name": "정신의 탄환"
                 },
                 "pl": {
                     "name": "Buhające pociski"
@@ -2237,6 +2369,9 @@
                 "it": {
                     "name": "Archeologo del Novu"
                 },
+                "ko": {
+                    "name": "노보 고고학자"
+                },
                 "pl": {
                     "name": "Archeolog Novu"
                 },
@@ -2284,6 +2419,9 @@
                 },
                 "it": {
                     "name": "Scarica Positronica"
+                },
+                "ko": {
+                    "name": "양전자 번개"
                 },
                 "pl": {
                     "name": "Pocisk pozytronowy"
@@ -2338,6 +2476,9 @@
                 "it": {
                     "name": "Prof.ssa Garwynne"
                 },
+                "ko": {
+                    "name": "교수 가윈"
+                },
                 "pl": {
                     "name": "Prof. Garwynne"
                 },
@@ -2385,6 +2526,9 @@
                 },
                 "it": {
                     "name": "Pensarci Due Volte"
+                },
+                "ko": {
+                    "name": "두 번 생각하기"
                 },
                 "pl": {
                     "name": "Co dwie głowy..."
@@ -2436,6 +2580,9 @@
                 "it": {
                     "name": "Armadrone"
                 },
+                "ko": {
+                    "name": "무장 드론"
+                },
                 "pl": {
                     "name": "Grabobot"
                 },
@@ -2485,6 +2632,9 @@
                 },
                 "it": {
                     "name": "Cibernautico dell’Australis"
+                },
+                "ko": {
+                    "name": "오스테랄리스 바다보그"
                 },
                 "pl": {
                     "name": "Wodobot z Austeralis"
@@ -2537,6 +2687,9 @@
                 "it": {
                     "name": "Guardasentina"
                 },
+                "ko": {
+                    "name": "선저 관리자"
+                },
                 "pl": {
                     "name": "Zęzostrażnik"
                 },
@@ -2588,6 +2741,9 @@
                 "it": {
                     "name": "IADE “Jade” 4x4"
                 },
+                "ko": {
+                    "name": "EDAI \"에디\" 4x4"
+                },
                 "pl": {
                     "name": "EDSI „Edie” 4x4"
                 },
@@ -2635,6 +2791,9 @@
                 },
                 "it": {
                     "name": "Analisi Finale"
+                },
+                "ko": {
+                    "name": "임종 분석"
                 },
                 "pl": {
                     "name": "Ostateczna analiza"
@@ -2686,6 +2845,9 @@
                 "it": {
                     "name": "Idrocatalogatore"
                 },
+                "ko": {
+                    "name": "수력 분류기"
+                },
                 "pl": {
                     "name": "Hydrokataloger"
                 },
@@ -2736,6 +2898,9 @@
                 "it": {
                     "name": "Infomorfo"
                 },
+                "ko": {
+                    "name": "정보의 현신"
+                },
                 "pl": {
                     "name": "Infomorf"
                 },
@@ -2783,6 +2948,9 @@
                 },
                 "it": {
                     "name": "Scambio di Informazioni"
+                },
+                "ko": {
+                    "name": "정보 교환"
                 },
                 "pl": {
                     "name": "Wymiana informacji"
@@ -2834,6 +3002,9 @@
                 "it": {
                     "name": "Vecchio Egad"
                 },
+                "ko": {
+                    "name": "낡은 에가드"
+                },
                 "pl": {
                     "name": "Stary Obosz"
                 },
@@ -2881,6 +3052,9 @@
                 },
                 "it": {
                     "name": "Alterazione di Fase"
+                },
+                "ko": {
+                    "name": "위상 변이"
                 },
                 "pl": {
                     "name": "Przesunięcie fazowe"
@@ -2933,6 +3107,9 @@
                 "it": {
                     "name": "Sweven, P.I."
                 },
+                "ko": {
+                    "name": "탐정 스웨벤"
+                },
                 "pl": {
                     "name": "Detektyw Epifania"
                 },
@@ -2980,6 +3157,9 @@
                 },
                 "it": {
                     "name": "Evviva la Scienza!"
+                },
+                "ko": {
+                    "name": "싸이언스!"
                 },
                 "pl": {
                     "name": "Nauka!"
@@ -3029,6 +3209,9 @@
                 "it": {
                     "name": "Carica Elettrostatica"
                 },
+                "ko": {
+                    "name": "정전하"
+                },
                 "pl": {
                     "name": "Ładunek statyczny"
                 },
@@ -3076,6 +3259,9 @@
                 },
                 "it": {
                     "name": "Principio di Immersione"
+                },
+                "ko": {
+                    "name": "잠수 작용 이론"
                 },
                 "pl": {
                     "name": "Reguła zanurzenia"
@@ -3127,6 +3313,9 @@
                 "it": {
                     "name": "Burberio Cuor d’Acciaio"
                 },
+                "ko": {
+                    "name": "강철 심장 탤메이즈"
+                },
                 "pl": {
                     "name": "Talmag Stalowosercy"
                 },
@@ -3174,6 +3363,9 @@
                 },
                 "it": {
                     "name": "Teoria o Congettura"
+                },
+                "ko": {
+                    "name": "이론이냐 추측이냐"
                 },
                 "pl": {
                     "name": "Teoria albo przypuszczenie"
@@ -3228,6 +3420,9 @@
                 "it": {
                     "name": "Mastro Elemosiniere"
                 },
+                "ko": {
+                    "name": "구호기사단장"
+                },
                 "pl": {
                     "name": "Darodziejka"
                 },
@@ -3278,6 +3473,9 @@
                 },
                 "it": {
                     "name": "Augure Grigio"
+                },
+                "ko": {
+                    "name": "회색단의 예언자"
                 },
                 "pl": {
                     "name": "Augur Szarego Zakonu"
@@ -3330,6 +3528,9 @@
                 "it": {
                     "name": "Adamo del Lago"
                 },
+                "ko": {
+                    "name": "호수의 펜드래곤"
+                },
                 "pl": {
                     "name": "Lærie z Jeziora"
                 },
@@ -3379,6 +3580,9 @@
                 },
                 "it": {
                     "name": "Clariel Forgialuce"
+                },
+                "ko": {
+                    "name": "빛의 대장장이 클라리엘"
                 },
                 "pl": {
                     "name": "Clariel Kowal Światła"
@@ -3430,6 +3634,9 @@
                 },
                 "it": {
                     "name": "Siniscalco Sargassa"
+                },
+                "ko": {
+                    "name": "청지기 사르가사"
                 },
                 "pl": {
                     "name": "Seneszal Sargassa"
@@ -3484,6 +3691,9 @@
                 "it": {
                     "name": "Sir Bevor"
                 },
+                "ko": {
+                    "name": "헬멧 경"
+                },
                 "pl": {
                     "name": "Sir Bevor"
                 },
@@ -3534,6 +3744,9 @@
                 },
                 "it": {
                     "name": "Urien il Circospetto"
+                },
+                "ko": {
+                    "name": "경비기사 우리엔"
                 },
                 "pl": {
                     "name": "Urien Powściągliwy"
@@ -3586,6 +3799,9 @@
                 "it": {
                     "name": "Orphiel, Eletta dal Mare"
                 },
+                "ko": {
+                    "name": "바다의 사자 오르피엘"
+                },
                 "pl": {
                     "name": "Orphiel Wybranka Morza"
                 },
@@ -3636,6 +3852,9 @@
                 },
                 "it": {
                     "name": "Orphion, Eletto dalla Terra"
+                },
+                "ko": {
+                    "name": "대지의 사자 오르피온"
                 },
                 "pl": {
                     "name": "Orphion Wybraniec Lądu"
@@ -3688,6 +3907,9 @@
                 "it": {
                     "name": "Aja l’Anonima"
                 },
+                "ko": {
+                    "name": "존재감이 옅은 아자"
+                },
                 "pl": {
                     "name": "Aja Niepozorna"
                 },
@@ -3736,6 +3958,9 @@
                 "it": {
                     "name": "Aura Vendicatrice"
                 },
+                "ko": {
+                    "name": "복수의 오라"
+                },
                 "pl": {
                     "name": "Aura pomsty"
                 },
@@ -3783,6 +4008,9 @@
                 },
                 "it": {
                     "name": "Carica!"
+                },
+                "ko": {
+                    "name": "돌격!"
                 },
                 "pl": {
                     "name": "Szarża!"
@@ -3834,6 +4062,9 @@
                 "it": {
                     "name": "Prosciugare il Fiume"
                 },
+                "ko": {
+                    "name": "강물 말리기"
+                },
                 "pl": {
                     "name": "Osuszanie"
                 },
@@ -3884,6 +4115,9 @@
                 "it": {
                     "name": "Impresa Epica"
                 },
+                "ko": {
+                    "name": "장대한 임무"
+                },
                 "pl": {
                     "name": "Heroiczna misja"
                 },
@@ -3931,6 +4165,9 @@
                 },
                 "it": {
                     "name": "Rituale Armonico"
+                },
+                "ko": {
+                    "name": "성가 의식"
                 },
                 "pl": {
                     "name": "Harmonijny rytuał"
@@ -3985,6 +4222,9 @@
                 "it": {
                     "name": "Lady Loreena"
                 },
+                "ko": {
+                    "name": "기사 로리나"
+                },
                 "pl": {
                     "name": "Lady Loreena"
                 },
@@ -4034,6 +4274,9 @@
                 },
                 "it": {
                     "name": "Clariel Forgialuce"
+                },
+                "ko": {
+                    "name": "빛의 대장장이 클라리엘"
                 },
                 "pl": {
                     "name": "Clariel Kowal Światła"
@@ -4086,6 +4329,9 @@
                 "it": {
                     "name": "Lord Golgotha"
                 },
+                "ko": {
+                    "name": "군주 골고다"
+                },
                 "pl": {
                     "name": "Lord Golgota"
                 },
@@ -4137,6 +4383,9 @@
                 "it": {
                     "name": "Gizelhart, Profetessa Folle"
                 },
+                "ko": {
+                    "name": "미친 선지자 지젤하트"
+                },
                 "pl": {
                     "name": "Szalony Prorok Gizelhart"
                 },
@@ -4184,6 +4433,9 @@
                 },
                 "it": {
                     "name": "Lancia Possente"
+                },
+                "ko": {
+                    "name": "강력한 창"
                 },
                 "pl": {
                     "name": "Potężna lanca"
@@ -4235,6 +4487,9 @@
                 "it": {
                     "name": "Numquid la Giusta"
                 },
+                "ko": {
+                    "name": "공정한 자 눔퀴드"
+                },
                 "pl": {
                     "name": "Numquid Sprawiedliwa"
                 },
@@ -4285,6 +4540,9 @@
                 "it": {
                     "name": "Globo delle Meraviglie"
                 },
+                "ko": {
+                    "name": "기적의 보주"
+                },
                 "pl": {
                     "name": "Sfera Cudów"
                 },
@@ -4334,6 +4592,9 @@
                 },
                 "it": {
                     "name": "Tavola Rotonda"
+                },
+                "ko": {
+                    "name": "원탁"
                 },
                 "pl": {
                     "name": "Okrągły Stół"
@@ -4388,6 +4649,9 @@
                 "it": {
                     "name": "Guardiano del Sanctum"
                 },
+                "ko": {
+                    "name": "생텀 수호자"
+                },
                 "pl": {
                     "name": "Strażnik Sanctum"
                 },
@@ -4435,6 +4699,9 @@
                 },
                 "it": {
                     "name": "Armatura del Serafino"
+                },
+                "ko": {
+                    "name": "천사의 갑옷"
                 },
                 "pl": {
                     "name": "Seraficzny pancerz"
@@ -4486,6 +4753,9 @@
                 "it": {
                     "name": "NGS Illuminator"
                 },
+                "ko": {
+                    "name": "SGS 일루미네이터"
+                },
                 "pl": {
                     "name": "OCS Świetlik"
                 },
@@ -4535,6 +4805,9 @@
                 },
                 "it": {
                     "name": "Esattore Corpulento"
+                },
+                "ko": {
+                    "name": "비대한 수집가"
                 },
                 "pl": {
                     "name": "Korpulentny poborca"
@@ -4587,6 +4860,9 @@
                 "it": {
                     "name": "Custode della Cripta"
                 },
+                "ko": {
+                    "name": "보물고지기"
+                },
                 "pl": {
                     "name": "Strażnik Krypty"
                 },
@@ -4634,6 +4910,9 @@
                 },
                 "it": {
                     "name": "Prova dell’Acqua"
+                },
+                "ko": {
+                    "name": "물의 심판"
                 },
                 "pl": {
                     "name": "Próba wody"
@@ -4689,6 +4968,9 @@
                 "it": {
                     "name": "Mastro Elemosiniere"
                 },
+                "ko": {
+                    "name": "구호기사단장"
+                },
                 "pl": {
                     "name": "Darodziejka"
                 },
@@ -4740,6 +5022,9 @@
                 "it": {
                     "name": "Barrister Joya"
                 },
+                "ko": {
+                    "name": "법의 수호자 조야"
+                },
                 "pl": {
                     "name": "Adwokat Joya"
                 },
@@ -4787,6 +5072,9 @@
                 },
                 "it": {
                     "name": "Abbattimento"
+                },
+                "ko": {
+                    "name": "경멸"
                 },
                 "pl": {
                     "name": "Nie tak szybko"
@@ -4836,6 +5124,9 @@
                 "it": {
                     "name": "Alle Porte del Paradiso"
                 },
+                "ko": {
+                    "name": "천국으로 향하는 대문"
+                },
                 "pl": {
                     "name": "Próg Niebios"
                 },
@@ -4883,6 +5174,9 @@
                 },
                 "it": {
                     "name": "Primi o Ultimi"
+                },
+                "ko": {
+                    "name": "처음이냐 마지막이냐"
                 },
                 "pl": {
                     "name": "Pierwsze albo ostatnie"
@@ -4935,6 +5229,9 @@
                 "it": {
                     "name": "Custode della Porta"
                 },
+                "ko": {
+                    "name": "문지기"
+                },
                 "pl": {
                     "name": "Strażnik bramy"
                 },
@@ -4984,6 +5281,9 @@
                 },
                 "it": {
                     "name": "Gorm di Omm"
+                },
+                "ko": {
+                    "name": "고름 오브 옴"
                 },
                 "pl": {
                     "name": "Gorm z Omm"
@@ -5036,6 +5336,9 @@
                 "it": {
                     "name": "Augure Grigio"
                 },
+                "ko": {
+                    "name": "회색단의 예언자"
+                },
                 "pl": {
                     "name": "Augur Szarego Zakonu"
                 },
@@ -5085,6 +5388,9 @@
                 },
                 "it": {
                     "name": "Muraglia di Haedroth"
+                },
+                "ko": {
+                    "name": "해드로스의 벽"
                 },
                 "pl": {
                     "name": "Mur Haedrota"
@@ -5136,6 +5442,9 @@
                 "it": {
                     "name": "Fido"
                 },
+                "ko": {
+                    "name": "아작이"
+                },
                 "pl": {
                     "name": "Bierzgo"
                 },
@@ -5183,6 +5492,9 @@
                 },
                 "it": {
                     "name": "Onore o Gloria"
+                },
+                "ko": {
+                    "name": "명예냐 영광이냐"
                 },
                 "pl": {
                     "name": "Honor albo chwała"
@@ -5232,6 +5544,9 @@
                 "it": {
                     "name": "Luce Perenne"
                 },
+                "ko": {
+                    "name": "변치 않는 빛"
+                },
                 "pl": {
                     "name": "Światło wiekuiste"
                 },
@@ -5279,6 +5594,9 @@
                 },
                 "it": {
                     "name": "Verità Abbacinante"
+                },
+                "ko": {
+                    "name": "찬란한 진실"
                 },
                 "pl": {
                     "name": "Świetlista prawda"
@@ -5330,6 +5648,9 @@
                 "it": {
                     "name": "Registro della Mano Rossa"
                 },
+                "ko": {
+                    "name": "붉은손 명단"
+                },
                 "pl": {
                     "name": "Kartoteka złodziei"
                 },
@@ -5377,6 +5698,9 @@
                 },
                 "it": {
                     "name": "Spallacci"
+                },
+                "ko": {
+                    "name": "어깨 갑옷"
                 },
                 "pl": {
                     "name": "Naramienniki"
@@ -5431,6 +5755,9 @@
                 "it": {
                     "name": "Maga delle Medaglie"
                 },
+                "ko": {
+                    "name": "휘장 수여 기사"
+                },
                 "pl": {
                     "name": "Sierżant Zamóworder"
                 },
@@ -5484,6 +5811,9 @@
                 "it": {
                     "name": "Baluardo Taurino"
                 },
+                "ko": {
+                    "name": "황소 방패 기사"
+                },
                 "pl": {
                     "name": "Byczy Szaniec"
                 },
@@ -5531,6 +5861,9 @@
                 },
                 "it": {
                     "name": "Onda Purificatrice"
+                },
+                "ko": {
+                    "name": "속죄의 파장"
                 },
                 "pl": {
                     "name": "Oczyszczająca fala"
@@ -5583,6 +5916,9 @@
                 "it": {
                     "name": "Generale Xalvador"
                 },
+                "ko": {
+                    "name": "장군 살바도르"
+                },
                 "pl": {
                     "name": "Generał Xalvador"
                 },
@@ -5630,6 +5966,9 @@
                 },
                 "it": {
                     "name": "Tutti Contro Tutti"
+                },
+                "ko": {
+                    "name": "원형 아수라장"
                 },
                 "pl": {
                     "name": "Wielka bitka"
@@ -5679,6 +6018,9 @@
                 "it": {
                     "name": "Martellogramma"
                 },
+                "ko": {
+                    "name": "망치소통 장치"
+                },
                 "pl": {
                     "name": "Młotelegram"
                 },
@@ -5726,6 +6068,9 @@
                 },
                 "it": {
                     "name": "Cura o Ferita"
+                },
+                "ko": {
+                    "name": "치유냐 공격이냐"
                 },
                 "pl": {
                     "name": "Lecz albo krzywdź"
@@ -5778,6 +6123,9 @@
                 "it": {
                     "name": "Adamo del Lago"
                 },
+                "ko": {
+                    "name": "호수의 펜드래곤"
+                },
                 "pl": {
                     "name": "Lærie z Jeziora"
                 },
@@ -5828,6 +6176,9 @@
                 },
                 "it": {
                     "name": "Maresciallo Ewer"
+                },
+                "ko": {
+                    "name": "대장군 유어"
                 },
                 "pl": {
                     "name": "Marszałek Dzban"
@@ -5880,6 +6231,9 @@
                 "it": {
                     "name": "Siniscalco Sargassa"
                 },
+                "ko": {
+                    "name": "청지기 사르가사"
+                },
                 "pl": {
                     "name": "Seneszal Sargassa"
                 },
@@ -5927,6 +6281,9 @@
                 },
                 "it": {
                     "name": "Arena Mutevole"
+                },
+                "ko": {
+                    "name": "격변하는 전장"
                 },
                 "pl": {
                     "name": "Niepewny grunt"
@@ -5981,6 +6338,9 @@
                 "it": {
                     "name": "Sir Bevor"
                 },
+                "ko": {
+                    "name": "헬멧 경"
+                },
                 "pl": {
                     "name": "Sir Bevor"
                 },
@@ -6032,6 +6392,9 @@
                 "it": {
                     "name": "Cavaliere Devoto"
                 },
+                "ko": {
+                    "name": "충실한 기사"
+                },
                 "pl": {
                     "name": "Zapalczywy rycerz"
                 },
@@ -6080,6 +6443,9 @@
                 "it": {
                     "name": "Strana Ordinazione"
                 },
+                "ko": {
+                    "name": "기묘한 서임식"
+                },
                 "pl": {
                     "name": "Nietypowe wyświęcenie"
                 },
@@ -6127,6 +6493,9 @@
                 },
                 "it": {
                     "name": "Cammino Esattoriale"
+                },
+                "ko": {
+                    "name": "세금 징수 여정"
                 },
                 "pl": {
                     "name": "Pielgrzymka podatkowa"
@@ -6179,6 +6548,9 @@
                 "it": {
                     "name": "Urien il Circospetto"
                 },
+                "ko": {
+                    "name": "경비기사 우리엔"
+                },
                 "pl": {
                     "name": "Urien Powściągliwy"
                 },
@@ -6228,6 +6600,9 @@
                 },
                 "it": {
                     "name": "Bestiario Urso"
+                },
+                "ko": {
+                    "name": "투룡사 우르소"
                 },
                 "pl": {
                     "name": "Bestiarius Urso"
@@ -6280,6 +6655,9 @@
                 "it": {
                     "name": "Censore Philo"
                 },
+                "ko": {
+                    "name": "검열관 필로"
+                },
                 "pl": {
                     "name": "Rewizor Philo"
                 },
@@ -6329,6 +6707,9 @@
                 },
                 "it": {
                     "name": "Ambrosius l’Eclettico"
+                },
+                "ko": {
+                    "name": "팔방미룡 암브로시우스"
                 },
                 "pl": {
                     "name": "Eklektyk Ambrozjusz"
@@ -6382,6 +6763,9 @@
                 "it": {
                     "name": "Lapisauro"
                 },
+                "ko": {
+                    "name": "라피사우루스"
+                },
                 "pl": {
                     "name": "Lapizaur"
                 },
@@ -6431,6 +6815,9 @@
                 },
                 "it": {
                     "name": "Maestra Vita"
+                },
+                "ko": {
+                    "name": "여교사 비타"
                 },
                 "pl": {
                     "name": "Magistra Vita"
@@ -6483,6 +6870,9 @@
                 "it": {
                     "name": "Fisico Felix"
                 },
+                "ko": {
+                    "name": "물리학자 펠릭스"
+                },
                 "pl": {
                     "name": "Physicus Felix"
                 },
@@ -6532,6 +6922,9 @@
                 },
                 "it": {
                     "name": "Undagnathus"
+                },
+                "ko": {
+                    "name": "언다그나투스"
                 },
                 "pl": {
                     "name": "Undagnathus"
@@ -6583,6 +6976,9 @@
                 "it": {
                     "name": "Scilla"
                 },
+                "ko": {
+                    "name": "스킬라"
+                },
                 "pl": {
                     "name": "Scylla"
                 },
@@ -6633,6 +7029,9 @@
                 "it": {
                     "name": "Cariddi"
                 },
+                "ko": {
+                    "name": "카리브디스"
+                },
                 "pl": {
                     "name": "Charybda"
                 },
@@ -6682,6 +7081,9 @@
                 },
                 "it": {
                     "name": "Bracchanali"
+                },
+                "ko": {
+                    "name": "브라쿠스 축제"
                 },
                 "pl": {
                     "name": "Brachionalia"
@@ -6734,6 +7136,9 @@
                 },
                 "it": {
                     "name": "Brachioditis"
+                },
+                "ko": {
+                    "name": "브라키아디투스"
                 },
                 "pl": {
                     "name": "Brachiodictus"
@@ -6788,6 +7193,9 @@
                 "it": {
                     "name": "Crassosaurus"
                 },
+                "ko": {
+                    "name": "크라소사우루스"
+                },
                 "pl": {
                     "name": "Krasozaur"
                 },
@@ -6837,6 +7245,9 @@
                 },
                 "it": {
                     "name": "Diplo-Mazia"
+                },
+                "ko": {
+                    "name": "거물들의 외교술"
                 },
                 "pl": {
                     "name": "Diplo-macja"
@@ -6889,6 +7300,9 @@
                 "it": {
                     "name": "Ambrosius l’Eclettico"
                 },
+                "ko": {
+                    "name": "팔방미룡 암브로시우스"
+                },
                 "pl": {
                     "name": "Eklektyk Ambrozjusz"
                 },
@@ -6937,6 +7351,9 @@
                 "it": {
                     "name": "Arruolare Numeri"
                 },
+                "ko": {
+                    "name": "보조병 징집"
+                },
                 "pl": {
                     "name": "Werbunek numeri"
                 },
@@ -6984,6 +7401,9 @@
                 },
                 "it": {
                     "name": "Per il Bene di Molti"
+                },
+                "ko": {
+                    "name": "대를 위한 희생"
                 },
                 "pl": {
                     "name": "Dobro ogółu"
@@ -7038,6 +7458,9 @@
                 "it": {
                     "name": "Grimlocus Dux"
                 },
+                "ko": {
+                    "name": "사령관 그림로커스"
+                },
                 "pl": {
                     "name": "Gniewny wódz"
                 },
@@ -7088,6 +7511,9 @@
                 },
                 "it": {
                     "name": "Astato Raptor"
+                },
+                "ko": {
+                    "name": "랍토르 투창부대"
                 },
                 "pl": {
                     "name": "Hastatus Raptor"
@@ -7140,6 +7566,9 @@
                 "it": {
                     "name": "Sommo Sacerdote Torvus"
                 },
+                "ko": {
+                    "name": "제사장 토르부스"
+                },
                 "pl": {
                     "name": "Arcykapłan Torvus"
                 },
@@ -7187,6 +7616,9 @@
                 },
                 "it": {
                     "name": "Forgia Imperiale"
+                },
+                "ko": {
+                    "name": "제국식 제련"
                 },
                 "pl": {
                     "name": "Imperialna kuźnia"
@@ -7238,6 +7670,9 @@
                 "it": {
                     "name": "Strada Imperiale"
                 },
+                "ko": {
+                    "name": "장엄한 도로"
+                },
                 "pl": {
                     "name": "Droga imperialna"
                 },
@@ -7287,6 +7722,9 @@
                 },
                 "it": {
                     "name": "NIS Indominus"
+                },
+                "ko": {
+                    "name": "ISS 인도미누스"
                 },
                 "pl": {
                     "name": "ORP Indominus"
@@ -7339,6 +7777,9 @@
                 "it": {
                     "name": "Primus Unguis"
                 },
+                "ko": {
+                    "name": "으뜸가는 발톱"
+                },
                 "pl": {
                     "name": "Negocjator Szponiusz"
                 },
@@ -7386,6 +7827,9 @@
                 },
                 "it": {
                     "name": "Rimborsauro"
+                },
+                "ko": {
+                    "name": "미아내사우루스의 말버릇"
                 },
                 "pl": {
                     "name": "Peszek"
@@ -7435,6 +7879,9 @@
                 "it": {
                     "name": "In un Sol Boccone"
                 },
+                "ko": {
+                    "name": "통째로 삼키기"
+                },
                 "pl": {
                     "name": "Połknięci w całości"
                 },
@@ -7482,6 +7929,9 @@
                 },
                 "it": {
                     "name": "Trimezzare"
+                },
+                "ko": {
+                    "name": "삼자택이"
                 },
                 "pl": {
                     "name": "Co trzeci zginie!"
@@ -7533,6 +7983,9 @@
                 "it": {
                     "name": "Colosseo"
                 },
+                "ko": {
+                    "name": "콜로세움"
+                },
                 "pl": {
                     "name": "Koloseum"
                 },
@@ -7583,6 +8036,9 @@
                 "it": {
                     "name": "Prima Pergamena"
                 },
+                "ko": {
+                    "name": "최초의 두루마리"
+                },
                 "pl": {
                     "name": "Pierwszy Zwój"
                 },
@@ -7630,6 +8086,9 @@
                 },
                 "it": {
                     "name": "Formazione Anchilo"
+                },
+                "ko": {
+                    "name": "갑옷룡 진형"
                 },
                 "pl": {
                     "name": "Formacja Ankylo"
@@ -7681,6 +8140,9 @@
                 "it": {
                     "name": "Bestiario Urso"
                 },
+                "ko": {
+                    "name": "투룡사 우르소"
+                },
                 "pl": {
                     "name": "Bestiarius Urso"
                 },
@@ -7728,6 +8190,9 @@
                 },
                 "it": {
                     "name": "Ricchezze Sepolte"
+                },
+                "ko": {
+                    "name": "재물 파묻기"
                 },
                 "pl": {
                     "name": "Zakopanie bogactw"
@@ -7777,6 +8242,9 @@
                 "it": {
                     "name": "Interessi della Città-Stato"
                 },
+                "ko": {
+                    "name": "도시 국가의 세금"
+                },
                 "pl": {
                     "name": "Dla dobra Miasta"
                 },
@@ -7824,6 +8292,9 @@
                 },
                 "it": {
                     "name": "Non Dire Di-No!"
+                },
+                "ko": {
+                    "name": "이건 다 거짓말입니다!"
                 },
                 "pl": {
                     "name": "Nu, nu, nieładnie!"
@@ -7875,6 +8346,9 @@
                 "it": {
                     "name": "Gladiodonte"
                 },
+                "ko": {
+                    "name": "글라디오돈투스"
+                },
                 "pl": {
                     "name": "Gladiatoraptor"
                 },
@@ -7923,6 +8397,9 @@
                 "it": {
                     "name": "Intento Edonistico"
                 },
+                "ko": {
+                    "name": "향락주의"
+                },
                 "pl": {
                     "name": "Hedonizm"
                 },
@@ -7970,6 +8447,9 @@
                 },
                 "it": {
                     "name": "Umiltà"
+                },
+                "ko": {
+                    "name": "허무한 패배"
                 },
                 "pl": {
                     "name": "Pokora"
@@ -8022,6 +8502,9 @@
                 "it": {
                     "name": "Paraguardiano"
                 },
+                "ko": {
+                    "name": "견습 수호자"
+                },
                 "pl": {
                     "name": "Nibystrażnik"
                 },
@@ -8073,6 +8556,9 @@
                 "it": {
                     "name": "Fisico Felix"
                 },
+                "ko": {
+                    "name": "물리학자 펠릭스"
+                },
                 "pl": {
                     "name": "Physicus Felix"
                 },
@@ -8122,6 +8608,9 @@
                 },
                 "it": {
                     "name": "Saurario"
+                },
+                "ko": {
+                    "name": "사우리안 역사전시관"
                 },
                 "pl": {
                     "name": "Rzymozeum"
@@ -8174,6 +8663,9 @@
                 "it": {
                     "name": "Senatrice Quintina"
                 },
+                "ko": {
+                    "name": "원로원 의원 퀸티나"
+                },
                 "pl": {
                     "name": "Senator Quintina"
                 },
@@ -8221,6 +8713,9 @@
                 },
                 "it": {
                     "name": "Corno della Sirena"
+                },
+                "ko": {
+                    "name": "신호용 뿔피리"
                 },
                 "pl": {
                     "name": "Róg sygnałowy"
@@ -8272,6 +8767,9 @@
                 "it": {
                     "name": "Pterrordattilo"
                 },
+                "ko": {
+                    "name": "테러닥틸"
+                },
                 "pl": {
                     "name": "Terrordaktyl"
                 },
@@ -8322,6 +8820,9 @@
                 "it": {
                     "name": "Sauropode di Troia"
                 },
+                "ko": {
+                    "name": "트로이 목룡"
+                },
                 "pl": {
                     "name": "Zauropod trojański"
                 },
@@ -8369,6 +8870,9 @@
                 },
                 "it": {
                     "name": "Inondazione"
+                },
+                "ko": {
+                    "name": "싹쓸이"
                 },
                 "pl": {
                     "name": "Potop"
@@ -8420,6 +8924,9 @@
                 "it": {
                     "name": "Rostro dell’Altruista"
                 },
+                "ko": {
+                    "name": "이타주의자의 강단"
+                },
                 "pl": {
                     "name": "Rostrum altruistów"
                 },
@@ -8467,6 +8974,9 @@
                 },
                 "it": {
                     "name": "Carpe Vinum"
+                },
+                "ko": {
+                    "name": "와인을 즐기세"
                 },
                 "pl": {
                     "name": "Carpe Vinum"
@@ -8519,6 +9029,9 @@
                 "it": {
                     "name": "Censore Philo"
                 },
+                "ko": {
+                    "name": "검열관 필로"
+                },
                 "pl": {
                     "name": "Rewizor Philo"
                 },
@@ -8569,6 +9082,9 @@
                 },
                 "it": {
                     "name": "Console Primus"
+                },
+                "ko": {
+                    "name": "영사 프라이머스"
                 },
                 "pl": {
                     "name": "Konsul Primus"
@@ -8621,6 +9137,9 @@
                 "it": {
                     "name": "Cornicen Octavia"
                 },
+                "ko": {
+                    "name": "나팔수 옥타비아"
+                },
                 "pl": {
                     "name": "Sygnalistka Octavia"
                 },
@@ -8669,6 +9188,9 @@
                 "it": {
                     "name": "Carica Soverchiante"
                 },
+                "ko": {
+                    "name": "짓밟는 돌격"
+                },
                 "pl": {
                     "name": "Miażdżąca szarża"
                 },
@@ -8716,6 +9238,9 @@
                 },
                 "it": {
                     "name": "Decadenza"
+                },
+                "ko": {
+                    "name": "타락"
                 },
                 "pl": {
                     "name": "Dekadencja"
@@ -8766,6 +9291,9 @@
                 },
                 "it": {
                     "name": "Faustus il Grande"
+                },
+                "ko": {
+                    "name": "위대한 파우스트"
                 },
                 "pl": {
                     "name": "Faust Wspaniały"
@@ -8819,6 +9347,9 @@
                 "it": {
                     "name": "Lapisauro"
                 },
+                "ko": {
+                    "name": "라피사우루스"
+                },
                 "pl": {
                     "name": "Lapizaur"
                 },
@@ -8868,6 +9399,9 @@
                 },
                 "it": {
                     "name": "Maestra Vita"
+                },
+                "ko": {
+                    "name": "여교사 비타"
                 },
                 "pl": {
                     "name": "Magistra Vita"
@@ -8920,6 +9454,9 @@
                 "it": {
                     "name": "Medico Lacus"
                 },
+                "ko": {
+                    "name": "의사 라쿠스"
+                },
                 "pl": {
                     "name": "Medicus Lacus"
                 },
@@ -8967,6 +9504,9 @@
                 },
                 "it": {
                     "name": "Ostracizzare"
+                },
+                "ko": {
+                    "name": "도편추방"
                 },
                 "pl": {
                     "name": "Ostracyzm"
@@ -9016,6 +9556,9 @@
                 "it": {
                     "name": "Vantaggio di Portata"
                 },
+                "ko": {
+                    "name": "덩치에서 오는 이점"
+                },
                 "pl": {
                     "name": "Przewaga wzrostu"
                 },
@@ -9063,6 +9606,9 @@
                 },
                 "it": {
                     "name": "Bottino di Guerra"
+                },
+                "ko": {
+                    "name": "전리품"
                 },
                 "pl": {
                     "name": "Łupy bitewne"
@@ -9114,6 +9660,9 @@
                 "it": {
                     "name": "Undagnathus"
                 },
+                "ko": {
+                    "name": "언다그나투스"
+                },
                 "pl": {
                     "name": "Undagnathus"
                 },
@@ -9164,6 +9713,9 @@
                 },
                 "it": {
                     "name": "Venator Altum"
+                },
+                "ko": {
+                    "name": "사냥꾼 알툼"
                 },
                 "pl": {
                     "name": "Venator Altum"
@@ -9218,6 +9770,9 @@
                 "it": {
                     "name": "Capitan Barbafinta"
                 },
+                "ko": {
+                    "name": "면도 수염 선장"
+                },
                 "pl": {
                     "name": "Kapitan Bez-Brody"
                 },
@@ -9268,6 +9823,9 @@
                 },
                 "it": {
                     "name": "Faye il Filibustiere"
+                },
+                "ko": {
+                    "name": "약탈자 페이"
                 },
                 "pl": {
                     "name": "Piratka Faye"
@@ -9320,6 +9878,9 @@
                 "it": {
                     "name": "Ghiacciolo"
                 },
+                "ko": {
+                    "name": "딱딱한 심슨"
+                },
                 "pl": {
                     "name": "Hardy Simpson"
                 },
@@ -9370,6 +9931,9 @@
                 },
                 "it": {
                     "name": "Damerino"
+                },
+                "ko": {
+                    "name": "\"친한\" 친구"
                 },
                 "pl": {
                     "name": "Fraternizer"
@@ -9423,6 +9987,9 @@
                 },
                 "it": {
                     "name": "Charlie Tano"
+                },
+                "ko": {
+                    "name": "약장수 몬티 뱅크"
                 },
                 "pl": {
                     "name": "Archie Łgarz"
@@ -9478,6 +10045,9 @@
                 "it": {
                     "name": "Willa l’Orba"
                 },
+                "ko": {
+                    "name": "애꾸눈 윌라"
+                },
                 "pl": {
                     "name": "Jednooka Wila"
                 },
@@ -9529,6 +10099,9 @@
                 "it": {
                     "name": "Riccio Monello"
                 },
+                "ko": {
+                    "name": "부랑성게"
+                },
                 "pl": {
                     "name": "Morski urwis"
                 },
@@ -9578,6 +10151,9 @@
                 },
                 "it": {
                     "name": "Vendetta dell’Arconte"
+                },
+                "ko": {
+                    "name": "집정관의 복수"
                 },
                 "pl": {
                     "name": "Zemsta Archonta"
@@ -9630,6 +10206,9 @@
                 "it": {
                     "name": "Capitan Barbafinta"
                 },
+                "ko": {
+                    "name": "면도 수염 선장"
+                },
                 "pl": {
                     "name": "Kapitan Bez-Brody"
                 },
@@ -9679,6 +10258,9 @@
                 },
                 "it": {
                     "name": "Forziere Fantasma"
+                },
+                "ko": {
+                    "name": "망자의 함"
                 },
                 "pl": {
                     "name": "Skrzynia Umarlaka"
@@ -9733,6 +10315,9 @@
                 "it": {
                     "name": "Spia Suprema Deipno"
                 },
+                "ko": {
+                    "name": "첩보 대장 다이프노"
+                },
                 "pl": {
                     "name": "Deipno As Wywiadu"
                 },
@@ -9783,6 +10368,9 @@
                 "it": {
                     "name": "Oro del Mattino"
                 },
+                "ko": {
+                    "name": "일찍 일어나는 새"
+                },
                 "pl": {
                     "name": "Ranne ptaszki"
                 },
@@ -9830,6 +10418,9 @@
                 },
                 "it": {
                     "name": "Bersagli Facili"
+                },
+                "ko": {
+                    "name": "지금이다!"
                 },
                 "pl": {
                     "name": "Łatwy łup"
@@ -9882,6 +10473,9 @@
                 "it": {
                     "name": "Rubin Hood"
                 },
+                "ko": {
+                    "name": "망토 휘날리는 핀치"
+                },
                 "pl": {
                     "name": "Hobin Rood"
                 },
@@ -9929,6 +10523,9 @@
                 },
                 "it": {
                     "name": "Colpo di Grazia"
+                },
+                "ko": {
+                    "name": "마지막 일격"
                 },
                 "pl": {
                     "name": "Kończący cios"
@@ -9983,6 +10580,9 @@
                 "it": {
                     "name": "Mack il Coltello"
                 },
+                "ko": {
+                    "name": "단검쟁이 맥"
+                },
                 "pl": {
                     "name": "Mack Kosa"
                 },
@@ -10036,6 +10636,9 @@
                 "it": {
                     "name": "Eugenia Criminale"
                 },
+                "ko": {
+                    "name": "주모자 민디"
+                },
                 "pl": {
                     "name": "Wykminiara"
                 },
@@ -10086,6 +10689,9 @@
                 "it": {
                     "name": "Piano Supremo"
                 },
+                "ko": {
+                    "name": "마스터플랜"
+                },
                 "pl": {
                     "name": "Plan idealny"
                 },
@@ -10133,6 +10739,9 @@
                 },
                 "it": {
                     "name": "Talpa"
+                },
+                "ko": {
+                    "name": "첩자"
                 },
                 "pl": {
                     "name": "Kret"
@@ -10182,6 +10791,9 @@
                 "it": {
                     "name": "Riscatto"
                 },
+                "ko": {
+                    "name": "납치됨"
+                },
                 "pl": {
                     "name": "Okup"
                 },
@@ -10230,6 +10842,9 @@
                 "it": {
                     "name": "Anello dell’Invisibilità"
                 },
+                "ko": {
+                    "name": "투명 반지"
+                },
                 "pl": {
                     "name": "Pierścień niewidzialności"
                 },
@@ -10277,6 +10892,9 @@
                 },
                 "it": {
                     "name": "Sacchetto di Monete"
+                },
+                "ko": {
+                    "name": "돈자루"
                 },
                 "pl": {
                     "name": "Wór złota"
@@ -10331,6 +10949,9 @@
                 "it": {
                     "name": "Mantocupo"
                 },
+                "ko": {
+                    "name": "험상궂은 범죄자"
+                },
                 "pl": {
                     "name": "Wściekły peleryniarz"
                 },
@@ -10384,6 +11005,9 @@
                 "it": {
                     "name": "Ruth la Sorridente"
                 },
+                "ko": {
+                    "name": "울고 있는 광대"
+                },
                 "pl": {
                     "name": "Ruth Śmieszka"
                 },
@@ -10433,6 +11057,9 @@
                 },
                 "it": {
                     "name": "Sommergibile"
+                },
+                "ko": {
+                    "name": "잠수정"
                 },
                 "pl": {
                     "name": "Podwodnik"
@@ -10488,6 +11115,9 @@
                 "it": {
                     "name": "Consiglio delle Ombre"
                 },
+                "ko": {
+                    "name": "섀도우 의회"
+                },
                 "pl": {
                     "name": "Rada Cieni"
                 },
@@ -10538,6 +11168,9 @@
                 "it": {
                     "name": "Corruzione Dilagante"
                 },
+                "ko": {
+                    "name": "만연한 부패"
+                },
                 "pl": {
                     "name": "Rozbuchana korupcja"
                 },
@@ -10585,6 +11218,9 @@
                 },
                 "it": {
                     "name": "Furto Spudorato"
+                },
+                "ko": {
+                    "name": "노골적인 도둑질"
                 },
                 "pl": {
                     "name": "Bezczelna kradzież"
@@ -10634,6 +11270,9 @@
                 "it": {
                     "name": "Trappola a Innesco"
                 },
+                "ko": {
+                    "name": "부비트랩"
+                },
                 "pl": {
                     "name": "Wybuchowa pułapka"
                 },
@@ -10681,6 +11320,9 @@
                 },
                 "it": {
                     "name": "“Prestito”"
+                },
+                "ko": {
+                    "name": "\"빌려갑니다\""
                 },
                 "pl": {
                     "name": "„Pożyczone”"
@@ -10735,6 +11377,9 @@
                 "it": {
                     "name": "Brend il Fanatico"
                 },
+                "ko": {
+                    "name": "광적인 브렌드"
+                },
                 "pl": {
                     "name": "Brend Fanatyk"
                 },
@@ -10786,6 +11431,9 @@
                 "it": {
                     "name": "Faye il Filibustiere"
                 },
+                "ko": {
+                    "name": "약탈자 페이"
+                },
                 "pl": {
                     "name": "Piratka Faye"
                 },
@@ -10833,6 +11481,9 @@
                 },
                 "it": {
                     "name": "Braccio Cannone"
+                },
+                "ko": {
+                    "name": "손 대포"
                 },
                 "pl": {
                     "name": "Rękodziało"
@@ -10889,6 +11540,9 @@
                 "it": {
                     "name": "Piccola Niff"
                 },
+                "ko": {
+                    "name": "코찔찔이"
+                },
                 "pl": {
                     "name": "Mała Niff"
                 },
@@ -10938,6 +11592,9 @@
                 },
                 "it": {
                     "name": "Bomba di Miasma"
+                },
+                "ko": {
+                    "name": "독성 폭탄"
                 },
                 "pl": {
                     "name": "Bomba wyziewowa"
@@ -10989,6 +11646,9 @@
                 },
                 "it": {
                     "name": "Charlie Tano"
+                },
+                "ko": {
+                    "name": "약장수 몬티 뱅크"
                 },
                 "pl": {
                     "name": "Archie Łgarz"
@@ -11043,6 +11703,9 @@
                 "it": {
                     "name": "Vecchio Bruno"
                 },
+                "ko": {
+                    "name": "노련한 브루노"
+                },
                 "pl": {
                     "name": "Stary Bruno"
                 },
@@ -11090,6 +11753,9 @@
                 },
                 "it": {
                     "name": "Piazza Pulita"
+                },
+                "ko": {
+                    "name": "모조리 쓱싹하기"
                 },
                 "pl": {
                     "name": "Plądrowanie"
@@ -11139,6 +11805,9 @@
                 "it": {
                     "name": "Scusa o Fuga"
                 },
+                "ko": {
+                    "name": "목숨이냐 유감이냐"
+                },
                 "pl": {
                     "name": "Bezpiecznie albo boleśnie"
                 },
@@ -11186,6 +11855,9 @@
                 },
                 "it": {
                     "name": "Fomentare Disordini"
+                },
+                "ko": {
+                    "name": "내분 일으키기"
                 },
                 "pl": {
                     "name": "Szukanie kłopotów"
@@ -11237,6 +11909,9 @@
                 "it": {
                     "name": "Spettro Volante"
                 },
+                "ko": {
+                    "name": "비행하는 망령"
+                },
                 "pl": {
                     "name": "Latające Widmo"
                 },
@@ -11286,6 +11961,9 @@
                 },
                 "it": {
                     "name": "Teoria della Goccia"
+                },
+                "ko": {
+                    "name": "낙수 효과"
                 },
                 "pl": {
                     "name": "Teoria skapywania"
@@ -11340,6 +12018,9 @@
                 "it": {
                     "name": "Sussurro"
                 },
+                "ko": {
+                    "name": "위스퍼"
+                },
                 "pl": {
                     "name": "Szept"
                 },
@@ -11387,6 +12068,9 @@
                 },
                 "it": {
                     "name": "Scarpe di Cemento"
+                },
+                "ko": {
+                    "name": "시멘트 신발"
                 },
                 "pl": {
                     "name": "Betonowe buty"
@@ -11441,6 +12125,9 @@
                 "it": {
                     "name": "Francis “l’Economista”"
                 },
+                "ko": {
+                    "name": "\"경제학자\" 프랜시스"
+                },
                 "pl": {
                     "name": "Franek „Ekonom”"
                 },
@@ -11491,6 +12178,9 @@
                 },
                 "it": {
                     "name": "“Gas Gas” Malone"
+                },
+                "ko": {
+                    "name": "가스관의 말론"
                 },
                 "pl": {
                     "name": "Malone Gazrurka"
@@ -11545,6 +12235,9 @@
                 "it": {
                     "name": "Ghiacciolo"
                 },
+                "ko": {
+                    "name": "딱딱한 심슨"
+                },
                 "pl": {
                     "name": "Hardy Simpson"
                 },
@@ -11596,6 +12289,9 @@
                 "it": {
                     "name": "Damerino"
                 },
+                "ko": {
+                    "name": "\"친한\" 친구"
+                },
                 "pl": {
                     "name": "Fraternizer"
                 },
@@ -11643,6 +12339,9 @@
                 },
                 "it": {
                     "name": "Tiro Mancino"
+                },
+                "ko": {
+                    "name": "주의 돌리기"
                 },
                 "pl": {
                     "name": "Szacher-macher"
@@ -11697,6 +12396,9 @@
                 "it": {
                     "name": "Marinella"
                 },
+                "ko": {
+                    "name": "선원 잭키 타르"
+                },
                 "pl": {
                     "name": "Tomcia Smoluch"
                 },
@@ -11744,6 +12446,9 @@
                 },
                 "it": {
                     "name": "Colpo Improvviso"
+                },
+                "ko": {
+                    "name": "기습 펀치"
                 },
                 "pl": {
                     "name": "Bójka"
@@ -11793,6 +12498,9 @@
                 "it": {
                     "name": "Furto o Saccheggio"
                 },
+                "ko": {
+                    "name": "노획이냐 약탈이냐"
+                },
                 "pl": {
                     "name": "Kradnij albo plądruj"
                 },
@@ -11840,6 +12548,9 @@
                 },
                 "it": {
                     "name": "Rapina alla Spina"
+                },
+                "ko": {
+                    "name": "강도짓"
                 },
                 "pl": {
                     "name": "Skubnięcie"
@@ -11892,6 +12603,9 @@
                 "it": {
                     "name": "Willa l’Orba"
                 },
+                "ko": {
+                    "name": "애꾸눈 윌라"
+                },
                 "pl": {
                     "name": "Jednooka Wila"
                 },
@@ -11939,6 +12653,9 @@
                 },
                 "it": {
                     "name": "Sgusciare"
+                },
+                "ko": {
+                    "name": "바르기"
                 },
                 "pl": {
                     "name": "Orżnięcie"
@@ -11993,6 +12710,9 @@
                 "it": {
                     "name": "Riccio Monello"
                 },
+                "ko": {
+                    "name": "부랑성게"
+                },
                 "pl": {
                     "name": "Morski urwis"
                 },
@@ -12042,6 +12762,9 @@
                 },
                 "it": {
                     "name": "Ago Cercatore"
+                },
+                "ko": {
+                    "name": "수색용 니들"
                 },
                 "pl": {
                     "name": "Igła gończak"
@@ -12095,6 +12818,9 @@
                 "it": {
                     "name": "Inconscio d’Ombra"
                 },
+                "ko": {
+                    "name": "어깨 뒤에 숨은 자"
+                },
                 "pl": {
                     "name": "Ego Szeptacz"
                 },
@@ -12142,6 +12868,9 @@
                 },
                 "it": {
                     "name": "Camminare sull’Asse"
+                },
+                "ko": {
+                    "name": "외줄 걷기"
                 },
                 "pl": {
                     "name": "Spacer po desce"
@@ -12192,6 +12921,9 @@
                 },
                 "it": {
                     "name": "5C077"
+                },
+                "ko": {
+                    "name": "스코트"
                 },
                 "pl": {
                     "name": "5C077"
@@ -12245,6 +12977,9 @@
                 "it": {
                     "name": "Uff. Equipaggio Hawkins"
                 },
+                "ko": {
+                    "name": "인사담당관 호킨스"
+                },
                 "pl": {
                     "name": "Mediator Hawkins"
                 },
@@ -12296,6 +13031,9 @@
                 },
                 "it": {
                     "name": "SP3-3DY"
+                },
+                "ko": {
+                    "name": "ㅊ1Eㅏ"
                 },
                 "pl": {
                     "name": "G-3P4RD"
@@ -12349,6 +13087,9 @@
                 "it": {
                     "name": "Colono Chapman"
                 },
+                "ko": {
+                    "name": "콜로니 주민 채프먼"
+                },
                 "pl": {
                     "name": "Kolonista Chapman"
                 },
@@ -12400,6 +13141,9 @@
                 },
                 "it": {
                     "name": "Operativo Espion"
+                },
+                "ko": {
+                    "name": "첩보원 에스피온"
                 },
                 "pl": {
                     "name": "Agent Szpiego"
@@ -12453,6 +13197,9 @@
                 "it": {
                     "name": "Rocketeer Tryska"
                 },
+                "ko": {
+                    "name": "로켓 비행사 트리스카"
+                },
                 "pl": {
                     "name": "Rakieciara Walentyna"
                 },
@@ -12502,6 +13249,9 @@
                 },
                 "it": {
                     "name": "Doposcudo"
+                },
+                "ko": {
+                    "name": "방어가 제철"
                 },
                 "pl": {
                     "name": "Tarcza awaryjna"
@@ -12553,6 +13303,9 @@
                 "it": {
                     "name": "Uff. Radio Hings"
                 },
+                "ko": {
+                    "name": "정보통신담당관 힝스"
+                },
                 "pl": {
                     "name": "Oficer łączności Pola"
                 },
@@ -12602,6 +13355,9 @@
                 },
                 "it": {
                     "name": "Uff. Radio Gross"
+                },
+                "ko": {
+                    "name": "정보통신담당관 그로스"
                 },
                 "pl": {
                     "name": "Oficer łączności Marco"
@@ -12653,6 +13409,9 @@
                 "it": {
                     "name": "Agente 14 della Z-Force"
                 },
+                "ko": {
+                    "name": "제트 포스 요원 14호"
+                },
                 "pl": {
                     "name": "Agent 14 z Jednostki Z"
                 },
@@ -12700,6 +13459,9 @@
                 },
                 "it": {
                     "name": "Tracciatore di Particelle Z"
+                },
+                "ko": {
+                    "name": "제트 입자 추적기"
                 },
                 "pl": {
                     "name": "Wykrywacz cząstek Z"
@@ -12749,6 +13511,9 @@
                 "it": {
                     "name": "Blaster a Raggi Z"
                 },
+                "ko": {
+                    "name": "제트선 블래스터"
+                },
                 "pl": {
                     "name": "Blaster promieni Z"
                 },
@@ -12796,6 +13561,9 @@
                 },
                 "it": {
                     "name": "Generatore di Onde Z"
+                },
+                "ko": {
+                    "name": "제트 파장 방출기"
                 },
                 "pl": {
                     "name": "Emiter fal Z"
@@ -12847,6 +13615,9 @@
                 "it": {
                     "name": "5C077"
                 },
+                "ko": {
+                    "name": "스코트"
+                },
                 "pl": {
                     "name": "5C077"
                 },
@@ -12896,6 +13667,9 @@
                 },
                 "it": {
                     "name": "Libro di leQ"
+                },
+                "ko": {
+                    "name": "레큐의 책"
                 },
                 "pl": {
                     "name": "Księga leQ"
@@ -12948,6 +13722,9 @@
                 "it": {
                     "name": "Capitano Val Jericho"
                 },
+                "ko": {
+                    "name": "선장 밸 예리코"
+                },
                 "pl": {
                     "name": "Kapitan Val Jerycho"
                 },
@@ -12998,6 +13775,9 @@
                 "it": {
                     "name": "Chiavistizio"
                 },
+                "ko": {
+                    "name": "제작 중단"
+                },
                 "pl": {
                     "name": "Kuźniowstrzymywacz"
                 },
@@ -13047,6 +13827,9 @@
                 },
                 "it": {
                     "name": "Comandante Dhrxgar"
+                },
+                "ko": {
+                    "name": "사령관 드륵스가르"
                 },
                 "pl": {
                     "name": "Komandor Dhrxgar"
@@ -13101,6 +13884,9 @@
                 "it": {
                     "name": "Crash Muldoon"
                 },
+                "ko": {
+                    "name": "고장내는 멀둔"
+                },
                 "pl": {
                     "name": "Muldoon „Kraksa”"
                 },
@@ -13148,6 +13934,9 @@
                 },
                 "it": {
                     "name": "Pod 5UB"
+                },
+                "ko": {
+                    "name": "Cㅏ01브 포드"
                 },
                 "pl": {
                     "name": "B4-TH05"
@@ -13202,6 +13991,9 @@
                 "it": {
                     "name": "Dottoressa Driscoll"
                 },
+                "ko": {
+                    "name": "의사 드리스콜"
+                },
                 "pl": {
                     "name": "Doktor Driscoll"
                 },
@@ -13249,6 +14041,9 @@
                 },
                 "it": {
                     "name": "Exotuta"
+                },
+                "ko": {
+                    "name": "외계 환경 방호복"
                 },
                 "pl": {
                     "name": "Skafander ochronny"
@@ -13300,6 +14095,9 @@
                 "it": {
                     "name": "Vascello da Esplorazione"
                 },
+                "ko": {
+                    "name": "탐사용 우주선"
+                },
                 "pl": {
                     "name": "Pojazd badawczy"
                 },
@@ -13347,6 +14145,9 @@
                 },
                 "it": {
                     "name": "Forgiare un’Alleanza"
+                },
+                "ko": {
+                    "name": "연합 구축"
                 },
                 "pl": {
                     "name": "Wykucie przymierza"
@@ -13398,6 +14199,9 @@
                 "it": {
                     "name": "Ordine Generale 24"
                 },
+                "ko": {
+                    "name": "일반 명령 제24호"
+                },
                 "pl": {
                     "name": "Rozkaz 24"
                 },
@@ -13445,6 +14249,9 @@
                 },
                 "it": {
                     "name": "Esegua!"
+                },
+                "ko": {
+                    "name": "안 되면 되게 하라"
                 },
                 "pl": {
                     "name": "Wykonać!"
@@ -13496,6 +14303,9 @@
                 "it": {
                     "name": "Generatore di Materia"
                 },
+                "ko": {
+                    "name": "쉰발 메이커"
+                },
                 "pl": {
                     "name": "Materializator"
                 },
@@ -13543,6 +14353,9 @@
                 },
                 "it": {
                     "name": "Irroratore al Plasma"
+                },
+                "ko": {
+                    "name": "플라즈마 분사구"
                 },
                 "pl": {
                     "name": "Dysza plazmowa"
@@ -13596,6 +14409,9 @@
                 "it": {
                     "name": "Prof. Emerito Kering"
                 },
+                "ko": {
+                    "name": "명예교수 케링"
+                },
                 "pl": {
                     "name": "Prof. Emerytus Kering"
                 },
@@ -13645,6 +14461,9 @@
                 },
                 "it": {
                     "name": "Congegno Ulfberht"
+                },
+                "ko": {
+                    "name": "울프베르트 장치"
                 },
                 "pl": {
                     "name": "Akcesorium Ulfberht"
@@ -13696,6 +14515,9 @@
                 "it": {
                     "name": "Azione Congiunta"
                 },
+                "ko": {
+                    "name": "연합 작전"
+                },
                 "pl": {
                     "name": "Grupowa akcja"
                 },
@@ -13745,6 +14567,9 @@
                 },
                 "it": {
                     "name": "Agente Sepdia"
+                },
+                "ko": {
+                    "name": "요원 세프디아"
                 },
                 "pl": {
                     "name": "Agent Sepdia"
@@ -13798,6 +14623,9 @@
                 "it": {
                     "name": "Squadra Esplorativa"
                 },
+                "ko": {
+                    "name": "원정 팀"
+                },
                 "pl": {
                     "name": "Grupa wypadowa"
                 },
@@ -13849,6 +14677,9 @@
                 },
                 "it": {
                     "name": "SP3-3DY"
+                },
+                "ko": {
+                    "name": "ㅊ1Eㅏ"
                 },
                 "pl": {
                     "name": "G-3P4RD"
@@ -13902,6 +14733,9 @@
                 "it": {
                     "name": "Colono Chapman"
                 },
+                "ko": {
+                    "name": "콜로니 주민 채프먼"
+                },
                 "pl": {
                     "name": "Kolonista Chapman"
                 },
@@ -13953,6 +14787,9 @@
                 "it": {
                     "name": "Uff. Culturale Taber"
                 },
+                "ko": {
+                    "name": "문화교류담당관 테이버"
+                },
                 "pl": {
                     "name": "OWK Taber"
                 },
@@ -14001,6 +14838,9 @@
                 "it": {
                     "name": "Campo di Forza"
                 },
+                "ko": {
+                    "name": "역장"
+                },
                 "pl": {
                     "name": "Pole siłowe"
                 },
@@ -14048,6 +14888,9 @@
                 },
                 "it": {
                     "name": "Conoscere il Territorio"
+                },
+                "ko": {
+                    "name": "주변 상황 파악"
                 },
                 "pl": {
                     "name": "Rozpoznanie w terenie"
@@ -14100,6 +14943,9 @@
                 "it": {
                     "name": "Ricercatrice Mutagenica"
                 },
+                "ko": {
+                    "name": "돌연변이유발 연구원"
+                },
                 "pl": {
                     "name": "Badaczka mutagenezy"
                 },
@@ -14148,6 +14994,9 @@
                 "it": {
                     "name": "Missione di Sabotaggio"
                 },
+                "ko": {
+                    "name": "방해 공작 임무"
+                },
                 "pl": {
                     "name": "Misja sabotażowa"
                 },
@@ -14195,6 +15044,9 @@
                 },
                 "it": {
                     "name": "Preservazione Selettiva"
+                },
+                "ko": {
+                    "name": "선택적 보존"
                 },
                 "pl": {
                     "name": "Ocalenie wybranych"
@@ -14246,6 +15098,9 @@
                 "it": {
                     "name": "Recettore Elettrostatico"
                 },
+                "ko": {
+                    "name": "정적 정보 재배열기"
+                },
                 "pl": {
                     "name": "Stacja danych statycznych"
                 },
@@ -14293,6 +15148,9 @@
                 },
                 "it": {
                     "name": "Storditore"
+                },
+                "ko": {
+                    "name": "스턴건"
                 },
                 "pl": {
                     "name": "Ogłuszacz"
@@ -14344,6 +15202,9 @@
                 "it": {
                     "name": "T3R-35A"
                 },
+                "ko": {
+                    "name": "Eㅔ2ㅔ^ㅏ"
+                },
                 "pl": {
                     "name": "T3R-35A"
                 },
@@ -14391,6 +15252,9 @@
                 },
                 "it": {
                     "name": "Insieme!"
+                },
+                "ko": {
+                    "name": "갈 땐 함께!"
                 },
                 "pl": {
                     "name": "Razem!"
@@ -14440,6 +15304,9 @@
                 "it": {
                     "name": "Traduttore Universale"
                 },
+                "ko": {
+                    "name": "범용 번역 장치"
+                },
                 "pl": {
                     "name": "Uniwersalny tłumacz"
                 },
@@ -14487,6 +15354,9 @@
                 },
                 "it": {
                     "name": "Allenamento Straniero"
+                },
+                "ko": {
+                    "name": "외계의 훈련"
                 },
                 "pl": {
                     "name": "Ksenotrening"
@@ -14536,6 +15406,9 @@
                 "it": {
                     "name": "Aspira-Æmber"
                 },
+                "ko": {
+                    "name": "앰버 흡입기"
+                },
                 "pl": {
                     "name": "Æmberozasysacz"
                 },
@@ -14583,6 +15456,9 @@
                 },
                 "it": {
                     "name": "Scoperta del Bioma"
+                },
+                "ko": {
+                    "name": "생물군계 발견"
                 },
                 "pl": {
                     "name": "Odkrycie biomu"
@@ -14636,6 +15512,9 @@
                 "it": {
                     "name": "Uff. Equipaggio Hawkins"
                 },
+                "ko": {
+                    "name": "인사담당관 호킨스"
+                },
                 "pl": {
                     "name": "Mediator Hawkins"
                 },
@@ -14687,6 +15566,9 @@
                 "it": {
                     "name": "Diplomatico Agung"
                 },
+                "ko": {
+                    "name": "외교관 아궁"
+                },
                 "pl": {
                     "name": "Dyplomatka Agung"
                 },
@@ -14734,6 +15616,9 @@
                 },
                 "it": {
                     "name": "Gran Consiglio Federale"
+                },
+                "ko": {
+                    "name": "대연합 의회"
                 },
                 "pl": {
                     "name": "Rada Gwiezdnego Sojuszu"
@@ -14789,6 +15674,9 @@
                 "it": {
                     "name": "Tenente Khrkhar"
                 },
+                "ko": {
+                    "name": "중위 크르카르"
+                },
                 "pl": {
                     "name": "Porucznik Khrkhar"
                 },
@@ -14840,6 +15728,9 @@
                 "it": {
                     "name": "Tenente Valmart"
                 },
+                "ko": {
+                    "name": "중위 발마트"
+                },
                 "pl": {
                     "name": "Porucznik Biedronka"
                 },
@@ -14888,6 +15779,9 @@
                 "it": {
                     "name": "Luce degli Arconti"
                 },
+                "ko": {
+                    "name": "집정관의 빛"
+                },
                 "pl": {
                     "name": "Blask Archontów"
                 },
@@ -14935,6 +15829,9 @@
                 },
                 "it": {
                     "name": "Blaster da Ufficiale"
+                },
+                "ko": {
+                    "name": "장교용 블래스터"
                 },
                 "pl": {
                     "name": "Oficerski blaster"
@@ -14988,6 +15885,9 @@
                 "it": {
                     "name": "Operativo Espion"
                 },
+                "ko": {
+                    "name": "첩보원 에스피온"
+                },
                 "pl": {
                     "name": "Agent Szpiego"
                 },
@@ -15037,6 +15937,9 @@
                 },
                 "it": {
                     "name": "Rocketeer Tryska"
+                },
+                "ko": {
+                    "name": "로켓 비행사 트리스카"
                 },
                 "pl": {
                     "name": "Rakieciara Walentyna"
@@ -15092,6 +15995,9 @@
                 "it": {
                     "name": "Uff. Scientifico Qincan"
                 },
+                "ko": {
+                    "name": "과학담당관 친칸"
+                },
                 "pl": {
                     "name": "Oficer naukowy Qincan"
                 },
@@ -15142,6 +16048,9 @@
                 "it": {
                     "name": "Doposcudo"
                 },
+                "ko": {
+                    "name": "방어가 제철"
+                },
                 "pl": {
                     "name": "Tarcza awaryjna"
                 },
@@ -15189,6 +16098,9 @@
                 },
                 "it": {
                     "name": "Gergo Tecnico"
+                },
+                "ko": {
+                    "name": "전문 용어 남발"
                 },
                 "pl": {
                     "name": "Techniczny bełkot"
@@ -15238,6 +16150,9 @@
                 "it": {
                     "name": "Unità o Discordia"
                 },
+                "ko": {
+                    "name": "통합이냐 불화냐"
+                },
                 "pl": {
                     "name": "Jedność albo niezgoda"
                 },
@@ -15285,6 +16200,9 @@
                 },
                 "it": {
                     "name": "Folgoramento"
+                },
+                "ko": {
+                    "name": "잽싼 제압"
                 },
                 "pl": {
                     "name": "Porażenie"
@@ -15336,6 +16254,9 @@
                 "it": {
                     "name": "Bruto Fiammabranchia"
                 },
+                "ko": {
+                    "name": "불꽃 아가미 집행자"
+                },
                 "pl": {
                     "name": "Drażliwy egzekutor"
                 },
@@ -15385,6 +16306,9 @@
                 },
                 "it": {
                     "name": "Lanciareti dei Liscadorata"
+                },
+                "ko": {
+                    "name": "금빛 등뼈 그물장이"
                 },
                 "pl": {
                     "name": "Sieciarz Złotogrzbietych"
@@ -15439,6 +16363,9 @@
                 "it": {
                     "name": "Synan Orrido"
                 },
+                "ko": {
+                    "name": "흉측한 쏨뱅이"
+                },
                 "pl": {
                     "name": "Ohydny Synan"
                 },
@@ -15488,6 +16415,9 @@
                 },
                 "it": {
                     "name": "Kaupe"
+                },
+                "ko": {
+                    "name": "카우프"
                 },
                 "pl": {
                     "name": "Kaupe"
@@ -15539,6 +16469,9 @@
                 "it": {
                     "name": "Taniwha"
                 },
+                "ko": {
+                    "name": "타니와"
+                },
                 "pl": {
                     "name": "Taniwha"
                 },
@@ -15588,6 +16521,9 @@
                 },
                 "it": {
                     "name": "Tomwa del Bagliore"
+                },
+                "ko": {
+                    "name": "빛나는 톰와"
                 },
                 "pl": {
                     "name": "Tomwa Blasku"
@@ -15639,6 +16575,9 @@
                 "it": {
                     "name": "Wikolia"
                 },
+                "ko": {
+                    "name": "위콜리아"
+                },
                 "pl": {
                     "name": "Wikolia"
                 },
@@ -15686,6 +16625,9 @@
                 },
                 "it": {
                     "name": "Sprofondare nel Profondo"
+                },
+                "ko": {
+                    "name": "끌어내리기"
                 },
                 "pl": {
                     "name": "Nurkowanie"
@@ -15735,6 +16677,9 @@
                 "it": {
                     "name": "Immersione Profonda"
                 },
+                "ko": {
+                    "name": "점점 더 심해로"
+                },
                 "pl": {
                     "name": "Zejście w głębiny"
                 },
@@ -15782,6 +16727,9 @@
                 },
                 "it": {
                     "name": "Scoperta Oscura"
+                },
+                "ko": {
+                    "name": "심연에 숨겨진 것"
                 },
                 "pl": {
                     "name": "Mroczne odkrycie"
@@ -15832,6 +16780,9 @@
                 },
                 "it": {
                     "name": "Omnipiovra"
+                },
+                "ko": {
+                    "name": "전능문어"
                 },
                 "pl": {
                     "name": "Macakra"
@@ -15886,6 +16837,9 @@
                 "it": {
                     "name": "Tentaclide"
                 },
+                "ko": {
+                    "name": "전능문어 촉수"
+                },
                 "pl": {
                     "name": "Macek"
                 },
@@ -15934,6 +16888,9 @@
                 "it": {
                     "name": "Corrosione"
                 },
+                "ko": {
+                    "name": "부식시키기"
+                },
                 "pl": {
                     "name": "Korozja"
                 },
@@ -15981,6 +16938,9 @@
                 },
                 "it": {
                     "name": "Bicchiere d’Acqua"
+                },
+                "ko": {
+                    "name": "물 한 잔의 기적"
                 },
                 "pl": {
                     "name": "Szklanka wody"
@@ -16032,6 +16992,9 @@
                 "it": {
                     "name": "Sacerdote Abissale Glebe"
                 },
+                "ko": {
+                    "name": "심연의 사제 글레베"
+                },
                 "pl": {
                     "name": "Głęboki kapłan Gleba"
                 },
@@ -16082,6 +17045,9 @@
                 "it": {
                     "name": "Effigie di Melerukh"
                 },
+                "ko": {
+                    "name": "멜레루크 조각상"
+                },
                 "pl": {
                     "name": "Posąg Melerukh"
                 },
@@ -16129,6 +17095,9 @@
                 },
                 "it": {
                     "name": "Congelamento Istantaneo"
+                },
+                "ko": {
+                    "name": "급속 냉동"
                 },
                 "pl": {
                     "name": "Zmrożenie"
@@ -16180,6 +17149,9 @@
                 "it": {
                     "name": "Generale Sherman"
                 },
+                "ko": {
+                    "name": "장군 셔먼"
+                },
                 "pl": {
                     "name": "Generał Sherman"
                 },
@@ -16229,6 +17201,9 @@
                 },
                 "it": {
                     "name": "Fossa di Kiligog"
+                },
+                "ko": {
+                    "name": "킬리고그의 해구"
                 },
                 "pl": {
                     "name": "Rozpadlina Kiligoga"
@@ -16280,6 +17255,9 @@
                 "it": {
                     "name": "Naguna Lera"
                 },
+                "ko": {
+                    "name": "를랙 가분"
+                },
                 "pl": {
                     "name": "Garna Laczuna"
                 },
@@ -16329,6 +17307,9 @@
                 },
                 "it": {
                     "name": "Portalvendolo"
+                },
+                "ko": {
+                    "name": "포탈쟁이"
                 },
                 "pl": {
                     "name": "Portalowiec"
@@ -16380,6 +17361,9 @@
                 "it": {
                     "name": "Strozzino della Ruggine"
                 },
+                "ko": {
+                    "name": "녹슬이 구두쇠"
+                },
                 "pl": {
                     "name": "Rdzawek"
                 },
@@ -16429,6 +17413,9 @@
                 },
                 "it": {
                     "name": "Comesichiama di Sobogg"
+                },
+                "ko": {
+                    "name": "소보그의 골동품"
                 },
                 "pl": {
                     "name": "Cusiodyngs Sobogga"
@@ -16480,6 +17467,9 @@
                 "it": {
                     "name": "Taniwha"
                 },
+                "ko": {
+                    "name": "타니와"
+                },
                 "pl": {
                     "name": "Taniwha"
                 },
@@ -16530,6 +17520,9 @@
                 "it": {
                     "name": "Kraken Te Wheke"
                 },
+                "ko": {
+                    "name": "테 웨케 크라켄"
+                },
                 "pl": {
                     "name": "Kraken Te-wheke"
                 },
@@ -16577,6 +17570,9 @@
                 },
                 "it": {
                     "name": "Talassofobia"
+                },
+                "ko": {
+                    "name": "해양공포증"
                 },
                 "pl": {
                     "name": "Talassofobia"
@@ -16628,6 +17624,9 @@
                 "it": {
                     "name": "Il Prescelto"
                 },
+                "ko": {
+                    "name": "선택받은 자"
+                },
                 "pl": {
                     "name": "Wybraniec"
                 },
@@ -16677,6 +17676,9 @@
                 },
                 "it": {
                     "name": "Susurrus"
+                },
+                "ko": {
+                    "name": "수서러스"
                 },
                 "pl": {
                     "name": "Szmeracz"
@@ -16728,6 +17730,9 @@
                 "it": {
                     "name": "Voce di Rakuzel"
                 },
+                "ko": {
+                    "name": "라쿠젤의 목소리"
+                },
                 "pl": {
                     "name": "Głos Rakuzel"
                 },
@@ -16778,6 +17783,9 @@
                 "it": {
                     "name": "Vortice"
                 },
+                "ko": {
+                    "name": "거센 소용돌이"
+                },
                 "pl": {
                     "name": "Kipiel"
                 },
@@ -16825,6 +17833,9 @@
                 },
                 "it": {
                     "name": "Abbandonare la Nave"
+                },
+                "ko": {
+                    "name": "배를 버려라"
                 },
                 "pl": {
                     "name": "Opuścić okręt!"
@@ -16876,6 +17887,9 @@
                 "it": {
                     "name": "Zelota Abissale"
                 },
+                "ko": {
+                    "name": "심해의 광신도"
+                },
                 "pl": {
                     "name": "Zelota głębin"
                 },
@@ -16923,6 +17937,9 @@
                 },
                 "it": {
                     "name": "Malie di Grandezza"
+                },
+                "ko": {
+                    "name": "웅장한 암시"
                 },
                 "pl": {
                     "name": "Sugestia potęgi"
@@ -16973,6 +17990,9 @@
                 },
                 "it": {
                     "name": "Perla dell’Eco"
+                },
+                "ko": {
+                    "name": "메아리치는 진주"
                 },
                 "pl": {
                     "name": "Perła Echa"
@@ -17026,6 +18046,9 @@
                 "it": {
                     "name": "Fuguro"
                 },
+                "ko": {
+                    "name": "복어스"
+                },
                 "pl": {
                     "name": "Fuguru"
                 },
@@ -17075,6 +18098,9 @@
                 },
                 "it": {
                     "name": "Kaupe"
+                },
+                "ko": {
+                    "name": "카우프"
                 },
                 "pl": {
                     "name": "Kaupe"
@@ -17128,6 +18154,9 @@
                 "it": {
                     "name": "Kiri Liscadorata"
                 },
+                "ko": {
+                    "name": "금빛 등뼈 키리"
+                },
                 "pl": {
                     "name": "Kiri Złotogrzbiety"
                 },
@@ -17180,6 +18209,9 @@
                 "it": {
                     "name": "Skyphos"
                 },
+                "ko": {
+                    "name": "컵파리"
+                },
                 "pl": {
                     "name": "Scyphos"
                 },
@@ -17227,6 +18259,9 @@
                 },
                 "it": {
                     "name": "Dormire con i Pesci"
+                },
+                "ko": {
+                    "name": "물고기와의 동침"
                 },
                 "pl": {
                     "name": "Spać z rybkami"
@@ -17280,6 +18315,9 @@
                 "it": {
                     "name": "Pugnoardente"
                 },
+                "ko": {
+                    "name": "불꽃 주먹"
+                },
                 "pl": {
                     "name": "Pięściobłysk"
                 },
@@ -17328,6 +18366,9 @@
                 "it": {
                     "name": "Scontrocorrente"
                 },
+                "ko": {
+                    "name": "천둥의 견인"
+                },
                 "pl": {
                     "name": "Cyklon"
                 },
@@ -17375,6 +18416,9 @@
                 },
                 "it": {
                     "name": "Onda di Marea"
+                },
+                "ko": {
+                    "name": "해일"
                 },
                 "pl": {
                     "name": "Fala przypływu"
@@ -17426,6 +18470,9 @@
                 "it": {
                     "name": "Tomwa del Bagliore"
                 },
+                "ko": {
+                    "name": "빛나는 톰와"
+                },
                 "pl": {
                     "name": "Tomwa Blasku"
                 },
@@ -17473,6 +18520,9 @@
                 },
                 "it": {
                     "name": "Gabbiabolla"
+                },
+                "ko": {
+                    "name": "물속에 갇히다"
                 },
                 "pl": {
                     "name": "W kulce leci"
@@ -17524,6 +18574,9 @@
                 "it": {
                     "name": "Valucanto"
                 },
+                "ko": {
+                    "name": "발루캔스"
+                },
                 "pl": {
                     "name": "Valoocanth"
                 },
@@ -17572,6 +18625,9 @@
                 "it": {
                     "name": "Collera o Rovina"
                 },
+                "ko": {
+                    "name": "분노냐 파국이냐"
+                },
                 "pl": {
                     "name": "Gniew albo zagłada"
                 },
@@ -17619,6 +18675,9 @@
                 },
                 "it": {
                     "name": "Risucchia Cervello"
+                },
+                "ko": {
+                    "name": "두뇌 유출"
                 },
                 "pl": {
                     "name": "Świdrowanie mózgu"
@@ -17670,6 +18729,9 @@
                 "it": {
                     "name": "“Sparabolle”"
                 },
+                "ko": {
+                    "name": "\"버블버블\""
+                },
                 "pl": {
                     "name": "„Banieczka”"
                 },
@@ -17717,6 +18779,9 @@
                 },
                 "it": {
                     "name": "Richiamo del Vuoto"
+                },
+                "ko": {
+                    "name": "공허의 부름"
                 },
                 "pl": {
                     "name": "Zew otchłani"
@@ -17768,6 +18833,9 @@
                 "it": {
                     "name": "Bruto Fiammabranchia"
                 },
+                "ko": {
+                    "name": "불꽃 아가미 집행자"
+                },
                 "pl": {
                     "name": "Drażliwy egzekutor"
                 },
@@ -17817,6 +18885,9 @@
                 },
                 "it": {
                     "name": "Verga Frigorifera"
+                },
+                "ko": {
+                    "name": "냉기의 지팡이"
                 },
                 "pl": {
                     "name": "Różdżka Oziębienia"
@@ -17868,6 +18939,9 @@
                 "it": {
                     "name": "Lanciareti dei Liscadorata"
                 },
+                "ko": {
+                    "name": "금빛 등뼈 그물장이"
+                },
                 "pl": {
                     "name": "Sieciarz Złotogrzbietych"
                 },
@@ -17917,6 +18991,9 @@
                 },
                 "it": {
                     "name": "Capitana Uncina"
+                },
+                "ko": {
+                    "name": "낚시의 명수"
                 },
                 "pl": {
                     "name": "Hakomistrzyni"
@@ -17970,6 +19047,9 @@
                 "it": {
                     "name": "Synan Orrido"
                 },
+                "ko": {
+                    "name": "흉측한 쏨뱅이"
+                },
                 "pl": {
                     "name": "Ohydny Synan"
                 },
@@ -18017,6 +19097,9 @@
                 },
                 "it": {
                     "name": "Mælstrom"
+                },
+                "ko": {
+                    "name": "혼란의 소용돌이"
                 },
                 "pl": {
                     "name": "Nawæłnica"
@@ -18068,6 +19151,9 @@
                 "it": {
                     "name": "Predone Fotico"
                 },
+                "ko": {
+                    "name": "빛의 습격자"
+                },
                 "pl": {
                     "name": "Fotyczny grabieżca"
                 },
@@ -18116,6 +19202,9 @@
                 "it": {
                     "name": "Varcqueo"
                 },
+                "ko": {
+                    "name": "심해행 포탈"
+                },
                 "pl": {
                     "name": "Tele-port"
                 },
@@ -18163,6 +19252,9 @@
                 },
                 "it": {
                     "name": "Canto di Rakuzel"
+                },
+                "ko": {
+                    "name": "라쿠젤의 기도문"
                 },
                 "pl": {
                     "name": "Zaśpiew Rakuzel"
@@ -18216,6 +19308,9 @@
                 "it": {
                     "name": "Kekoa, Araldo del Mare"
                 },
+                "ko": {
+                    "name": "해수를 옮기는 케코아"
+                },
                 "pl": {
                     "name": "Kekoa Darmorza"
                 },
@@ -18264,6 +19359,9 @@
                 "it": {
                     "name": "Nuotare o Annegare"
                 },
+                "ko": {
+                    "name": "잠수냐 수영이냐"
+                },
                 "pl": {
                     "name": "Toń albo płyń"
                 },
@@ -18311,6 +19409,9 @@
                 },
                 "it": {
                     "name": "Onda di Tempesta"
+                },
+                "ko": {
+                    "name": "번개 폭풍"
                 },
                 "pl": {
                     "name": "Rażenie gromem"
@@ -18362,6 +19463,9 @@
                 "it": {
                     "name": "Wikolia"
                 },
+                "ko": {
+                    "name": "위콜리아"
+                },
                 "pl": {
                     "name": "Wikolia"
                 },
@@ -18411,6 +19515,9 @@
                 },
                 "it": {
                     "name": "Squalo Æmberpinna"
+                },
+                "ko": {
+                    "name": "앰버 지느러미 상어"
                 },
                 "pl": {
                     "name": "Æmberopłetwy rekin"
@@ -18465,6 +19572,9 @@
                 "it": {
                     "name": "Chelonia"
                 },
+                "ko": {
+                    "name": "바다거북"
+                },
                 "pl": {
                     "name": "Chelonia"
                 },
@@ -18514,6 +19624,9 @@
                 },
                 "it": {
                     "name": "Murmookkino"
+                },
+                "ko": {
+                    "name": "새끼 멀무크"
                 },
                 "pl": {
                     "name": "Murmoociątko"
@@ -18566,6 +19679,9 @@
                 "it": {
                     "name": "Vecchio Paddy"
                 },
+                "ko": {
+                    "name": "늙은 곰탱이"
+                },
                 "pl": {
                     "name": "Stary Paddy"
                 },
@@ -18617,6 +19733,9 @@
                 "it": {
                     "name": "Divoraspore"
                 },
+                "ko": {
+                    "name": "포자돼지"
+                },
                 "pl": {
                     "name": "Borokwik"
                 },
@@ -18667,6 +19786,9 @@
                 "it": {
                     "name": "Stregone dell’Alba"
                 },
+                "ko": {
+                    "name": "여명의 주술사"
+                },
                 "pl": {
                     "name": "Wiedźmiarz brzasku"
                 },
@@ -18716,6 +19838,9 @@
                 },
                 "it": {
                     "name": "Orso Minore"
+                },
+                "ko": {
+                    "name": "어린 곰"
                 },
                 "pl": {
                     "name": "Najmłodszy niedźwiadek"
@@ -18769,6 +19894,9 @@
                 "it": {
                     "name": "Ciniglia"
                 },
+                "ko": {
+                    "name": "누에"
+                },
                 "pl": {
                     "name": "Larwusiek"
                 },
@@ -18818,6 +19946,9 @@
                 },
                 "it": {
                     "name": "Bombozzolo"
+                },
+                "ko": {
+                    "name": "누에고치"
                 },
                 "pl": {
                     "name": "Kokonek"
@@ -18869,6 +20000,9 @@
                 "it": {
                     "name": "Fifalde"
                 },
+                "ko": {
+                    "name": "누에나비"
+                },
                 "pl": {
                     "name": "Motylek"
                 },
@@ -18919,6 +20053,9 @@
                 "it": {
                     "name": "Squalo Æmberpinna"
                 },
+                "ko": {
+                    "name": "앰버 지느러미 상어"
+                },
                 "pl": {
                     "name": "Æmberopłetwy rekin"
                 },
@@ -18968,6 +20105,9 @@
                 },
                 "it": {
                     "name": "Drago Fiorito"
+                },
+                "ko": {
+                    "name": "개화 드레이크"
                 },
                 "pl": {
                     "name": "Smok Rozkwitu"
@@ -19021,6 +20161,9 @@
                 "it": {
                     "name": "Ingorgigio"
                 },
+                "ko": {
+                    "name": "쿵쿵이"
+                },
                 "pl": {
                     "name": "Spaślak"
                 },
@@ -19070,6 +20213,9 @@
                 },
                 "it": {
                     "name": "Credo della Natura"
+                },
+                "ko": {
+                    "name": "자연의 교리"
                 },
                 "pl": {
                     "name": "Filozofia natury"
@@ -19123,6 +20269,9 @@
                 },
                 "it": {
                     "name": "Druida Dragante"
+                },
+                "ko": {
+                    "name": "건지는 드루이드"
                 },
                 "pl": {
                     "name": "Szlamowa druidka"
@@ -19178,6 +20327,9 @@
                 "it": {
                     "name": "Orsa Matriarca"
                 },
+                "ko": {
+                    "name": "장로 곰"
+                },
                 "pl": {
                     "name": "Najstarsza z Niedźwiedzi"
                 },
@@ -19225,6 +20377,9 @@
                 },
                 "it": {
                     "name": "Canto di Fertilità"
+                },
+                "ko": {
+                    "name": "다산의 울음소리"
                 },
                 "pl": {
                     "name": "Zaśpiew płodności"
@@ -19275,6 +20430,9 @@
                 },
                 "it": {
                     "name": "Gruen Peloso"
+                },
+                "ko": {
+                    "name": "보송보송한 그루엔"
                 },
                 "pl": {
                     "name": "Puchaty Gruen"
@@ -19328,6 +20486,9 @@
                 "it": {
                     "name": "Lupo lo Sfregiato"
                 },
+                "ko": {
+                    "name": "흉터 있는 루포"
+                },
                 "pl": {
                     "name": "Lupo Oszramiony"
                 },
@@ -19377,6 +20538,9 @@
                 },
                 "it": {
                     "name": "Boscorbutico"
+                },
+                "ko": {
+                    "name": "성가신 수풀"
                 },
                 "pl": {
                     "name": "Złogajnik"
@@ -19428,6 +20592,9 @@
                 "it": {
                     "name": "Scimmie Piranha"
                 },
+                "ko": {
+                    "name": "피라냐 원숭이"
+                },
                 "pl": {
                     "name": "Małpy piraniowe"
                 },
@@ -19478,6 +20645,9 @@
                 "it": {
                     "name": "Reliquia Primeva"
                 },
+                "ko": {
+                    "name": "태고의 유적"
+                },
                 "pl": {
                     "name": "Pierwotna relikwia"
                 },
@@ -19525,6 +20695,9 @@
                 },
                 "it": {
                     "name": "Equilibrio Forzato"
+                },
+                "ko": {
+                    "name": "단속 평형"
                 },
                 "pl": {
                     "name": "Zaburzona równowaga"
@@ -19576,6 +20749,9 @@
                 "it": {
                     "name": "Rituale della Vita"
                 },
+                "ko": {
+                    "name": "생명의 의식"
+                },
                 "pl": {
                     "name": "Rytuał życia"
                 },
@@ -19623,6 +20799,9 @@
                 },
                 "it": {
                     "name": "Mandria Imbizzarrita"
+                },
+                "ko": {
+                    "name": "무리 대이동"
                 },
                 "pl": {
                     "name": "Popłoch"
@@ -19675,6 +20854,9 @@
                 "it": {
                     "name": "Mysticetus"
                 },
+                "ko": {
+                    "name": "미스터세티"
+                },
                 "pl": {
                     "name": "Fiszbinowiec"
                 },
@@ -19723,6 +20905,9 @@
                 "it": {
                     "name": "Onda Travolgente"
                 },
+                "ko": {
+                    "name": "쓸려나가다"
+                },
                 "pl": {
                     "name": "Podtopienie"
                 },
@@ -19770,6 +20955,9 @@
                 },
                 "it": {
                     "name": "Parola del Ritorno"
+                },
+                "ko": {
+                    "name": "반환의 주문"
                 },
                 "pl": {
                     "name": "Słowo Powrotu"
@@ -19821,6 +21009,9 @@
                 "it": {
                     "name": "Albero del Mondo"
                 },
+                "ko": {
+                    "name": "세계수"
+                },
                 "pl": {
                     "name": "Drzewo Świata"
                 },
@@ -19869,6 +21060,9 @@
                 "it": {
                     "name": "Æmbermanzia"
                 },
+                "ko": {
+                    "name": "앰버 주술"
+                },
                 "pl": {
                     "name": "Æmbermancja"
                 },
@@ -19916,6 +21110,9 @@
                 },
                 "it": {
                     "name": "Giornata al Mare"
+                },
+                "ko": {
+                    "name": "해변에서의 하루"
                 },
                 "pl": {
                     "name": "Plażing"
@@ -19970,6 +21167,9 @@
                 "it": {
                     "name": "Calabrì"
                 },
+                "ko": {
+                    "name": "호박새"
+                },
                 "pl": {
                     "name": "Trzmieliber"
                 },
@@ -20017,6 +21217,9 @@
                 },
                 "it": {
                     "name": "Fiocine delle Focene"
+                },
+                "ko": {
+                    "name": "새우 등 터지는 싸움"
                 },
                 "pl": {
                     "name": "Dwa w jednym"
@@ -20068,6 +21271,9 @@
                 "it": {
                     "name": "Caverna Dentezanna"
                 },
+                "ko": {
+                    "name": "송곳니 동굴"
+                },
                 "pl": {
                     "name": "Jaskinia Kłów"
                 },
@@ -20118,6 +21324,9 @@
                 "it": {
                     "name": "Gebuk"
                 },
+                "ko": {
+                    "name": "게북"
+                },
                 "pl": {
                     "name": "Gebuk"
                 },
@@ -20165,6 +21374,9 @@
                 },
                 "it": {
                     "name": "Deviazione Genetica"
+                },
+                "ko": {
+                    "name": "유전적 부동"
                 },
                 "pl": {
                     "name": "Odchylenie genetyczne"
@@ -20214,6 +21426,9 @@
                 "it": {
                     "name": "Crescita Improvvisa"
                 },
+                "ko": {
+                    "name": "급격한 성장"
+                },
                 "pl": {
                     "name": "Gwałtowny wzrost"
                 },
@@ -20261,6 +21476,9 @@
                 },
                 "it": {
                     "name": "Strumento del Silenzio"
+                },
+                "ko": {
+                    "name": "정적을 연주하는 악기"
                 },
                 "pl": {
                     "name": "Instrument Uciszenia"
@@ -20311,6 +21529,9 @@
                 },
                 "it": {
                     "name": "Cangufante"
+                },
+                "ko": {
+                    "name": "캥거펀트"
                 },
                 "pl": {
                     "name": "Kangusłoń"
@@ -20363,6 +21584,9 @@
                 "it": {
                     "name": "Uomo Fungo"
                 },
+                "ko": {
+                    "name": "버섯 인간"
+                },
                 "pl": {
                     "name": "Grzyboczłek"
                 },
@@ -20414,6 +21638,9 @@
                 "it": {
                     "name": "Vecchio Paddy"
                 },
+                "ko": {
+                    "name": "늙은 곰탱이"
+                },
                 "pl": {
                     "name": "Stary Paddy"
                 },
@@ -20463,6 +21690,9 @@
                 },
                 "it": {
                     "name": "Rituale di Equilibrio"
+                },
+                "ko": {
+                    "name": "균형의 의식"
                 },
                 "pl": {
                     "name": "Rytuał równowagi"
@@ -20515,6 +21745,9 @@
                 "it": {
                     "name": "Divoraspore"
                 },
+                "ko": {
+                    "name": "포자돼지"
+                },
                 "pl": {
                     "name": "Borokwik"
                 },
@@ -20562,6 +21795,9 @@
                 },
                 "it": {
                     "name": "Sfoltire il Branco"
+                },
+                "ko": {
+                    "name": "무리 착취"
                 },
                 "pl": {
                     "name": "Przerzedzenie stada"
@@ -20611,6 +21847,9 @@
                 "it": {
                     "name": "Non si Butta Via Niente"
                 },
+                "ko": {
+                    "name": "아껴쓰기"
+                },
                 "pl": {
                     "name": "Nic się nie zmarnuje"
                 },
@@ -20659,6 +21898,9 @@
                 "it": {
                     "name": "In-Gorgo"
                 },
+                "ko": {
+                    "name": "옴짝달싹 못 하다"
+                },
                 "pl": {
                     "name": "Spływaj"
                 },
@@ -20706,6 +21948,9 @@
                 },
                 "it": {
                     "name": "Affermare il Dominio"
+                },
+                "ko": {
+                    "name": "우위 과시"
                 },
                 "pl": {
                     "name": "Gwarantowana dominacja"
@@ -20760,6 +22005,9 @@
                 "it": {
                     "name": "Chelonia"
                 },
+                "ko": {
+                    "name": "바다거북"
+                },
                 "pl": {
                     "name": "Chelonia"
                 },
@@ -20809,6 +22057,9 @@
                 },
                 "it": {
                     "name": "Gruen degli Abissi"
+                },
+                "ko": {
+                    "name": "심해의 그루엔"
                 },
                 "pl": {
                     "name": "Podwodny Gruen"
@@ -20863,6 +22114,9 @@
                 "it": {
                     "name": "Batuffolotto"
                 },
+                "ko": {
+                    "name": "플룸프"
+                },
                 "pl": {
                     "name": "Floomf"
                 },
@@ -20910,6 +22164,9 @@
                 },
                 "it": {
                     "name": "Lotte Intestine"
+                },
+                "ko": {
+                    "name": "자중지란"
                 },
                 "pl": {
                     "name": "Wewnętrzny spór"
@@ -20961,6 +22218,9 @@
                 "it": {
                     "name": "Ranocchiave"
                 },
+                "ko": {
+                    "name": "열쇠 개구리"
+                },
                 "pl": {
                     "name": "Kumźnia"
                 },
@@ -21010,6 +22270,9 @@
                 },
                 "it": {
                     "name": "Malmok"
+                },
+                "ko": {
+                    "name": "큰 바다새"
                 },
                 "pl": {
                     "name": "Nurkonos"
@@ -21061,6 +22324,9 @@
                 "it": {
                     "name": "Murmookkino"
                 },
+                "ko": {
+                    "name": "새끼 멀무크"
+                },
                 "pl": {
                     "name": "Murmoociątko"
                 },
@@ -21111,6 +22377,9 @@
                 "it": {
                     "name": "Mylioba"
                 },
+                "ko": {
+                    "name": "매가오리"
+                },
                 "pl": {
                     "name": "Orleń"
                 },
@@ -21158,6 +22427,9 @@
                 },
                 "it": {
                     "name": "Caccia Ostinata"
+                },
+                "ko": {
+                    "name": "끈질긴 사냥"
                 },
                 "pl": {
                     "name": "Zawzięte łowy"
@@ -21207,6 +22479,9 @@
                 "it": {
                     "name": "Semina o Raccolto"
                 },
+                "ko": {
+                    "name": "수확이냐 파종이냐"
+                },
                 "pl": {
                     "name": "Zbieraj albo siej"
                 },
@@ -21255,6 +22530,9 @@
                 "it": {
                     "name": "Migliori della Specie"
                 },
+                "ko": {
+                    "name": "적자만이 생존한다"
+                },
                 "pl": {
                     "name": "Tylko najsilniejsi"
                 },
@@ -21302,6 +22580,9 @@
                 },
                 "it": {
                     "name": "Via del Pixie"
+                },
+                "ko": {
+                    "name": "장난꾸러기 요정의 방식"
                 },
                 "pl": {
                     "name": "Droga wróżki"
@@ -21354,6 +22635,9 @@
                 "it": {
                     "name": "Stregone dell’Alba"
                 },
+                "ko": {
+                    "name": "여명의 주술사"
+                },
                 "pl": {
                     "name": "Wiedźmiarz brzasku"
                 },
@@ -21403,6 +22687,9 @@
                 },
                 "it": {
                     "name": "Orso Minore"
+                },
+                "ko": {
+                    "name": "어린 곰"
                 },
                 "pl": {
                     "name": "Najmłodszy niedźwiadek"
