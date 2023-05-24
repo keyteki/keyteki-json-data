@@ -1169,7 +1169,7 @@
             "traits": [
                 "location"
             ],
-            "type": "action",
+            "type": "artifact",
             "rarity": "Uncommon",
             "amber": 1,
             "armor": null,
