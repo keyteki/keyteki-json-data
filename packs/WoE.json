@@ -22,7 +22,7 @@
             "amber": null,
             "armor": null,
             "power": null,
-            "text": "Each friendly creature cannot reap and gains, \"After Fight: Gain 1A.\"",
+            "text": "Each friendly creature cannot reap and gains, \"After Fight: Gain 1 Æmber.\"",
             "locale": {
                 "en": {
                     "name": "Ancient Battleground"
@@ -162,7 +162,7 @@
             "id": "revna-starsong",
             "name": "Revna Starsong",
             "number": "018",
-            "image": "Woe_Revna_Starsong.png",
+            "image": "Woe-revna-starsong.jpg",
             "house": "brobnar",
             "keywords": [],
             "traits": [
@@ -238,7 +238,7 @@
             "rarity": "Uncommon",
             "amber": null,
             "armor": null,
-            "power": 7,
+            "power": null,
             "text": "Splash-attack 4. (When this creature attacks, also deal 4D to each of the attacked creature's neighbors.) After Fight: Enrage each of Crim Torchtooth's neighbors.",
             "locale": {
                 "en": {
@@ -744,7 +744,7 @@
             "rarity": "Rare",
             "amber": null,
             "armor": null,
-            "power": 3,
+            "power": null,
             "text": "Action: Gain 2A if you control at least one artifact.",
             "locale": {
                 "en": {
@@ -787,7 +787,7 @@
             "rarity": "Rare",
             "amber": null,
             "armor": null,
-            "power": 5,
+            "power": null,
             "text": "After Reap: Ready each friendly Buggy artifact.",
             "locale": {
                 "en": {
@@ -1059,7 +1059,7 @@
                 "philosopher"
             ],
             "type": "creature",
-            "rarity": "Uncommon",
+            "rarity": "Rare",
             "amber": null,
             "armor": null,
             "power": 5,
@@ -1152,7 +1152,7 @@
             "amber": null,
             "armor": null,
             "power": 4,
-            "text": "Elusive. At the start of each player's turn, that player chooses to either make a token creature od draw a card.",
+            "text": "Elusive. At the start of each player's turn, that player chooses to either make a token creature or draw a card.",
             "locale": {
                 "en": {
                     "name": "Gezrăhi Blacksmith"
@@ -1160,8 +1160,8 @@
             }
         },
         {
-            "id": "ikwiki-outpost",
-            "name": "Ikwikĭ Outpost",
+            "id": "ikwiji-outpost",
+            "name": "Ikwijĭ Outpost",
             "number": "078",
             "image": "Woe-ikwiji-outpost.jpg",
             "house": "ekwidon",
@@ -1177,7 +1177,7 @@
             "text": "Action: Put a friendly creature on the bottom of its owner's deck. If you do, draw 3 cards.",
             "locale": {
                 "en": {
-                    "name": "Ikwikĭ Outpost"
+                    "name": "Ikwijĭ Outpost"
                 }
             }
         },
@@ -1342,8 +1342,8 @@
             "type": "creature",
             "rarity": "Uncommon",
             "amber": null,
-            "armor": 5,
-            "power": 1,
+            "armor": null,
+            "power": null,
             "text": "After Fight: Swap control of this creature and the creature it fights. (Both creatures must survive the fight.)",
             "locale": {
                 "en": {
@@ -1688,7 +1688,7 @@
             "amber": null,
             "armor": null,
             "power": 4,
-            "text": "Elusive. (The first time this creature is attacked each turn, no damage is dealt.)\nPlay: You may have your opponent gain 1A. If you do, capture 4A.",
+            "text": "Elusive. (The first time this creature is attacked each turn, no damage is dealt.)\nPlay: You may have your opponent gain 1 Æmber. If you do, capture 4 Æmber.",
             "locale": {
                 "en": {
                     "name": "Shrewd Investor"
@@ -2436,7 +2436,7 @@
             "amber": null,
             "armor": null,
             "power": 2,
-            "text": "Deploy. \n Play:(?) Ready each of Ironyx Rebel's neighbors.",
+            "text": "Deploy. Play: Ready each of Ironyx Rebel's neighbors.",
             "locale": {
                 "en": {
                     "name": "Ironyx Rebel"
@@ -2930,8 +2930,8 @@
             }
         },
         {
-            "id": "grey-abess",
-            "name": "Grey Abess",
+            "id": "grey-abbess",
+            "name": "Grey Abbess",
             "number": "198",
             "image": "Woe-grey-abbess.jpg",
             "house": "sanctum",
@@ -2948,7 +2948,7 @@
             "text": "Play: Make a token creature. Each friendly token creature gets +1 armor.",
             "locale": {
                 "en": {
-                    "name": "Grey Abess"
+                    "name": "Grey Abbess"
                 }
             }
         },
@@ -3198,7 +3198,7 @@
             "id": "membership-drive",
             "name": "Membership Drive",
             "number": "217",
-            "image": "Woe-Membership Drive.jpg",
+            "image": "Woe-membership-drive.jpg",
             "house": "sanctum",
             "keywords": [],
             "traits": [],
@@ -3678,7 +3678,7 @@
             "id": "training-costs",
             "name": "Training Costs",
             "number": "253",
-            "image": "Woe_Training_Costs.jpg",
+            "image": "Woe-training-costs.jpg",
             "house": "saurian",
             "keywords": [],
             "traits": [],
@@ -3741,8 +3741,8 @@
             }
         },
         {
-            "id": "hoplite&#039;s-dory",
-            "name": "Hoplite&#039;s Dory",
+            "id": "hoplite-s-dory",
+            "name": "Hoplite’s Dory",
             "number": "259",
             "image": "Woe-hoplites-dory.jpg",
             "house": "saurian",
@@ -3756,7 +3756,7 @@
             "text": "This creature gets +2 power for each exhausted creature to its left.",
             "locale": {
                 "en": {
-                    "name": "Hoplite&#039;s Dory"
+                    "name": "Hoplite’s Dory"
                 }
             }
         },
@@ -4028,7 +4028,7 @@
             "id": "pale-into-insignificance",
             "name": "Pale Into Insignificance",
             "number": "280",
-            "image": "Woe_Pale.jpg",
+            "image": "Woe-pale-into-insignificance.jpg",
             "house": "saurian",
             "keywords": [],
             "traits": [],
@@ -4111,7 +4111,7 @@
             "id": "bellatoran-warrior",
             "name": "Bellatoran Warrior",
             "number": "286",
-            "image": "Woe_Bellatoran_Warrior.jpg",
+            "image": "Woe-bellatoran-warrior.jpg",
             "house": "saurian",
             "keywords": [],
             "traits": [
@@ -5406,7 +5406,7 @@
             "amber": null,
             "armor": null,
             "power": 3,
-            "text": "While Covetous Hema is not on a flank, it gains elusive. Play: Capture 3A.",
+            "text": "While Covetous Hema is not on a flank, it gains elusive. Play: Capture 3 Æmber.",
             "locale": {
                 "en": {
                     "name": "Covetous Hema"
