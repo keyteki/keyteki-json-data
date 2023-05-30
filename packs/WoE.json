@@ -1865,7 +1865,7 @@
             "type": "token creature",
             "rarity": "Token",
             "amber": null,
-            "armor": null,
+            "armor": 4,
             "power": 1,
             "text": "Strange Shell cannot fight or reap. Action: Put Strange Shell into your hand.",
             "locale": {
