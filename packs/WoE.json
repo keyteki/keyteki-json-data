@@ -3491,7 +3491,7 @@
             "rarity": "Special",
             "amber": null,
             "armor": null,
-            "power": null,
+            "power": 5,
             "text": "After Reap: If Aristotlmimus has a wisdom counter, draw 1 card, archive 1 card, and play a card from your archives. Otherwise, you may play a card from your archives.",
             "locale": {
                 "en": {
@@ -3927,7 +3927,7 @@
             "rarity": "Common",
             "amber": null,
             "armor": null,
-            "power": null,
+            "power": 3,
             "text": "After Reap: You may exalt Chancellor Dexterus's right neighbor. If you do, that creature belongs to house Saurian for the remainder of the turn (instead of its other houses).",
             "locale": {
                 "en": {
