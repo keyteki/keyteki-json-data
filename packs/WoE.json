@@ -4421,7 +4421,7 @@
             "rarity": "Uncommon",
             "amber": null,
             "armor": null,
-            "power": null,
+            "power": 3,
             "text": "Play: Put an upgrade from your disard pile into your hand. After an upgrade is attached to Collector Boren, ready Collector Boren.",
             "locale": {
                 "en": {
@@ -4919,7 +4919,7 @@
             "rarity": "Rare",
             "amber": null,
             "armor": null,
-            "power": null,
+            "power": 6,
             "text": "When your opponent plays an action card, instead of resolving its play effect, destroy the creature on your left flank.",
             "locale": {
                 "en": {
@@ -5617,7 +5617,7 @@
             "rarity": "Special",
             "amber": null,
             "armor": null,
-            "power": null,
+            "power": 3,
             "text": "Destroyed: Destroy the creature on your opponent's right flank.",
             "locale": {
                 "en": {
@@ -5639,7 +5639,7 @@
             "rarity": "Token",
             "amber": null,
             "armor": null,
-            "power": null,
+            "power": 2,
             "text": "Destroyed: Deal 2D to the most powerful enemy creature.",
             "locale": {
                 "en": {
