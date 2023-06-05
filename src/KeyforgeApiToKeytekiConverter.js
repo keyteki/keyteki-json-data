@@ -156,6 +156,10 @@ class KeyforgeApiToKeytekiConverter {
                     card.house = 'brobnar';
                 }
 
+                if (card.rarity === 'FIXED') {
+                    card.rarity = 'Special';
+                }
+
                 let cardKey = `${card.card_number}/${card.card_type}/${
                     card.house
                 }/${card.rarity.toLowerCase()}`;
