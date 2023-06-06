@@ -10,7 +10,8 @@ const ValidKeywords = [
     'omega',
     'hazardous',
     'assault',
-    'poison'
+    'poison',
+    'splash-attack'
 ];
 
 function httpRequest(url, options = {}) {
@@ -59,6 +60,10 @@ class KeyforgeApiToKeytekiConverter {
             return;
         }
 
+        if (!cards) {
+            return;
+        }
+
         cards.sort((a, b) => (a.number < b.number ? -1 : 1));
 
         console.info(`Got ${cards.length} cards`);
@@ -101,8 +106,7 @@ class KeyforgeApiToKeytekiConverter {
                 });
                 responseReceived = true;
             } catch (err) {
-                console.info(err);
-
+                console.info(err.res.body);
                 return;
             }
         }
@@ -127,11 +131,11 @@ class KeyforgeApiToKeytekiConverter {
 
                 if (res && res.statusCode === 429) {
                     let timeoutMatch = res.body.detail.match(/.*(\d+).*/);
-                    let timeout = timeoutMatch[1];
+                    let timeout = timeoutMatch[1] * 2;
 
                     console.info(`API calls being throttled, sleeping for ${timeout} seconds`);
 
-                    await sleep(timeout * 2 * 1000);
+                    await sleep(timeout * 1000);
 
                     i--;
                     continue;
