@@ -10,7 +10,8 @@ const ValidKeywords = [
     'omega',
     'hazardous',
     'assault',
-    'poison'
+    'poison',
+    'splash-attack'
 ];
 
 function httpRequest(url, options = {}) {
@@ -68,12 +69,15 @@ class DecksOfKeyforgeApiToKeytekiConverter {
     }
 
     async getCards(pack, language) {
-        const apiUrl = 'https://archonarcana.com/api.php?action=cargoquery&format=json&tables=SpoilerData&' +
-            'fields=SpoilerData.Power,SpoilerData.Rarity,SpoilerData.Name,SpoilerData.House,SpoilerData.Type,SpoilerData.Image,SpoilerData.CardNumber,' +
-            'SpoilerData.SearchText,SpoilerData.SearchFlavorText,SpoilerData.Traits,SpoilerData.Armor,SpoilerData.IsNew,SpoilerData.Source,' +
-            'SpoilerData.Amber&group_by=SpoilerData.Power,SpoilerData.Rarity,SpoilerData.Name,SpoilerData.House,' +
-            'SpoilerData.Type,SpoilerData.Image,SpoilerData.CardNumber,SpoilerData.SearchText,SpoilerData.SearchFlavorText,SpoilerData.Traits,' +
-                       'SpoilerData.Armor,SpoilerData.IsNew,SpoilerData.Source,SpoilerData.Amber&limit=500&offset=0&order_by=CardNumber';
+        const apiUrl = 'https://archonarcana.com/api.php?action=cargoquery&format=json&tables=CardData, SetData&' +
+            'fields=CardData.Power,CardData.Rarity,CardData.Name,CardData.House,CardData.Type,CardData.Image,' +
+            'CardData.House,SetData.CardNumber,SetData.Meta,CardData.Text,CardData.SearchText,CardData.SearchFlavorText,' +
+            'CardData.Traits,CardData.Armor,CardData.Source,CardData.Amber,CardData._rowID=RowID&' +
+            'where=((SetName="Winds of Exchange") AND (Meta="SpoilerNew" AND Name IS NOT NULL))&' + 
+            'join_on=CardData._pageName=SetData._pageName&group_by=CardData.Power,CardData.Rarity,CardData.Name,' + 
+            'CardData.House,CardData.Type,CardData.Image,CardData.House,SetData.CardNumber,SetData.Meta,CardData.Text,' + 
+            'CardData.SearchText,CardData.SearchFlavorText,CardData.Traits,CardData.Armor,CardData.Source,CardData.Amber,' + 
+            'CardData._rowID&limit=300&offset=0&order_by=CardNumber';
 
         let packCardMap = pack.cards.reduce(function (map, obj) {
             map[obj.number] = obj;
@@ -127,12 +131,7 @@ class DecksOfKeyforgeApiToKeytekiConverter {
             if(card.Name === '') {
                 continue;
             }
-
-            if (card.IsNew !== 'yes') {
-                console.log('Ignoring reprinted card: ', card.Name);
-                continue;
-            }
-
+            
             // Fix the house of an anomaly to brobnar so that we can test them until they get a real house
             if (card.anomaly) { // TODO
                 card.house = 'brobnar';
@@ -154,11 +153,16 @@ class DecksOfKeyforgeApiToKeytekiConverter {
             let newCard = null;
 
             if (language === 'en') {
-                let cardText = card.SearchText.replace(/&lt;/gi, '<')
+                let cardText = !card.SearchText ? '' : card.SearchText.replace(/&lt;/gi, '<')
                     .replace(/&gt;/gi, '>')
                     .replace(/&quot;/gi, '"')
+                    .replace(/&#039;(&#039;)+/gi, '')
+                    .replace(/&#039;/gi, '\'')
                     .replace(/<[^>]+aember[^>]+>/gi, 'A')
                     .replace(/<[^>]+damage[^>]+>/gi, 'D')
+                    .replace(/(?<=[0-9]) ?Aember/gi, 'A')
+                    .replace(/(?<=[0-9]) ?Damage/gi, 'D')
+                    .replace(/\[\[File:Enhance_A[^\]]+\]\]/gi, 'A')
                     .replace(/<br>/gi, '\n')
                     .replace(/<p>/gi, '\n')
                     .replace(/<[^>]+>/gi, '');
@@ -168,6 +172,12 @@ class DecksOfKeyforgeApiToKeytekiConverter {
                         .replace(/[?.!",“”]/gi, '')
                         .replace(/&quot;/gi, '')
                         .replace('??', ' ')
+                        .replace(/[ĂÀÁÃǍăàáãǎ]/g,'a')
+                        .replace(/[ĔÈÉĚĕèéě]/g,'e')
+                        .replace(/[ĬÌÍǏĭìíǐ]/g,'i')
+                        .replace(/[ŎÒÓÕǑŏòóõǒ]/g,'o')
+                        .replace(/[ŬÙÚǓŭùúǔ]/g,'u')
+                        .replace(/[Çç]/g,'c')
                         .replace('   ', ' ')
                         .replace('  ', ' ')
                         .replace(/[ '’]/gi, '-')
@@ -178,7 +188,7 @@ class DecksOfKeyforgeApiToKeytekiConverter {
                     image: card.Image,
                     //expansion: card.expansion,
                     house: card.House.toLowerCase().replace(' ', ''),
-                    keywords: this.parseKeywords(card.SearchText),
+                    keywords: !card.Text ? [] : this.parseKeywords(card.Text),
                     traits: !card.Traits
                         ? []
                         : card.Traits.split(' • ').map((trait) => trait.toLowerCase()),
@@ -229,11 +239,14 @@ class DecksOfKeyforgeApiToKeytekiConverter {
 
         for (let line of lines) {
             potentialKeywords = potentialKeywords.concat(line.split('.').map(k => k.toLowerCase().trim().replace(' ', ':')));
+            console.log(line, potentialKeywords);
         }
 
         let printedKeywords = potentialKeywords.filter(potentialKeyword => {
             return ValidKeywords.some(keyword => potentialKeyword.indexOf(keyword) === 0);
         });
+        
+        console.log('printedKeywords: ', printedKeywords);
 
         return printedKeywords;
     }
