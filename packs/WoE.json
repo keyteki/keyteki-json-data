@@ -4805,7 +4805,7 @@
             "type": "token creature",
             "rarity": "Token",
             "amber": 0,
-            "armor": null,
+            "armor": 1,
             "power": 2,
             "text": "",
             "locale": {
