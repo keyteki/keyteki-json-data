@@ -8371,7 +8371,7 @@
             "expansion": 600,
             "house": "unfathomable",
             "keywords": [],
-            "traits": ["cultist", "aquan"],
+            "traits": ["aquan"],
             "type": "token creature",
             "rarity": "Token",
             "amber": 0,
