@@ -14,6 +14,9 @@ const ValidKeywords = [
     'splash-attack'
 ];
 
+// en must be first
+const Languages = ['en', 'de', 'es', 'fr', 'it', 'pl', 'pt', 'th', 'vi', 'zhhans', 'zhhant'];
+
 function httpRequest(url, options = {}) {
     return new Promise((resolve, reject) => {
         request(url, options, (err, res, body) => {
@@ -120,132 +123,144 @@ class KeyforgeApiToKeytekiConverter {
 
         let stupidCards = { MM341: true };
 
+        const languages = language === 'all' ? Languages : [language];
+
         for (let i = 1; i < totalPages; i++) {
-            try {
-                response = await httpRequest(
-                    `${apiUrl}/?page=${i}&links=cards&page_size=${pageSize}&expansion=${pack.ids[0]}&ordering=-date`,
-                    { json: true, headers: { 'Accept-Language': language } }
-                );
-            } catch (err) {
-                let res = err.res;
+            for (let j = 0; j < languages.length; j++) {
+                language = languages[j];
 
-                if (res && res.statusCode === 429) {
-                    let timeoutMatch = res.body.detail.match(/.*(\d+).*/);
-                    let timeout = timeoutMatch[1] * 2;
+                console.info('getting cards for language', language);
 
-                    console.info(`API calls being throttled, sleeping for ${timeout} seconds`);
+                try {
+                    response = await httpRequest(
+                        `${apiUrl}/?page=${i}&links=cards&page_size=${pageSize}&expansion=${pack.ids[0]}&ordering=-date`,
+                        { json: true, headers: { 'Accept-Language': language } }
+                    );
+                } catch (err) {
+                    let res = err.res;
 
-                    await sleep(timeout * 1000);
+                    if (res && res.statusCode === 429) {
+                        let timeoutMatch = res.body.detail.match(/(\d+)/);
+                        let timeout = timeoutMatch[0] * 2;
 
-                    i--;
-                    continue;
-                } else {
+                        console.info(
+                            `API calls being throttled, sleeping for ${timeout} seconds`,
+                            language,
+                            i
+                        );
+
+                        await sleep(timeout * 1000);
+
+                        j--;
+                        continue;
+                    } else {
+                        pageErrors.push(i);
+
+                        console.info(`Page ${i} failed, will try it later`);
+                        continue;
+                    }
+                }
+
+                if (!response) {
                     pageErrors.push(i);
 
                     console.info(`Page ${i} failed, will try it later`);
                     continue;
                 }
-            }
 
-            if (!response) {
-                pageErrors.push(i);
+                for (let card of response._linked.cards) {
+                    // Fix the house of an anomaly to brobnar so that we can test them until they get a real house
+                    if (card.is_anomaly) {
+                        card.house = 'brobnar';
+                    }
 
-                console.info(`Page ${i} failed, will try it later`);
-                continue;
-            }
+                    if (card.rarity === 'FIXED') {
+                        card.rarity = 'Special';
+                    }
 
-            for (let card of response._linked.cards) {
-                // Fix the house of an anomaly to brobnar so that we can test them until they get a real house
-                if (card.is_anomaly) {
-                    card.house = 'brobnar';
-                }
+                    let cardKey = `${card.card_number}/${card.card_type}/${
+                        card.house
+                    }/${card.rarity.toLowerCase()}`;
+                    let stupidKey = pack.code + card.card_number;
+                    if (
+                        !pack.ids.includes('' + card.expansion) ||
+                        cards[cardKey] ||
+                        (card.is_maverick && !stupidCards[stupidKey])
+                    ) {
+                        continue;
+                    }
 
-                if (card.rarity === 'FIXED') {
-                    card.rarity = 'Special';
-                }
+                    let newCard = null;
 
-                let cardKey = `${card.card_number}/${card.card_type}/${
-                    card.house
-                }/${card.rarity.toLowerCase()}`;
-                let stupidKey = pack.code + card.card_number;
-                if (
-                    !pack.ids.includes('' + card.expansion) ||
-                    cards[cardKey] ||
-                    (card.is_maverick && !stupidCards[stupidKey])
-                ) {
-                    continue;
-                }
-
-                let newCard = null;
-
-                if (language === 'en') {
-                    newCard = {
-                        id: card.card_title
-                            .toLowerCase()
-                            .replace(/[?.!",“”]/gi, '')
-                            .replace(/[ '’]/gi, '-'),
-                        name: card.card_title,
-                        number: card.card_number,
-                        image: card.front_image,
-                        expansion: card.expansion,
-                        house: card.house.toLowerCase().replace(' ', ''),
-                        keywords: this.parseKeywords(card.card_text),
-                        traits: !card.traits
-                            ? []
-                            : card.traits.split(' • ').map((trait) => trait.toLowerCase()),
-                        type: card.card_type.toLowerCase(),
-                        rarity: card.rarity,
-                        amber: card.amber === '' ? 0 : parseInt(card.amber),
-                        armor: card.card_type.toLowerCase().startsWith('creature')
-                            ? card.armor !== ''
-                                ? parseInt(card.armor)
-                                : 0
-                            : null,
-                        power: card.power === '' ? null : parseInt(card.power),
-                        text: card.card_text,
-                        locale: {
-                            en: {
-                                name: card.card_title
+                    if (language === 'en') {
+                        newCard = {
+                            id: card.card_title
+                                .toLowerCase()
+                                .replace(/[?.!",“”]/gi, '')
+                                .replace(/[ '’]/gi, '-'),
+                            name: card.card_title,
+                            number: card.card_number,
+                            image: card.front_image,
+                            expansion: card.expansion,
+                            house: card.house.toLowerCase().replace(' ', ''),
+                            keywords: this.parseKeywords(card.card_text),
+                            traits: !card.traits
+                                ? []
+                                : card.traits.split(' • ').map((trait) => trait.toLowerCase()),
+                            type: card.card_type.toLowerCase(),
+                            rarity: card.rarity,
+                            amber: card.amber === '' ? 0 : parseInt(card.amber),
+                            armor: card.card_type.toLowerCase().startsWith('creature')
+                                ? card.armor !== ''
+                                    ? parseInt(card.armor)
+                                    : 0
+                                : null,
+                            power: card.power === '' ? null : parseInt(card.power),
+                            text: card.card_text,
+                            locale: {
+                                en: {
+                                    name: card.card_title
+                                }
                             }
+                        };
+
+                        if (newCard.rarity == 'Evil Twin') {
+                            newCard.id = newCard.id + '-evil-twin';
                         }
-                    };
+                    } else {
+                        // Append locale information
+                        let type = card.card_type;
+                        if (card.card_type === 'Creature1' || card.card_type === 'Creature2') {
+                            card.card_type = card.card_type.toLowerCase();
+                            type = 'Creature';
+                        }
 
-                    if (newCard.rarity == 'Evil Twin') {
-                        newCard.id = newCard.id + '-evil-twin';
+                        let cardKey = `${card.card_number}/${type.toLowerCase()}/${card.house
+                            .toLowerCase()
+                            .replace(' ', '')}/${card.rarity.toLowerCase()}`;
+                        newCard = packCardMap[cardKey];
+
+                        if (!newCard.locale) {
+                            // Just a safe check, but since 'en' is supposed to be loaded first, locale
+                            // will already exist
+                            newCard.locale = [];
+                        }
+
+                        newCard.locale[language.replace('-', '')] = {
+                            name: card.card_title
+                        };
                     }
-                } else {
-                    // Append locale information
-                    let type = card.card_type;
-                    if (card.card_type === 'Creature1' || card.card_type === 'Creature2') {
-                        card.card_type = card.card_type.toLowerCase();
-                        type = 'Creature';
-                    }
 
-                    let cardKey = `${card.card_number}/${type.toLowerCase()}/${card.house
-                        .toLowerCase()
-                        .replace(' ', '')}/${card.rarity.toLowerCase()}`;
-                    newCard = packCardMap[cardKey];
+                    // Sort locale by key
+                    newCard.locale = Object.keys(newCard.locale)
+                        .sort()
+                        .reduce((newLocale, currentValue) => {
+                            newLocale[currentValue] = newCard.locale[currentValue];
+                            return newLocale;
+                        }, {});
 
-                    if (!newCard.locale) {
-                        // Just a safe check, but since 'en' is supposed to be loaded first, locale
-                        // will already exist
-                        newCard.locale = [];
-                    }
-
-                    newCard.locale[language.replace('-', '')] = {
-                        name: card.card_title
-                    };
+                    cards[cardKey] = newCard;
                 }
-
-                // Sort locale by key
-                newCard.locale = Object.keys(newCard.locale)
-                    .sort()
-                    .reduce((newLocale, currentValue) => {
-                        newLocale[currentValue] = newCard.locale[currentValue];
-                        return newLocale;
-                    }, {});
-
-                cards[cardKey] = newCard;
             }
 
             if (Object.values(cards).length == pack.cardCount) {
