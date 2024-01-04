@@ -11,7 +11,9 @@ const ValidKeywords = [
     'hazardous',
     'assault',
     'poison',
-    'splash-attack'
+    'splash-attack',
+    'treachery',
+    'versatile'
 ];
 
 function httpRequest(url, options = {}) {
@@ -80,7 +82,7 @@ class KeyforgeApiToKeytekiConverter {
     }
 
     async getCards(pack, language) {
-        const pageSize = 25;
+        const pageSize = 10;
         const apiUrl = 'https://www.keyforgegame.com/api/decks';
 
         console.info('Fetching the deck list...');
