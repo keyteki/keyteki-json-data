@@ -8154,6 +8154,27 @@
             }
         },
         {
+            "id": "immortal-greking",
+            "name": "Immortal Greking",
+            "number": "R05",
+            "image": "https://mastervault-storage-prod.s3.amazonaws.com/media/card_front/en/700_R05_e99b10eba871_en.png",
+            "expansion": 700,
+            "house": "geistoid",
+            "keywords": [],
+            "traits": ["specter"],
+            "type": "creature",
+            "rarity": "Special",
+            "amber": 0,
+            "armor": 0,
+            "power": 7,
+            "text": "Play: Take control of an enemy creature and place it anywhere in your battleline. Until Immortal Greking leaves play, that creature belongs to Immortal Greking's house.\nDestroyed: If you are haunted, archive Immortal Greking.\n",
+            "locale": {
+                "en": {
+                    "name": "Immortal Greking"
+                }
+            }
+        },
+        {
             "id": "phantom-drummernaut",
             "name": "Phantom Drummernaut",
             "number": "R06",
