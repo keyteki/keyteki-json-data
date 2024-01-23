@@ -8133,6 +8133,48 @@
             }
         },
         {
+            "id": "cincinnatus-resurrexit",
+            "name": "Cincinnatus Resurrexit",
+            "number": "R01",
+            "image": "https://mastervault-storage-prod.s3.amazonaws.com/media/card_front/en/700_R01_dd17ef51173c_en.png",
+            "expansion": 700,
+            "house": "saurian",
+            "keywords": [],
+            "traits": ["specter"],
+            "type": "creature",
+            "rarity": "Special",
+            "amber": 0,
+            "armor": 4,
+            "power": 6,
+            "text": "Cincinnatus Resurrexit gets +1 power for each  on it.\nPlay/After Fight: Capture 2 and exalt Cincinnatus Resurrexit.\nDestroyed: If you are haunted, archive Cincinnatus Resurrexit.\n",
+            "locale": {
+                "en": {
+                    "name": "Cincinnatus Resurrexit"
+                }
+            }
+        },
+        {
+            "id": "duma-the-returned",
+            "name": "Duma the Returned",
+            "number": "R02",
+            "image": "https://mastervault-storage-prod.s3.amazonaws.com/media/card_front/en/700_R02_dbc933f7cae3_en.png",
+            "expansion": 700,
+            "house": "sanctum",
+            "keywords": [],
+            "traits": ["specter"],
+            "type": "creature",
+            "rarity": "Special",
+            "amber": 0,
+            "armor": 0,
+            "power": 3,
+            "text": "Destroyed: Return the top 3 cards of your discard pile to your hand. If you are haunted, archive Duma the Returned.\n",
+            "locale": {
+                "en": {
+                    "name": "Duma the Returned"
+                }
+            }
+        },
+        {
             "id": "encounter-golem",
             "name": "Encounter Golem",
             "number": "R03",
@@ -8150,6 +8192,27 @@
             "locale": {
                 "en": {
                     "name": "Encounter Golem"
+                }
+            }
+        },
+        {
+            "id": "ghostly-dr-verokter",
+            "name": "Ghostly Dr. Verokter",
+            "number": "R04",
+            "image": "https://mastervault-storage-prod.s3.amazonaws.com/media/card_front/en/700_R04_18f44c9614e2_en.png",
+            "expansion": 700,
+            "house": "logos",
+            "keywords": ["elusive"],
+            "traits": ["specter"],
+            "type": "creature",
+            "rarity": "Special",
+            "amber": 0,
+            "armor": 0,
+            "power": 2,
+            "text": "Elusive.\nPlay/After Reap: Return a card from your discard pile to the top of your deck.\nDestroyed: If you are haunted, archive Ghostly Dr. Verokter.\n",
+            "locale": {
+                "en": {
+                    "name": "Ghostly Dr. Verokter"
                 }
             }
         },
@@ -8255,6 +8318,27 @@
             "locale": {
                 "en": {
                     "name": "Revived Ză-Orhă"
+                }
+            }
+        },
+        {
+            "id": "spectral-ruth",
+            "name": "Spectral Ruth",
+            "number": "R10",
+            "image": "https://mastervault-storage-prod.s3.amazonaws.com/media/card_front/en/700_R10_b59b1a2694be_en.png",
+            "expansion": 700,
+            "house": "brobnar",
+            "keywords": [],
+            "traits": ["specter"],
+            "type": "creature",
+            "rarity": "Special",
+            "amber": 0,
+            "armor": 0,
+            "power": 1,
+            "text": "Play: If you forged a key this turn, archive your discard pile.\nDestroyed: If you are haunted, archive Spectral Ruth.\n",
+            "locale": {
+                "en": {
+                    "name": "Spectral Ruth"
                 }
             }
         },
