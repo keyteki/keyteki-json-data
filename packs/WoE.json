@@ -14552,7 +14552,7 @@
             "type": "token creature",
             "rarity": "Token",
             "amber": 0,
-            "armor": null,
+            "armor": 2,
             "power": 5,
             "text": " \n",
             "locale": {
