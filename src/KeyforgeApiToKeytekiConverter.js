@@ -301,7 +301,7 @@ class KeyforgeApiToKeytekiConverter {
     }
 
     parseKeywords(text) {
-        let lines = text.split(/[\r\v]/);
+        let lines = text.split(/[\n\r\v]/);
         let potentialKeywords = [];
 
         for (let line of lines) {
