@@ -2638,7 +2638,7 @@
             "expansion": 700,
             "house": "geistoid",
             "keywords": [],
-            "traits": [],
+            "traits": ["location"],
             "type": "artifact",
             "rarity": "Rare",
             "amber": 0,
