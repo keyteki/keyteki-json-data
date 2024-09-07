@@ -1,0 +1,1223 @@
+{
+    "ids": [
+        "800"
+    ],
+    "code": "AS",
+    "name": "Æmber Skies",
+    "cardCount": "329",
+    "releaseDate": "",
+    "cards": [
+        {
+            "id": "pile-of-skulls",
+            "name": "Pile of Skulls",
+            "number": "014",
+            "image": "https://mastervault-storage-prod.s3.amazonaws.com/media/card_front/en/800_014_ed7b251efa0f_en.png",
+            "expansion": 800,
+            "house": "brobnar",
+            "keywords": [],
+            "traits": [
+                "location"
+            ],
+            "type": "artifact",
+            "rarity": "Rare",
+            "amber": 0,
+            "armor": null,
+            "power": null,
+            "text": "After an enemy creature is destroyed during your turn, a friendly creature captures 1.",
+            "locale": {
+                "en": {
+                    "name": "Pile of Skulls"
+                }
+            }
+        },
+        {
+            "id": "clap-of-thunder",
+            "name": "Clap of Thunder",
+            "number": "019",
+            "image": "https://mastervault-storage-prod.s3.amazonaws.com/media/card_front/en/800_019_d4ae68999222_en.png",
+            "expansion": 800,
+            "house": "brobnar",
+            "keywords": [],
+            "traits": [],
+            "type": "action",
+            "rarity": "Uncommon",
+            "amber": 0,
+            "armor": null,
+            "power": null,
+            "text": "Play: Destroy the least powerful creature. Ready and enrage the most powerful creature.\n",
+            "locale": {
+                "en": {
+                    "name": "Clap of Thunder"
+                }
+            }
+        },
+        {
+            "id": "berserker-slam",
+            "name": "Berserker Slam",
+            "number": "028",
+            "image": "https://mastervault-storage-prod.s3.amazonaws.com/media/card_front/en/800_028_85b7e7bbf0e5_en.png",
+            "expansion": 800,
+            "house": "brobnar",
+            "keywords": [],
+            "traits": [],
+            "type": "action",
+            "rarity": "Common",
+            "amber": 1,
+            "armor": null,
+            "power": null,
+            "text": "Play: Deal 4 to a flank creature. If this damage destroys that creature, its controller loses 1.",
+            "locale": {
+                "en": {
+                    "name": "Berserker Slam"
+                }
+            }
+        },
+        {
+            "id": "bosch-the-unyielding",
+            "name": "Bosch the Unyielding",
+            "number": "029",
+            "image": "https://mastervault-storage-prod.s3.amazonaws.com/media/card_front/en/800_029_ff39bd030d4b_en.png",
+            "expansion": 800,
+            "house": "brobnar",
+            "keywords": [
+                "taunt"
+            ],
+            "traits": [
+                "giant"
+            ],
+            "type": "creature",
+            "rarity": "Common",
+            "amber": 0,
+            "armor": 1,
+            "power": 5,
+            "text": "Taunt.\nAfter Fight: Fully heal Bosch the Unyielding.\n",
+            "locale": {
+                "en": {
+                    "name": "Bosch the Unyielding"
+                }
+            }
+        },
+        {
+            "id": "cacophonous-riot",
+            "name": "Cacophonous Riot",
+            "number": "030",
+            "image": "https://mastervault-storage-prod.s3.amazonaws.com/media/card_front/en/800_030_2d8a7f1d86d6_en.png",
+            "expansion": 800,
+            "house": "brobnar",
+            "keywords": [],
+            "traits": [],
+            "type": "action",
+            "rarity": "Common",
+            "amber": 1,
+            "armor": null,
+            "power": null,
+            "text": "Play: Ready and enrage a creature and each of its neighbors.\n",
+            "locale": {
+                "en": {
+                    "name": "Cacophonous Riot"
+                }
+            }
+        },
+        {
+            "id": "cirrus-mace",
+            "name": "Cirrus Mace",
+            "number": "031",
+            "image": "https://mastervault-storage-prod.s3.amazonaws.com/media/card_front/en/800_031_8b2e1e933a94_en.png",
+            "expansion": 800,
+            "house": "brobnar",
+            "keywords": [],
+            "traits": [
+                "weapon"
+            ],
+            "type": "artifact",
+            "rarity": "Common",
+            "amber": 0,
+            "armor": null,
+            "power": null,
+            "text": "Action: Give a creature two +1 power counters. Deal 2 to each of that creature’s neighbors.\n",
+            "locale": {
+                "en": {
+                    "name": "Cirrus Mace"
+                }
+            }
+        },
+        {
+            "id": "db-gobber",
+            "name": "D.B. Gobber",
+            "number": "032",
+            "image": "https://mastervault-storage-prod.s3.amazonaws.com/media/card_front/en/800_032_2ea263f92459_en.png",
+            "expansion": 800,
+            "house": "brobnar",
+            "keywords": [],
+            "traits": [
+                "goblin"
+            ],
+            "type": "creature",
+            "rarity": "Common",
+            "amber": 0,
+            "armor": 0,
+            "power": 3,
+            "text": "After Reap: Your opponent loses 1.\nScrap: Each player with 7 or more loses 2.\n",
+            "locale": {
+                "en": {
+                    "name": "D.B. Gobber"
+                }
+            }
+        },
+        {
+            "id": "rowdy-skald",
+            "name": "Rowdy Skald",
+            "number": "038",
+            "image": "https://mastervault-storage-prod.s3.amazonaws.com/media/card_front/en/800_038_4b03a61d7b94_en.png",
+            "expansion": 800,
+            "house": "brobnar",
+            "keywords": [],
+            "traits": [
+                "goblin"
+            ],
+            "type": "creature",
+            "rarity": "Common",
+            "amber": 0,
+            "armor": 0,
+            "power": 4,
+            "text": "Enhance . (These icons have already been added to cards in your deck.)\n",
+            "locale": {
+                "en": {
+                    "name": "Rowdy Skald"
+                }
+            }
+        },
+        {
+            "id": "terrance-surefoot",
+            "name": "Terrance Surefoot",
+            "number": "039",
+            "image": "https://mastervault-storage-prod.s3.amazonaws.com/media/card_front/en/800_039_cd75a8922e35_en.png",
+            "expansion": 800,
+            "house": "brobnar",
+            "keywords": [
+                "elusive"
+            ],
+            "traits": [
+                "goblin"
+            ],
+            "type": "creature",
+            "rarity": "Common",
+            "amber": 0,
+            "armor": 0,
+            "power": 3,
+            "text": "Elusive.\nAfter an enemy creature reaps, move 1 from Terrance Surefoot to the common supply.\nPlay/After Reap: Capture 1.\n",
+            "locale": {
+                "en": {
+                    "name": "Terrance Surefoot"
+                }
+            }
+        },
+        {
+            "id": "guilty-hearts",
+            "name": "Guilty Hearts",
+            "number": "047",
+            "image": "https://mastervault-storage-prod.s3.amazonaws.com/media/card_front/en/800_047_1977f8af6b6c_en.png",
+            "expansion": 800,
+            "house": "dis",
+            "keywords": [],
+            "traits": [],
+            "type": "action",
+            "rarity": "Rare",
+            "amber": 1,
+            "armor": null,
+            "power": null,
+            "text": "Play: Destroy each creature with  on it.\n",
+            "locale": {
+                "en": {
+                    "name": "Guilty Hearts"
+                }
+            }
+        },
+        {
+            "id": "library-of-the-damned",
+            "name": "Library of the Damned",
+            "number": "063",
+            "image": "https://mastervault-storage-prod.s3.amazonaws.com/media/card_front/en/800_063_f0ce1e997838_en.png",
+            "expansion": 800,
+            "house": "dis",
+            "keywords": [],
+            "traits": [
+                "location"
+            ],
+            "type": "artifact",
+            "rarity": "Uncommon",
+            "amber": 0,
+            "armor": null,
+            "power": null,
+            "text": "Action: Archive a card.\n",
+            "locale": {
+                "en": {
+                    "name": "Library of the Damned"
+                }
+            }
+        },
+        {
+            "id": "poltergeist",
+            "name": "Poltergeist",
+            "number": "064",
+            "image": "https://mastervault-storage-prod.s3.amazonaws.com/media/card_front/en/800_064_9373b9e6a505_en.png",
+            "expansion": 800,
+            "house": "dis",
+            "keywords": [],
+            "traits": [],
+            "type": "action",
+            "rarity": "Uncommon",
+            "amber": 1,
+            "armor": null,
+            "power": null,
+            "text": "Play: Use an artifact controlled by any player as if it were yours. Destroy that artifact.",
+            "locale": {
+                "en": {
+                    "name": "Poltergeist"
+                }
+            }
+        },
+        {
+            "id": "snudge",
+            "name": "Snudge",
+            "number": "065",
+            "image": "https://mastervault-storage-prod.s3.amazonaws.com/media/card_front/en/800_065_6ff5d4ff9b8f_en.png",
+            "expansion": 800,
+            "house": "dis",
+            "keywords": [],
+            "traits": [
+                "demon"
+            ],
+            "type": "creature",
+            "rarity": "Uncommon",
+            "amber": 0,
+            "armor": 0,
+            "power": 4,
+            "text": "After Fight/After Reap: Return an artifact or flank creature to its owner’s hand.\n",
+            "locale": {
+                "en": {
+                    "name": "Snudge"
+                }
+            }
+        },
+        {
+            "id": "clipped-wings",
+            "name": "Clipped Wings",
+            "number": "071",
+            "image": "https://mastervault-storage-prod.s3.amazonaws.com/media/card_front/en/800_071_3b02eee1a5e9_en.png",
+            "expansion": 800,
+            "house": "dis",
+            "keywords": [],
+            "traits": [],
+            "type": "action",
+            "rarity": "Common",
+            "amber": 1,
+            "armor": null,
+            "power": null,
+            "text": "Play: Choose one:\nPurge a random card from your opponent’s hand.\nShuffle your opponent’s archives into their deck.\n\n",
+            "locale": {
+                "en": {
+                    "name": "Clipped Wings"
+                }
+            }
+        },
+        {
+            "id": "infinity-strop",
+            "name": "Infinity Strop",
+            "number": "073",
+            "image": "https://mastervault-storage-prod.s3.amazonaws.com/media/card_front/en/800_073_2deeba14ce34_en.png",
+            "expansion": 800,
+            "house": "dis",
+            "keywords": [],
+            "traits": [],
+            "type": "action",
+            "rarity": "Common",
+            "amber": 1,
+            "armor": null,
+            "power": null,
+            "text": "Play: Deal 2 to a creature. If this damage destroys that creature, deal 4 to each creature that shares a house with the destroyed creature.\n",
+            "locale": {
+                "en": {
+                    "name": "Infinity Strop"
+                }
+            }
+        },
+        {
+            "id": "monsquito",
+            "name": "Monsquito",
+            "number": "075",
+            "image": "https://mastervault-storage-prod.s3.amazonaws.com/media/card_front/en/800_075_6c37783bd08f_en.png",
+            "expansion": 800,
+            "house": "dis",
+            "keywords": [],
+            "traits": [
+                "imp"
+            ],
+            "type": "creature",
+            "rarity": "Common",
+            "amber": 0,
+            "armor": 0,
+            "power": 3,
+            "text": "After Fight: Fully heal Monsquito. Deal 2 to a creature.\n",
+            "locale": {
+                "en": {
+                    "name": "Monsquito"
+                }
+            }
+        },
+        {
+            "id": "searine",
+            "name": "Searine",
+            "number": "076",
+            "image": "https://mastervault-storage-prod.s3.amazonaws.com/media/card_front/en/800_076_036da7e78db8_en.png",
+            "expansion": 800,
+            "house": "dis",
+            "keywords": [],
+            "traits": [
+                "demon",
+                "recruiter"
+            ],
+            "type": "creature",
+            "rarity": "Common",
+            "amber": 0,
+            "armor": 0,
+            "power": 4,
+            "text": "Enhance . (These icons have already been added to cards in your deck.)\nScrap: Deal 2 to a friendly creature.\n",
+            "locale": {
+                "en": {
+                    "name": "Searine"
+                }
+            }
+        },
+        {
+            "id": "vapor-imp",
+            "name": "Vapor Imp",
+            "number": "079",
+            "image": "https://mastervault-storage-prod.s3.amazonaws.com/media/card_front/en/800_079_1e05df10992b_en.png",
+            "expansion": 800,
+            "house": "dis",
+            "keywords": [],
+            "traits": [
+                "imp"
+            ],
+            "type": "creature",
+            "rarity": "Common",
+            "amber": 0,
+            "armor": 0,
+            "power": 2,
+            "text": "Enhance .\nAfter Reap: Discard a random card from your hand. During your opponent’s next turn, they cannot play cards of the discarded card’s type.\n",
+            "locale": {
+                "en": {
+                    "name": "Vapor Imp"
+                }
+            }
+        },
+        {
+            "id": "cursed-relic",
+            "name": "Cursed Relic",
+            "number": "089",
+            "image": "https://mastervault-storage-prod.s3.amazonaws.com/media/card_front/en/800_089_599153b3ae04_en.png",
+            "expansion": 800,
+            "house": "ekwidon",
+            "keywords": [],
+            "traits": [
+                "item"
+            ],
+            "type": "artifact",
+            "rarity": "Rare",
+            "amber": 0,
+            "armor": null,
+            "power": null,
+            "text": "Enhance . \nYou cannot play Cursed Relic.\nCursed Relic cannot be discarded from your hand except through card abilities.\n",
+            "locale": {
+                "en": {
+                    "name": "Cursed Relic"
+                }
+            }
+        },
+        {
+            "id": "cogg-miller",
+            "name": "Cogg Miller",
+            "number": "102",
+            "image": "https://mastervault-storage-prod.s3.amazonaws.com/media/card_front/en/800_102_40635b006976_en.png",
+            "expansion": 800,
+            "house": "ekwidon",
+            "keywords": [],
+            "traits": [
+                "robot"
+            ],
+            "type": "creature",
+            "rarity": "Uncommon",
+            "amber": 0,
+            "armor": 4,
+            "power": 3,
+            "text": "After Fight: You may destroy an artifact. If you do, its owner archives a random card from their hand.\n",
+            "locale": {
+                "en": {
+                    "name": "Cogg Miller"
+                }
+            }
+        },
+        {
+            "id": "de-escalation",
+            "name": "De-escalation",
+            "number": "116",
+            "image": "https://mastervault-storage-prod.s3.amazonaws.com/media/card_front/en/800_116_2a09e83ad1ae_en.png",
+            "expansion": 800,
+            "house": "ekwidon",
+            "keywords": [],
+            "traits": [],
+            "type": "action",
+            "rarity": "Common",
+            "amber": 0,
+            "armor": null,
+            "power": null,
+            "text": "Play: Destroy each creature. Your opponent archives the top 3 cards of their deck.\n",
+            "locale": {
+                "en": {
+                    "name": "De-escalation"
+                }
+            }
+        },
+        {
+            "id": "distributor-janŏŏnt",
+            "name": "Distributor Janŏŏnt",
+            "number": "117",
+            "image": "https://mastervault-storage-prod.s3.amazonaws.com/media/card_front/en/800_117_fd42f8568de0_en.png",
+            "expansion": 800,
+            "house": "ekwidon",
+            "keywords": [],
+            "traits": [
+                "human"
+            ],
+            "type": "creature",
+            "rarity": "Common",
+            "amber": 0,
+            "armor": 0,
+            "power": 2,
+            "text": "Enhance .\nAfter Fight/After Reap: Move 1 from a creature to another creature.\n",
+            "locale": {
+                "en": {
+                    "name": "Distributor Janŏŏnt"
+                }
+            }
+        },
+        {
+            "id": "transparency-report",
+            "name": "Transparency Report",
+            "number": "122",
+            "image": "https://mastervault-storage-prod.s3.amazonaws.com/media/card_front/en/800_122_26027f73a5dc_en.png",
+            "expansion": 800,
+            "house": "ekwidon",
+            "keywords": [],
+            "traits": [],
+            "type": "action",
+            "rarity": "Common",
+            "amber": 0,
+            "armor": null,
+            "power": null,
+            "text": "Play: Reveal your hand. If it contains no cards of the active house, gain 2.\n",
+            "locale": {
+                "en": {
+                    "name": "Transparency Report"
+                }
+            }
+        },
+        {
+            "id": "vendor-hyertula",
+            "name": "Vendor Hyertula",
+            "number": "123",
+            "image": "https://mastervault-storage-prod.s3.amazonaws.com/media/card_front/en/800_123_9f628c09f353_en.png",
+            "expansion": 800,
+            "house": "ekwidon",
+            "keywords": [],
+            "traits": [
+                "getrookya",
+                "merchant"
+            ],
+            "type": "creature",
+            "rarity": "Common",
+            "amber": 0,
+            "armor": 0,
+            "power": 3,
+            "text": "After Reap: You may destroy Vendor Hyertula. If you do, take control of an enemy artifact. While under your control, it belongs to house Ekwidon.\n",
+            "locale": {
+                "en": {
+                    "name": "Vendor Hyertula"
+                }
+            }
+        },
+        {
+            "id": "vĕsted-harŏld",
+            "name": "Vĕsted Harŏld",
+            "number": "124",
+            "image": "https://mastervault-storage-prod.s3.amazonaws.com/media/card_front/en/800_124_2d74ec134e90_en.png",
+            "expansion": 800,
+            "house": "ekwidon",
+            "keywords": [],
+            "traits": [
+                "diplomat",
+                "recruiter"
+            ],
+            "type": "creature",
+            "rarity": "Common",
+            "amber": 0,
+            "armor": 0,
+            "power": 4,
+            "text": "Enhance . (These icons have already been added to cards in your deck.)\nScrap: Choose a friendly creature and an enemy creature. Put each chosen creature into its owner's archives.\n",
+            "locale": {
+                "en": {
+                    "name": "Vĕsted Harŏld"
+                }
+            }
+        },
+        {
+            "id": "animating-force",
+            "name": "Animating Force",
+            "number": "129",
+            "image": "https://mastervault-storage-prod.s3.amazonaws.com/media/card_front/en/800_129_932490d96eff_en.png",
+            "expansion": 800,
+            "house": "geistoid",
+            "keywords": [],
+            "traits": [],
+            "type": "upgrade",
+            "rarity": "Rare",
+            "amber": 0,
+            "armor": null,
+            "power": null,
+            "text": "This upgrade enters play attached to an artifact instead of a creature. \nPlay: Take control of this artifact and put it on a flank of your battleline as a creature with 4 power and versatile.\nScrap: Gain 1.\n",
+            "locale": {
+                "en": {
+                    "name": "Animating Force"
+                }
+            }
+        },
+        {
+            "id": "kaspara",
+            "name": "Kaspara",
+            "number": "137",
+            "image": "https://mastervault-storage-prod.s3.amazonaws.com/media/card_front/en/800_137_5ade047fac29_en.png",
+            "expansion": 800,
+            "house": "geistoid",
+            "keywords": [],
+            "traits": [
+                "specter",
+                "robot"
+            ],
+            "type": "creature",
+            "rarity": "Rare",
+            "amber": 0,
+            "armor": 0,
+            "power": null,
+            "text": "X is the combined total of  between each player’s pools.\nEach friendly Geistoid creature gains, “Play/Destroyed: Each player gains 1.”\n",
+            "locale": {
+                "en": {
+                    "name": "Kaspara"
+                }
+            }
+        },
+        {
+            "id": "atomic-destabilizer",
+            "name": "Atomic Destabilizer",
+            "number": "143",
+            "image": "https://mastervault-storage-prod.s3.amazonaws.com/media/card_front/en/800_143_e138eb276ebb_en.png",
+            "expansion": 800,
+            "house": "geistoid",
+            "keywords": [],
+            "traits": [],
+            "type": "upgrade",
+            "rarity": "Uncommon",
+            "amber": 1,
+            "armor": null,
+            "power": null,
+            "text": "This creature gains, “At the end of your turn, this creature captures 1. Lose 1 for each  on this creature.”\n",
+            "locale": {
+                "en": {
+                    "name": "Atomic Destabilizer"
+                }
+            }
+        },
+        {
+            "id": "crepuscular-rays",
+            "name": "Crepuscular Rays",
+            "number": "144",
+            "image": "https://mastervault-storage-prod.s3.amazonaws.com/media/card_front/en/800_144_af836115b0fb_en.png",
+            "expansion": 800,
+            "house": "geistoid",
+            "keywords": [],
+            "traits": [],
+            "type": "action",
+            "rarity": "Uncommon",
+            "amber": 1,
+            "armor": null,
+            "power": null,
+            "text": "Play: Choose a friendly creature. Move each  from that creature to your pool. Destroy that creature.\n",
+            "locale": {
+                "en": {
+                    "name": "Crepuscular Rays"
+                }
+            }
+        },
+        {
+            "id": "doppelganger",
+            "name": "Doppelganger",
+            "number": "145",
+            "image": "https://mastervault-storage-prod.s3.amazonaws.com/media/card_front/en/800_145_e63e0028d743_en.png",
+            "expansion": 800,
+            "house": "geistoid",
+            "keywords": [],
+            "traits": [
+                "specter",
+                "shapeshifter"
+            ],
+            "type": "creature",
+            "rarity": "Uncommon",
+            "amber": 0,
+            "armor": 0,
+            "power": 3,
+            "text": "At the start of your turn, choose one of Doppelganger’s neighbors.  For the remainder of the turn, Doppelganger gains the text box of the chosen creature.\n",
+            "locale": {
+                "en": {
+                    "name": "Doppelganger"
+                }
+            }
+        },
+        {
+            "id": "energy-vampirism",
+            "name": "Energy Vampirism",
+            "number": "147",
+            "image": "https://mastervault-storage-prod.s3.amazonaws.com/media/card_front/en/800_147_5c7e850d92ff_en.png",
+            "expansion": 800,
+            "house": "geistoid",
+            "keywords": [],
+            "traits": [],
+            "type": "action",
+            "rarity": "Uncommon",
+            "amber": 1,
+            "armor": null,
+            "power": null,
+            "text": "Play: A creature captures 1 from its own side. For each  on that creature, deal 1 to a creature.\n",
+            "locale": {
+                "en": {
+                    "name": "Energy Vampirism"
+                }
+            }
+        },
+        {
+            "id": "paradrone",
+            "name": "Paradrone",
+            "number": "148",
+            "image": "https://mastervault-storage-prod.s3.amazonaws.com/media/card_front/en/800_148_ec517b2932e8_en.png",
+            "expansion": 800,
+            "house": "geistoid",
+            "keywords": [],
+            "traits": [
+                "specter",
+                "vehicle"
+            ],
+            "type": "creature",
+            "rarity": "Uncommon",
+            "amber": 0,
+            "armor": 4,
+            "power": 2,
+            "text": "After Fight: A friendly creature captures 1.\n",
+            "locale": {
+                "en": {
+                    "name": "Paradrone"
+                }
+            }
+        },
+        {
+            "id": "return-to-rubble",
+            "name": "Return to Rubble",
+            "number": "149",
+            "image": "https://mastervault-storage-prod.s3.amazonaws.com/media/card_front/en/800_149_878eef50f376_en.png",
+            "expansion": 800,
+            "house": "geistoid",
+            "keywords": [],
+            "traits": [],
+            "type": "action",
+            "rarity": "Uncommon",
+            "amber": 0,
+            "armor": null,
+            "power": null,
+            "text": "Play: Shuffle the top 10 cards of your discard pile into your deck. If you do, destroy each creature.\n",
+            "locale": {
+                "en": {
+                    "name": "Return to Rubble"
+                }
+            }
+        },
+        {
+            "id": "thoughtcatcher",
+            "name": "Thoughtcatcher",
+            "number": "150",
+            "image": "https://mastervault-storage-prod.s3.amazonaws.com/media/card_front/en/800_150_54bef3fbbccd_en.png",
+            "expansion": 800,
+            "house": "geistoid",
+            "keywords": [],
+            "traits": [
+                "specter",
+                "robot"
+            ],
+            "type": "creature",
+            "rarity": "Uncommon",
+            "amber": 0,
+            "armor": 0,
+            "power": 5,
+            "text": "Enhance .\nEach friendly creature with  on it gains, “Destroyed: Draw 1 card.”\n",
+            "locale": {
+                "en": {
+                    "name": "Thoughtcatcher"
+                }
+            }
+        },
+        {
+            "id": "titan-apparition",
+            "name": "Titan Apparition",
+            "number": "151",
+            "image": "https://mastervault-storage-prod.s3.amazonaws.com/media/card_front/en/800_151_d555c9c62e62_en.png",
+            "expansion": 800,
+            "house": "geistoid",
+            "keywords": [
+                "taunt"
+            ],
+            "traits": [
+                "specter",
+                "cyborg"
+            ],
+            "type": "creature",
+            "rarity": "Uncommon",
+            "amber": 0,
+            "armor": 0,
+            "power": 6,
+            "text": "Taunt.\nDestroyed: If it is not your turn, your opponent discards 5 cards from the top of their deck. Otherwise, discard 5 cards from the top of your deck.\n",
+            "locale": {
+                "en": {
+                    "name": "Titan Apparition"
+                }
+            }
+        },
+        {
+            "id": "tribute-collector",
+            "name": "Tribute Collector",
+            "number": "152",
+            "image": "https://mastervault-storage-prod.s3.amazonaws.com/media/card_front/en/800_152_6168d3d312c9_en.png",
+            "expansion": 800,
+            "house": "geistoid",
+            "keywords": [
+                "taunt"
+            ],
+            "traits": [
+                "specter",
+                "robot"
+            ],
+            "type": "creature",
+            "rarity": "Uncommon",
+            "amber": 0,
+            "armor": 2,
+            "power": 4,
+            "text": "Taunt.\nPlay/After Fight: A friendly creature captures 1.\n",
+            "locale": {
+                "en": {
+                    "name": "Tribute Collector"
+                }
+            }
+        },
+        {
+            "id": "harvest-skimmer",
+            "name": "Harvest Skimmer",
+            "number": "156",
+            "image": "https://mastervault-storage-prod.s3.amazonaws.com/media/card_front/en/800_156_5fc363e7d6db_en.png",
+            "expansion": 800,
+            "house": "geistoid",
+            "keywords": [],
+            "traits": [
+                "specter",
+                "robot"
+            ],
+            "type": "creature",
+            "rarity": "Common",
+            "amber": 0,
+            "armor": 0,
+            "power": 5,
+            "text": "After Reap: Discard the top card of your deck. If it is a creature, gain 1.\n",
+            "locale": {
+                "en": {
+                    "name": "Harvest Skimmer"
+                }
+            }
+        },
+        {
+            "id": "haunting-deck",
+            "name": "Haunting Deck",
+            "number": "157",
+            "image": "https://mastervault-storage-prod.s3.amazonaws.com/media/card_front/en/800_157_eb53c2835e14_en.png",
+            "expansion": 800,
+            "house": "geistoid",
+            "keywords": [],
+            "traits": [],
+            "type": "action",
+            "rarity": "Common",
+            "amber": 1,
+            "armor": null,
+            "power": null,
+            "text": "Enhance . (These icons have already been added to cards in your deck.)\nPlay: If you are haunted, purge a card from a discard pile.\n",
+            "locale": {
+                "en": {
+                    "name": "Haunting Deck"
+                }
+            }
+        },
+        {
+            "id": "in-here-somewhere…",
+            "name": "In Here Somewhere…",
+            "number": "158",
+            "image": "https://mastervault-storage-prod.s3.amazonaws.com/media/card_front/en/800_158_ee0fe1c98ddd_en.png",
+            "expansion": 800,
+            "house": "geistoid",
+            "keywords": [],
+            "traits": [],
+            "type": "action",
+            "rarity": "Common",
+            "amber": 1,
+            "armor": null,
+            "power": null,
+            "text": "Play: If you are haunted, archive 2 cards from your discard pile. Otherwise, discard the top 5 cards of your deck.\n",
+            "locale": {
+                "en": {
+                    "name": "In Here Somewhere…"
+                }
+            }
+        },
+        {
+            "id": "parabyte",
+            "name": "Parabyte",
+            "number": "161",
+            "image": "https://mastervault-storage-prod.s3.amazonaws.com/media/card_front/en/800_161_a88b75effe71_en.png",
+            "expansion": 800,
+            "house": "geistoid",
+            "keywords": [],
+            "traits": [
+                "specter",
+                "ai"
+            ],
+            "type": "creature",
+            "rarity": "Common",
+            "amber": 0,
+            "armor": 0,
+            "power": 2,
+            "text": "Your opponent’s keys cost +1 for each  on friendly creatures.\nPlay/After Reap: A friendly creature captures 1.\n",
+            "locale": {
+                "en": {
+                    "name": "Parabyte"
+                }
+            }
+        },
+        {
+            "id": "stratowise",
+            "name": "Stratowise",
+            "number": "163",
+            "image": "https://mastervault-storage-prod.s3.amazonaws.com/media/card_front/en/800_163_4a091ce2c4ae_en.png",
+            "expansion": 800,
+            "house": "geistoid",
+            "keywords": [],
+            "traits": [
+                "specter",
+                "vehicle"
+            ],
+            "type": "creature",
+            "rarity": "Common",
+            "amber": 0,
+            "armor": 0,
+            "power": 3,
+            "text": "After Fight/After Reap: Discard a card. If you are haunted, capture 1.\n",
+            "locale": {
+                "en": {
+                    "name": "Stratowise"
+                }
+            }
+        },
+        {
+            "id": "summoned-counsel",
+            "name": "Summoned Counsel",
+            "number": "164",
+            "image": "https://mastervault-storage-prod.s3.amazonaws.com/media/card_front/en/800_164_287181bdc8d2_en.png",
+            "expansion": 800,
+            "house": "geistoid",
+            "keywords": [],
+            "traits": [
+                "specter"
+            ],
+            "type": "creature",
+            "rarity": "Common",
+            "amber": 0,
+            "armor": 0,
+            "power": 2,
+            "text": "After Reap: Choose a card in your discard pile or a purged card you own. Shuffle the chosen card into your deck.\n",
+            "locale": {
+                "en": {
+                    "name": "Summoned Counsel"
+                }
+            }
+        },
+        {
+            "id": "wellstring",
+            "name": "Wellstring",
+            "number": "165",
+            "image": "https://mastervault-storage-prod.s3.amazonaws.com/media/card_front/en/800_165_fd52ee73adb3_en.png",
+            "expansion": 800,
+            "house": "geistoid",
+            "keywords": [],
+            "traits": [
+                "robot",
+                "specter"
+            ],
+            "type": "creature",
+            "rarity": "Common",
+            "amber": 0,
+            "armor": 0,
+            "power": 3,
+            "text": "Enhance .\nAfter Fight/After Reap: Deal 3 to a creature.\n",
+            "locale": {
+                "en": {
+                    "name": "Wellstring"
+                }
+            }
+        },
+        {
+            "id": "precocious-fragment",
+            "name": "Precocious Fragment",
+            "number": "168",
+            "image": "https://mastervault-storage-prod.s3.amazonaws.com/media/card_front/en/800_168_5b9fb99ebb0a_en.png",
+            "expansion": 800,
+            "house": "geistoid",
+            "keywords": [],
+            "traits": [
+                "specter",
+                "robot"
+            ],
+            "type": "creature",
+            "rarity": "Special",
+            "amber": 0,
+            "armor": 0,
+            "power": 3,
+            "text": "After Reap: If you are haunted, gain 1. Otherwise, discard the top card of your deck.\n",
+            "locale": {
+                "en": {
+                    "name": "Precocious Fragment"
+                }
+            }
+        },
+        {
+            "id": "mender",
+            "name": "Mender",
+            "number": "170",
+            "image": "https://mastervault-storage-prod.s3.amazonaws.com/media/card_front/en/800_170_90ebb3a49819_en.png",
+            "expansion": 800,
+            "house": "geistoid",
+            "keywords": [],
+            "traits": [
+                "specter",
+                "robot"
+            ],
+            "type": "creature",
+            "rarity": "Special",
+            "amber": 0,
+            "armor": 2,
+            "power": 2,
+            "text": "Play/After Reap: Purge a card from a discard pile. Fully heal and ward each Robot creature.\n",
+            "locale": {
+                "en": {
+                    "name": "Mender"
+                }
+            }
+        },
+        {
+            "id": "de-doss",
+            "name": "De-Doss",
+            "number": "192",
+            "image": "https://mastervault-storage-prod.s3.amazonaws.com/media/card_front/en/800_192_aa01e70eaaa8_en.png",
+            "expansion": 800,
+            "house": "logos",
+            "keywords": [],
+            "traits": [],
+            "type": "upgrade",
+            "rarity": "Uncommon",
+            "amber": 1,
+            "armor": null,
+            "power": null,
+            "text": "This creature gains, “Your opponent cannot play creatures more powerful than this creature.”\n",
+            "locale": {
+                "en": {
+                    "name": "De-Doss"
+                }
+            }
+        },
+        {
+            "id": "rm-foler",
+            "name": "Rm-Foler",
+            "number": "197",
+            "image": "https://mastervault-storage-prod.s3.amazonaws.com/media/card_front/en/800_197_11b6d6103d38_en.png",
+            "expansion": 800,
+            "house": "logos",
+            "keywords": [],
+            "traits": [
+                "ai",
+                "insect"
+            ],
+            "type": "creature",
+            "rarity": "Uncommon",
+            "amber": 0,
+            "armor": 0,
+            "power": 2,
+            "text": "After Reap: Destroy an enemy creature. If you do, draw a card.\n",
+            "locale": {
+                "en": {
+                    "name": "Rm-Foler"
+                }
+            }
+        },
+        {
+            "id": "articulated-ren",
+            "name": "Articulated Ren",
+            "number": "200",
+            "image": "https://mastervault-storage-prod.s3.amazonaws.com/media/card_front/en/800_200_61f3376e4078_en.png",
+            "expansion": 800,
+            "house": "logos",
+            "keywords": [
+                "hazardous:1"
+            ],
+            "traits": [
+                "cyborg",
+                "scientist"
+            ],
+            "type": "creature",
+            "rarity": "Common",
+            "amber": 0,
+            "armor": 0,
+            "power": 3,
+            "text": "Hazardous 1.\nAt the end of your turn, you may exhaust a friendly creature. If you do, draw a card.\n",
+            "locale": {
+                "en": {
+                    "name": "Articulated Ren"
+                }
+            }
+        },
+        {
+            "id": "brillix-ponder",
+            "name": "Brillix Ponder",
+            "number": "201",
+            "image": "https://mastervault-storage-prod.s3.amazonaws.com/media/card_front/en/800_201_52850ba65f44_en.png",
+            "expansion": 800,
+            "house": "logos",
+            "keywords": [],
+            "traits": [
+                "cyborg",
+                "recruiter"
+            ],
+            "type": "creature",
+            "rarity": "Common",
+            "amber": 0,
+            "armor": 0,
+            "power": 3,
+            "text": "Enhance . (These icons have already been added to cards in your deck.)\nScrap: Draw a card.\n",
+            "locale": {
+                "en": {
+                    "name": "Brillix Ponder"
+                }
+            }
+        },
+        {
+            "id": "connectome-transfer",
+            "name": "Connectome Transfer",
+            "number": "202",
+            "image": "https://mastervault-storage-prod.s3.amazonaws.com/media/card_front/en/800_202_76d724b6c8b6_en.png",
+            "expansion": 800,
+            "house": "logos",
+            "keywords": [],
+            "traits": [],
+            "type": "action",
+            "rarity": "Common",
+            "amber": 1,
+            "armor": null,
+            "power": null,
+            "text": "Play: Put each flank creature into its owner’s archives.\n",
+            "locale": {
+                "en": {
+                    "name": "Connectome Transfer"
+                }
+            }
+        },
+        {
+            "id": "daughter",
+            "name": "Daughter",
+            "number": "203",
+            "image": "https://mastervault-storage-prod.s3.amazonaws.com/media/card_front/en/800_203_95a9b28a86a4_en.png",
+            "expansion": 800,
+            "house": "logos",
+            "keywords": [
+                "elusive"
+            ],
+            "traits": [
+                "cyborg",
+                "scientist"
+            ],
+            "type": "creature",
+            "rarity": "Common",
+            "amber": 0,
+            "armor": 0,
+            "power": 2,
+            "text": "Elusive. (The first time this creature is attacked each turn, no damage is dealt.)\nRefill your hand to 1 additional card during your “draw cards” step.",
+            "locale": {
+                "en": {
+                    "name": "Daughter"
+                }
+            }
+        },
+        {
+            "id": "placeholder",
+            "name": "Placeholder",
+            "number": "208",
+            "image": "https://mastervault-storage-prod.s3.amazonaws.com/media/card_front/en/800_208_11ae8802a2a8_en.png",
+            "expansion": 800,
+            "house": "logos",
+            "keywords": [],
+            "traits": [],
+            "type": "action",
+            "rarity": "Common",
+            "amber": 1,
+            "armor": null,
+            "power": null,
+            "text": "Play: Move a creature to a flank of its controller’s battleline and deal 2 to it. If it is not destroyed, repeat the preceding effect.\n",
+            "locale": {
+                "en": {
+                    "name": "Placeholder"
+                }
+            }
+        },
+        {
+            "id": "quantum-mouse",
+            "name": "Quantum Mouse",
+            "number": "209",
+            "image": "https://mastervault-storage-prod.s3.amazonaws.com/media/card_front/en/800_209_c7a4e5ff5cc5_en.png",
+            "expansion": 800,
+            "house": "logos",
+            "keywords": [],
+            "traits": [
+                "cyborg"
+            ],
+            "type": "creature",
+            "rarity": "Common",
+            "amber": 0,
+            "armor": 0,
+            "power": 1,
+            "text": "Enhance .\nWhen you would resolve a  bonus icon, you may choose to resolve it as a  bonus icon instead.\n",
+            "locale": {
+                "en": {
+                    "name": "Quantum Mouse"
+                }
+            }
+        }
+    ]
+}
