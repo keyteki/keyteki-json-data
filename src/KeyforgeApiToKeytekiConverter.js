@@ -170,8 +170,10 @@ class KeyforgeApiToKeytekiConverter {
             }
 
             for (let card of response._linked.cards) {
-                // Fix the house of an anomaly to brobnar so that we can test them until they get a real house
-                if (card.is_anomaly) {
+                // Fix the house of an anomalies and other special
+                // cards to brobnar so that we can test them until
+                // they get a real house
+                if (card.is_anomaly || card.card_number.startsWith('S')) {
                     card.house = 'brobnar';
                 }
 
@@ -296,6 +298,28 @@ class KeyforgeApiToKeytekiConverter {
                 card.power = cards[cardKey].power;
                 card.amber = cards[cardKey].amber;
                 card.armor = cards[cardKey].armor;
+            } else if (card.text.includes('Play only with the other half') && card.type === 'creature' && card.rarity === 'Special') {
+                // Gigantics in More Mutation don't have the
+                // "creature1"/"creature2" types.  Card text is the only way to
+                // distinguish them.
+                card.id += '2';
+
+                let h = card.house.charAt(0).toUpperCase() + card.house.slice(1)
+                if (h === 'Staralliance') {
+                    h = "Star Alliance"
+                }
+
+                let cardKey = `${card.number}/Creature/${h}/rare`
+                let topHalf = cards[cardKey];
+                if (!topHalf) {
+                    console.info('No card found', cardKey);
+                }
+
+                topHalf.text = card.text;
+                topHalf.power = card.power;
+                topHalf.amber = card.amber;
+                topHalf.armor = card.armor;
+                topHalf.traits = card.traits;
             }
         }
 
