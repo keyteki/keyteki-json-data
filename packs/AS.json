@@ -4,7 +4,7 @@
     ],
     "code": "AS",
     "name": "Æmber Skies",
-    "cardCount": "335",
+    "cardCount": "329",
     "releaseDate": "",
     "cards": [
         {
@@ -6933,29 +6933,6 @@
             "number": "S01",
             "image": "https://mastervault-storage-prod.s3.amazonaws.com/media/card_front/en/800_S01_5facb2a90ff3_en.png",
             "expansion": 800,
-            "house": "geistoid",
-            "keywords": [],
-            "traits": [
-                "leviathan"
-            ],
-            "type": "creature",
-            "rarity": "Special",
-            "amber": 0,
-            "armor": 0,
-            "power": 12,
-            "text": "Each  that would be added to your opponent’s pool is captured by Akugyo instead.\nAfter Fight: Move 2 from Akugyo to your pool.\n",
-            "locale": {
-                "en": {
-                    "name": "Akugyo"
-                }
-            }
-        },
-        {
-            "id": "akugyo",
-            "name": "Akugyo",
-            "number": "S01",
-            "image": "https://mastervault-storage-prod.s3.amazonaws.com/media/card_front/en/800_S01_5facb2a90ff3_en.png",
-            "expansion": 800,
             "house": "brobnar",
             "keywords": [],
             "traits": [
@@ -6974,85 +6951,12 @@
             }
         },
         {
-            "id": "akugyo",
-            "name": "Akugyo",
-            "number": "S01",
-            "image": "https://mastervault-storage-prod.s3.amazonaws.com/media/card_front/en/800_S01_5facb2a90ff3_en.png",
-            "expansion": 800,
-            "house": "skyborn",
-            "keywords": [],
-            "traits": [
-                "leviathan"
-            ],
-            "type": "creature",
-            "rarity": "Special",
-            "amber": 0,
-            "armor": 0,
-            "power": 12,
-            "text": "Each  that would be added to your opponent’s pool is captured by Akugyo instead.\nAfter Fight: Move 2 from Akugyo to your pool.\n",
-            "locale": {
-                "en": {
-                    "name": "Akugyo"
-                }
-            }
-        },
-        {
             "id": "alien-puffer",
             "name": "Alien Puffer",
             "number": "S02",
             "image": "https://mastervault-storage-prod.s3.amazonaws.com/media/card_front/en/800_S02_8c5963ea935b_en.png",
             "expansion": 800,
-            "house": "geistoid",
-            "keywords": [
-                "hazardous:3"
-            ],
-            "traits": [
-                "beast"
-            ],
-            "type": "creature",
-            "rarity": "Special",
-            "amber": 0,
-            "armor": 0,
-            "power": 6,
-            "text": "Hazardous 3.\nDestroyed: Gain 2.\n",
-            "locale": {
-                "en": {
-                    "name": "Alien Puffer"
-                }
-            }
-        },
-        {
-            "id": "alien-puffer",
-            "name": "Alien Puffer",
-            "number": "S02",
-            "image": "https://mastervault-storage-prod.s3.amazonaws.com/media/card_front/en/800_S02_8c5963ea935b_en.png",
-            "expansion": 800,
-            "house": "mars",
-            "keywords": [
-                "hazardous:3"
-            ],
-            "traits": [
-                "beast"
-            ],
-            "type": "creature",
-            "rarity": "Special",
-            "amber": 0,
-            "armor": 0,
-            "power": 6,
-            "text": "Hazardous 3.\nDestroyed: Gain 2.\n",
-            "locale": {
-                "en": {
-                    "name": "Alien Puffer"
-                }
-            }
-        },
-        {
-            "id": "alien-puffer",
-            "name": "Alien Puffer",
-            "number": "S02",
-            "image": "https://mastervault-storage-prod.s3.amazonaws.com/media/card_front/en/800_S02_8c5963ea935b_en.png",
-            "expansion": 800,
-            "house": "dis",
+            "house": "brobnar",
             "keywords": [
                 "hazardous:3"
             ],
@@ -7077,76 +6981,7 @@
             "number": "S03",
             "image": "https://mastervault-storage-prod.s3.amazonaws.com/media/card_front/en/800_S03_1ce69b074c20_en.png",
             "expansion": 800,
-            "house": "geistoid",
-            "keywords": [],
-            "traits": [
-                "experiment"
-            ],
-            "type": "creature",
-            "rarity": "Special",
-            "amber": 0,
-            "armor": 0,
-            "power": 5,
-            "text": "Each player refills their hand to 1 additional card during their “draw cards” step.\n",
-            "locale": {
-                "en": {
-                    "name": "Anvil Crawler"
-                }
-            }
-        },
-        {
-            "id": "anvil-crawler",
-            "name": "Anvil Crawler",
-            "number": "S03",
-            "image": "https://mastervault-storage-prod.s3.amazonaws.com/media/card_front/en/800_S03_1ce69b074c20_en.png",
-            "expansion": 800,
-            "house": "mars",
-            "keywords": [],
-            "traits": [
-                "experiment"
-            ],
-            "type": "creature",
-            "rarity": "Special",
-            "amber": 0,
-            "armor": 0,
-            "power": 5,
-            "text": "Each player refills their hand to 1 additional card during their “draw cards” step.\n",
-            "locale": {
-                "en": {
-                    "name": "Anvil Crawler"
-                }
-            }
-        },
-        {
-            "id": "anvil-crawler",
-            "name": "Anvil Crawler",
-            "number": "S03",
-            "image": "https://mastervault-storage-prod.s3.amazonaws.com/media/card_front/en/800_S03_1ce69b074c20_en.png",
-            "expansion": 800,
-            "house": "ekwidon",
-            "keywords": [],
-            "traits": [
-                "experiment"
-            ],
-            "type": "creature",
-            "rarity": "Special",
-            "amber": 0,
-            "armor": 0,
-            "power": 5,
-            "text": "Each player refills their hand to 1 additional card during their “draw cards” step.\n",
-            "locale": {
-                "en": {
-                    "name": "Anvil Crawler"
-                }
-            }
-        },
-        {
-            "id": "anvil-crawler",
-            "name": "Anvil Crawler",
-            "number": "S03",
-            "image": "https://mastervault-storage-prod.s3.amazonaws.com/media/card_front/en/800_S03_1ce69b074c20_en.png",
-            "expansion": 800,
-            "house": "logos",
+            "house": "brobnar",
             "keywords": [],
             "traits": [
                 "experiment"
@@ -7169,32 +7004,7 @@
             "number": "S04",
             "image": "https://mastervault-storage-prod.s3.amazonaws.com/media/card_front/en/800_S04_e81262ed8a00_en.png",
             "expansion": 800,
-            "house": "skyborn",
-            "keywords": [
-                "poison"
-            ],
-            "traits": [
-                "insect"
-            ],
-            "type": "creature",
-            "rarity": "Special",
-            "amber": 0,
-            "armor": 0,
-            "power": 7,
-            "text": "Poison.\nAt the start of your turn, give a creature a +1 power counter. \nAfter Reap: Move Beehemoth anywhere in your battleline. Remove each +1 power counter from Beehemoth’s neighbors. For each +1 power counter removed this way, gain 1.\n",
-            "locale": {
-                "en": {
-                    "name": "Beehemoth"
-                }
-            }
-        },
-        {
-            "id": "beehemoth",
-            "name": "Beehemoth",
-            "number": "S04",
-            "image": "https://mastervault-storage-prod.s3.amazonaws.com/media/card_front/en/800_S04_e81262ed8a00_en.png",
-            "expansion": 800,
-            "house": "mars",
+            "house": "brobnar",
             "keywords": [
                 "poison"
             ],
@@ -7219,76 +7029,7 @@
             "number": "S05",
             "image": "https://mastervault-storage-prod.s3.amazonaws.com/media/card_front/en/800_S05_f0973b75f10f_en.png",
             "expansion": 800,
-            "house": "dis",
-            "keywords": [],
-            "traits": [
-                "dragon"
-            ],
-            "type": "creature",
-            "rarity": "Special",
-            "amber": 0,
-            "armor": 2,
-            "power": 8,
-            "text": "Destroyed: Gain 4. Forge your blue key at current cost.\n",
-            "locale": {
-                "en": {
-                    "name": "Blue Æmberdrake"
-                }
-            }
-        },
-        {
-            "id": "blue-æmberdrake",
-            "name": "Blue Æmberdrake",
-            "number": "S05",
-            "image": "https://mastervault-storage-prod.s3.amazonaws.com/media/card_front/en/800_S05_f0973b75f10f_en.png",
-            "expansion": 800,
-            "house": "geistoid",
-            "keywords": [],
-            "traits": [
-                "dragon"
-            ],
-            "type": "creature",
-            "rarity": "Special",
-            "amber": 0,
-            "armor": 2,
-            "power": 8,
-            "text": "Destroyed: Gain 4. Forge your blue key at current cost.\n",
-            "locale": {
-                "en": {
-                    "name": "Blue Æmberdrake"
-                }
-            }
-        },
-        {
-            "id": "blue-æmberdrake",
-            "name": "Blue Æmberdrake",
-            "number": "S05",
-            "image": "https://mastervault-storage-prod.s3.amazonaws.com/media/card_front/en/800_S05_f0973b75f10f_en.png",
-            "expansion": 800,
-            "house": "ekwidon",
-            "keywords": [],
-            "traits": [
-                "dragon"
-            ],
-            "type": "creature",
-            "rarity": "Special",
-            "amber": 0,
-            "armor": 2,
-            "power": 8,
-            "text": "Destroyed: Gain 4. Forge your blue key at current cost.\n",
-            "locale": {
-                "en": {
-                    "name": "Blue Æmberdrake"
-                }
-            }
-        },
-        {
-            "id": "blue-æmberdrake",
-            "name": "Blue Æmberdrake",
-            "number": "S05",
-            "image": "https://mastervault-storage-prod.s3.amazonaws.com/media/card_front/en/800_S05_f0973b75f10f_en.png",
-            "expansion": 800,
-            "house": "mars",
+            "house": "brobnar",
             "keywords": [],
             "traits": [
                 "dragon"
@@ -7311,7 +7052,7 @@
             "number": "S06",
             "image": "https://mastervault-storage-prod.s3.amazonaws.com/media/card_front/en/800_S06_908fbe9d7f44_en.png",
             "expansion": 800,
-            "house": "dis",
+            "house": "brobnar",
             "keywords": [],
             "traits": [
                 "insect"
@@ -7325,98 +7066,6 @@
             "locale": {
                 "en": {
                     "name": "Colossipede"
-                }
-            }
-        },
-        {
-            "id": "colossipede",
-            "name": "Colossipede",
-            "number": "S06",
-            "image": "https://mastervault-storage-prod.s3.amazonaws.com/media/card_front/en/800_S06_908fbe9d7f44_en.png",
-            "expansion": 800,
-            "house": "logos",
-            "keywords": [],
-            "traits": [
-                "insect"
-            ],
-            "type": "creature",
-            "rarity": "Special",
-            "amber": 0,
-            "armor": 0,
-            "power": 7,
-            "text": "Each friendly creature with  on it gains, “After Fight: Move each  on this creature to your pool.”\nPlay: Exalt each creature.\n",
-            "locale": {
-                "en": {
-                    "name": "Colossipede"
-                }
-            }
-        },
-        {
-            "id": "falcron",
-            "name": "Falcron",
-            "number": "S07",
-            "image": "https://mastervault-storage-prod.s3.amazonaws.com/media/card_front/en/800_S07_1746f4e14ced_en.png",
-            "expansion": 800,
-            "house": "mars",
-            "keywords": [],
-            "traits": [
-                "beast"
-            ],
-            "type": "creature",
-            "rarity": "Special",
-            "amber": 0,
-            "armor": 0,
-            "power": 9,
-            "text": "Each of Falcron’s neighbors gains, “After Reap: Steal 1.”\n",
-            "locale": {
-                "en": {
-                    "name": "Falcron"
-                }
-            }
-        },
-        {
-            "id": "falcron",
-            "name": "Falcron",
-            "number": "S07",
-            "image": "https://mastervault-storage-prod.s3.amazonaws.com/media/card_front/en/800_S07_1746f4e14ced_en.png",
-            "expansion": 800,
-            "house": "dis",
-            "keywords": [],
-            "traits": [
-                "beast"
-            ],
-            "type": "creature",
-            "rarity": "Special",
-            "amber": 0,
-            "armor": 0,
-            "power": 9,
-            "text": "Each of Falcron’s neighbors gains, “After Reap: Steal 1.”\n",
-            "locale": {
-                "en": {
-                    "name": "Falcron"
-                }
-            }
-        },
-        {
-            "id": "falcron",
-            "name": "Falcron",
-            "number": "S07",
-            "image": "https://mastervault-storage-prod.s3.amazonaws.com/media/card_front/en/800_S07_1746f4e14ced_en.png",
-            "expansion": 800,
-            "house": "logos",
-            "keywords": [],
-            "traits": [
-                "beast"
-            ],
-            "type": "creature",
-            "rarity": "Special",
-            "amber": 0,
-            "armor": 0,
-            "power": 9,
-            "text": "Each of Falcron’s neighbors gains, “After Reap: Steal 1.”\n",
-            "locale": {
-                "en": {
-                    "name": "Falcron"
                 }
             }
         },
@@ -7472,7 +7121,7 @@
             "number": "S09",
             "image": "https://mastervault-storage-prod.s3.amazonaws.com/media/card_front/en/800_S09_3819f1f7cf9f_en.png",
             "expansion": 800,
-            "house": "ekwidon",
+            "house": "brobnar",
             "keywords": [],
             "traits": [
                 "dragon"
@@ -7518,76 +7167,7 @@
             "number": "S11",
             "image": "https://mastervault-storage-prod.s3.amazonaws.com/media/card_front/en/800_S11_612bda6b927a_en.png",
             "expansion": 800,
-            "house": "geistoid",
-            "keywords": [],
-            "traits": [
-                "robot"
-            ],
-            "type": "creature",
-            "rarity": "Special",
-            "amber": 0,
-            "armor": 0,
-            "power": 6,
-            "text": "Each friendly creature gains, “Action: Draw a card.”\n",
-            "locale": {
-                "en": {
-                    "name": "Icarus 2.0"
-                }
-            }
-        },
-        {
-            "id": "icarus-20",
-            "name": "Icarus 2.0",
-            "number": "S11",
-            "image": "https://mastervault-storage-prod.s3.amazonaws.com/media/card_front/en/800_S11_612bda6b927a_en.png",
-            "expansion": 800,
-            "house": "dis",
-            "keywords": [],
-            "traits": [
-                "robot"
-            ],
-            "type": "creature",
-            "rarity": "Special",
-            "amber": 0,
-            "armor": 0,
-            "power": 6,
-            "text": "Each friendly creature gains, “Action: Draw a card.”\n",
-            "locale": {
-                "en": {
-                    "name": "Icarus 2.0"
-                }
-            }
-        },
-        {
-            "id": "icarus-20",
-            "name": "Icarus 2.0",
-            "number": "S11",
-            "image": "https://mastervault-storage-prod.s3.amazonaws.com/media/card_front/en/800_S11_612bda6b927a_en.png",
-            "expansion": 800,
-            "house": "skyborn",
-            "keywords": [],
-            "traits": [
-                "robot"
-            ],
-            "type": "creature",
-            "rarity": "Special",
-            "amber": 0,
-            "armor": 0,
-            "power": 6,
-            "text": "Each friendly creature gains, “Action: Draw a card.”\n",
-            "locale": {
-                "en": {
-                    "name": "Icarus 2.0"
-                }
-            }
-        },
-        {
-            "id": "icarus-20",
-            "name": "Icarus 2.0",
-            "number": "S11",
-            "image": "https://mastervault-storage-prod.s3.amazonaws.com/media/card_front/en/800_S11_612bda6b927a_en.png",
-            "expansion": 800,
-            "house": "logos",
+            "house": "brobnar",
             "keywords": [],
             "traits": [
                 "robot"
@@ -7610,82 +7190,7 @@
             "number": "S12",
             "image": "https://mastervault-storage-prod.s3.amazonaws.com/media/card_front/en/800_S12_e1f498da3082_en.png",
             "expansion": 800,
-            "house": "skyborn",
-            "keywords": [
-                "skirmish"
-            ],
-            "traits": [
-                "imp"
-            ],
-            "type": "creature",
-            "rarity": "Special",
-            "amber": 0,
-            "armor": 0,
-            "power": 5,
-            "text": "Skirmish.\nAfter Fight: Destroy the most powerful enemy creature.\n",
-            "locale": {
-                "en": {
-                    "name": "Impzilla"
-                }
-            }
-        },
-        {
-            "id": "impzilla",
-            "name": "Impzilla",
-            "number": "S12",
-            "image": "https://mastervault-storage-prod.s3.amazonaws.com/media/card_front/en/800_S12_e1f498da3082_en.png",
-            "expansion": 800,
-            "house": "ekwidon",
-            "keywords": [
-                "skirmish"
-            ],
-            "traits": [
-                "imp"
-            ],
-            "type": "creature",
-            "rarity": "Special",
-            "amber": 0,
-            "armor": 0,
-            "power": 5,
-            "text": "Skirmish.\nAfter Fight: Destroy the most powerful enemy creature.\n",
-            "locale": {
-                "en": {
-                    "name": "Impzilla"
-                }
-            }
-        },
-        {
-            "id": "impzilla",
-            "name": "Impzilla",
-            "number": "S12",
-            "image": "https://mastervault-storage-prod.s3.amazonaws.com/media/card_front/en/800_S12_e1f498da3082_en.png",
-            "expansion": 800,
-            "house": "mars",
-            "keywords": [
-                "skirmish"
-            ],
-            "traits": [
-                "imp"
-            ],
-            "type": "creature",
-            "rarity": "Special",
-            "amber": 0,
-            "armor": 0,
-            "power": 5,
-            "text": "Skirmish.\nAfter Fight: Destroy the most powerful enemy creature.\n",
-            "locale": {
-                "en": {
-                    "name": "Impzilla"
-                }
-            }
-        },
-        {
-            "id": "impzilla",
-            "name": "Impzilla",
-            "number": "S12",
-            "image": "https://mastervault-storage-prod.s3.amazonaws.com/media/card_front/en/800_S12_e1f498da3082_en.png",
-            "expansion": 800,
-            "house": "logos",
+            "house": "brobnar",
             "keywords": [
                 "skirmish"
             ],
@@ -7710,99 +7215,7 @@
             "number": "S13",
             "image": "https://mastervault-storage-prod.s3.amazonaws.com/media/card_front/en/800_S13_de6ea9fb8138_en.png",
             "expansion": 800,
-            "house": "logos",
-            "keywords": [],
-            "traits": [
-                "leviathan"
-            ],
-            "type": "creature",
-            "rarity": "Special",
-            "amber": 0,
-            "armor": 0,
-            "power": 10,
-            "text": "Each friendly creature gains, “After Fight: Capture 1.”\n",
-            "locale": {
-                "en": {
-                    "name": "Lancet"
-                }
-            }
-        },
-        {
-            "id": "lancet",
-            "name": "Lancet",
-            "number": "S13",
-            "image": "https://mastervault-storage-prod.s3.amazonaws.com/media/card_front/en/800_S13_de6ea9fb8138_en.png",
-            "expansion": 800,
-            "house": "mars",
-            "keywords": [],
-            "traits": [
-                "leviathan"
-            ],
-            "type": "creature",
-            "rarity": "Special",
-            "amber": 0,
-            "armor": 0,
-            "power": 10,
-            "text": "Each friendly creature gains, “After Fight: Capture 1.”\n",
-            "locale": {
-                "en": {
-                    "name": "Lancet"
-                }
-            }
-        },
-        {
-            "id": "lancet",
-            "name": "Lancet",
-            "number": "S13",
-            "image": "https://mastervault-storage-prod.s3.amazonaws.com/media/card_front/en/800_S13_de6ea9fb8138_en.png",
-            "expansion": 800,
-            "house": "geistoid",
-            "keywords": [],
-            "traits": [
-                "leviathan"
-            ],
-            "type": "creature",
-            "rarity": "Special",
-            "amber": 0,
-            "armor": 0,
-            "power": 10,
-            "text": "Each friendly creature gains, “After Fight: Capture 1.”\n",
-            "locale": {
-                "en": {
-                    "name": "Lancet"
-                }
-            }
-        },
-        {
-            "id": "lancet",
-            "name": "Lancet",
-            "number": "S13",
-            "image": "https://mastervault-storage-prod.s3.amazonaws.com/media/card_front/en/800_S13_de6ea9fb8138_en.png",
-            "expansion": 800,
-            "house": "ekwidon",
-            "keywords": [],
-            "traits": [
-                "leviathan"
-            ],
-            "type": "creature",
-            "rarity": "Special",
-            "amber": 0,
-            "armor": 0,
-            "power": 10,
-            "text": "Each friendly creature gains, “After Fight: Capture 1.”\n",
-            "locale": {
-                "en": {
-                    "name": "Lancet"
-                }
-            }
-        },
-        {
-            "id": "lancet",
-            "name": "Lancet",
-            "number": "S13",
-            "image": "https://mastervault-storage-prod.s3.amazonaws.com/media/card_front/en/800_S13_de6ea9fb8138_en.png",
-            "expansion": 800,
-            "house": "dis",
+            "house": "brobnar",
             "keywords": [],
             "traits": [
                 "leviathan"
@@ -7825,7 +7238,7 @@
             "number": "S14",
             "image": "https://mastervault-storage-prod.s3.amazonaws.com/media/card_front/en/800_S14_c573b52dd78e_en.png",
             "expansion": 800,
-            "house": "skyborn",
+            "house": "brobnar",
             "keywords": [],
             "traits": [
                 "dragon"
@@ -7866,127 +7279,12 @@
             }
         },
         {
-            "id": "naja",
-            "name": "Naja",
-            "number": "S15",
-            "image": "https://mastervault-storage-prod.s3.amazonaws.com/media/card_front/en/800_S15_255d8e45034e_en.png",
-            "expansion": 800,
-            "house": "dis",
-            "keywords": [],
-            "traits": [
-                "myth"
-            ],
-            "type": "creature",
-            "rarity": "Special",
-            "amber": 0,
-            "armor": 0,
-            "power": 5,
-            "text": "After Reap: Gain 3.\n",
-            "locale": {
-                "en": {
-                    "name": "Naja"
-                }
-            }
-        },
-        {
-            "id": "naja",
-            "name": "Naja",
-            "number": "S15",
-            "image": "https://mastervault-storage-prod.s3.amazonaws.com/media/card_front/en/800_S15_255d8e45034e_en.png",
-            "expansion": 800,
-            "house": "logos",
-            "keywords": [],
-            "traits": [
-                "myth"
-            ],
-            "type": "creature",
-            "rarity": "Special",
-            "amber": 0,
-            "armor": 0,
-            "power": 5,
-            "text": "After Reap: Gain 3.\n",
-            "locale": {
-                "en": {
-                    "name": "Naja"
-                }
-            }
-        },
-        {
-            "id": "red-æmberdrake",
-            "name": "Red Æmberdrake",
-            "number": "S16",
-            "image": "https://mastervault-storage-prod.s3.amazonaws.com/media/card_front/en/800_S16_e936f0f53fee_en.png",
-            "expansion": 800,
-            "house": "mars",
-            "keywords": [],
-            "traits": [
-                "dragon"
-            ],
-            "type": "creature",
-            "rarity": "Special",
-            "amber": 0,
-            "armor": 2,
-            "power": 8,
-            "text": "Destroyed: Gain 4. Forge your red key at current cost.\n",
-            "locale": {
-                "en": {
-                    "name": "Red Æmberdrake"
-                }
-            }
-        },
-        {
-            "id": "red-æmberdrake",
-            "name": "Red Æmberdrake",
-            "number": "S16",
-            "image": "https://mastervault-storage-prod.s3.amazonaws.com/media/card_front/en/800_S16_e936f0f53fee_en.png",
-            "expansion": 800,
-            "house": "dis",
-            "keywords": [],
-            "traits": [
-                "dragon"
-            ],
-            "type": "creature",
-            "rarity": "Special",
-            "amber": 0,
-            "armor": 2,
-            "power": 8,
-            "text": "Destroyed: Gain 4. Forge your red key at current cost.\n",
-            "locale": {
-                "en": {
-                    "name": "Red Æmberdrake"
-                }
-            }
-        },
-        {
             "id": "red-æmberdrake",
             "name": "Red Æmberdrake",
             "number": "S16",
             "image": "https://mastervault-storage-prod.s3.amazonaws.com/media/card_front/en/800_S16_e936f0f53fee_en.png",
             "expansion": 800,
             "house": "brobnar",
-            "keywords": [],
-            "traits": [
-                "dragon"
-            ],
-            "type": "creature",
-            "rarity": "Special",
-            "amber": 0,
-            "armor": 2,
-            "power": 8,
-            "text": "Destroyed: Gain 4. Forge your red key at current cost.\n",
-            "locale": {
-                "en": {
-                    "name": "Red Æmberdrake"
-                }
-            }
-        },
-        {
-            "id": "red-æmberdrake",
-            "name": "Red Æmberdrake",
-            "number": "S16",
-            "image": "https://mastervault-storage-prod.s3.amazonaws.com/media/card_front/en/800_S16_e936f0f53fee_en.png",
-            "expansion": 800,
-            "house": "skyborn",
             "keywords": [],
             "traits": [
                 "dragon"
@@ -8009,7 +7307,7 @@
             "number": "S17",
             "image": "https://mastervault-storage-prod.s3.amazonaws.com/media/card_front/en/800_S17_08d3f2365701_en.png",
             "expansion": 800,
-            "house": "logos",
+            "house": "brobnar",
             "keywords": [],
             "traits": [
                 "leviathan"
@@ -8032,7 +7330,7 @@
             "number": "S18",
             "image": "https://mastervault-storage-prod.s3.amazonaws.com/media/card_front/en/800_S18_bc4c5e11d10f_en.png",
             "expansion": 800,
-            "house": "skyborn",
+            "house": "brobnar",
             "keywords": [],
             "traits": [
                 "leviathan",
@@ -8047,77 +7345,6 @@
             "locale": {
                 "en": {
                     "name": "Screeyan"
-                }
-            }
-        },
-        {
-            "id": "screeyan",
-            "name": "Screeyan",
-            "number": "S18",
-            "image": "https://mastervault-storage-prod.s3.amazonaws.com/media/card_front/en/800_S18_bc4c5e11d10f_en.png",
-            "expansion": 800,
-            "house": "dis",
-            "keywords": [],
-            "traits": [
-                "leviathan",
-                "mutant"
-            ],
-            "type": "creature",
-            "rarity": "Special",
-            "amber": 0,
-            "armor": 0,
-            "power": 5,
-            "text": "At the end of your turn, your opponent discards the top card of their deck. Your opponent cannot choose the house of the discarded card during their next “choose a house” step.\n",
-            "locale": {
-                "en": {
-                    "name": "Screeyan"
-                }
-            }
-        },
-        {
-            "id": "screeyan",
-            "name": "Screeyan",
-            "number": "S18",
-            "image": "https://mastervault-storage-prod.s3.amazonaws.com/media/card_front/en/800_S18_bc4c5e11d10f_en.png",
-            "expansion": 800,
-            "house": "geistoid",
-            "keywords": [],
-            "traits": [
-                "leviathan",
-                "mutant"
-            ],
-            "type": "creature",
-            "rarity": "Special",
-            "amber": 0,
-            "armor": 0,
-            "power": 5,
-            "text": "At the end of your turn, your opponent discards the top card of their deck. Your opponent cannot choose the house of the discarded card during their next “choose a house” step.\n",
-            "locale": {
-                "en": {
-                    "name": "Screeyan"
-                }
-            }
-        },
-        {
-            "id": "sentient-cloud",
-            "name": "Sentient Cloud",
-            "number": "S19",
-            "image": "https://mastervault-storage-prod.s3.amazonaws.com/media/card_front/en/800_S19_4e49f18a6325_en.png",
-            "expansion": 800,
-            "house": "dis",
-            "keywords": [],
-            "traits": [
-                "cloud"
-            ],
-            "type": "creature",
-            "rarity": "Special",
-            "amber": 0,
-            "armor": 4,
-            "power": 1,
-            "text": "Each friendly creature with the highest power gains, “After Fight: Gain 2.”\n",
-            "locale": {
-                "en": {
-                    "name": "Sentient Cloud"
                 }
             }
         },
@@ -8145,58 +7372,12 @@
             }
         },
         {
-            "id": "sentient-cloud",
-            "name": "Sentient Cloud",
-            "number": "S19",
-            "image": "https://mastervault-storage-prod.s3.amazonaws.com/media/card_front/en/800_S19_4e49f18a6325_en.png",
-            "expansion": 800,
-            "house": "skyborn",
-            "keywords": [],
-            "traits": [
-                "cloud"
-            ],
-            "type": "creature",
-            "rarity": "Special",
-            "amber": 0,
-            "armor": 4,
-            "power": 1,
-            "text": "Each friendly creature with the highest power gains, “After Fight: Gain 2.”\n",
-            "locale": {
-                "en": {
-                    "name": "Sentient Cloud"
-                }
-            }
-        },
-        {
-            "id": "sentient-cloud",
-            "name": "Sentient Cloud",
-            "number": "S19",
-            "image": "https://mastervault-storage-prod.s3.amazonaws.com/media/card_front/en/800_S19_4e49f18a6325_en.png",
-            "expansion": 800,
-            "house": "mars",
-            "keywords": [],
-            "traits": [
-                "cloud"
-            ],
-            "type": "creature",
-            "rarity": "Special",
-            "amber": 0,
-            "armor": 4,
-            "power": 1,
-            "text": "Each friendly creature with the highest power gains, “After Fight: Gain 2.”\n",
-            "locale": {
-                "en": {
-                    "name": "Sentient Cloud"
-                }
-            }
-        },
-        {
             "id": "titanarpon",
             "name": "Titanarpon",
             "number": "S20",
             "image": "https://mastervault-storage-prod.s3.amazonaws.com/media/card_front/en/800_S20_f031ca604280_en.png",
             "expansion": 800,
-            "house": "mars",
+            "house": "brobnar",
             "keywords": [
                 "elusive"
             ],
@@ -8216,52 +7397,25 @@
             }
         },
         {
-            "id": "titanarpon",
-            "name": "Titanarpon",
-            "number": "S20",
-            "image": "https://mastervault-storage-prod.s3.amazonaws.com/media/card_front/en/800_S20_f031ca604280_en.png",
+            "id": "tyrannus-aquilae",
+            "name": "Tyrannus Aquilae",
+            "number": "S21",
+            "image": "https://mastervault-storage-prod.s3.amazonaws.com/media/card_front/en/800_S21_0891fe765a86_en.png",
             "expansion": 800,
-            "house": "ekwidon",
-            "keywords": [
-                "elusive"
-            ],
+            "house": "brobnar",
+            "keywords": [],
             "traits": [
-                "beast"
+                "dinosaur"
             ],
             "type": "creature",
             "rarity": "Special",
             "amber": 0,
             "armor": 0,
-            "power": 4,
-            "text": "Elusive.\nThe first creature you play each turn enters play ready.\n\n\n",
+            "power": 10,
+            "text": "At the end of each player’s turn, Tyrannus Aquilae captures 1.\nAfter Fight: Move 1 from Tyrannus Aquilae to your pool.\n",
             "locale": {
                 "en": {
-                    "name": "Titanarpon"
-                }
-            }
-        },
-        {
-            "id": "titanarpon",
-            "name": "Titanarpon",
-            "number": "S20",
-            "image": "https://mastervault-storage-prod.s3.amazonaws.com/media/card_front/en/800_S20_f031ca604280_en.png",
-            "expansion": 800,
-            "house": "dis",
-            "keywords": [
-                "elusive"
-            ],
-            "traits": [
-                "beast"
-            ],
-            "type": "creature",
-            "rarity": "Special",
-            "amber": 0,
-            "armor": 0,
-            "power": 4,
-            "text": "Elusive.\nThe first creature you play each turn enters play ready.\n\n\n",
-            "locale": {
-                "en": {
-                    "name": "Titanarpon"
+                    "name": "Tyrannus Aquilae"
                 }
             }
         },
@@ -8271,7 +7425,7 @@
             "number": "S22",
             "image": "https://mastervault-storage-prod.s3.amazonaws.com/media/card_front/en/800_S22_786d0a1ffaaf_en.png",
             "expansion": 800,
-            "house": "logos",
+            "house": "brobnar",
             "keywords": [],
             "traits": [
                 "demon",
@@ -8286,124 +7440,6 @@
             "locale": {
                 "en": {
                     "name": "Volax"
-                }
-            }
-        },
-        {
-            "id": "volax",
-            "name": "Volax",
-            "number": "S22",
-            "image": "https://mastervault-storage-prod.s3.amazonaws.com/media/card_front/en/800_S22_786d0a1ffaaf_en.png",
-            "expansion": 800,
-            "house": "skyborn",
-            "keywords": [],
-            "traits": [
-                "demon",
-                "leviathan"
-            ],
-            "type": "creature",
-            "rarity": "Special",
-            "amber": 0,
-            "armor": 0,
-            "power": 14,
-            "text": "Destroyed: Gain  equal to the  in your pool.\n",
-            "locale": {
-                "en": {
-                    "name": "Volax"
-                }
-            }
-        },
-        {
-            "id": "volax",
-            "name": "Volax",
-            "number": "S22",
-            "image": "https://mastervault-storage-prod.s3.amazonaws.com/media/card_front/en/800_S22_786d0a1ffaaf_en.png",
-            "expansion": 800,
-            "house": "dis",
-            "keywords": [],
-            "traits": [
-                "demon",
-                "leviathan"
-            ],
-            "type": "creature",
-            "rarity": "Special",
-            "amber": 0,
-            "armor": 0,
-            "power": 14,
-            "text": "Destroyed: Gain  equal to the  in your pool.\n",
-            "locale": {
-                "en": {
-                    "name": "Volax"
-                }
-            }
-        },
-        {
-            "id": "volax",
-            "name": "Volax",
-            "number": "S22",
-            "image": "https://mastervault-storage-prod.s3.amazonaws.com/media/card_front/en/800_S22_786d0a1ffaaf_en.png",
-            "expansion": 800,
-            "house": "geistoid",
-            "keywords": [],
-            "traits": [
-                "demon",
-                "leviathan"
-            ],
-            "type": "creature",
-            "rarity": "Special",
-            "amber": 0,
-            "armor": 0,
-            "power": 14,
-            "text": "Destroyed: Gain  equal to the  in your pool.\n",
-            "locale": {
-                "en": {
-                    "name": "Volax"
-                }
-            }
-        },
-        {
-            "id": "yellow-æmberdrake",
-            "name": "Yellow Æmberdrake",
-            "number": "S23",
-            "image": "https://mastervault-storage-prod.s3.amazonaws.com/media/card_front/en/800_S23_8211b1f1fce1_en.png",
-            "expansion": 800,
-            "house": "geistoid",
-            "keywords": [],
-            "traits": [
-                "dragon"
-            ],
-            "type": "creature",
-            "rarity": "Special",
-            "amber": 0,
-            "armor": 2,
-            "power": 8,
-            "text": "Destroyed: Gain 4. Forge your yellow key at current cost.\n",
-            "locale": {
-                "en": {
-                    "name": "Yellow Æmberdrake"
-                }
-            }
-        },
-        {
-            "id": "yellow-æmberdrake",
-            "name": "Yellow Æmberdrake",
-            "number": "S23",
-            "image": "https://mastervault-storage-prod.s3.amazonaws.com/media/card_front/en/800_S23_8211b1f1fce1_en.png",
-            "expansion": 800,
-            "house": "ekwidon",
-            "keywords": [],
-            "traits": [
-                "dragon"
-            ],
-            "type": "creature",
-            "rarity": "Special",
-            "amber": 0,
-            "armor": 2,
-            "power": 8,
-            "text": "Destroyed: Gain 4. Forge your yellow key at current cost.\n",
-            "locale": {
-                "en": {
-                    "name": "Yellow Æmberdrake"
                 }
             }
         },
