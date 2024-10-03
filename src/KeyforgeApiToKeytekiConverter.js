@@ -135,7 +135,7 @@ class KeyforgeApiToKeytekiConverter {
 
         let stupidCards = { MM341: true };
 
-        for (let i = 1; i < totalPages; i++) {
+        for (let i = 1; i <= totalPages; i++) {
             try {
                 response = await httpRequest(
                     `${apiUrl}/?page=${i}&links=cards&page_size=${pageSize}&expansion=${pack.ids[0]}&ordering=date`,
@@ -170,8 +170,10 @@ class KeyforgeApiToKeytekiConverter {
             }
 
             for (let card of response._linked.cards) {
-                // Fix the house of an anomaly to brobnar so that we can test them until they get a real house
-                if (card.is_anomaly) {
+                // Fix the house of an anomalies and other special
+                // cards to brobnar so that we can test them until
+                // they get a real house
+                if (card.is_anomaly || card.card_number.startsWith('S')) {
                     card.house = 'brobnar';
                 }
 
