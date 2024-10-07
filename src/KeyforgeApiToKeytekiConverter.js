@@ -133,7 +133,7 @@ class KeyforgeApiToKeytekiConverter {
 
         console.info(`Looking for ${pack.cardCount} cards`);
 
-        let stupidCards = { MM341: true };
+        let stupidCards = { MM341: true, MoMu324: true };
 
         for (let i = 1; i <= totalPages; i++) {
             try {
@@ -298,6 +298,28 @@ class KeyforgeApiToKeytekiConverter {
                 card.power = cards[cardKey].power;
                 card.amber = cards[cardKey].amber;
                 card.armor = cards[cardKey].armor;
+            } else if (card.text.includes('Play only with the other half') && card.type === 'creature' && card.rarity === 'Special') {
+                // Gigantics in More Mutation don't have the
+                // "creature1"/"creature2" types.  Card text is the only way to
+                // distinguish them.
+
+                let h = card.house.charAt(0).toUpperCase() + card.house.slice(1)
+                if (h === 'Staralliance') {
+                    h = "Star Alliance"
+                }
+
+                let cardKey = `${card.number}/Creature/${h}/rare`
+                let topHalf = cards[cardKey];
+                if (!topHalf) {
+                    console.info('No card found', cardKey);
+                }
+
+                topHalf.text = card.text;
+                topHalf.power = card.power;
+                topHalf.amber = card.amber;
+                topHalf.armor = card.armor;
+                topHalf.traits = card.traits;
+                topHalf.id += '2';
             }
         }
 
