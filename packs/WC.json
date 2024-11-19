@@ -16867,7 +16867,7 @@
         },
         {
             "id": "special-agent-fingers",
-            "name": "Special Agent \"Fingers\"",
+            "name": "Special Agent “Fingers”",
             "number": "339",
             "image": "https://mastervault-storage-prod.s3.amazonaws.com/media/card_front/en/452_339_Q29W256XC6QP_en.png",
             "expansion": 452,
@@ -16890,7 +16890,7 @@
                     "name": "Spezialagentin „Finger“"
                 },
                 "en": {
-                    "name": "Special Agent \"Fingers\""
+                    "name": "Special Agent “Fingers”"
                 },
                 "es": {
                     "name": "Agente Especial “Dedos”"

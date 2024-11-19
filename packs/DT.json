@@ -1757,7 +1757,7 @@
         },
         {
             "id": "archon-s-callback",
-            "name": "Archon's Callback",
+            "name": "Archon’s Callback",
             "number": "033",
             "image": "https://mastervault-storage-prod.s3.amazonaws.com/media/card_front/en/496_033_P5H2RHJPQPH2_en.png",
             "expansion": 496,
@@ -1777,7 +1777,7 @@
                     "name": "Archontenrückruf"
                 },
                 "en": {
-                    "name": "Archon's Callback"
+                    "name": "Archon’s Callback"
                 },
                 "es": {
                     "name": "La Rellamada de los Arcontes"
@@ -1798,7 +1798,7 @@
                     "name": "Chamado do Arconte"
                 },
                 "th": {
-                    "name": "Archon's Callback"
+                    "name": "Archon’s Callback"
                 },
                 "zhhans": {
                     "name": "统御者的回调"
@@ -3767,7 +3767,7 @@
         },
         {
             "id": "orphiel-sea-s-chosen",
-            "name": "Orphiel, Sea's Chosen",
+            "name": "Orphiel, Sea’s Chosen",
             "number": "071",
             "image": "https://mastervault-storage-prod.s3.amazonaws.com/media/card_front/en/496_071_4QXM6JVRP429_en.png",
             "expansion": 496,
@@ -3788,7 +3788,7 @@
                     "name": "Orphiel, Kind der See"
                 },
                 "en": {
-                    "name": "Orphiel, Sea's Chosen"
+                    "name": "Orphiel, Sea’s Chosen"
                 },
                 "es": {
                     "name": "Orfiel, Elegida del Mar"
@@ -3809,7 +3809,7 @@
                     "name": "Orphiel, Eleita do Mar"
                 },
                 "th": {
-                    "name": "Orphiel, Sea's Chosen"
+                    "name": "Orphiel, Sea’s Chosen"
                 },
                 "zhhans": {
                     "name": "海洋之女奥菲尔"
@@ -3821,7 +3821,7 @@
         },
         {
             "id": "orphion-land-s-chosen",
-            "name": "Orphion, Land's Chosen",
+            "name": "Orphion, Land’s Chosen",
             "number": "072",
             "image": "https://mastervault-storage-prod.s3.amazonaws.com/media/card_front/en/496_072_PM5R5XW5JFFX_en.png",
             "expansion": 496,
@@ -3842,7 +3842,7 @@
                     "name": "Orphion, Kind des Landes"
                 },
                 "en": {
-                    "name": "Orphion, Land's Chosen"
+                    "name": "Orphion, Land’s Chosen"
                 },
                 "es": {
                     "name": "Orfion, Elegido de la Tierra"
@@ -3863,7 +3863,7 @@
                     "name": "Orphion, Eleito da Terra"
                 },
                 "th": {
-                    "name": "Orphion, Land's Chosen"
+                    "name": "Orphion, Land’s Chosen"
                 },
                 "zhhans": {
                     "name": "陆地之子奥菲隆"
@@ -8264,7 +8264,7 @@
         },
         {
             "id": "di-no-you-didn-t",
-            "name": "Di-No You Didn't!",
+            "name": "Di-No You Didn’t!",
             "number": "156",
             "image": "https://mastervault-storage-prod.s3.amazonaws.com/media/card_front/en/496_156_H6JJVGPMVCF8_en.png",
             "expansion": 496,
@@ -8282,7 +8282,7 @@
                     "name": "So was macht ein Dino nicht!"
                 },
                 "en": {
-                    "name": "Di-No You Didn't!"
+                    "name": "Di-No You Didn’t!"
                 },
                 "es": {
                     "name": "¡Di No, Saurio!"
@@ -8303,7 +8303,7 @@
                     "name": "Na-Na-Di-No-Não!"
                 },
                 "th": {
-                    "name": "Di-No You Didn't!"
+                    "name": "Di-No You Didn’t!"
                 },
                 "zhhans": {
                     "name": "蜥式否定"
@@ -8893,7 +8893,7 @@
         },
         {
             "id": "altruist-s-rostrum",
-            "name": "Altruist's Rostrum",
+            "name": "Altruist’s Rostrum",
             "number": "168",
             "image": "https://mastervault-storage-prod.s3.amazonaws.com/media/card_front/en/496_168_8MMX33776MXQ_en.png",
             "expansion": 496,
@@ -8913,7 +8913,7 @@
                     "name": "Rostra des Altruisten"
                 },
                 "en": {
-                    "name": "Altruist's Rostrum"
+                    "name": "Altruist’s Rostrum"
                 },
                 "es": {
                     "name": "Tribuna del Altruista"
@@ -8934,7 +8934,7 @@
                     "name": "Palanque do Altruísta"
                 },
                 "th": {
-                    "name": "Altruist's Rostrum"
+                    "name": "Altruist’s Rostrum"
                 },
                 "zhhans": {
                     "name": "奉献讲坛"
@@ -10121,7 +10121,7 @@
         },
         {
             "id": "archon-s-revenge",
-            "name": "Archon's Revenge",
+            "name": "Archon’s Revenge",
             "number": "191",
             "image": "https://mastervault-storage-prod.s3.amazonaws.com/media/card_front/en/496_191_JJ46MMM479H9_en.png",
             "expansion": 496,
@@ -10141,7 +10141,7 @@
                     "name": "Rache des Archonten"
                 },
                 "en": {
-                    "name": "Archon's Revenge"
+                    "name": "Archon’s Revenge"
                 },
                 "es": {
                     "name": "Venganza del Arconte"
@@ -10162,7 +10162,7 @@
                     "name": "Vingança do Arconte"
                 },
                 "th": {
-                    "name": "Archon's Revenge"
+                    "name": "Archon’s Revenge"
                 },
                 "zhhans": {
                     "name": "统御者的复仇号"
@@ -10228,7 +10228,7 @@
         },
         {
             "id": "dead-man-s-chest",
-            "name": "Dead Man's Chest",
+            "name": "Dead Man’s Chest",
             "number": "193",
             "image": "https://mastervault-storage-prod.s3.amazonaws.com/media/card_front/en/496_193_GJC58WG3VFV4_en.png",
             "expansion": 496,
@@ -10248,7 +10248,7 @@
                     "name": "Des toten Mannes Kiste"
                 },
                 "en": {
-                    "name": "Dead Man's Chest"
+                    "name": "Dead Man’s Chest"
                 },
                 "es": {
                     "name": "Cofre del Hombre Muerto"
@@ -10269,7 +10269,7 @@
                     "name": "Baú do Homem Morto"
                 },
                 "th": {
-                    "name": "Dead Man's Chest"
+                    "name": "Dead Man’s Chest"
                 },
                 "zhhans": {
                     "name": "亡者宝箱"
@@ -11292,7 +11292,7 @@
         },
         {
             "id": "borrow",
-            "name": "\"Borrow\"",
+            "name": "“Borrow”",
             "number": "213",
             "image": "https://mastervault-storage-prod.s3.amazonaws.com/media/card_front/en/496_213_3CJQPJ5VH438_en.png",
             "expansion": 496,
@@ -11310,7 +11310,7 @@
                     "name": "„Ausleihen“"
                 },
                 "en": {
-                    "name": "\"Borrow\""
+                    "name": "“Borrow”"
                 },
                 "es": {
                     "name": "“Tomar Prestado”"
@@ -11331,7 +11331,7 @@
                     "name": "\"Empresta Aí\""
                 },
                 "th": {
-                    "name": "\"Borrow\""
+                    "name": "“Borrow”"
                 },
                 "zhhans": {
                     "name": "“借用”"
@@ -12091,7 +12091,7 @@
         },
         {
             "id": "francis-the-economist",
-            "name": "Francis the \"Economist\"",
+            "name": "Francis the “Economist”",
             "number": "228",
             "image": "https://mastervault-storage-prod.s3.amazonaws.com/media/card_front/en/496_228_R5WCF2X522H2_en.png",
             "expansion": 496,
@@ -12114,7 +12114,7 @@
                     "name": "Francis der „Ökonom“"
                 },
                 "en": {
-                    "name": "Francis the \"Economist\""
+                    "name": "Francis the “Economist”"
                 },
                 "es": {
                     "name": "Francis el \"Economista\""
@@ -12135,7 +12135,7 @@
                     "name": "Francis, o \"Economista\""
                 },
                 "th": {
-                    "name": "Francis the \"Economist\""
+                    "name": "Francis the “Economist”"
                 },
                 "zhhans": {
                     "name": "“经济学家”弗朗西斯"
@@ -15801,7 +15801,7 @@
         },
         {
             "id": "officer-s-blaster",
-            "name": "Officer's Blaster",
+            "name": "Officer’s Blaster",
             "number": "298",
             "image": "https://mastervault-storage-prod.s3.amazonaws.com/media/card_front/en/496_298_QM63CC7XWQPV_en.png",
             "expansion": 496,
@@ -15819,7 +15819,7 @@
                     "name": "Offiziersblaster"
                 },
                 "en": {
-                    "name": "Officer's Blaster"
+                    "name": "Officer’s Blaster"
                 },
                 "es": {
                     "name": "Bláster de Oficial"
@@ -15840,7 +15840,7 @@
                     "name": "Blaster do Oficial"
                 },
                 "th": {
-                    "name": "Officer's Blaster"
+                    "name": "Officer’s Blaster"
                 },
                 "zhhans": {
                     "name": "军官的爆流枪"
@@ -17171,7 +17171,7 @@
         },
         {
             "id": "kiligog-s-trench",
-            "name": "Kiligog's Trench",
+            "name": "Kiligog’s Trench",
             "number": "324",
             "image": "https://mastervault-storage-prod.s3.amazonaws.com/media/card_front/en/496_324_GWWRPG2GPWPP_en.png",
             "expansion": 496,
@@ -17191,7 +17191,7 @@
                     "name": "Kiligogs Graben"
                 },
                 "en": {
-                    "name": "Kiligog's Trench"
+                    "name": "Kiligog’s Trench"
                 },
                 "es": {
                     "name": "Fosa de Kiligog"
@@ -17212,7 +17212,7 @@
                     "name": "Trincheira de Kiligog"
                 },
                 "th": {
-                    "name": "Kiligog's Trench"
+                    "name": "Kiligog’s Trench"
                 },
                 "zhhans": {
                     "name": "基里戈格海沟"
@@ -17383,7 +17383,7 @@
         },
         {
             "id": "sobogg-s-thingamabob",
-            "name": "Sobogg's Thingamabob",
+            "name": "Sobogg’s Thingamabob",
             "number": "328",
             "image": "https://mastervault-storage-prod.s3.amazonaws.com/media/card_front/en/496_328_96G7CJXFX4VR_en.png",
             "expansion": 496,
@@ -17403,7 +17403,7 @@
                     "name": "Soboggs Klimbim"
                 },
                 "en": {
-                    "name": "Sobogg's Thingamabob"
+                    "name": "Sobogg’s Thingamabob"
                 },
                 "es": {
                     "name": "Armatoste de Sobogg"
@@ -17424,7 +17424,7 @@
                     "name": "Bagulhete de Sobogg"
                 },
                 "th": {
-                    "name": "Sobogg's Thingamabob"
+                    "name": "Sobogg’s Thingamabob"
                 },
                 "zhhans": {
                     "name": "索博格的无名物"
@@ -18698,7 +18698,7 @@
         },
         {
             "id": "bubbles",
-            "name": "\"Bubbles\"",
+            "name": "“Bubbles”",
             "number": "353",
             "image": "https://mastervault-storage-prod.s3.amazonaws.com/media/card_front/en/496_353_WPJ69JQ3C4VC_en.png",
             "expansion": 496,
@@ -18718,7 +18718,7 @@
                     "name": "„Blubber“"
                 },
                 "en": {
-                    "name": "\"Bubbles\""
+                    "name": "“Bubbles”"
                 },
                 "es": {
                     "name": "“Burbujas”"
@@ -18739,7 +18739,7 @@
                     "name": "\"Bolhas\""
                 },
                 "th": {
-                    "name": "\"Bubbles\""
+                    "name": "“Bubbles”"
                 },
                 "zhhans": {
                     "name": "“泡泡”"
@@ -19224,7 +19224,7 @@
         },
         {
             "id": "rakuzel-s-chant",
-            "name": "Rakuzel's Chant",
+            "name": "Rakuzel’s Chant",
             "number": "363",
             "image": "https://mastervault-storage-prod.s3.amazonaws.com/media/card_front/en/496_363_HH7G9976MVM6_en.png",
             "expansion": 496,
@@ -19242,7 +19242,7 @@
                     "name": "Rakuzels Gesang"
                 },
                 "en": {
-                    "name": "Rakuzel's Chant"
+                    "name": "Rakuzel’s Chant"
                 },
                 "es": {
                     "name": "Cántico de Rakuzel"
@@ -19263,7 +19263,7 @@
                     "name": "Cântico de Rakuzel"
                 },
                 "th": {
-                    "name": "Rakuzel's Chant"
+                    "name": "Rakuzel’s Chant"
                 },
                 "zhhans": {
                     "name": "拉库索的吟唱"
@@ -19647,7 +19647,7 @@
         },
         {
             "id": "ol--paddy-evil-twin",
-            "name": "Ol' Paddy",
+            "name": "Ol’ Paddy",
             "number": "371",
             "image": "https://mastervault-storage-prod.s3.amazonaws.com/media/card_front/en/496_371_9CM3M3CP75MF_en.png",
             "expansion": 496,
@@ -19668,7 +19668,7 @@
                     "name": "Alter Petz"
                 },
                 "en": {
-                    "name": "Ol' Paddy"
+                    "name": "Ol’ Paddy"
                 },
                 "es": {
                     "name": "Viejo Paddy"
@@ -19689,7 +19689,7 @@
                     "name": "Velho Turrão"
                 },
                 "th": {
-                    "name": "Ol' Paddy"
+                    "name": "Ol’ Paddy"
                 },
                 "zhhans": {
                     "name": "老帕丁"
@@ -21606,7 +21606,7 @@
         },
         {
             "id": "ol--paddy",
-            "name": "Ol' Paddy",
+            "name": "Ol’ Paddy",
             "number": "408",
             "image": "https://mastervault-storage-prod.s3.amazonaws.com/media/card_front/en/496_408_JH9898PJ6H9P_en.png",
             "expansion": 496,
@@ -21627,7 +21627,7 @@
                     "name": "Alter Petz"
                 },
                 "en": {
-                    "name": "Ol' Paddy"
+                    "name": "Ol’ Paddy"
                 },
                 "es": {
                     "name": "Viejo Paddy"
@@ -21648,7 +21648,7 @@
                     "name": "Velho Turrão"
                 },
                 "th": {
-                    "name": "Ol' Paddy"
+                    "name": "Ol’ Paddy"
                 },
                 "zhhans": {
                     "name": "老帕丁"

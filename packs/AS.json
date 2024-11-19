@@ -4040,7 +4040,7 @@
         },
         {
             "id": "minerva-s-wings",
-            "name": "Minerva's Wings",
+            "name": "Minerva’s Wings",
             "number": "180",
             "image": "https://mastervault-storage-prod.s3.amazonaws.com/media/card_front/en/800_180_f6747f3decdf_en.png",
             "expansion": 800,
@@ -4055,7 +4055,7 @@
             "text": "This creature cannot fight or reap and gains, “Action: Draw 2 cards.”\n",
             "locale": {
                 "en": {
-                    "name": "Minerva's Wings"
+                    "name": "Minerva’s Wings"
                 }
             }
         },
@@ -5862,7 +5862,7 @@
         },
         {
             "id": "aero-o-fore",
-            "name": "Aero O'Fore",
+            "name": "Aero O’Fore",
             "number": "260",
             "image": "https://mastervault-storage-prod.s3.amazonaws.com/media/card_front/en/800_260_3133b4654507_en.png",
             "expansion": 800,
@@ -5880,7 +5880,7 @@
             "text": "While Aero O'Fore is in the center of your battleline, it gains, “After Reap: You may rearrange other friendly creatures in your battleline. Each friendly flank creature captures 2.”\n",
             "locale": {
                 "en": {
-                    "name": "Aero O'Fore"
+                    "name": "Aero O’Fore"
                 }
             }
         },
@@ -6796,7 +6796,7 @@
         },
         {
             "id": "flint-s-legend",
-            "name": "Flint's Legend",
+            "name": "Flint’s Legend",
             "number": "301",
             "image": "https://mastervault-storage-prod.s3.amazonaws.com/media/card_front/en/800_301_19e489277821_en.png",
             "expansion": 800,
@@ -6811,13 +6811,13 @@
             "text": "Play: Move 1 from your opponent's pool to Treasure Island.\n",
             "locale": {
                 "en": {
-                    "name": "Flint's Legend"
+                    "name": "Flint’s Legend"
                 }
             }
         },
         {
             "id": "flint-s-map",
-            "name": "Flint's Map",
+            "name": "Flint’s Map",
             "number": "302",
             "image": "https://mastervault-storage-prod.s3.amazonaws.com/media/card_front/en/800_302_637c40c46493_en.png",
             "expansion": 800,
@@ -6834,13 +6834,13 @@
             "text": "Omni: Search your deck and discard pile for Flint’s Legend, Flint’s Stash, or Treasure Island, reveal the card and archive it.\n",
             "locale": {
                 "en": {
-                    "name": "Flint's Map"
+                    "name": "Flint’s Map"
                 }
             }
         },
         {
             "id": "flint-s-stash",
-            "name": "Flint's Stash",
+            "name": "Flint’s Stash",
             "number": "303",
             "image": "https://mastervault-storage-prod.s3.amazonaws.com/media/card_front/en/800_303_5aa898554661_en.png",
             "expansion": 800,
@@ -6857,7 +6857,7 @@
             "text": "Each flank creature gains, “Destroyed: Gain 2.”\n",
             "locale": {
                 "en": {
-                    "name": "Flint's Stash"
+                    "name": "Flint’s Stash"
                 }
             }
         },

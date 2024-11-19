@@ -8294,6 +8294,29 @@
             }
         },
         {
+            "id": "exchange-officer",
+            "name": "Exchange Officer",
+            "number": "324",
+            "image": "https://mastervault-storage-prod.s3.amazonaws.com/media/card_front/en/874_324_95505b2adb04_en.png",
+            "expansion": 874,
+            "house": "logos",
+            "keywords": [],
+            "traits": [
+                "human"
+            ],
+            "type": "creature",
+            "rarity": "Rare",
+            "amber": 0,
+            "armor": 0,
+            "power": 3,
+            "text": "Play/After Fight/After Reap: Use a friendly Star Alliance card.\n",
+            "locale": {
+                "en": {
+                    "name": "Exchange Officer"
+                }
+            }
+        },
+        {
             "id": "forging-an-alliance",
             "name": "Forging an Alliance",
             "number": "325",
