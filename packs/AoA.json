@@ -9939,7 +9939,7 @@
         },
         {
             "id": "killzord-mk-9001",
-            "name": "Killzord mk. 9001",
+            "name": "Killzord Mk. 9001",
             "number": "201",
             "image": "https://mastervault-storage-prod.s3.amazonaws.com/media/card_front/en/435_201_3X7R5VGG98MH_en.png",
             "expansion": 435,
@@ -9957,7 +9957,7 @@
                     "name": "Killzord Mk. 9001"
                 },
                 "en": {
-                    "name": "Killzord mk. 9001"
+                    "name": "Killzord Mk. 9001"
                 },
                 "es": {
                     "name": "Matazord Modelo 9001"

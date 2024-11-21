@@ -5275,7 +5275,7 @@
         },
         {
             "id": "aero-o-fore",
-            "name": "Aero O'Fore",
+            "name": "Aero O’Fore",
             "number": "230",
             "image": "https://mastervault-storage-prod.s3.amazonaws.com/media/card_front/en/855_230_3133b4654507_en.png",
             "expansion": 855,
@@ -5293,7 +5293,7 @@
             "text": "While Aero O'Fore is in the center of your battleline, it gains, “After Reap: You may rearrange other friendly creatures in your battleline. Each friendly flank creature captures 2.”\n",
             "locale": {
                 "en": {
-                    "name": "Aero O'Fore"
+                    "name": "Aero O’Fore"
                 }
             }
         },
@@ -6182,7 +6182,7 @@
         },
         {
             "id": "flint-s-legend",
-            "name": "Flint's Legend",
+            "name": "Flint’s Legend",
             "number": "270",
             "image": "https://mastervault-storage-prod.s3.amazonaws.com/media/card_front/en/855_270_19e489277821_en.png",
             "expansion": 855,
@@ -6197,13 +6197,13 @@
             "text": "Play: Move 1 from your opponent's pool to Treasure Island.\n",
             "locale": {
                 "en": {
-                    "name": "Flint's Legend"
+                    "name": "Flint’s Legend"
                 }
             }
         },
         {
             "id": "flint-s-map",
-            "name": "Flint's Map",
+            "name": "Flint’s Map",
             "number": "271",
             "image": "https://mastervault-storage-prod.s3.amazonaws.com/media/card_front/en/855_271_637c40c46493_en.png",
             "expansion": 855,
@@ -6220,13 +6220,13 @@
             "text": "Omni: Search your deck and discard pile for Flint’s Legend, Flint’s Stash, or Treasure Island, reveal the card and archive it.\n",
             "locale": {
                 "en": {
-                    "name": "Flint's Map"
+                    "name": "Flint’s Map"
                 }
             }
         },
         {
             "id": "flint-s-stash",
-            "name": "Flint's Stash",
+            "name": "Flint’s Stash",
             "number": "272",
             "image": "https://mastervault-storage-prod.s3.amazonaws.com/media/card_front/en/855_272_5aa898554661_en.png",
             "expansion": 855,
@@ -6243,7 +6243,7 @@
             "text": "Each flank creature gains, “Destroyed: Gain 2.”\n",
             "locale": {
                 "en": {
-                    "name": "Flint's Stash"
+                    "name": "Flint’s Stash"
                 }
             }
         },

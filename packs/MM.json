@@ -2106,7 +2106,7 @@
         },
         {
             "id": "etan-s-jar",
-            "name": "Etan's Jar",
+            "name": "Etan’s Jar",
             "number": "035",
             "image": "https://mastervault-storage-prod.s3.amazonaws.com/media/card_front/en/479_035_P7VQ83Q2RVGQ_en.png",
             "expansion": 479,
@@ -2126,7 +2126,7 @@
                     "name": "Etans Gefäß"
                 },
                 "en": {
-                    "name": "Etan's Jar"
+                    "name": "Etan’s Jar"
                 },
                 "es": {
                     "name": "Vasija de Etán"
@@ -10792,7 +10792,7 @@
         },
         {
             "id": "sagittarii-s-gaze",
-            "name": "Sagittarii's Gaze",
+            "name": "Sagittarii’s Gaze",
             "number": "196",
             "image": "https://mastervault-storage-prod.s3.amazonaws.com/media/card_front/en/479_196_86HWRJ97W8VG_en.png",
             "expansion": 479,
@@ -10810,7 +10810,7 @@
                     "name": "Im Blick des Schützen"
                 },
                 "en": {
-                    "name": "Sagittarii's Gaze"
+                    "name": "Sagittarii’s Gaze"
                 },
                 "es": {
                     "name": "Mirada de Sagittarii"
@@ -12261,7 +12261,7 @@
         },
         {
             "id": "legion-s-march",
-            "name": "Legion's March",
+            "name": "Legion’s March",
             "number": "224",
             "image": "https://mastervault-storage-prod.s3.amazonaws.com/media/card_front/en/479_224_5CJCM7763QCH_en.png",
             "expansion": 479,
@@ -12279,7 +12279,7 @@
                     "name": "Marsch der Legion"
                 },
                 "en": {
-                    "name": "Legion's March"
+                    "name": "Legion’s March"
                 },
                 "es": {
                     "name": "Marcha de la Legión"
@@ -13595,7 +13595,7 @@
         },
         {
             "id": "francis-the-economist",
-            "name": "Francis the \"Economist\"",
+            "name": "Francis the “Economist”",
             "number": "248",
             "image": "https://mastervault-storage-prod.s3.amazonaws.com/media/card_front/en/479_248_R5WCF2X522H2_en.png",
             "expansion": 479,
@@ -13618,7 +13618,7 @@
                     "name": "Francis der „Ökonom“"
                 },
                 "en": {
-                    "name": "Francis the \"Economist\""
+                    "name": "Francis the “Economist”"
                 },
                 "es": {
                     "name": "Francis el \"Economista\""
@@ -14390,7 +14390,7 @@
         },
         {
             "id": "borrow",
-            "name": "\"Borrow\"",
+            "name": "“Borrow”",
             "number": "263",
             "image": "https://mastervault-storage-prod.s3.amazonaws.com/media/card_front/en/479_263_3CJQPJ5VH438_en.png",
             "expansion": 479,
@@ -14408,7 +14408,7 @@
                     "name": "„Ausleihen“"
                 },
                 "en": {
-                    "name": "\"Borrow\""
+                    "name": "“Borrow”"
                 },
                 "es": {
                     "name": "“Tomar Prestado”"
@@ -20237,7 +20237,7 @@
         },
         {
             "id": "gloriana-s-attendant",
-            "name": "Gloriana's Attendant",
+            "name": "Gloriana’s Attendant",
             "number": "368",
             "image": "https://mastervault-storage-prod.s3.amazonaws.com/media/card_front/en/479_368_4R7RMFG3HCPP_en.png",
             "expansion": 479,
@@ -20257,7 +20257,7 @@
                     "name": "Glorianas Diener"
                 },
                 "en": {
-                    "name": "Gloriana's Attendant"
+                    "name": "Gloriana’s Attendant"
                 },
                 "es": {
                     "name": "Asistente de Gloriana"
