@@ -3482,7 +3482,7 @@
             }
         },
         {
-            "id": "annihilation-ritual-",
+            "id": "annihilation-ritual",
             "name": "Annihilation Ritual ",
             "number": "072",
             "image": "https://mastervault-storage-prod.s3.amazonaws.com/media/card_front/en/341_072_H2HJ8R9HF5C_en.png",
@@ -3503,7 +3503,7 @@
                     "name": "Ritual der Auslöschung"
                 },
                 "en": {
-                    "name": "Annihilation Ritual "
+                    "name": "Annihilation Ritual"
                 },
                 "es": {
                     "name": "Ritual de Aniquilación"
@@ -3521,7 +3521,7 @@
                     "name": "Ritual de Aniquilação"
                 },
                 "th": {
-                    "name": "Annihilation Ritual "
+                    "name": "Annihilation Ritual"
                 },
                 "zhhans": {
                     "name": "歼灭仪式"
