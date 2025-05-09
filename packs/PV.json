@@ -1,0 +1,3137 @@
+{
+    "ids": [
+        "886"
+    ],
+    "code": "PV",
+    "name": "Prophetic Visions",
+    "cardCount": "329",
+    "releaseDate": "",
+    "cards": [
+        {
+            "id": "cryptic-collapse",
+            "name": "Cryptic Collapse",
+            "number": "005",
+            "image": "https://mastervault-storage-prod.s3.amazonaws.com/media/card_front/en/886_005_94af5f817b09_en.png",
+            "expansion": 886,
+            "house": "dis",
+            "keywords": [],
+            "traits": [],
+            "type": "action",
+            "rarity": "Rare",
+            "amber": 1,
+            "armor": null,
+            "power": null,
+            "text": "Play: Discard your hand. For each card discarded this way, an enemy creature captures 1 from its own side.\n",
+            "locale": {
+                "en": {
+                    "name": "Cryptic Collapse"
+                }
+            }
+        },
+        {
+            "id": "embellish-imp",
+            "name": "Embellish Imp",
+            "number": "008",
+            "image": "https://mastervault-storage-prod.s3.amazonaws.com/media/card_front/en/886_008_98e6245314fb_en.png",
+            "expansion": 886,
+            "house": "dis",
+            "keywords": [],
+            "traits": [
+                "imp"
+            ],
+            "type": "creature",
+            "rarity": "Rare",
+            "amber": 0,
+            "armor": 0,
+            "power": 2,
+            "text": "Each time an enemy creature is destroyed, steal 1.\nFate: Destroy the most powerful friendly creature.\n",
+            "locale": {
+                "en": {
+                    "name": "Embellish Imp"
+                }
+            }
+        },
+        {
+            "id": "solo",
+            "name": "Solo",
+            "number": "014",
+            "image": "https://mastervault-storage-prod.s3.amazonaws.com/media/card_front/en/886_014_f9d2353e5bbd_en.png",
+            "expansion": 886,
+            "house": "dis",
+            "keywords": [],
+            "traits": [
+                "demon"
+            ],
+            "type": "creature",
+            "rarity": "Rare",
+            "amber": 0,
+            "armor": 0,
+            "power": 5,
+            "text": "If there are no other friendly creatures in play, Solo gets +20 power and gains, “After Fight: Gain 3.“\nFate: Destroy each creature.\n",
+            "locale": {
+                "en": {
+                    "name": "Solo"
+                }
+            }
+        },
+        {
+            "id": "bloodshard-imp",
+            "name": "Bloodshard Imp",
+            "number": "018",
+            "image": "https://mastervault-storage-prod.s3.amazonaws.com/media/card_front/en/886_018_25dabae7205a_en.png",
+            "expansion": 886,
+            "house": "dis",
+            "keywords": [],
+            "traits": [
+                "imp"
+            ],
+            "type": "creature",
+            "rarity": "Uncommon",
+            "amber": 0,
+            "armor": 0,
+            "power": 2,
+            "text": "After a creature reaps, destroy it.",
+            "locale": {
+                "en": {
+                    "name": "Bloodshard Imp"
+                }
+            }
+        },
+        {
+            "id": "ifraneye",
+            "name": "Ifraneye",
+            "number": "021",
+            "image": "https://mastervault-storage-prod.s3.amazonaws.com/media/card_front/en/886_021_11b424b3c585_en.png",
+            "expansion": 886,
+            "house": "dis",
+            "keywords": [],
+            "traits": [
+                "demon"
+            ],
+            "type": "creature",
+            "rarity": "Uncommon",
+            "amber": 0,
+            "armor": 0,
+            "power": 4,
+            "text": "Play: Discard your hand.\nAfter Reap: Your opponent discards 2 random cards from their hand.\n",
+            "locale": {
+                "en": {
+                    "name": "Ifraneye"
+                }
+            }
+        },
+        {
+            "id": "poltergeist",
+            "name": "Poltergeist",
+            "number": "025",
+            "image": "https://mastervault-storage-prod.s3.amazonaws.com/media/card_front/en/886_025_9373b9e6a505_en.png",
+            "expansion": 886,
+            "house": "dis",
+            "keywords": [],
+            "traits": [],
+            "type": "action",
+            "rarity": "Uncommon",
+            "amber": 1,
+            "armor": null,
+            "power": null,
+            "text": "Play: Use an artifact controlled by any player as if it were yours. Destroy that artifact.",
+            "locale": {
+                "en": {
+                    "name": "Poltergeist"
+                }
+            }
+        },
+        {
+            "id": "relativity-imp",
+            "name": "Relativity Imp",
+            "number": "026",
+            "image": "https://mastervault-storage-prod.s3.amazonaws.com/media/card_front/en/886_026_324828210578_en.png",
+            "expansion": 886,
+            "house": "dis",
+            "keywords": [],
+            "traits": [
+                "imp"
+            ],
+            "type": "creature",
+            "rarity": "Uncommon",
+            "amber": 1,
+            "armor": 0,
+            "power": 2,
+            "text": "You cannot forge more than 2 keys each turn.\nAfter you forge a key during your “forge a key” step, you may forge another key at current cost.\n",
+            "locale": {
+                "en": {
+                    "name": "Relativity Imp"
+                }
+            }
+        },
+        {
+            "id": "shaffles",
+            "name": "Shaffles",
+            "number": "027",
+            "image": "https://mastervault-storage-prod.s3.amazonaws.com/media/card_front/en/886_027_34752be2c1b0_en.png",
+            "expansion": 886,
+            "house": "dis",
+            "keywords": [],
+            "traits": [
+                "imp"
+            ],
+            "type": "creature",
+            "rarity": "Uncommon",
+            "amber": 0,
+            "armor": 0,
+            "power": 2,
+            "text": "At the end of your turn, your opponent loses 1.\n",
+            "locale": {
+                "en": {
+                    "name": "Shaffles"
+                }
+            }
+        },
+        {
+            "id": "they-tell-no-tales",
+            "name": "They Tell No Tales",
+            "number": "028",
+            "image": "https://mastervault-storage-prod.s3.amazonaws.com/media/card_front/en/886_028_234c16f0db39_en.png",
+            "expansion": 886,
+            "house": "dis",
+            "keywords": [],
+            "traits": [],
+            "type": "action",
+            "rarity": "Uncommon",
+            "amber": 1,
+            "armor": null,
+            "power": null,
+            "text": "Play: Choose a house. Destroy each creature of the chosen house. Gain 2 chains.\n",
+            "locale": {
+                "en": {
+                    "name": "They Tell No Tales"
+                }
+            }
+        },
+        {
+            "id": "a-gift-of-æmber",
+            "name": "A Gift of Æmber",
+            "number": "030",
+            "image": "https://mastervault-storage-prod.s3.amazonaws.com/media/card_front/en/886_030_69dfdef6e893_en.png",
+            "expansion": 886,
+            "house": "dis",
+            "keywords": [],
+            "traits": [],
+            "type": "action",
+            "rarity": "Common",
+            "amber": 1,
+            "armor": null,
+            "power": null,
+            "text": "Play: Destroy up to 2 creatures. For each creature destroyed this way, the creature's controller gains 1.\n",
+            "locale": {
+                "en": {
+                    "name": "A Gift of Æmber"
+                }
+            }
+        },
+        {
+            "id": "banish",
+            "name": "Banish",
+            "number": "031",
+            "image": "https://mastervault-storage-prod.s3.amazonaws.com/media/card_front/en/886_031_41f36cb51547_en.png",
+            "expansion": 886,
+            "house": "dis",
+            "keywords": [],
+            "traits": [],
+            "type": "action",
+            "rarity": "Common",
+            "amber": 1,
+            "armor": null,
+            "power": null,
+            "text": "Play: Put an enemy creature into your opponent’s archives.",
+            "locale": {
+                "en": {
+                    "name": "Banish"
+                }
+            }
+        },
+        {
+            "id": "chasm-vespid",
+            "name": "Chasm Vespid",
+            "number": "033",
+            "image": "https://mastervault-storage-prod.s3.amazonaws.com/media/card_front/en/886_033_28bd5d06f8c6_en.png",
+            "expansion": 886,
+            "house": "dis",
+            "keywords": [
+                "skirmish",
+                "splash-attack:1"
+            ],
+            "traits": [
+                "beast"
+            ],
+            "type": "creature",
+            "rarity": "Common",
+            "amber": 0,
+            "armor": 0,
+            "power": 1,
+            "text": "Skirmish. Splash-attack 1.\nFate: Archive each friendly creature not on a flank.\n",
+            "locale": {
+                "en": {
+                    "name": "Chasm Vespid"
+                }
+            }
+        },
+        {
+            "id": "dark-minion",
+            "name": "Dark Minion",
+            "number": "034",
+            "image": "https://mastervault-storage-prod.s3.amazonaws.com/media/card_front/en/886_034_404c9c9ffd92_en.png",
+            "expansion": 886,
+            "house": "dis",
+            "keywords": [],
+            "traits": [
+                "mutant"
+            ],
+            "type": "creature",
+            "rarity": "Common",
+            "amber": 0,
+            "armor": 0,
+            "power": 1,
+            "text": "Enhance . (These icons have already been added to cards in your deck.)\nDestroyed: Deal 1 to each enemy creature.\n",
+            "locale": {
+                "en": {
+                    "name": "Dark Minion"
+                }
+            }
+        },
+        {
+            "id": "eddy-of-dis",
+            "name": "Eddy of Dis",
+            "number": "035",
+            "image": "https://mastervault-storage-prod.s3.amazonaws.com/media/card_front/en/886_035_68a6734bb7f6_en.png",
+            "expansion": 886,
+            "house": "dis",
+            "keywords": [],
+            "traits": [],
+            "type": "action",
+            "rarity": "Common",
+            "amber": 1,
+            "armor": null,
+            "power": null,
+            "text": "Play: Shuffle a random card from your opponent’s hand into their deck.\nFate: Your opponent shuffles their discard pile into their deck. They draw a card.\n",
+            "locale": {
+                "en": {
+                    "name": "Eddy of Dis"
+                }
+            }
+        },
+        {
+            "id": "hamstrung",
+            "name": "Hamstrung",
+            "number": "036",
+            "image": "https://mastervault-storage-prod.s3.amazonaws.com/media/card_front/en/886_036_855e5fe876c2_en.png",
+            "expansion": 886,
+            "house": "dis",
+            "keywords": [],
+            "traits": [],
+            "type": "action",
+            "rarity": "Common",
+            "amber": 1,
+            "armor": null,
+            "power": null,
+            "text": "Play: Discard the top card of a player’s deck. If it is a creature, purge it. \n",
+            "locale": {
+                "en": {
+                    "name": "Hamstrung"
+                }
+            }
+        },
+        {
+            "id": "infinity-strop",
+            "name": "Infinity Strop",
+            "number": "037",
+            "image": "https://mastervault-storage-prod.s3.amazonaws.com/media/card_front/en/886_037_2deeba14ce34_en.png",
+            "expansion": 886,
+            "house": "dis",
+            "keywords": [],
+            "traits": [],
+            "type": "action",
+            "rarity": "Common",
+            "amber": 1,
+            "armor": null,
+            "power": null,
+            "text": "Play: Deal 2 to a creature. If this damage destroys that creature, deal 4 to each creature that shares a house with the destroyed creature.\n",
+            "locale": {
+                "en": {
+                    "name": "Infinity Strop"
+                }
+            }
+        },
+        {
+            "id": "parasitic-arachnoid",
+            "name": "Parasitic Arachnoid",
+            "number": "039",
+            "image": "https://mastervault-storage-prod.s3.amazonaws.com/media/card_front/en/886_039_ebe2f2715626_en.png",
+            "expansion": 886,
+            "house": "dis",
+            "keywords": [],
+            "traits": [
+                "beast"
+            ],
+            "type": "creature",
+            "rarity": "Common",
+            "amber": 0,
+            "armor": 0,
+            "power": 2,
+            "text": "Destroyed: An enemy creature captures 1 from its own side.\nFate: A friendly creature captures 2 from its own side.\n",
+            "locale": {
+                "en": {
+                    "name": "Parasitic Arachnoid"
+                }
+            }
+        },
+        {
+            "id": "pied-viper",
+            "name": "Pied Viper",
+            "number": "040",
+            "image": "https://mastervault-storage-prod.s3.amazonaws.com/media/card_front/en/886_040_6c2c8f9ec3c5_en.png",
+            "expansion": 886,
+            "house": "dis",
+            "keywords": [
+                "elusive"
+            ],
+            "traits": [
+                "beast"
+            ],
+            "type": "creature",
+            "rarity": "Common",
+            "amber": 0,
+            "armor": 0,
+            "power": 3,
+            "text": "Elusive.\nAfter an enemy creature reaps, if there are more enemy creatures than friendly creatures, gain control of that creature.\n",
+            "locale": {
+                "en": {
+                    "name": "Pied Viper"
+                }
+            }
+        },
+        {
+            "id": "skorpeon",
+            "name": "Skorpeon",
+            "number": "041",
+            "image": "https://mastervault-storage-prod.s3.amazonaws.com/media/card_front/en/886_041_dbe37a5abe80_en.png",
+            "expansion": 886,
+            "house": "dis",
+            "keywords": [],
+            "traits": [
+                "beast",
+                "recruiter"
+            ],
+            "type": "creature",
+            "rarity": "Common",
+            "amber": 0,
+            "armor": 0,
+            "power": 3,
+            "text": "Enhance .\nAfter Reap: Deal 2 to an enemy creature for each of Skorpeon’s Dis neighbors.\n",
+            "locale": {
+                "en": {
+                    "name": "Skorpeon"
+                }
+            }
+        },
+        {
+            "id": "strug",
+            "name": "Strug",
+            "number": "042",
+            "image": "https://mastervault-storage-prod.s3.amazonaws.com/media/card_front/en/886_042_29d3e06aa708_en.png",
+            "expansion": 886,
+            "house": "dis",
+            "keywords": [],
+            "traits": [
+                "imp"
+            ],
+            "type": "creature",
+            "rarity": "Common",
+            "amber": 0,
+            "armor": 0,
+            "power": 3,
+            "text": "Play/Destroyed: Your opponent loses 1.\nFate: Lose 2.\n",
+            "locale": {
+                "en": {
+                    "name": "Strug"
+                }
+            }
+        },
+        {
+            "id": "traumatic-echo",
+            "name": "Traumatic Echo",
+            "number": "043",
+            "image": "https://mastervault-storage-prod.s3.amazonaws.com/media/card_front/en/886_043_ab853e59fbf0_en.png",
+            "expansion": 886,
+            "house": "dis",
+            "keywords": [],
+            "traits": [],
+            "type": "action",
+            "rarity": "Common",
+            "amber": 0,
+            "armor": null,
+            "power": null,
+            "text": "Play: Purge a card from your discard pile. During your opponent’s next turn, they cannot play cards of the purged card’s type.\n",
+            "locale": {
+                "en": {
+                    "name": "Traumatic Echo"
+                }
+            }
+        },
+        {
+            "id": "silver-key-imp",
+            "name": "Silver Key Imp",
+            "number": "046",
+            "image": "https://mastervault-storage-prod.s3.amazonaws.com/media/card_front/en/886_046_b46f4ab68a67_en.png",
+            "expansion": 886,
+            "house": "dis",
+            "keywords": [
+                "elusive"
+            ],
+            "traits": [
+                "imp"
+            ],
+            "type": "creature",
+            "rarity": "Special",
+            "amber": 0,
+            "armor": 0,
+            "power": 2,
+            "text": "Elusive. (The first time this creature is attacked each turn, no damage is dealt.)\nPlayers cannot forge their second key.",
+            "locale": {
+                "en": {
+                    "name": "Silver Key Imp"
+                }
+            }
+        },
+        {
+            "id": "cyber-clone",
+            "name": "Cyber-Clone",
+            "number": "049",
+            "image": "https://mastervault-storage-prod.s3.amazonaws.com/media/card_front/en/886_049_02f3419bab0e_en.png",
+            "expansion": 886,
+            "house": "logos",
+            "keywords": [],
+            "traits": [
+                "mutant"
+            ],
+            "type": "creature",
+            "rarity": "Rare",
+            "amber": 0,
+            "armor": 0,
+            "power": 1,
+            "text": "Play: Purge another creature. Until Cyber‑Clone leaves play, it has power equal to the purged creature’s power, and gains that creature’s armor, keywords, and traits.",
+            "locale": {
+                "en": {
+                    "name": "Cyber-Clone"
+                }
+            }
+        },
+        {
+            "id": "exotic-pivot",
+            "name": "Exotic Pivot",
+            "number": "052",
+            "image": "https://mastervault-storage-prod.s3.amazonaws.com/media/card_front/en/886_052_b2af1e781084_en.png",
+            "expansion": 886,
+            "house": "logos",
+            "keywords": [],
+            "traits": [],
+            "type": "action",
+            "rarity": "Rare",
+            "amber": 0,
+            "armor": null,
+            "power": null,
+            "text": "Play: Discard the top card of your deck. If it is not a Logos card, steal 3.\nFate: For the remainder of the turn, you cannot play creatures.\n",
+            "locale": {
+                "en": {
+                    "name": "Exotic Pivot"
+                }
+            }
+        },
+        {
+            "id": "archon-s-callback",
+            "name": "Archon’s Callback",
+            "number": "064",
+            "image": "https://mastervault-storage-prod.s3.amazonaws.com/media/card_front/en/886_064_517a730e2221_en.png",
+            "expansion": 886,
+            "house": "logos",
+            "keywords": [
+                "omega"
+            ],
+            "traits": [],
+            "type": "action",
+            "rarity": "Uncommon",
+            "amber": 0,
+            "armor": null,
+            "power": null,
+            "text": "Omega. (After you play this card, end this step.)\nPlay: Draw 5 cards.\n",
+            "locale": {
+                "en": {
+                    "name": "Archon’s Callback"
+                }
+            }
+        },
+        {
+            "id": "cændle-unit",
+            "name": "C.Æ.N.D.L.E. Unit",
+            "number": "066",
+            "image": "https://mastervault-storage-prod.s3.amazonaws.com/media/card_front/en/886_066_6c19a0c63b42_en.png",
+            "expansion": 886,
+            "house": "logos",
+            "keywords": [],
+            "traits": [
+                "robot"
+            ],
+            "type": "creature",
+            "rarity": "Uncommon",
+            "amber": 0,
+            "armor": 1,
+            "power": 5,
+            "text": "After an enemy creature reaps, draw a card.\nAction: Capture 1.\n",
+            "locale": {
+                "en": {
+                    "name": "C.Æ.N.D.L.E. Unit"
+                }
+            }
+        },
+        {
+            "id": "code-monkey",
+            "name": "Code Monkey",
+            "number": "067",
+            "image": "https://mastervault-storage-prod.s3.amazonaws.com/media/card_front/en/886_067_b8c99ef91356_en.png",
+            "expansion": 886,
+            "house": "logos",
+            "keywords": [
+                "deploy"
+            ],
+            "traits": [
+                "ai",
+                "beast"
+            ],
+            "type": "creature",
+            "rarity": "Uncommon",
+            "amber": 0,
+            "armor": 0,
+            "power": 3,
+            "text": "Deploy. (This creature can enter play anywhere in your battleline.)\nPlay: Archive each neighboring creature. If those creatures share a house, gain 2.\n",
+            "locale": {
+                "en": {
+                    "name": "Code Monkey"
+                }
+            }
+        },
+        {
+            "id": "director-of-zyx",
+            "name": "Director of Z.Y.X.",
+            "number": "068",
+            "image": "https://mastervault-storage-prod.s3.amazonaws.com/media/card_front/en/886_068_cfbd1286955c_en.png",
+            "expansion": 886,
+            "house": "logos",
+            "keywords": [
+                "elusive"
+            ],
+            "traits": [
+                "cyborg",
+                "scientist"
+            ],
+            "type": "creature",
+            "rarity": "Uncommon",
+            "amber": 0,
+            "armor": 0,
+            "power": 3,
+            "text": "Elusive. (The first time this creature is attacked each turn, no damage is dealt.)\nAt the start of your turn, archive the top card of your deck.",
+            "locale": {
+                "en": {
+                    "name": "Director of Z.Y.X."
+                }
+            }
+        },
+        {
+            "id": "4cr-foreseer",
+            "name": "4CR “Foreseer”",
+            "number": "076",
+            "image": "https://mastervault-storage-prod.s3.amazonaws.com/media/card_front/en/886_076_352f27d053d2_en.png",
+            "expansion": 886,
+            "house": "logos",
+            "keywords": [],
+            "traits": [
+                "cyborg",
+                "scientist"
+            ],
+            "type": "creature",
+            "rarity": "Common",
+            "amber": 0,
+            "armor": 0,
+            "power": 2,
+            "text": "Play/After Reap: Look at the top 2 cards of your deck. Put 1 into your hand.\n",
+            "locale": {
+                "en": {
+                    "name": "4CR “Foreseer”"
+                }
+            }
+        },
+        {
+            "id": "captain-cha",
+            "name": "Captain Cha",
+            "number": "077",
+            "image": "https://mastervault-storage-prod.s3.amazonaws.com/media/card_front/en/886_077_1bf88f76e177_en.png",
+            "expansion": 886,
+            "house": "logos",
+            "keywords": [
+                "elusive"
+            ],
+            "traits": [
+                "robot"
+            ],
+            "type": "creature",
+            "rarity": "Common",
+            "amber": 0,
+            "armor": 0,
+            "power": 3,
+            "text": "Elusive.\nAfter Reap: Steal 1.\n",
+            "locale": {
+                "en": {
+                    "name": "Captain Cha"
+                }
+            }
+        },
+        {
+            "id": "cutthroat-research",
+            "name": "Cutthroat Research",
+            "number": "078",
+            "image": "https://mastervault-storage-prod.s3.amazonaws.com/media/card_front/en/886_078_08df50437daf_en.png",
+            "expansion": 886,
+            "house": "logos",
+            "keywords": [],
+            "traits": [],
+            "type": "action",
+            "rarity": "Common",
+            "amber": 1,
+            "armor": null,
+            "power": null,
+            "text": "Play: Steal 2 if your opponent has 8 or more.\n",
+            "locale": {
+                "en": {
+                    "name": "Cutthroat Research"
+                }
+            }
+        },
+        {
+            "id": "digitallia",
+            "name": "Digitallia",
+            "number": "079",
+            "image": "https://mastervault-storage-prod.s3.amazonaws.com/media/card_front/en/886_079_df6849bc8b80_en.png",
+            "expansion": 886,
+            "house": "logos",
+            "keywords": [],
+            "traits": [
+                "cyborg",
+                "recruiter"
+            ],
+            "type": "creature",
+            "rarity": "Common",
+            "amber": 0,
+            "armor": 0,
+            "power": 2,
+            "text": "Enhance .\nAfter Reap: Draw a card for each of Digitallia’s Logos neighbors.\n",
+            "locale": {
+                "en": {
+                    "name": "Digitallia"
+                }
+            }
+        },
+        {
+            "id": "emeritus-darn",
+            "name": "Emeritus Darn",
+            "number": "080",
+            "image": "https://mastervault-storage-prod.s3.amazonaws.com/media/card_front/en/886_080_923766de9583_en.png",
+            "expansion": 886,
+            "house": "logos",
+            "keywords": [
+                "elusive"
+            ],
+            "traits": [
+                "human",
+                "scientist"
+            ],
+            "type": "creature",
+            "rarity": "Common",
+            "amber": 0,
+            "armor": 0,
+            "power": 2,
+            "text": "Elusive.\nAfter Reap: Archive the top 2 cards of your deck.\n",
+            "locale": {
+                "en": {
+                    "name": "Emeritus Darn"
+                }
+            }
+        },
+        {
+            "id": "parallel-thinking",
+            "name": "Parallel Thinking",
+            "number": "083",
+            "image": "https://mastervault-storage-prod.s3.amazonaws.com/media/card_front/en/886_083_252acf30e478_en.png",
+            "expansion": 886,
+            "house": "logos",
+            "keywords": [],
+            "traits": [],
+            "type": "action",
+            "rarity": "Common",
+            "amber": 0,
+            "armor": null,
+            "power": null,
+            "text": "Play: Discard the top 2 cards of a player’s deck or 2 random cards from a player’s archives. If the discarded cards share a type, steal 2.\n",
+            "locale": {
+                "en": {
+                    "name": "Parallel Thinking"
+                }
+            }
+        },
+        {
+            "id": "reassembly-required",
+            "name": "Reassembly Required",
+            "number": "084",
+            "image": "https://mastervault-storage-prod.s3.amazonaws.com/media/card_front/en/886_084_21d77d432236_en.png",
+            "expansion": 886,
+            "house": "logos",
+            "keywords": [],
+            "traits": [],
+            "type": "action",
+            "rarity": "Common",
+            "amber": 1,
+            "armor": null,
+            "power": null,
+            "text": "Play: Put a creature into its owner’s archives.\nFate: Discard your archives.\n",
+            "locale": {
+                "en": {
+                    "name": "Reassembly Required"
+                }
+            }
+        },
+        {
+            "id": "reiteration",
+            "name": "Reiteration",
+            "number": "085",
+            "image": "https://mastervault-storage-prod.s3.amazonaws.com/media/card_front/en/886_085_5d254c94d58e_en.png",
+            "expansion": 886,
+            "house": "logos",
+            "keywords": [],
+            "traits": [],
+            "type": "action",
+            "rarity": "Common",
+            "amber": 1,
+            "armor": null,
+            "power": null,
+            "text": "Play: Draw 2 cards. Put 2 cards from your hand on the bottom of your deck.\nFate: Discard 2 random cards from your hand.\n",
+            "locale": {
+                "en": {
+                    "name": "Reiteration"
+                }
+            }
+        },
+        {
+            "id": "wild-wormhole",
+            "name": "Wild Wormhole",
+            "number": "086",
+            "image": "https://mastervault-storage-prod.s3.amazonaws.com/media/card_front/en/886_086_2e5ed4dfda94_en.png",
+            "expansion": 886,
+            "house": "logos",
+            "keywords": [],
+            "traits": [],
+            "type": "action",
+            "rarity": "Common",
+            "amber": 1,
+            "armor": null,
+            "power": null,
+            "text": "Play: Play the top card of your deck.\n",
+            "locale": {
+                "en": {
+                    "name": "Wild Wormhole"
+                }
+            }
+        },
+        {
+            "id": "wormhole-technician",
+            "name": "Wormhole Technician",
+            "number": "087",
+            "image": "https://mastervault-storage-prod.s3.amazonaws.com/media/card_front/en/886_087_29cea4f6ee00_en.png",
+            "expansion": 886,
+            "house": "logos",
+            "keywords": [],
+            "traits": [
+                "cyborg",
+                "scientist"
+            ],
+            "type": "creature",
+            "rarity": "Common",
+            "amber": 0,
+            "armor": 0,
+            "power": 3,
+            "text": "After Reap: Reveal the top card of your deck. If it is a Logos card, play it. Otherwise, archive it.",
+            "locale": {
+                "en": {
+                    "name": "Wormhole Technician"
+                }
+            }
+        },
+        {
+            "id": "zyx-researcher",
+            "name": "Z.Y.X. Researcher",
+            "number": "088",
+            "image": "https://mastervault-storage-prod.s3.amazonaws.com/media/card_front/en/886_088_1e18775fad83_en.png",
+            "expansion": 886,
+            "house": "logos",
+            "keywords": [],
+            "traits": [
+                "scientist",
+                "human"
+            ],
+            "type": "creature",
+            "rarity": "Common",
+            "amber": 0,
+            "armor": 0,
+            "power": 2,
+            "text": "Play: Archive the top card of your deck or the top card of your discard pile.\n",
+            "locale": {
+                "en": {
+                    "name": "Z.Y.X. Researcher"
+                }
+            }
+        },
+        {
+            "id": "collective-calm",
+            "name": "Collective Calm",
+            "number": "134",
+            "image": "https://mastervault-storage-prod.s3.amazonaws.com/media/card_front/en/886_134_9c81bb9e65d8_en.png",
+            "expansion": 886,
+            "house": "sanctum",
+            "keywords": [],
+            "traits": [
+                "power"
+            ],
+            "type": "artifact",
+            "rarity": "Rare",
+            "amber": 1,
+            "armor": null,
+            "power": null,
+            "text": "Each creature gains, “After Reap: Gain 1.”\nAfter a friendly creature is used to fight, destroy Collective Calm.\n",
+            "locale": {
+                "en": {
+                    "name": "Collective Calm"
+                }
+            }
+        },
+        {
+            "id": "emerald-duelist",
+            "name": "Emerald Duelist",
+            "number": "135",
+            "image": "https://mastervault-storage-prod.s3.amazonaws.com/media/card_front/en/886_135_9e0fa17821bb_en.png",
+            "expansion": 886,
+            "house": "sanctum",
+            "keywords": [
+                "taunt"
+            ],
+            "traits": [
+                "knight",
+                "spirit"
+            ],
+            "type": "creature",
+            "rarity": "Rare",
+            "amber": 0,
+            "armor": 2,
+            "power": 5,
+            "text": "Taunt.\nAfter Fight: Each of Emerald Duelist’s neighbors capture 1.\n",
+            "locale": {
+                "en": {
+                    "name": "Emerald Duelist"
+                }
+            }
+        },
+        {
+            "id": "harmonic-ritual",
+            "name": "Harmonic Ritual",
+            "number": "136",
+            "image": "https://mastervault-storage-prod.s3.amazonaws.com/media/card_front/en/886_136_bd65eecf3a5a_en.png",
+            "expansion": 886,
+            "house": "sanctum",
+            "keywords": [],
+            "traits": [],
+            "type": "action",
+            "rarity": "Rare",
+            "amber": 1,
+            "armor": null,
+            "power": null,
+            "text": "Play: Choose a friendly creature. If its left neighbor shares a house with it, gain 1 and repeat this effect on that creature.",
+            "locale": {
+                "en": {
+                    "name": "Harmonic Ritual"
+                }
+            }
+        },
+        {
+            "id": "chanel-the-wise",
+            "name": "Chanel the Wise",
+            "number": "150",
+            "image": "https://mastervault-storage-prod.s3.amazonaws.com/media/card_front/en/886_150_522df09388ea_en.png",
+            "expansion": 886,
+            "house": "sanctum",
+            "keywords": [],
+            "traits": [
+                "human",
+                "monk"
+            ],
+            "type": "creature",
+            "rarity": "Uncommon",
+            "amber": 0,
+            "armor": 0,
+            "power": 2,
+            "text": "Each other friendly creature gets +3 power.\nScrap: Give a friendly creature five +1 power counters.\n",
+            "locale": {
+                "en": {
+                    "name": "Chanel the Wise"
+                }
+            }
+        },
+        {
+            "id": "dissonant-chord",
+            "name": "Dissonant Chord",
+            "number": "151",
+            "image": "https://mastervault-storage-prod.s3.amazonaws.com/media/card_front/en/886_151_d4f7ef121a77_en.png",
+            "expansion": 886,
+            "house": "sanctum",
+            "keywords": [],
+            "traits": [],
+            "type": "action",
+            "rarity": "Uncommon",
+            "amber": 1,
+            "armor": null,
+            "power": null,
+            "text": "Play: Deal 3 to a creature. If this damage destroys that creature, stun each of its neighbors after it leaves play.\nFate: Stun each friendly creature with  on it.\n",
+            "locale": {
+                "en": {
+                    "name": "Dissonant Chord"
+                }
+            }
+        },
+        {
+            "id": "holdfast",
+            "name": "Holdfast",
+            "number": "154",
+            "image": "https://mastervault-storage-prod.s3.amazonaws.com/media/card_front/en/886_154_0fe62009c756_en.png",
+            "expansion": 886,
+            "house": "sanctum",
+            "keywords": [],
+            "traits": [
+                "beast"
+            ],
+            "type": "creature",
+            "rarity": "Uncommon",
+            "amber": 0,
+            "armor": 0,
+            "power": 6,
+            "text": "After 1 of Holdfast’s neighbors is dealt damage, ready Holdfast.\n",
+            "locale": {
+                "en": {
+                    "name": "Holdfast"
+                }
+            }
+        },
+        {
+            "id": "rothais-the-fierce",
+            "name": "Rothais the Fierce",
+            "number": "156",
+            "image": "https://mastervault-storage-prod.s3.amazonaws.com/media/card_front/en/886_156_f6e5b57ad532_en.png",
+            "expansion": 886,
+            "house": "sanctum",
+            "keywords": [
+                "taunt",
+                "hazardous:4"
+            ],
+            "traits": [
+                "human",
+                "knight"
+            ],
+            "type": "creature",
+            "rarity": "Uncommon",
+            "amber": 0,
+            "armor": 2,
+            "power": 4,
+            "text": "Taunt. (This creature’s neighbors cannot be attacked unless they have taunt.)\nHazardous 4. (Before this creature is attacked, deal 4 to the attacking enemy.)\n",
+            "locale": {
+                "en": {
+                    "name": "Rothais the Fierce"
+                }
+            }
+        },
+        {
+            "id": "tealnar",
+            "name": "Tealnar",
+            "number": "157",
+            "image": "https://mastervault-storage-prod.s3.amazonaws.com/media/card_front/en/886_157_08ccfe815b54_en.png",
+            "expansion": 886,
+            "house": "sanctum",
+            "keywords": [],
+            "traits": [
+                "human",
+                "monk"
+            ],
+            "type": "creature",
+            "rarity": "Uncommon",
+            "amber": 0,
+            "armor": 0,
+            "power": 3,
+            "text": "Each friendly creature gains, ”After Fight: Heal 3 from each of this creature’s neighbors.”\nFate: Fully heal each creature. Your opponent gains 1 for each creature healed this way.\n",
+            "locale": {
+                "en": {
+                    "name": "Tealnar"
+                }
+            }
+        },
+        {
+            "id": "trade-blows",
+            "name": "Trade Blows",
+            "number": "158",
+            "image": "https://mastervault-storage-prod.s3.amazonaws.com/media/card_front/en/886_158_33d99a166d6f_en.png",
+            "expansion": 886,
+            "house": "sanctum",
+            "keywords": [],
+            "traits": [],
+            "type": "action",
+            "rarity": "Uncommon",
+            "amber": 0,
+            "armor": null,
+            "power": null,
+            "text": "Play: Deal 1 to an enemy creature. If that creature is not destroyed, you may deal 1 to a friendly creature to repeat this effect.\n",
+            "locale": {
+                "en": {
+                    "name": "Trade Blows"
+                }
+            }
+        },
+        {
+            "id": "aubade-the-grim",
+            "name": "Aubade the Grim",
+            "number": "159",
+            "image": "https://mastervault-storage-prod.s3.amazonaws.com/media/card_front/en/886_159_b2a2ee575115_en.png",
+            "expansion": 886,
+            "house": "sanctum",
+            "keywords": [],
+            "traits": [
+                "knight",
+                "spirit"
+            ],
+            "type": "creature",
+            "rarity": "Common",
+            "amber": 0,
+            "armor": 1,
+            "power": 4,
+            "text": "Play: Capture 3.\nAfter Reap: Return 1 from Aubade the Grim to the common supply.",
+            "locale": {
+                "en": {
+                    "name": "Aubade the Grim"
+                }
+            }
+        },
+        {
+            "id": "brigadier-ols",
+            "name": "Brigadier Ols",
+            "number": "160",
+            "image": "https://mastervault-storage-prod.s3.amazonaws.com/media/card_front/en/886_160_405516ea71e9_en.png",
+            "expansion": 886,
+            "house": "sanctum",
+            "keywords": [],
+            "traits": [
+                "human",
+                "recruiter"
+            ],
+            "type": "creature",
+            "rarity": "Common",
+            "amber": 0,
+            "armor": 0,
+            "power": 5,
+            "text": "Enhance .\nBrigadier Ols gets +2 armor for each of its Sanctum neighbors.\n",
+            "locale": {
+                "en": {
+                    "name": "Brigadier Ols"
+                }
+            }
+        },
+        {
+            "id": "broken-intent",
+            "name": "Broken Intent",
+            "number": "161",
+            "image": "https://mastervault-storage-prod.s3.amazonaws.com/media/card_front/en/886_161_d823e337ec1c_en.png",
+            "expansion": 886,
+            "house": "sanctum",
+            "keywords": [],
+            "traits": [],
+            "type": "action",
+            "rarity": "Common",
+            "amber": 1,
+            "armor": null,
+            "power": null,
+            "text": "Play: Choose one:\nEach player discards their archives.\nPurge an action card in a discard pile. \n",
+            "locale": {
+                "en": {
+                    "name": "Broken Intent"
+                }
+            }
+        },
+        {
+            "id": "burning-glare",
+            "name": "Burning Glare",
+            "number": "162",
+            "image": "https://mastervault-storage-prod.s3.amazonaws.com/media/card_front/en/886_162_f8b4eae2a959_en.png",
+            "expansion": 886,
+            "house": "sanctum",
+            "keywords": [],
+            "traits": [],
+            "type": "action",
+            "rarity": "Common",
+            "amber": 1,
+            "armor": null,
+            "power": null,
+            "text": "Enhance . (These icons have already been added to cards in your deck.)\nPlay: Choose one:\nStun an enemy creature.\nStun each enemy Mutant creature.\n",
+            "locale": {
+                "en": {
+                    "name": "Burning Glare"
+                }
+            }
+        },
+        {
+            "id": "divine-seal",
+            "name": "Divine Seal",
+            "number": "164",
+            "image": "https://mastervault-storage-prod.s3.amazonaws.com/media/card_front/en/886_164_a033650d37e6_en.png",
+            "expansion": 886,
+            "house": "sanctum",
+            "keywords": [],
+            "traits": [],
+            "type": "action",
+            "rarity": "Common",
+            "amber": 1,
+            "armor": null,
+            "power": null,
+            "text": "Play: Put a creature on the bottom of its owner’s deck.\nFate: Purge the bottom card of your deck.\n\n",
+            "locale": {
+                "en": {
+                    "name": "Divine Seal"
+                }
+            }
+        },
+        {
+            "id": "greedy-reprisal",
+            "name": "Greedy Reprisal",
+            "number": "165",
+            "image": "https://mastervault-storage-prod.s3.amazonaws.com/media/card_front/en/886_165_e37093a27e86_en.png",
+            "expansion": 886,
+            "house": "sanctum",
+            "keywords": [],
+            "traits": [],
+            "type": "action",
+            "rarity": "Common",
+            "amber": 0,
+            "armor": null,
+            "power": null,
+            "text": "Play: For each  in your opponent’s pool, destroy a creature.\nFate: Deal 2 to a friendly creature for each point of armor on enemy creatures. \n",
+            "locale": {
+                "en": {
+                    "name": "Greedy Reprisal"
+                }
+            }
+        },
+        {
+            "id": "grey-warden",
+            "name": "Grey Warden",
+            "number": "166",
+            "image": "https://mastervault-storage-prod.s3.amazonaws.com/media/card_front/en/886_166_a789be820474_en.png",
+            "expansion": 886,
+            "house": "sanctum",
+            "keywords": [
+                "deploy"
+            ],
+            "traits": [
+                "human",
+                "monk"
+            ],
+            "type": "creature",
+            "rarity": "Common",
+            "amber": 0,
+            "armor": 0,
+            "power": 3,
+            "text": "Deploy.\nAfter Fight/After Reap: Ready a neighboring Sanctum creature.\n",
+            "locale": {
+                "en": {
+                    "name": "Grey Warden"
+                }
+            }
+        },
+        {
+            "id": "jayne-the-bard",
+            "name": "Jayne the Bard",
+            "number": "167",
+            "image": "https://mastervault-storage-prod.s3.amazonaws.com/media/card_front/en/886_167_f3e3eead10e0_en.png",
+            "expansion": 886,
+            "house": "sanctum",
+            "keywords": [],
+            "traits": [
+                "human"
+            ],
+            "type": "creature",
+            "rarity": "Common",
+            "amber": 0,
+            "armor": 0,
+            "power": 3,
+            "text": "After Reap: Deal 2 to an enemy creature. If that creature has  on it, repeat the preceding effect.\nScrap: Exalt 2 friendly creatures.\n",
+            "locale": {
+                "en": {
+                    "name": "Jayne the Bard"
+                }
+            }
+        },
+        {
+            "id": "lightbearer-kelvin",
+            "name": "Lightbearer Kelvin",
+            "number": "168",
+            "image": "https://mastervault-storage-prod.s3.amazonaws.com/media/card_front/en/886_168_5eb646380491_en.png",
+            "expansion": 886,
+            "house": "sanctum",
+            "keywords": [],
+            "traits": [
+                "knight",
+                "angel"
+            ],
+            "type": "creature",
+            "rarity": "Common",
+            "amber": 0,
+            "armor": 2,
+            "power": 4,
+            "text": "After Fight: Discard the bottom card of a player’s deck. If it is a creature, put it into play under your control.\n",
+            "locale": {
+                "en": {
+                    "name": "Lightbearer Kelvin"
+                }
+            }
+        },
+        {
+            "id": "outflank",
+            "name": "Outflank",
+            "number": "169",
+            "image": "https://mastervault-storage-prod.s3.amazonaws.com/media/card_front/en/886_169_209f87796e45_en.png",
+            "expansion": 886,
+            "house": "sanctum",
+            "keywords": [],
+            "traits": [],
+            "type": "action",
+            "rarity": "Common",
+            "amber": 1,
+            "armor": null,
+            "power": null,
+            "text": "Play: Each Sanctum flank creature captures 2 from its opponent.\n",
+            "locale": {
+                "en": {
+                    "name": "Outflank"
+                }
+            }
+        },
+        {
+            "id": "sir-jaune",
+            "name": "Sir Jaune",
+            "number": "170",
+            "image": "https://mastervault-storage-prod.s3.amazonaws.com/media/card_front/en/886_170_741805293876_en.png",
+            "expansion": 886,
+            "house": "sanctum",
+            "keywords": [],
+            "traits": [
+                "knight",
+                "human"
+            ],
+            "type": "creature",
+            "rarity": "Common",
+            "amber": 0,
+            "armor": 1,
+            "power": 3,
+            "text": "Play: Capture one third of your opponent's  (rounded down).\nFate: Lose one third of your  (rounded down).\n",
+            "locale": {
+                "en": {
+                    "name": "Sir Jaune"
+                }
+            }
+        },
+        {
+            "id": "ornate-remuneration",
+            "name": "Ornate Remuneration",
+            "number": "178",
+            "image": "https://mastervault-storage-prod.s3.amazonaws.com/media/card_front/en/886_178_0267cd9d6a31_en.png",
+            "expansion": 886,
+            "house": "saurian",
+            "keywords": [],
+            "traits": [],
+            "type": "action",
+            "rarity": "Rare",
+            "amber": 0,
+            "armor": null,
+            "power": null,
+            "text": "Play: Choose one:\nMove each  from a friendly creature to your pool.\nA friendly creature captures 3.\n",
+            "locale": {
+                "en": {
+                    "name": "Ornate Remuneration"
+                }
+            }
+        },
+        {
+            "id": "primus-unguis",
+            "name": "Primus Unguis",
+            "number": "181",
+            "image": "https://mastervault-storage-prod.s3.amazonaws.com/media/card_front/en/886_181_54d51c44d64f_en.png",
+            "expansion": 886,
+            "house": "saurian",
+            "keywords": [],
+            "traits": [
+                "dinosaur",
+                "soldier"
+            ],
+            "type": "creature",
+            "rarity": "Rare",
+            "amber": 0,
+            "armor": 1,
+            "power": 5,
+            "text": "Each friendly creature gets +2 power for each  on Primus Unguis.\nAfter Reap: Exalt Primus Unguis.\n",
+            "locale": {
+                "en": {
+                    "name": "Primus Unguis"
+                }
+            }
+        },
+        {
+            "id": "salvatorem",
+            "name": "Salvatorem",
+            "number": "182",
+            "image": "https://mastervault-storage-prod.s3.amazonaws.com/media/card_front/en/886_182_939992c5d08d_en.png",
+            "expansion": 886,
+            "house": "saurian",
+            "keywords": [],
+            "traits": [
+                "location"
+            ],
+            "type": "artifact",
+            "rarity": "Rare",
+            "amber": 0,
+            "armor": null,
+            "power": null,
+            "text": "You cannot play Salvatorem.\nEach friendly ready creature with  on it cannot be dealt damage.\nFate: Put Salvatorem into play under your opponent’s control.\n",
+            "locale": {
+                "en": {
+                    "name": "Salvatorem"
+                }
+            }
+        },
+        {
+            "id": "degenerate-decor",
+            "name": "Degenerate Decor",
+            "number": "187",
+            "image": "https://mastervault-storage-prod.s3.amazonaws.com/media/card_front/en/886_187_b2b8533e2e3c_en.png",
+            "expansion": 886,
+            "house": "saurian",
+            "keywords": [],
+            "traits": [],
+            "type": "action",
+            "rarity": "Uncommon",
+            "amber": 0,
+            "armor": null,
+            "power": null,
+            "text": "Play: Choose one:\nExalt the most powerful creature 3 times.\nThe most powerful friendly creature captures 3.\n",
+            "locale": {
+                "en": {
+                    "name": "Degenerate Decor"
+                }
+            }
+        },
+        {
+            "id": "gaius",
+            "name": "Gaius",
+            "number": "189",
+            "image": "https://mastervault-storage-prod.s3.amazonaws.com/media/card_front/en/886_189_2a3c06f7b519_en.png",
+            "expansion": 886,
+            "house": "saurian",
+            "keywords": [],
+            "traits": [
+                "dinosaur",
+                "philosopher"
+            ],
+            "type": "creature",
+            "rarity": "Uncommon",
+            "amber": 0,
+            "armor": 0,
+            "power": 3,
+            "text": "After Reap: Ward each other friendly creature with  on it.\nScrap: Ward a friendly creature.\n",
+            "locale": {
+                "en": {
+                    "name": "Gaius"
+                }
+            }
+        },
+        {
+            "id": "governor-gridelk",
+            "name": "Governor Gridelk",
+            "number": "190",
+            "image": "https://mastervault-storage-prod.s3.amazonaws.com/media/card_front/en/886_190_d769b0497b79_en.png",
+            "expansion": 886,
+            "house": "saurian",
+            "keywords": [],
+            "traits": [
+                "dinosaur",
+                "politician"
+            ],
+            "type": "creature",
+            "rarity": "Uncommon",
+            "amber": 0,
+            "armor": 0,
+            "power": 6,
+            "text": "After Fight: Put the topmost creature from your opponent's discard pile into play under your control.\n",
+            "locale": {
+                "en": {
+                    "name": "Governor Gridelk"
+                }
+            }
+        },
+        {
+            "id": "gracchan-reform",
+            "name": "Gracchan Reform",
+            "number": "191",
+            "image": "https://mastervault-storage-prod.s3.amazonaws.com/media/card_front/en/886_191_bd6a5c211378_en.png",
+            "expansion": 886,
+            "house": "saurian",
+            "keywords": [],
+            "traits": [],
+            "type": "action",
+            "rarity": "Uncommon",
+            "amber": 1,
+            "armor": null,
+            "power": null,
+            "text": "Play: Play the top card of your opponent’s deck as if it were yours.\nFate: Your opponent archives the top 2 cards of their deck.\n",
+            "locale": {
+                "en": {
+                    "name": "Gracchan Reform"
+                }
+            }
+        },
+        {
+            "id": "paleogene-society",
+            "name": "Paleogene Society",
+            "number": "194",
+            "image": "https://mastervault-storage-prod.s3.amazonaws.com/media/card_front/en/886_194_164ca915518d_en.png",
+            "expansion": 886,
+            "house": "saurian",
+            "keywords": [],
+            "traits": [],
+            "type": "action",
+            "rarity": "Uncommon",
+            "amber": 1,
+            "armor": null,
+            "power": null,
+            "text": "Play: Return another card from your discard pile to your hand. Purge Paleogene Society.\nFate: Ward each enemy creature.\n",
+            "locale": {
+                "en": {
+                    "name": "Paleogene Society"
+                }
+            }
+        },
+        {
+            "id": "philophosaurus",
+            "name": "Philophosaurus",
+            "number": "195",
+            "image": "https://mastervault-storage-prod.s3.amazonaws.com/media/card_front/en/886_195_f7bdbdc30d67_en.png",
+            "expansion": 886,
+            "house": "saurian",
+            "keywords": [],
+            "traits": [
+                "dinosaur",
+                "philosopher"
+            ],
+            "type": "creature",
+            "rarity": "Uncommon",
+            "amber": 0,
+            "armor": 0,
+            "power": 4,
+            "text": "After Reap: You may look at the top 3 cards of your deck. Archive 1, add 1 to your hand, and discard 1.\n",
+            "locale": {
+                "en": {
+                    "name": "Philophosaurus"
+                }
+            }
+        },
+        {
+            "id": "plancina-hidden-agent",
+            "name": "Plancina, Hidden Agent",
+            "number": "196",
+            "image": "https://mastervault-storage-prod.s3.amazonaws.com/media/card_front/en/886_196_bcf128d100f0_en.png",
+            "expansion": 886,
+            "house": "saurian",
+            "keywords": [],
+            "traits": [
+                "dinosaur",
+                "assassin"
+            ],
+            "type": "creature",
+            "rarity": "Uncommon",
+            "amber": 0,
+            "armor": 0,
+            "power": 3,
+            "text": "Destroyed: Destroy each of Plancina, Hidden Agent’s neighbors.\nFate: Put Plancina, Hidden Agent into play under your control.\n",
+            "locale": {
+                "en": {
+                    "name": "Plancina, Hidden Agent"
+                }
+            }
+        },
+        {
+            "id": "archlegate-valeria",
+            "name": "Archlegate Valeria",
+            "number": "199",
+            "image": "https://mastervault-storage-prod.s3.amazonaws.com/media/card_front/en/886_199_fbc4743d9b9e_en.png",
+            "expansion": 886,
+            "house": "saurian",
+            "keywords": [],
+            "traits": [
+                "dinosaur",
+                "recruiter"
+            ],
+            "type": "creature",
+            "rarity": "Common",
+            "amber": 0,
+            "armor": 1,
+            "power": 5,
+            "text": "Enhance .\nBefore Fight: Exalt an enemy creature for each of Archlegate Valeria’s Saurian neighbors.\n",
+            "locale": {
+                "en": {
+                    "name": "Archlegate Valeria"
+                }
+            }
+        },
+        {
+            "id": "defense-initiative",
+            "name": "Defense Initiative",
+            "number": "200",
+            "image": "https://mastervault-storage-prod.s3.amazonaws.com/media/card_front/en/886_200_36b81c8e635b_en.png",
+            "expansion": 886,
+            "house": "saurian",
+            "keywords": [],
+            "traits": [],
+            "type": "action",
+            "rarity": "Common",
+            "amber": 0,
+            "armor": null,
+            "power": null,
+            "text": "Play: Ward a creature. You may exalt that creature. If you exalt it, ward each of its neighbors.",
+            "locale": {
+                "en": {
+                    "name": "Defense Initiative"
+                }
+            }
+        },
+        {
+            "id": "governess-silvina",
+            "name": "Governess Silvina",
+            "number": "201",
+            "image": "https://mastervault-storage-prod.s3.amazonaws.com/media/card_front/en/886_201_297460ce31a1_en.png",
+            "expansion": 886,
+            "house": "saurian",
+            "keywords": [],
+            "traits": [
+                "dinosaur",
+                "politician"
+            ],
+            "type": "creature",
+            "rarity": "Common",
+            "amber": 0,
+            "armor": 0,
+            "power": 3,
+            "text": "Play: Move each  from a friendly creature to the most powerful enemy creature.\nScrap: Stun 2 creatures with no  on them.\n",
+            "locale": {
+                "en": {
+                    "name": "Governess Silvina"
+                }
+            }
+        },
+        {
+            "id": "imperial-scutum",
+            "name": "Imperial Scutum",
+            "number": "202",
+            "image": "https://mastervault-storage-prod.s3.amazonaws.com/media/card_front/en/886_202_8657f3c9de53_en.png",
+            "expansion": 886,
+            "house": "saurian",
+            "keywords": [],
+            "traits": [],
+            "type": "upgrade",
+            "rarity": "Common",
+            "amber": 1,
+            "armor": null,
+            "power": null,
+            "text": "This creature gets +2 armor and gains, “Destroyed: Move each  on this creature to the common supply.”",
+            "locale": {
+                "en": {
+                    "name": "Imperial Scutum"
+                }
+            }
+        },
+        {
+            "id": "lorica-infantry",
+            "name": "Lorica Infantry",
+            "number": "204",
+            "image": "https://mastervault-storage-prod.s3.amazonaws.com/media/card_front/en/886_204_026dd820e9c8_en.png",
+            "expansion": 886,
+            "house": "saurian",
+            "keywords": [],
+            "traits": [
+                "dinosaur",
+                "soldier"
+            ],
+            "type": "creature",
+            "rarity": "Common",
+            "amber": 0,
+            "armor": 4,
+            "power": 3,
+            "text": "After Fight: You may exalt Lorica Infantry. If you do, your opponent loses 2.\n",
+            "locale": {
+                "en": {
+                    "name": "Lorica Infantry"
+                }
+            }
+        },
+        {
+            "id": "marcella-the-younger",
+            "name": "Marcella, the Younger",
+            "number": "205",
+            "image": "https://mastervault-storage-prod.s3.amazonaws.com/media/card_front/en/886_205_ba7945f5902f_en.png",
+            "expansion": 886,
+            "house": "saurian",
+            "keywords": [],
+            "traits": [
+                "dinosaur"
+            ],
+            "type": "creature",
+            "rarity": "Common",
+            "amber": 0,
+            "armor": 0,
+            "power": 4,
+            "text": "After Fight/After Reap: You may exalt Marcella, the Younger. If you do, draw 2 cards.\n",
+            "locale": {
+                "en": {
+                    "name": "Marcella, the Younger"
+                }
+            }
+        },
+        {
+            "id": "rufus-vergilius",
+            "name": "Rufus Vergilius",
+            "number": "207",
+            "image": "https://mastervault-storage-prod.s3.amazonaws.com/media/card_front/en/886_207_023a6ded36d5_en.png",
+            "expansion": 886,
+            "house": "saurian",
+            "keywords": [],
+            "traits": [
+                "dinosaur",
+                "politician"
+            ],
+            "type": "creature",
+            "rarity": "Common",
+            "amber": 0,
+            "armor": 0,
+            "power": 3,
+            "text": "After Reap: A neighboring creature captures 1. Ward that creature.\n",
+            "locale": {
+                "en": {
+                    "name": "Rufus Vergilius"
+                }
+            }
+        },
+        {
+            "id": "sedimentary-nap",
+            "name": "Sedimentary Nap",
+            "number": "208",
+            "image": "https://mastervault-storage-prod.s3.amazonaws.com/media/card_front/en/886_208_f041091471f3_en.png",
+            "expansion": 886,
+            "house": "saurian",
+            "keywords": [],
+            "traits": [],
+            "type": "action",
+            "rarity": "Common",
+            "amber": 1,
+            "armor": null,
+            "power": null,
+            "text": "Play: Shuffle a creature into its owner’s deck.\nFate: Shuffle the most powerful friendly creature into its owner’s deck.\n",
+            "locale": {
+                "en": {
+                    "name": "Sedimentary Nap"
+                }
+            }
+        },
+        {
+            "id": "too-low",
+            "name": "Too Low",
+            "number": "210",
+            "image": "https://mastervault-storage-prod.s3.amazonaws.com/media/card_front/en/886_210_e34ca7215058_en.png",
+            "expansion": 886,
+            "house": "saurian",
+            "keywords": [],
+            "traits": [],
+            "type": "action",
+            "rarity": "Common",
+            "amber": 0,
+            "armor": null,
+            "power": null,
+            "text": "Play: Choose an enemy creature. Destroy each creature with power less than the chosen creature’s power.\nFate: Destroy each friendly creature with the lowest power.\n\n",
+            "locale": {
+                "en": {
+                    "name": "Too Low"
+                }
+            }
+        },
+        {
+            "id": "tricerian-legionary",
+            "name": "Tricerian Legionary",
+            "number": "211",
+            "image": "https://mastervault-storage-prod.s3.amazonaws.com/media/card_front/en/886_211_bdae85cce457_en.png",
+            "expansion": 886,
+            "house": "saurian",
+            "keywords": [
+                "taunt"
+            ],
+            "traits": [
+                "dinosaur",
+                "soldier"
+            ],
+            "type": "creature",
+            "rarity": "Common",
+            "amber": 0,
+            "armor": 1,
+            "power": 5,
+            "text": "Taunt. (This creature’s neighbors cannot be attacked unless they have taunt.)\nPlay: Ward a friendly creature.",
+            "locale": {
+                "en": {
+                    "name": "Tricerian Legionary"
+                }
+            }
+        },
+        {
+            "id": "covetous-idol",
+            "name": "Covetous Idol",
+            "number": "213",
+            "image": "https://mastervault-storage-prod.s3.amazonaws.com/media/card_front/en/886_213_20da2d25ee2c_en.png",
+            "expansion": 886,
+            "house": "shadows",
+            "keywords": [],
+            "traits": [
+                "item"
+            ],
+            "type": "artifact",
+            "rarity": "Rare",
+            "amber": 0,
+            "armor": null,
+            "power": null,
+            "text": "During your \"draw cards\" step, if your opponent has more  than you, refill your hand to 1 additional card.\n",
+            "locale": {
+                "en": {
+                    "name": "Covetous Idol"
+                }
+            }
+        },
+        {
+            "id": "disabled-security",
+            "name": "Disabled Security",
+            "number": "217",
+            "image": "https://mastervault-storage-prod.s3.amazonaws.com/media/card_front/en/886_217_8805f09f6681_en.png",
+            "expansion": 886,
+            "house": "shadows",
+            "keywords": [],
+            "traits": [],
+            "type": "action",
+            "rarity": "Rare",
+            "amber": 1,
+            "armor": null,
+            "power": null,
+            "text": "Play: Discard the top 3 cards of your opponent’s deck. Play 1 of the discarded cards as if it were yours.\n",
+            "locale": {
+                "en": {
+                    "name": "Disabled Security"
+                }
+            }
+        },
+        {
+            "id": "finishing-blow",
+            "name": "Finishing Blow",
+            "number": "220",
+            "image": "https://mastervault-storage-prod.s3.amazonaws.com/media/card_front/en/886_220_f436a5672a51_en.png",
+            "expansion": 886,
+            "house": "shadows",
+            "keywords": [],
+            "traits": [],
+            "type": "action",
+            "rarity": "Rare",
+            "amber": 1,
+            "armor": null,
+            "power": null,
+            "text": "Play: Destroy a damaged creature. If you do, steal 1.\n",
+            "locale": {
+                "en": {
+                    "name": "Finishing Blow"
+                }
+            }
+        },
+        {
+            "id": "sack-of-coins",
+            "name": "Sack of Coins",
+            "number": "226",
+            "image": "https://mastervault-storage-prod.s3.amazonaws.com/media/card_front/en/886_226_05b7a4dadeb0_en.png",
+            "expansion": 886,
+            "house": "shadows",
+            "keywords": [],
+            "traits": [],
+            "type": "action",
+            "rarity": "Rare",
+            "amber": 1,
+            "armor": null,
+            "power": null,
+            "text": "Play: Deal 1 to a creature for each  you have.\n",
+            "locale": {
+                "en": {
+                    "name": "Sack of Coins"
+                }
+            }
+        },
+        {
+            "id": "brutal-consequences",
+            "name": "Brutal Consequences",
+            "number": "230",
+            "image": "https://mastervault-storage-prod.s3.amazonaws.com/media/card_front/en/886_230_f0238a016f55_en.png",
+            "expansion": 886,
+            "house": "shadows",
+            "keywords": [],
+            "traits": [],
+            "type": "action",
+            "rarity": "Uncommon",
+            "amber": 0,
+            "armor": null,
+            "power": null,
+            "text": "Play: Deal 3 to a creature. If this damage destroys that creature, purge it.\nFate: Purge an exhausted friendly creature.\n",
+            "locale": {
+                "en": {
+                    "name": "Brutal Consequences"
+                }
+            }
+        },
+        {
+            "id": "cap-reigns",
+            "name": "Cap Reigns",
+            "number": "231",
+            "image": "https://mastervault-storage-prod.s3.amazonaws.com/media/card_front/en/886_231_45c3c6fb913f_en.png",
+            "expansion": 886,
+            "house": "shadows",
+            "keywords": [
+                "elusive"
+            ],
+            "traits": [
+                "elf",
+                "thief"
+            ],
+            "type": "creature",
+            "rarity": "Uncommon",
+            "amber": 0,
+            "armor": 0,
+            "power": 2,
+            "text": "Elusive.\nEach enemy creature gains, ”After Reap: Pay your opponent 1.”\n",
+            "locale": {
+                "en": {
+                    "name": "Cap Reigns"
+                }
+            }
+        },
+        {
+            "id": "chummy",
+            "name": "Chummy",
+            "number": "232",
+            "image": "https://mastervault-storage-prod.s3.amazonaws.com/media/card_front/en/886_232_7ca95fdd181d_en.png",
+            "expansion": 886,
+            "house": "shadows",
+            "keywords": [],
+            "traits": [
+                "elf",
+                "thief"
+            ],
+            "type": "creature",
+            "rarity": "Uncommon",
+            "amber": 0,
+            "armor": 0,
+            "power": 3,
+            "text": "Before Fight: If the creature Chummy fights is the least powerful enemy creature, steal 1.\nFate: Pay your opponent 2.\n",
+            "locale": {
+                "en": {
+                    "name": "Chummy"
+                }
+            }
+        },
+        {
+            "id": "lucky-dice",
+            "name": "Lucky Dice",
+            "number": "236",
+            "image": "https://mastervault-storage-prod.s3.amazonaws.com/media/card_front/en/886_236_8e1dc38717ff_en.png",
+            "expansion": 886,
+            "house": "shadows",
+            "keywords": [],
+            "traits": [
+                "item"
+            ],
+            "type": "artifact",
+            "rarity": "Uncommon",
+            "amber": 1,
+            "armor": null,
+            "power": null,
+            "text": "Omni: Destroy Lucky Dice. Friendly creatures cannot be dealt damage during your opponent’s next turn.",
+            "locale": {
+                "en": {
+                    "name": "Lucky Dice"
+                }
+            }
+        },
+        {
+            "id": "murkens",
+            "name": "Murkens",
+            "number": "238",
+            "image": "https://mastervault-storage-prod.s3.amazonaws.com/media/card_front/en/886_238_cca991e473d4_en.png",
+            "expansion": 886,
+            "house": "shadows",
+            "keywords": [],
+            "traits": [
+                "thief",
+                "elf"
+            ],
+            "type": "creature",
+            "rarity": "Uncommon",
+            "amber": 0,
+            "armor": 0,
+            "power": 2,
+            "text": "Play: Choose a random card in your opponent’s archives or the top card of your opponent’s deck. Play that card as if it were yours.",
+            "locale": {
+                "en": {
+                    "name": "Murkens"
+                }
+            }
+        },
+        {
+            "id": "ox-sarbane",
+            "name": "Ox Sarbane",
+            "number": "239",
+            "image": "https://mastervault-storage-prod.s3.amazonaws.com/media/card_front/en/886_239_eaa317b0de71_en.png",
+            "expansion": 886,
+            "house": "shadows",
+            "keywords": [],
+            "traits": [
+                "elf",
+                "politician"
+            ],
+            "type": "creature",
+            "rarity": "Uncommon",
+            "amber": 0,
+            "armor": 0,
+            "power": 2,
+            "text": "Each enemy creature gains, “After Fight/After Reap: Exhaust each friendly creature that shares a house with this creature.”\n",
+            "locale": {
+                "en": {
+                    "name": "Ox Sarbane"
+                }
+            }
+        },
+        {
+            "id": "bandit-culver",
+            "name": "Bandit Culver",
+            "number": "241",
+            "image": "https://mastervault-storage-prod.s3.amazonaws.com/media/card_front/en/886_241_830178df453e_en.png",
+            "expansion": 886,
+            "house": "shadows",
+            "keywords": [
+                "elusive"
+            ],
+            "traits": [
+                "elf",
+                "recruiter"
+            ],
+            "type": "creature",
+            "rarity": "Common",
+            "amber": 0,
+            "armor": 0,
+            "power": 2,
+            "text": "Elusive. Enhance .\nAfter you discard a Shadows card, if it is the first time you have discarded a Shadows card this turn, steal 1.\n",
+            "locale": {
+                "en": {
+                    "name": "Bandit Culver"
+                }
+            }
+        },
+        {
+            "id": "bondsman-belvan",
+            "name": "Bondsman Belvan",
+            "number": "242",
+            "image": "https://mastervault-storage-prod.s3.amazonaws.com/media/card_front/en/886_242_4092e0ccb63a_en.png",
+            "expansion": 886,
+            "house": "shadows",
+            "keywords": [],
+            "traits": [
+                "thief",
+                "human"
+            ],
+            "type": "creature",
+            "rarity": "Common",
+            "amber": 0,
+            "armor": 0,
+            "power": 4,
+            "text": "After Fight/After Reap: Look at the top card of your opponent's deck. You may discard it.\nFate: Give control of a friendly artifact to your opponent.\n",
+            "locale": {
+                "en": {
+                    "name": "Bondsman Belvan"
+                }
+            }
+        },
+        {
+            "id": "burnished-nickles",
+            "name": "Burnished Nickles",
+            "number": "243",
+            "image": "https://mastervault-storage-prod.s3.amazonaws.com/media/card_front/en/886_243_082bac847b25_en.png",
+            "expansion": 886,
+            "house": "shadows",
+            "keywords": [
+                "elusive"
+            ],
+            "traits": [
+                "thief",
+                "human"
+            ],
+            "type": "creature",
+            "rarity": "Common",
+            "amber": 0,
+            "armor": 0,
+            "power": 2,
+            "text": "Elusive. Enhance .\nDestroyed: Return another creature to its owner’s hand.\n",
+            "locale": {
+                "en": {
+                    "name": "Burnished Nickles"
+                }
+            }
+        },
+        {
+            "id": "fallguy",
+            "name": "Fallguy",
+            "number": "245",
+            "image": "https://mastervault-storage-prod.s3.amazonaws.com/media/card_front/en/886_245_67159b61a030_en.png",
+            "expansion": 886,
+            "house": "shadows",
+            "keywords": [
+                "taunt"
+            ],
+            "traits": [
+                "elf"
+            ],
+            "type": "creature",
+            "rarity": "Common",
+            "amber": 0,
+            "armor": 0,
+            "power": 2,
+            "text": "Taunt.\nDestroyed: Steal 1.\n",
+            "locale": {
+                "en": {
+                    "name": "Fallguy"
+                }
+            }
+        },
+        {
+            "id": "hoodwink",
+            "name": "Hoodwink",
+            "number": "247",
+            "image": "https://mastervault-storage-prod.s3.amazonaws.com/media/card_front/en/886_247_855b0e3735f4_en.png",
+            "expansion": 886,
+            "house": "shadows",
+            "keywords": [],
+            "traits": [],
+            "type": "action",
+            "rarity": "Common",
+            "amber": 0,
+            "armor": null,
+            "power": null,
+            "text": "Play: Reveal your hand. For each non-Shadows card revealed this way, steal 1. Purge Hoodwink.\n",
+            "locale": {
+                "en": {
+                    "name": "Hoodwink"
+                }
+            }
+        },
+        {
+            "id": "thunk",
+            "name": "Thunk",
+            "number": "251",
+            "image": "https://mastervault-storage-prod.s3.amazonaws.com/media/card_front/en/886_251_0938f00b09d2_en.png",
+            "expansion": 886,
+            "house": "shadows",
+            "keywords": [],
+            "traits": [
+                "thief",
+                "elf"
+            ],
+            "type": "creature",
+            "rarity": "Common",
+            "amber": 0,
+            "armor": 0,
+            "power": 2,
+            "text": "Play: Deal 2 to an enemy creature and exhaust it.\nFate: Destroy each exhausted creature.\n",
+            "locale": {
+                "en": {
+                    "name": "Thunk"
+                }
+            }
+        },
+        {
+            "id": "urchin",
+            "name": "Urchin",
+            "number": "252",
+            "image": "https://mastervault-storage-prod.s3.amazonaws.com/media/card_front/en/886_252_f7ea14b20f3d_en.png",
+            "expansion": 886,
+            "house": "shadows",
+            "keywords": [
+                "elusive"
+            ],
+            "traits": [
+                "thief",
+                "elf"
+            ],
+            "type": "creature",
+            "rarity": "Common",
+            "amber": 0,
+            "armor": 0,
+            "power": 1,
+            "text": "Elusive. (The first time this creature is attacked each turn, no damage is dealt.)\nPlay: Steal 1.",
+            "locale": {
+                "en": {
+                    "name": "Urchin"
+                }
+            }
+        },
+        {
+            "id": "yondar-s-log",
+            "name": "Yondar’s Log",
+            "number": "268",
+            "image": "https://mastervault-storage-prod.s3.amazonaws.com/media/card_front/en/886_268_5027104e0c39_en.png",
+            "expansion": 886,
+            "house": "staralliance",
+            "keywords": [],
+            "traits": [],
+            "type": "action",
+            "rarity": "Rare",
+            "amber": 1,
+            "armor": null,
+            "power": null,
+            "text": "Play: If there are more enemy creatures than friendly creatures, archive each card from your hand.\n",
+            "locale": {
+                "en": {
+                    "name": "Yondar’s Log"
+                }
+            }
+        },
+        {
+            "id": "digital-signal",
+            "name": "Digital Signal",
+            "number": "270",
+            "image": "https://mastervault-storage-prod.s3.amazonaws.com/media/card_front/en/886_270_eda94e9a4309_en.png",
+            "expansion": 886,
+            "house": "staralliance",
+            "keywords": [],
+            "traits": [],
+            "type": "action",
+            "rarity": "Uncommon",
+            "amber": 1,
+            "armor": null,
+            "power": null,
+            "text": "Play: For each card in your opponent’s archives, archive a card. Discard your opponent’s archives.\n",
+            "locale": {
+                "en": {
+                    "name": "Digital Signal"
+                }
+            }
+        },
+        {
+            "id": "gleaming-the-cube",
+            "name": "Gleaming the Cube",
+            "number": "274",
+            "image": "https://mastervault-storage-prod.s3.amazonaws.com/media/card_front/en/886_274_76d33665676e_en.png",
+            "expansion": 886,
+            "house": "staralliance",
+            "keywords": [],
+            "traits": [],
+            "type": "action",
+            "rarity": "Uncommon",
+            "amber": 1,
+            "armor": null,
+            "power": null,
+            "text": "Play: Ready and use a friendly creature.\nFate: Discard the top card of your deck. The discarded card’s house becomes your active house. \n",
+            "locale": {
+                "en": {
+                    "name": "Gleaming the Cube"
+                }
+            }
+        },
+        {
+            "id": "lcdr-trigon",
+            "name": "LCdr. Trigon",
+            "number": "275",
+            "image": "https://mastervault-storage-prod.s3.amazonaws.com/media/card_front/en/886_275_7a5d6c0e89cf_en.png",
+            "expansion": 886,
+            "house": "staralliance",
+            "keywords": [],
+            "traits": [
+                "mutant"
+            ],
+            "type": "creature",
+            "rarity": "Uncommon",
+            "amber": 0,
+            "armor": 0,
+            "power": 4,
+            "text": "After Reap: Discard the top card of your deck. Resolve that card’s bonus icons as if you had played it.",
+            "locale": {
+                "en": {
+                    "name": "LCdr. Trigon"
+                }
+            }
+        },
+        {
+            "id": "lay-of-the-land",
+            "name": "Lay of the Land",
+            "number": "276",
+            "image": "https://mastervault-storage-prod.s3.amazonaws.com/media/card_front/en/886_276_ef4931d227c2_en.png",
+            "expansion": 886,
+            "house": "staralliance",
+            "keywords": [],
+            "traits": [],
+            "type": "action",
+            "rarity": "Uncommon",
+            "amber": 1,
+            "armor": null,
+            "power": null,
+            "text": "Play: Look at the top 3 cards of your deck and put them back in any order. Draw a card.\n",
+            "locale": {
+                "en": {
+                    "name": "Lay of the Land"
+                }
+            }
+        },
+        {
+            "id": "t3r-35a",
+            "name": "T3R-35A",
+            "number": "280",
+            "image": "https://mastervault-storage-prod.s3.amazonaws.com/media/card_front/en/886_280_1685c4708b73_en.png",
+            "expansion": 886,
+            "house": "staralliance",
+            "keywords": [],
+            "traits": [
+                "robot"
+            ],
+            "type": "creature",
+            "rarity": "Uncommon",
+            "amber": 0,
+            "armor": 0,
+            "power": 3,
+            "text": "T3R‑35A may be used as if it belonged to either of its neighbor’s houses.\nT3R‑35A may be played as an upgrade instead of a creature, with the text: “This creature may be used as if it belonged to either of its neighbor’s houses.”\n",
+            "locale": {
+                "en": {
+                    "name": "T3R-35A"
+                }
+            }
+        },
+        {
+            "id": "ensign-clark",
+            "name": "Ensign Clark",
+            "number": "282",
+            "image": "https://mastervault-storage-prod.s3.amazonaws.com/media/card_front/en/886_282_9457fffd5f83_en.png",
+            "expansion": 886,
+            "house": "staralliance",
+            "keywords": [],
+            "traits": [
+                "human"
+            ],
+            "type": "creature",
+            "rarity": "Common",
+            "amber": 0,
+            "armor": 0,
+            "power": 3,
+            "text": "Enhance .\nFate: Destroy a friendly artifact.\n",
+            "locale": {
+                "en": {
+                    "name": "Ensign Clark"
+                }
+            }
+        },
+        {
+            "id": "into-the-warp",
+            "name": "Into the Warp",
+            "number": "284",
+            "image": "https://mastervault-storage-prod.s3.amazonaws.com/media/card_front/en/886_284_201394e6403b_en.png",
+            "expansion": 886,
+            "house": "staralliance",
+            "keywords": [],
+            "traits": [],
+            "type": "action",
+            "rarity": "Common",
+            "amber": 0,
+            "armor": null,
+            "power": null,
+            "text": "Play: Each player discards the top card of their deck. Destroy each creature that shares a house with at least one of the discarded cards.\n",
+            "locale": {
+                "en": {
+                    "name": "Into the Warp"
+                }
+            }
+        },
+        {
+            "id": "refit",
+            "name": "Refit",
+            "number": "287",
+            "image": "https://mastervault-storage-prod.s3.amazonaws.com/media/card_front/en/886_287_98a9ddb683d1_en.png",
+            "expansion": 886,
+            "house": "staralliance",
+            "keywords": [],
+            "traits": [],
+            "type": "action",
+            "rarity": "Common",
+            "amber": 1,
+            "armor": null,
+            "power": null,
+            "text": "Play: You may move an upgrade in play to another creature.\nFate: Destroy an upgrade attached to a friendly creature.\n",
+            "locale": {
+                "en": {
+                    "name": "Refit"
+                }
+            }
+        },
+        {
+            "id": "reservist-jones",
+            "name": "Reservist Jones",
+            "number": "288",
+            "image": "https://mastervault-storage-prod.s3.amazonaws.com/media/card_front/en/886_288_3862f71a62aa_en.png",
+            "expansion": 886,
+            "house": "staralliance",
+            "keywords": [
+                "deploy"
+            ],
+            "traits": [
+                "human"
+            ],
+            "type": "creature",
+            "rarity": "Common",
+            "amber": 0,
+            "armor": 0,
+            "power": 3,
+            "text": "Deploy.\nPlay: Capture 2 for each of Reservist Jones’s non-Star Alliance neighbors.\n",
+            "locale": {
+                "en": {
+                    "name": "Reservist Jones"
+                }
+            }
+        },
+        {
+            "id": "scout-pete",
+            "name": "Scout Pete",
+            "number": "289",
+            "image": "https://mastervault-storage-prod.s3.amazonaws.com/media/card_front/en/886_289_8a95bba75dde_en.png",
+            "expansion": 886,
+            "house": "staralliance",
+            "keywords": [],
+            "traits": [
+                "alien"
+            ],
+            "type": "creature",
+            "rarity": "Common",
+            "amber": 0,
+            "armor": 0,
+            "power": 4,
+            "text": "Play/After Fight/After Reap: Look at the top card of your deck. You may discard that card.",
+            "locale": {
+                "en": {
+                    "name": "Scout Pete"
+                }
+            }
+        },
+        {
+            "id": "sil-a-t8",
+            "name": "Sil-A-T8",
+            "number": "290",
+            "image": "https://mastervault-storage-prod.s3.amazonaws.com/media/card_front/en/886_290_1293827f1287_en.png",
+            "expansion": 886,
+            "house": "staralliance",
+            "keywords": [],
+            "traits": [
+                "robot",
+                "recruiter"
+            ],
+            "type": "creature",
+            "rarity": "Common",
+            "amber": 0,
+            "armor": 0,
+            "power": 2,
+            "text": "Enhance .\nAfter Fight/After Reap: You may ready a non-Robot creature for each of Sil-A-T8’s Star Alliance neighbors.\n",
+            "locale": {
+                "en": {
+                    "name": "Sil-A-T8"
+                }
+            }
+        },
+        {
+            "id": "spade-teller",
+            "name": "Spade Teller",
+            "number": "291",
+            "image": "https://mastervault-storage-prod.s3.amazonaws.com/media/card_front/en/886_291_18b519aa2dca_en.png",
+            "expansion": 886,
+            "house": "staralliance",
+            "keywords": [],
+            "traits": [
+                "human"
+            ],
+            "type": "creature",
+            "rarity": "Common",
+            "amber": 0,
+            "armor": 0,
+            "power": 2,
+            "text": "Play/After Fight/After Reap: Choose a house. Discard the top card of your deck. If that card belongs to the chosen house, gain 1.\n",
+            "locale": {
+                "en": {
+                    "name": "Spade Teller"
+                }
+            }
+        },
+        {
+            "id": "strategic-feint",
+            "name": "Strategic Feint",
+            "number": "292",
+            "image": "https://mastervault-storage-prod.s3.amazonaws.com/media/card_front/en/886_292_a1b2df77d58f_en.png",
+            "expansion": 886,
+            "house": "staralliance",
+            "keywords": [],
+            "traits": [],
+            "type": "action",
+            "rarity": "Common",
+            "amber": 1,
+            "armor": null,
+            "power": null,
+            "text": "Play: Deal 1 to two enemy creatures and exhaust them.\nFate: Discard the top card of your deck. Until the end of the turn, you may not play cards of the discarded card’s type.\n",
+            "locale": {
+                "en": {
+                    "name": "Strategic Feint"
+                }
+            }
+        },
+        {
+            "id": "word-of-returning",
+            "name": "Word of Returning",
+            "number": "308",
+            "image": "https://mastervault-storage-prod.s3.amazonaws.com/media/card_front/en/886_308_f644a03d8ee9_en.png",
+            "expansion": 886,
+            "house": "untamed",
+            "keywords": [],
+            "traits": [],
+            "type": "action",
+            "rarity": "Rare",
+            "amber": 1,
+            "armor": null,
+            "power": null,
+            "text": "Play: Deal 1 to each enemy creature for each  on it. Move each  from those creatures to your pool.",
+            "locale": {
+                "en": {
+                    "name": "Word of Returning"
+                }
+            }
+        },
+        {
+            "id": "break-of-dawn",
+            "name": "Break of Dawn",
+            "number": "309",
+            "image": "https://mastervault-storage-prod.s3.amazonaws.com/media/card_front/en/886_309_4275da57389d_en.png",
+            "expansion": 886,
+            "house": "untamed",
+            "keywords": [],
+            "traits": [],
+            "type": "action",
+            "rarity": "Uncommon",
+            "amber": 1,
+            "armor": null,
+            "power": null,
+            "text": "Play: Discard the top 3 cards of your deck. Put each Untamed card discarded this way into your hand.\n",
+            "locale": {
+                "en": {
+                    "name": "Break of Dawn"
+                }
+            }
+        },
+        {
+            "id": "lambent-mycelium",
+            "name": "Lambent Mycelium",
+            "number": "313",
+            "image": "https://mastervault-storage-prod.s3.amazonaws.com/media/card_front/en/886_313_cd5e7e750e96_en.png",
+            "expansion": 886,
+            "house": "untamed",
+            "keywords": [],
+            "traits": [
+                "fungus"
+            ],
+            "type": "creature",
+            "rarity": "Uncommon",
+            "amber": 0,
+            "armor": 0,
+            "power": 2,
+            "text": "After another creature enters play, put two +1 power counters on Lambent Mycelium.\nFate: Until the end of your turn, the most powerful enemy creatures gain taunt.\n",
+            "locale": {
+                "en": {
+                    "name": "Lambent Mycelium"
+                }
+            }
+        },
+        {
+            "id": "lithomancy",
+            "name": "Lithomancy",
+            "number": "314",
+            "image": "https://mastervault-storage-prod.s3.amazonaws.com/media/card_front/en/886_314_def65a6ebd14_en.png",
+            "expansion": 886,
+            "house": "untamed",
+            "keywords": [],
+            "traits": [
+                "power"
+            ],
+            "type": "artifact",
+            "rarity": "Uncommon",
+            "amber": 0,
+            "armor": null,
+            "power": null,
+            "text": "Action: Reveal the top of card of your deck. If the revealed card belongs to the active house, discard it and gain 2.\n",
+            "locale": {
+                "en": {
+                    "name": "Lithomancy"
+                }
+            }
+        },
+        {
+            "id": "loyal-packmate",
+            "name": "Loyal Packmate",
+            "number": "316",
+            "image": "https://mastervault-storage-prod.s3.amazonaws.com/media/card_front/en/886_316_191ac7df302a_en.png",
+            "expansion": 886,
+            "house": "untamed",
+            "keywords": [
+                "taunt"
+            ],
+            "traits": [
+                "beast"
+            ],
+            "type": "creature",
+            "rarity": "Uncommon",
+            "amber": 0,
+            "armor": 0,
+            "power": 6,
+            "text": "Taunt.\nEnemy creatures cannot be used to fight friendly creatures unless the friendly creature has taunt.\n",
+            "locale": {
+                "en": {
+                    "name": "Loyal Packmate"
+                }
+            }
+        },
+        {
+            "id": "flarie",
+            "name": "Flarie",
+            "number": "323",
+            "image": "https://mastervault-storage-prod.s3.amazonaws.com/media/card_front/en/886_323_fd777cb2127c_en.png",
+            "expansion": 886,
+            "house": "untamed",
+            "keywords": [],
+            "traits": [
+                "faerie"
+            ],
+            "type": "creature",
+            "rarity": "Common",
+            "amber": 0,
+            "armor": 0,
+            "power": 1,
+            "text": "At the start of your turn, gain 1.\n",
+            "locale": {
+                "en": {
+                    "name": "Flarie"
+                }
+            }
+        },
+        {
+            "id": "fog-murmook",
+            "name": "Fog Murmook",
+            "number": "324",
+            "image": "https://mastervault-storage-prod.s3.amazonaws.com/media/card_front/en/886_324_6f45b5adc72a_en.png",
+            "expansion": 886,
+            "house": "untamed",
+            "keywords": [],
+            "traits": [
+                "beast"
+            ],
+            "type": "creature",
+            "rarity": "Common",
+            "amber": 0,
+            "armor": 0,
+            "power": 3,
+            "text": "While Fog Murmook is not on a flank, keys cost –1.\n",
+            "locale": {
+                "en": {
+                    "name": "Fog Murmook"
+                }
+            }
+        },
+        {
+            "id": "invigorating-shower",
+            "name": "Invigorating Shower",
+            "number": "325",
+            "image": "https://mastervault-storage-prod.s3.amazonaws.com/media/card_front/en/886_325_031f61ac791f_en.png",
+            "expansion": 886,
+            "house": "untamed",
+            "keywords": [],
+            "traits": [],
+            "type": "action",
+            "rarity": "Common",
+            "amber": 0,
+            "armor": null,
+            "power": null,
+            "text": "Enhance .\nPlay: Choose a house. Shuffle each card of that house from your discard pile into your deck.\n",
+            "locale": {
+                "en": {
+                    "name": "Invigorating Shower"
+                }
+            }
+        },
+        {
+            "id": "lost-in-the-woods",
+            "name": "Lost in the Woods",
+            "number": "326",
+            "image": "https://mastervault-storage-prod.s3.amazonaws.com/media/card_front/en/886_326_8e8ea38e561d_en.png",
+            "expansion": 886,
+            "house": "untamed",
+            "keywords": [],
+            "traits": [],
+            "type": "action",
+            "rarity": "Common",
+            "amber": 1,
+            "armor": null,
+            "power": null,
+            "text": "Play: Shuffle 2 friendly creatures and 2 enemy creatures into their owners’ decks.",
+            "locale": {
+                "en": {
+                    "name": "Lost in the Woods"
+                }
+            }
+        },
+        {
+            "id": "mogg",
+            "name": "Mogg",
+            "number": "327",
+            "image": "https://mastervault-storage-prod.s3.amazonaws.com/media/card_front/en/886_327_89c40ad30ed5_en.png",
+            "expansion": 886,
+            "house": "untamed",
+            "keywords": [],
+            "traits": [
+                "beast"
+            ],
+            "type": "creature",
+            "rarity": "Common",
+            "amber": 0,
+            "armor": 0,
+            "power": 4,
+            "text": "Play: Deal 4 to each creature with power 5 or higher.\nFate: Stun each friendly creature with power 5 or higher.\n",
+            "locale": {
+                "en": {
+                    "name": "Mogg"
+                }
+            }
+        },
+        {
+            "id": "persistence-hunting",
+            "name": "Persistence Hunting",
+            "number": "328",
+            "image": "https://mastervault-storage-prod.s3.amazonaws.com/media/card_front/en/886_328_3b4eb9580f4e_en.png",
+            "expansion": 886,
+            "house": "untamed",
+            "keywords": [],
+            "traits": [],
+            "type": "action",
+            "rarity": "Common",
+            "amber": 1,
+            "armor": null,
+            "power": null,
+            "text": "Play: Choose a house. Exhaust each enemy creature of the chosen house.",
+            "locale": {
+                "en": {
+                    "name": "Persistence Hunting"
+                }
+            }
+        },
+        {
+            "id": "prince-bufo",
+            "name": "Prince Bufo",
+            "number": "329",
+            "image": "https://mastervault-storage-prod.s3.amazonaws.com/media/card_front/en/886_329_223d333e5acc_en.png",
+            "expansion": 886,
+            "house": "untamed",
+            "keywords": [],
+            "traits": [
+                "beast"
+            ],
+            "type": "creature",
+            "rarity": "Common",
+            "amber": 0,
+            "armor": 0,
+            "power": 1,
+            "text": "Enhance .\nFate: Your opponent forges a key at current cost.\n",
+            "locale": {
+                "en": {
+                    "name": "Prince Bufo"
+                }
+            }
+        },
+        {
+            "id": "rat-pixie",
+            "name": "Rat Pixie",
+            "number": "330",
+            "image": "https://mastervault-storage-prod.s3.amazonaws.com/media/card_front/en/886_330_f02a9d16ca83_en.png",
+            "expansion": 886,
+            "house": "untamed",
+            "keywords": [],
+            "traits": [
+                "faerie"
+            ],
+            "type": "creature",
+            "rarity": "Common",
+            "amber": 0,
+            "armor": 0,
+            "power": 2,
+            "text": "Play/After Reap: If you have 4 or fewer, gain 1.\n",
+            "locale": {
+                "en": {
+                    "name": "Rat Pixie"
+                }
+            }
+        },
+        {
+            "id": "vivid-faerie",
+            "name": "Vivid Faerie",
+            "number": "331",
+            "image": "https://mastervault-storage-prod.s3.amazonaws.com/media/card_front/en/886_331_d6c3fa36064a_en.png",
+            "expansion": 886,
+            "house": "untamed",
+            "keywords": [],
+            "traits": [
+                "faerie",
+                "recruiter"
+            ],
+            "type": "creature",
+            "rarity": "Common",
+            "amber": 0,
+            "armor": 0,
+            "power": 2,
+            "text": "Enhance .\nAfter Reap: Gain 1 for each of Vivid Faerie’s Untamed neighbors.\n",
+            "locale": {
+                "en": {
+                    "name": "Vivid Faerie"
+                }
+            }
+        },
+        {
+            "id": "windrow-composting",
+            "name": "Windrow Composting",
+            "number": "333",
+            "image": "https://mastervault-storage-prod.s3.amazonaws.com/media/card_front/en/886_333_38e6e73ad5a4_en.png",
+            "expansion": 886,
+            "house": "untamed",
+            "keywords": [],
+            "traits": [],
+            "type": "action",
+            "rarity": "Common",
+            "amber": 1,
+            "armor": null,
+            "power": null,
+            "text": "Play: Shuffle a card from your discard pile into your deck.\nFate: Each player shuffles their discard pile into their deck.\n",
+            "locale": {
+                "en": {
+                    "name": "Windrow Composting"
+                }
+            }
+        },
+        {
+            "id": "bad-omen",
+            "name": "Bad Omen",
+            "number": "P02",
+            "image": "https://mastervault-storage-prod.s3.amazonaws.com/media/card_front/en/886_P02_d8703213c4af_en.png",
+            "expansion": 886,
+            "house": "prophecy",
+            "keywords": [],
+            "traits": [],
+            "type": "prophecy",
+            "rarity": "Special",
+            "amber": 0,
+            "armor": null,
+            "power": null,
+            "text": "At the end of your opponent’s turn, if they have exactly 6, fulfill Bad Omen.\n",
+            "locale": {
+                "en": {
+                    "name": "Bad Omen"
+                }
+            }
+        },
+        {
+            "id": "expect-the-unexpected",
+            "name": "Expect the Unexpected",
+            "number": "P03",
+            "image": "https://mastervault-storage-prod.s3.amazonaws.com/media/card_front/en/886_P03_e1c43c3b4a6f_en.png",
+            "expansion": 886,
+            "house": "prophecy",
+            "keywords": [],
+            "traits": [],
+            "type": "prophecy",
+            "rarity": "Special",
+            "amber": 0,
+            "armor": null,
+            "power": null,
+            "text": "During your opponent’s turn, after your opponent shuffles their deck, fulfill Expect the Unexpected.\n",
+            "locale": {
+                "en": {
+                    "name": "Expect the Unexpected"
+                }
+            }
+        },
+        {
+            "id": "fate-laughs-at-your-plans",
+            "name": "Fate Laughs at Your Plans",
+            "number": "P04",
+            "image": "https://mastervault-storage-prod.s3.amazonaws.com/media/card_front/en/886_P04_d6f00c8bac89_en.png",
+            "expansion": 886,
+            "house": "prophecy",
+            "keywords": [],
+            "traits": [],
+            "type": "prophecy",
+            "rarity": "Special",
+            "amber": 0,
+            "armor": null,
+            "power": null,
+            "text": "During your opponent’s turn, when your opponent adds their archives to their hand, fulfill Fate Laughs at Your Plans.\n",
+            "locale": {
+                "en": {
+                    "name": "Fate Laughs at Your Plans"
+                }
+            }
+        },
+        {
+            "id": "go-forth-and-conquer",
+            "name": "Go Forth and Conquer",
+            "number": "P06",
+            "image": "https://mastervault-storage-prod.s3.amazonaws.com/media/card_front/en/886_P06_476e68d8c5d3_en.png",
+            "expansion": 886,
+            "house": "prophecy",
+            "keywords": [],
+            "traits": [],
+            "type": "prophecy",
+            "rarity": "Special",
+            "amber": 0,
+            "armor": null,
+            "power": null,
+            "text": "During your opponent’s turn, after an enemy creature is used to fight, fulfill Go Forth and Conquer.\n",
+            "locale": {
+                "en": {
+                    "name": "Go Forth and Conquer"
+                }
+            }
+        },
+        {
+            "id": "heads-i-win",
+            "name": "Heads, I Win",
+            "number": "P07",
+            "image": "https://mastervault-storage-prod.s3.amazonaws.com/media/card_front/en/886_P07_eda8086dd7ab_en.png",
+            "expansion": 886,
+            "house": "prophecy",
+            "keywords": [],
+            "traits": [],
+            "type": "prophecy",
+            "rarity": "Special",
+            "amber": 0,
+            "armor": null,
+            "power": null,
+            "text": "At the end of your turn, you may flip Heads, I Win.\nDuring your opponent’s turn, after your opponent plays a creature adjacent to a creature of the same house, fulfill Heads, I Win.\n",
+            "locale": {
+                "en": {
+                    "name": "Heads, I Win"
+                }
+            }
+        },
+        {
+            "id": "it-only-gets-worse",
+            "name": "It Only Gets Worse",
+            "number": "P08",
+            "image": "https://mastervault-storage-prod.s3.amazonaws.com/media/card_front/en/886_P08_2755499b8962_en.png",
+            "expansion": 886,
+            "house": "prophecy",
+            "keywords": [],
+            "traits": [],
+            "type": "prophecy",
+            "rarity": "Special",
+            "amber": 0,
+            "armor": null,
+            "power": null,
+            "text": "During your opponent’s turn, after your opponent steals one or more  from you, fulfill It Only Gets Worse.\n",
+            "locale": {
+                "en": {
+                    "name": "It Only Gets Worse"
+                }
+            }
+        },
+        {
+            "id": "outlook-not-so-good",
+            "name": "Outlook Not So Good",
+            "number": "P10",
+            "image": "https://mastervault-storage-prod.s3.amazonaws.com/media/card_front/en/886_P10_d26d5dc9d103_en.png",
+            "expansion": 886,
+            "house": "prophecy",
+            "keywords": [],
+            "traits": [],
+            "type": "prophecy",
+            "rarity": "Special",
+            "amber": 0,
+            "armor": null,
+            "power": null,
+            "text": "After your opponent chooses an active house that matches no cards in play, fulfill Outlook Not So Good.\n",
+            "locale": {
+                "en": {
+                    "name": "Outlook Not So Good"
+                }
+            }
+        },
+        {
+            "id": "stars-aligned",
+            "name": "Stars Aligned",
+            "number": "P13",
+            "image": "https://mastervault-storage-prod.s3.amazonaws.com/media/card_front/en/886_P13_67024cf9118b_en.png",
+            "expansion": 886,
+            "house": "prophecy",
+            "keywords": [],
+            "traits": [],
+            "type": "prophecy",
+            "rarity": "Special",
+            "amber": 0,
+            "armor": null,
+            "power": null,
+            "text": "At the start of your opponent’s turn, if each player has the same number of creatures, fulfill Stars Aligned.\n",
+            "locale": {
+                "en": {
+                    "name": "Stars Aligned"
+                }
+            }
+        },
+        {
+            "id": "the-early-bird",
+            "name": "The Early Bird",
+            "number": "P16",
+            "image": "https://mastervault-storage-prod.s3.amazonaws.com/media/card_front/en/886_P16_200453bcaea5_en.png",
+            "expansion": 886,
+            "house": "prophecy",
+            "keywords": [],
+            "traits": [],
+            "type": "prophecy",
+            "rarity": "Special",
+            "amber": 0,
+            "armor": null,
+            "power": null,
+            "text": "At the end of your opponent’s turn, if they have more  in their pool than you, fulfill The Early Bird.\n",
+            "locale": {
+                "en": {
+                    "name": "The Early Bird"
+                }
+            }
+        },
+        {
+            "id": "the-second-mouse",
+            "name": "The Second Mouse",
+            "number": "P18",
+            "image": "https://mastervault-storage-prod.s3.amazonaws.com/media/card_front/en/886_P18_7d30ebb12d4d_en.png",
+            "expansion": 886,
+            "house": "prophecy",
+            "keywords": [],
+            "traits": [],
+            "type": "prophecy",
+            "rarity": "Special",
+            "amber": 0,
+            "armor": null,
+            "power": null,
+            "text": "At the end of your opponent’s turn, if they have less  in their pool than you, fulfill The Second Mouse.\n",
+            "locale": {
+                "en": {
+                    "name": "The Second Mouse"
+                }
+            }
+        },
+        {
+            "id": "trust-your-feelings",
+            "name": "Trust Your Feelings",
+            "number": "P20",
+            "image": "https://mastervault-storage-prod.s3.amazonaws.com/media/card_front/en/886_P20_df323142689f_en.png",
+            "expansion": 886,
+            "house": "prophecy",
+            "keywords": [],
+            "traits": [],
+            "type": "prophecy",
+            "rarity": "Special",
+            "amber": 0,
+            "armor": null,
+            "power": null,
+            "text": "When a card is placed under Trust Your Feelings, name a house. The next time your opponent chooses the named house as their active house, fulfill Trust Your Feelings.\n",
+            "locale": {
+                "en": {
+                    "name": "Trust Your Feelings"
+                }
+            }
+        },
+        {
+            "id": "wasteful-regret",
+            "name": "Wasteful Regret",
+            "number": "P21",
+            "image": "https://mastervault-storage-prod.s3.amazonaws.com/media/card_front/en/886_P21_b0c5225fdf7c_en.png",
+            "expansion": 886,
+            "house": "prophecy",
+            "keywords": [],
+            "traits": [],
+            "type": "prophecy",
+            "rarity": "Special",
+            "amber": 0,
+            "armor": null,
+            "power": null,
+            "text": "During your opponent’s turn, after your opponent discards a cards from their hand, fulfill Wasteful Regret.\n",
+            "locale": {
+                "en": {
+                    "name": "Wasteful Regret"
+                }
+            }
+        },
+        {
+            "id": "wounds-into-wisdom",
+            "name": "Wounds Into Wisdom",
+            "number": "P22",
+            "image": "https://mastervault-storage-prod.s3.amazonaws.com/media/card_front/en/886_P22_a6007d8162d9_en.png",
+            "expansion": 886,
+            "house": "prophecy",
+            "keywords": [],
+            "traits": [],
+            "type": "prophecy",
+            "rarity": "Special",
+            "amber": 0,
+            "armor": null,
+            "power": null,
+            "text": "During your opponent's turn, after a friendly creature is dealt damage, fulfill Wounds into Wisdom.\n",
+            "locale": {
+                "en": {
+                    "name": "Wounds Into Wisdom"
+                }
+            }
+        }
+    ]
+}
