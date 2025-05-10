@@ -968,6 +968,27 @@
             }
         },
         {
+            "id": "bring-low",
+            "name": "Bring Low",
+            "number": "149",
+            "image": "https://mastervault-storage-prod.s3.amazonaws.com/media/card_front/en/886_149_3a95c88b5f0f_en.png",
+            "expansion": 886,
+            "house": "sanctum",
+            "keywords": [],
+            "traits": [],
+            "type": "action",
+            "rarity": "Uncommon",
+            "amber": 1,
+            "armor": null,
+            "power": null,
+            "text": "Enhance . (These icons have already been added to cards in your deck.)\nPlay: Capture all but 5 of your opponent’s , distributed among any number of friendly creatures.\n",
+            "locale": {
+                "en": {
+                    "name": "Bring Low"
+                }
+            }
+        },
+        {
             "id": "chanel-the-wise",
             "name": "Chanel the Wise",
             "number": "150",
@@ -1032,6 +1053,29 @@
             "locale": {
                 "en": {
                     "name": "Holdfast"
+                }
+            }
+        },
+        {
+            "id": "lightbringer-outpost",
+            "name": "Lightbringer Outpost",
+            "number": "155",
+            "image": "https://mastervault-storage-prod.s3.amazonaws.com/media/card_front/en/886_155_28fe2cd93c99_en.png",
+            "expansion": 886,
+            "house": "sanctum",
+            "keywords": [],
+            "traits": [
+                "location"
+            ],
+            "type": "artifact",
+            "rarity": "Uncommon",
+            "amber": 1,
+            "armor": null,
+            "power": null,
+            "text": "Action: Put a friendly creature on the bottom of its owner’s deck. If you do, a friendly creature captures 3.\n",
+            "locale": {
+                "en": {
+                    "name": "Lightbringer Outpost"
                 }
             }
         },
@@ -1194,6 +1238,33 @@
             "locale": {
                 "en": {
                     "name": "Burning Glare"
+                }
+            }
+        },
+        {
+            "id": "dame-margaret",
+            "name": "Dame Margaret",
+            "number": "163",
+            "image": "https://mastervault-storage-prod.s3.amazonaws.com/media/card_front/en/886_163_6395fef5ac50_en.png",
+            "expansion": 886,
+            "house": "sanctum",
+            "keywords": [
+                "deploy",
+                "taunt"
+            ],
+            "traits": [
+                "knight",
+                "human"
+            ],
+            "type": "creature",
+            "rarity": "Common",
+            "amber": 0,
+            "armor": 0,
+            "power": 4,
+            "text": "Deploy. Taunt.\nDame Margaret gets +2 armor for each key your opponent has forged.\n",
+            "locale": {
+                "en": {
+                    "name": "Dame Margaret"
                 }
             }
         },
@@ -1879,6 +1950,27 @@
             }
         },
         {
+            "id": "one-last-job",
+            "name": "One Last Job",
+            "number": "223",
+            "image": "https://mastervault-storage-prod.s3.amazonaws.com/media/card_front/en/886_223_bb97d5183888_en.png",
+            "expansion": 886,
+            "house": "shadows",
+            "keywords": [],
+            "traits": [],
+            "type": "action",
+            "rarity": "Rare",
+            "amber": 1,
+            "armor": null,
+            "power": null,
+            "text": "Play: Purge each friendly Shadows creature. Steal 1 for each creature purged this way.",
+            "locale": {
+                "en": {
+                    "name": "One Last Job"
+                }
+            }
+        },
+        {
             "id": "sack-of-coins",
             "name": "Sack of Coins",
             "number": "226",
@@ -1967,6 +2059,32 @@
             "locale": {
                 "en": {
                     "name": "Chummy"
+                }
+            }
+        },
+        {
+            "id": "fidgit",
+            "name": "Fidgit",
+            "number": "234",
+            "image": "https://mastervault-storage-prod.s3.amazonaws.com/media/card_front/en/886_234_4d932d36d91f_en.png",
+            "expansion": 886,
+            "house": "shadows",
+            "keywords": [
+                "elusive"
+            ],
+            "traits": [
+                "faerie",
+                "thief"
+            ],
+            "type": "creature",
+            "rarity": "Uncommon",
+            "amber": 0,
+            "armor": 0,
+            "power": 2,
+            "text": "Elusive.\nAfter Reap: Discard a random card from your opponent’s archives or the top card of their deck. If that card is an action, play it as if it were yours.",
+            "locale": {
+                "en": {
+                    "name": "Fidgit"
                 }
             }
         },
@@ -2118,6 +2236,27 @@
             }
         },
         {
+            "id": "evasive-maneuvers",
+            "name": "Evasive Maneuvers",
+            "number": "244",
+            "image": "https://mastervault-storage-prod.s3.amazonaws.com/media/card_front/en/886_244_84a6d6ae5651_en.png",
+            "expansion": 886,
+            "house": "shadows",
+            "keywords": [],
+            "traits": [],
+            "type": "action",
+            "rarity": "Common",
+            "amber": 1,
+            "armor": null,
+            "power": null,
+            "text": "Play: For the remainder of the turn, friendly creatures cannot be dealt damage.\nFate: Deal 2 to each friendly creature\n",
+            "locale": {
+                "en": {
+                    "name": "Evasive Maneuvers"
+                }
+            }
+        },
+        {
             "id": "fallguy",
             "name": "Fallguy",
             "number": "245",
@@ -2143,6 +2282,27 @@
             }
         },
         {
+            "id": "hock",
+            "name": "Hock",
+            "number": "246",
+            "image": "https://mastervault-storage-prod.s3.amazonaws.com/media/card_front/en/886_246_385210e62931_en.png",
+            "expansion": 886,
+            "house": "shadows",
+            "keywords": [],
+            "traits": [],
+            "type": "action",
+            "rarity": "Common",
+            "amber": 1,
+            "armor": null,
+            "power": null,
+            "text": "Play: Destroy an artifact. If you do, gain 1.\n",
+            "locale": {
+                "en": {
+                    "name": "Hock"
+                }
+            }
+        },
+        {
             "id": "hoodwink",
             "name": "Hoodwink",
             "number": "247",
@@ -2160,6 +2320,72 @@
             "locale": {
                 "en": {
                     "name": "Hoodwink"
+                }
+            }
+        },
+        {
+            "id": "miasma",
+            "name": "Miasma",
+            "number": "248",
+            "image": "https://mastervault-storage-prod.s3.amazonaws.com/media/card_front/en/886_248_612c3aaac7bf_en.png",
+            "expansion": 886,
+            "house": "shadows",
+            "keywords": [],
+            "traits": [],
+            "type": "action",
+            "rarity": "Common",
+            "amber": 1,
+            "armor": null,
+            "power": null,
+            "text": "Play: Your opponent skips the “forge a key” step during their next turn.",
+            "locale": {
+                "en": {
+                    "name": "Miasma"
+                }
+            }
+        },
+        {
+            "id": "porter-cilla",
+            "name": "Porter Cilla",
+            "number": "249",
+            "image": "https://mastervault-storage-prod.s3.amazonaws.com/media/card_front/en/886_249_2dd4deb1613d_en.png",
+            "expansion": 886,
+            "house": "shadows",
+            "keywords": [],
+            "traits": [
+                "thief",
+                "elf"
+            ],
+            "type": "creature",
+            "rarity": "Common",
+            "amber": 0,
+            "armor": 0,
+            "power": 3,
+            "text": "After Reap: Put a random card from your opponent’s hand on top of their deck.\n",
+            "locale": {
+                "en": {
+                    "name": "Porter Cilla"
+                }
+            }
+        },
+        {
+            "id": "predatory-lending",
+            "name": "Predatory Lending",
+            "number": "250",
+            "image": "https://mastervault-storage-prod.s3.amazonaws.com/media/card_front/en/886_250_6b538fc7f656_en.png",
+            "expansion": 886,
+            "house": "shadows",
+            "keywords": [],
+            "traits": [],
+            "type": "action",
+            "rarity": "Common",
+            "amber": 1,
+            "armor": null,
+            "power": null,
+            "text": "Play: Exalt and enrage an enemy creature.\nFate: Pay your opponent 1 for each enemy Shadows creature.\n",
+            "locale": {
+                "en": {
+                    "name": "Predatory Lending"
                 }
             }
         },
@@ -2525,6 +2751,48 @@
             }
         },
         {
+            "id": "cladogenesis",
+            "name": "Cladogenesis",
+            "number": "294",
+            "image": "https://mastervault-storage-prod.s3.amazonaws.com/media/card_front/en/886_294_ad7057cca3d7_en.png",
+            "expansion": 886,
+            "house": "untamed",
+            "keywords": [],
+            "traits": [],
+            "type": "action",
+            "rarity": "Rare",
+            "amber": 1,
+            "armor": null,
+            "power": null,
+            "text": "Play: Each player discards the top card of their deck and reveals their hand. Discard each card that belongs to their discarded card’s house. Each player refills their hand as if it were their “draw cards” step.\n",
+            "locale": {
+                "en": {
+                    "name": "Cladogenesis"
+                }
+            }
+        },
+        {
+            "id": "flying-broomstick",
+            "name": "Flying Broomstick",
+            "number": "297",
+            "image": "https://mastervault-storage-prod.s3.amazonaws.com/media/card_front/en/886_297_2f1f566ac79c_en.png",
+            "expansion": 886,
+            "house": "untamed",
+            "keywords": [],
+            "traits": [],
+            "type": "upgrade",
+            "rarity": "Rare",
+            "amber": 1,
+            "armor": null,
+            "power": null,
+            "text": "This creature gains elusive, and \"After Reap: Heal all damage and move all  and counters from a creature to the common supply.\"\n",
+            "locale": {
+                "en": {
+                    "name": "Flying Broomstick"
+                }
+            }
+        },
+        {
             "id": "word-of-returning",
             "name": "Word of Returning",
             "number": "308",
@@ -2609,6 +2877,27 @@
             "locale": {
                 "en": {
                     "name": "Lithomancy"
+                }
+            }
+        },
+        {
+            "id": "low-dawn",
+            "name": "Low Dawn",
+            "number": "315",
+            "image": "https://mastervault-storage-prod.s3.amazonaws.com/media/card_front/en/886_315_f58dca3b2588_en.png",
+            "expansion": 886,
+            "house": "untamed",
+            "keywords": [],
+            "traits": [],
+            "type": "action",
+            "rarity": "Uncommon",
+            "amber": 1,
+            "armor": null,
+            "power": null,
+            "text": "Play: If there are 3 or more Untamed creatures in your discard pile, gain 2. Shuffle each Untamed creature from your discard pile into your deck.",
+            "locale": {
+                "en": {
+                    "name": "Low Dawn"
                 }
             }
         },
@@ -2920,6 +3209,27 @@
             "locale": {
                 "en": {
                     "name": "Fate Laughs at Your Plans"
+                }
+            }
+        },
+        {
+            "id": "forge-ahead-with-confidence",
+            "name": "Forge Ahead With Confidence",
+            "number": "P05",
+            "image": "https://mastervault-storage-prod.s3.amazonaws.com/media/card_front/en/886_P05_feb41859344c_en.png",
+            "expansion": 886,
+            "house": "prophecy",
+            "keywords": [],
+            "traits": [],
+            "type": "prophecy",
+            "rarity": "Special",
+            "amber": 0,
+            "armor": null,
+            "power": null,
+            "text": "During your opponent’s turn, after your opponent forges a key, fulfill Forge Ahead With Confidence.\n",
+            "locale": {
+                "en": {
+                    "name": "Forge Ahead With Confidence"
                 }
             }
         },
