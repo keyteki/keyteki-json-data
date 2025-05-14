@@ -6700,6 +6700,51 @@
             }
         },
         {
+            "id": "timequake",
+            "name": "Timequake",
+            "number": "A09",
+            "image": "https://mastervault-storage-prod.s3.amazonaws.com/media/card_front/en/453_A09_Q8J656PX2X6M_en.png",
+            "expansion": 453,
+            "house": "brobnar",
+            "keywords": [],
+            "traits": [],
+            "type": "action",
+            "rarity": "Special",
+            "amber": 1,
+            "armor": null,
+            "power": null,
+            "text": "Play: Shuffle each friendly card in play into your deck. Draw a card for each card shuffled into your deck this way.\r",
+            "locale": {
+                "en": {
+                    "name": "Timequake"
+                }
+            }
+        },
+        {
+            "id": "antanagoge",
+            "name": "Antanagoge",
+            "number": "A15",
+            "image": "https://mastervault-storage-prod.s3.amazonaws.com/media/card_front/en/453_A15_6b6a227ecfc9_en.png",
+            "expansion": 453,
+            "house": "brobnar",
+            "keywords": [],
+            "traits": [
+                "alien",
+                "cyborg"
+            ],
+            "type": "creature",
+            "rarity": "Special",
+            "amber": 0,
+            "armor": 2,
+            "power": 4,
+            "text": "Play: You may graft an enemy creature onto Antanagoge. \nAfter Reap: Deal damage to each creature equal to the power of a creature grafted onto Antanagoge.\n",
+            "locale": {
+                "en": {
+                    "name": "Antanagoge"
+                }
+            }
+        },
+        {
             "id": "cosmicrux",
             "name": "Cosmicrux",
             "number": "A16",
@@ -6787,6 +6832,51 @@
             "locale": {
                 "en": {
                     "name": "Omega TT"
+                }
+            }
+        },
+        {
+            "id": "thermal-depletion",
+            "name": "Thermal Depletion",
+            "number": "A20",
+            "image": "https://mastervault-storage-prod.s3.amazonaws.com/media/card_front/en/453_A20_315a605f47a3_en.png",
+            "expansion": 453,
+            "house": "brobnar",
+            "keywords": [],
+            "traits": [],
+            "type": "action",
+            "rarity": "Special",
+            "amber": 0,
+            "armor": null,
+            "power": null,
+            "text": "Play: Until the start of your next turn, creatures cannot ready.\n",
+            "locale": {
+                "en": {
+                    "name": "Thermal Depletion"
+                }
+            }
+        },
+        {
+            "id": "treok-the-wise",
+            "name": "Treok, The Wise",
+            "number": "A21",
+            "image": "https://mastervault-storage-prod.s3.amazonaws.com/media/card_front/en/453_A21_715bbf48ee4f_en.png",
+            "expansion": 453,
+            "house": "brobnar",
+            "keywords": [],
+            "traits": [
+                "dragon",
+                "sage"
+            ],
+            "type": "creature",
+            "rarity": "Special",
+            "amber": 0,
+            "armor": 0,
+            "power": 6,
+            "text": "After Reap: Choose a creature. Until the start of your next turn, that creature gains invulnerable. (It cannot be destroyed or dealt damage.)\n",
+            "locale": {
+                "en": {
+                    "name": "Treok, The Wise"
                 }
             }
         }
