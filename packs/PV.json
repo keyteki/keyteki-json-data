@@ -8,6 +8,27 @@
     "releaseDate": "",
     "cards": [
         {
+            "id": "coup-de-grâce",
+            "name": "Coup de Grâce",
+            "number": "003",
+            "image": "https://mastervault-storage-prod.s3.amazonaws.com/media/card_front/en/886_003_478afc097529_en.png",
+            "expansion": 886,
+            "house": "dis",
+            "keywords": [],
+            "traits": [],
+            "type": "action",
+            "rarity": "Rare",
+            "amber": 1,
+            "armor": null,
+            "power": null,
+            "text": "Play: Destroy each damaged creature.\nFate: Deal 4 to each friendly creature.\n",
+            "locale": {
+                "en": {
+                    "name": "Coup de Grâce"
+                }
+            }
+        },
+        {
             "id": "cryptic-collapse",
             "name": "Cryptic Collapse",
             "number": "005",
@@ -48,6 +69,29 @@
             "locale": {
                 "en": {
                     "name": "Embellish Imp"
+                }
+            }
+        },
+        {
+            "id": "ortannu-the-chained",
+            "name": "Ortannu the Chained",
+            "number": "010",
+            "image": "https://mastervault-storage-prod.s3.amazonaws.com/media/card_front/en/886_010_68c0e6304ec0_en.png",
+            "expansion": 886,
+            "house": "dis",
+            "keywords": [],
+            "traits": [
+                "demon"
+            ],
+            "type": "creature",
+            "rarity": "Rare",
+            "amber": 0,
+            "armor": 0,
+            "power": 7,
+            "text": "After Reap: Return each copy of Ortannu’s Binding from your discard pile to your hand. For each one returned this way, deal 2 to a creature, with 2 splash.",
+            "locale": {
+                "en": {
+                    "name": "Ortannu the Chained"
                 }
             }
         },
@@ -117,6 +161,27 @@
             "locale": {
                 "en": {
                     "name": "Ifraneye"
+                }
+            }
+        },
+        {
+            "id": "oh-you-shouldn-t-have",
+            "name": "Oh, You Shouldn’t Have!",
+            "number": "023",
+            "image": "https://mastervault-storage-prod.s3.amazonaws.com/media/card_front/en/886_023_9d8f6860389b_en.png",
+            "expansion": 886,
+            "house": "dis",
+            "keywords": [],
+            "traits": [],
+            "type": "action",
+            "rarity": "Uncommon",
+            "amber": 1,
+            "armor": null,
+            "power": null,
+            "text": "Fate: Your opponent gains 3. \n",
+            "locale": {
+                "en": {
+                    "name": "Oh, You Shouldn’t Have!"
                 }
             }
         },
@@ -500,6 +565,27 @@
             "locale": {
                 "en": {
                     "name": "Silver Key Imp"
+                }
+            }
+        },
+        {
+            "id": "ortannu-s-binding",
+            "name": "Ortannu’s Binding",
+            "number": "047",
+            "image": "https://mastervault-storage-prod.s3.amazonaws.com/media/card_front/en/886_047_4322220f8762_en.png",
+            "expansion": 886,
+            "house": "dis",
+            "keywords": [],
+            "traits": [],
+            "type": "action",
+            "rarity": "Special",
+            "amber": 1,
+            "armor": null,
+            "power": null,
+            "text": "Play: Deal 2 to a friendly creature.\n",
+            "locale": {
+                "en": {
+                    "name": "Ortannu’s Binding"
                 }
             }
         },
@@ -3657,6 +3743,48 @@
             }
         },
         {
+            "id": "perilous-wild",
+            "name": "Perilous Wild",
+            "number": "303",
+            "image": "https://mastervault-storage-prod.s3.amazonaws.com/media/card_front/en/886_303_673a9fb64ce5_en.png",
+            "expansion": 886,
+            "house": "untamed",
+            "keywords": [],
+            "traits": [],
+            "type": "action",
+            "rarity": "Rare",
+            "amber": 1,
+            "armor": null,
+            "power": null,
+            "text": "Play: Destroy each elusive creature.\n",
+            "locale": {
+                "en": {
+                    "name": "Perilous Wild"
+                }
+            }
+        },
+        {
+            "id": "punctuated-equilibrium",
+            "name": "Punctuated Equilibrium",
+            "number": "304",
+            "image": "https://mastervault-storage-prod.s3.amazonaws.com/media/card_front/en/886_304_4cdde507ad1d_en.png",
+            "expansion": 886,
+            "house": "untamed",
+            "keywords": [],
+            "traits": [],
+            "type": "action",
+            "rarity": "Rare",
+            "amber": 0,
+            "armor": null,
+            "power": null,
+            "text": "Play: Each player discards their hand, then refills their hand as if it were their “draw cards” step.",
+            "locale": {
+                "en": {
+                    "name": "Punctuated Equilibrium"
+                }
+            }
+        },
+        {
             "id": "word-of-returning",
             "name": "Word of Returning",
             "number": "308",
@@ -3695,6 +3823,31 @@
             "locale": {
                 "en": {
                     "name": "Break of Dawn"
+                }
+            }
+        },
+        {
+            "id": "envious-venomite",
+            "name": "Envious Venomite",
+            "number": "312",
+            "image": "https://mastervault-storage-prod.s3.amazonaws.com/media/card_front/en/886_312_f401ad9810ef_en.png",
+            "expansion": 886,
+            "house": "untamed",
+            "keywords": [
+                "skirmish"
+            ],
+            "traits": [
+                "beast"
+            ],
+            "type": "creature",
+            "rarity": "Uncommon",
+            "amber": 0,
+            "armor": 0,
+            "power": 4,
+            "text": "Skirmish.\nWhile your opponent has more  than you, Envious Venomite gains poison.\nFate: For the remainder of the turn, each enemy creature gains poison.\n",
+            "locale": {
+                "en": {
+                    "name": "Envious Venomite"
                 }
             }
         },
@@ -4161,6 +4314,27 @@
             }
         },
         {
+            "id": "look-how-far-you-ve-come",
+            "name": "Look How Far You’ve Come",
+            "number": "P09",
+            "image": "https://mastervault-storage-prod.s3.amazonaws.com/media/card_front/en/886_P09_846a1818d13a_en.png",
+            "expansion": 886,
+            "house": "prophecy",
+            "keywords": [],
+            "traits": [],
+            "type": "prophecy",
+            "rarity": "Special",
+            "amber": 0,
+            "armor": null,
+            "power": null,
+            "text": "During your opponent’s turn, after they play a creature, fulfill Look How Far You've Come.\n",
+            "locale": {
+                "en": {
+                    "name": "Look How Far You’ve Come"
+                }
+            }
+        },
+        {
             "id": "outlook-not-so-good",
             "name": "Outlook Not So Good",
             "number": "P10",
@@ -4178,6 +4352,27 @@
             "locale": {
                 "en": {
                     "name": "Outlook Not So Good"
+                }
+            }
+        },
+        {
+            "id": "overreach",
+            "name": "Overreach",
+            "number": "P11",
+            "image": "https://mastervault-storage-prod.s3.amazonaws.com/media/card_front/en/886_P11_fdc59e5be129_en.png",
+            "expansion": 886,
+            "house": "prophecy",
+            "keywords": [],
+            "traits": [],
+            "type": "prophecy",
+            "rarity": "Special",
+            "amber": 0,
+            "armor": null,
+            "power": null,
+            "text": "During your opponent’s turn, after an enemy creature is used to reap, fulfill Overreach.\n",
+            "locale": {
+                "en": {
+                    "name": "Overreach"
                 }
             }
         },
