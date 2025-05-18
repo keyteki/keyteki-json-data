@@ -794,6 +794,31 @@
             }
         },
         {
+            "id": "bit-byte",
+            "name": "Bit Byte",
+            "number": "065",
+            "image": "https://mastervault-storage-prod.s3.amazonaws.com/media/card_front/en/886_065_ffee5b29b0a4_en.png",
+            "expansion": 886,
+            "house": "logos",
+            "keywords": [
+                "skirmish"
+            ],
+            "traits": [
+                "ai"
+            ],
+            "type": "creature",
+            "rarity": "Uncommon",
+            "amber": 0,
+            "armor": 0,
+            "power": 2,
+            "text": "Skirmish.\nAfter Fight: Put the creature Bit Byte fights into its owner’s archives.\nFate: Your opponent archives the bottom card of their deck.\n",
+            "locale": {
+                "en": {
+                    "name": "Bit Byte"
+                }
+            }
+        },
+        {
             "id": "cændle-unit",
             "name": "C.Æ.N.D.L.E. Unit",
             "number": "066",
@@ -865,6 +890,96 @@
             "locale": {
                 "en": {
                     "name": "Director of Z.Y.X."
+                }
+            }
+        },
+        {
+            "id": "duck-duck-superb-duck",
+            "name": "Duck, Duck, Superb Duck",
+            "number": "069",
+            "image": "https://mastervault-storage-prod.s3.amazonaws.com/media/card_front/en/886_069_47c607586bff_en.png",
+            "expansion": 886,
+            "house": "logos",
+            "keywords": [],
+            "traits": [],
+            "type": "action",
+            "rarity": "Uncommon",
+            "amber": 0,
+            "armor": null,
+            "power": null,
+            "text": "Play: Choose one:\nArchive 2 random cards.\nGain 2.\n",
+            "locale": {
+                "en": {
+                    "name": "Duck, Duck, Superb Duck"
+                }
+            }
+        },
+        {
+            "id": "unity-prism",
+            "name": "Unity Prism",
+            "number": "073",
+            "image": "https://mastervault-storage-prod.s3.amazonaws.com/media/card_front/en/886_073_ad4a9a9959fd_en.png",
+            "expansion": 886,
+            "house": "logos",
+            "keywords": [
+                "alpha"
+            ],
+            "traits": [],
+            "type": "action",
+            "rarity": "Uncommon",
+            "amber": 0,
+            "armor": null,
+            "power": null,
+            "text": "Alpha.\nPlay: For the remainder of the turn, you may play cards from any house. You cannot play more than 4 cards this turn (including this one).\nScrap: Reveal your hand. Gain 1 for each house represented in it.\n",
+            "locale": {
+                "en": {
+                    "name": "Unity Prism"
+                }
+            }
+        },
+        {
+            "id": "unstable-dale",
+            "name": "Unstable Dale",
+            "number": "074",
+            "image": "https://mastervault-storage-prod.s3.amazonaws.com/media/card_front/en/886_074_7bffeba16a21_en.png",
+            "expansion": 886,
+            "house": "logos",
+            "keywords": [],
+            "traits": [
+                "cyborg"
+            ],
+            "type": "creature",
+            "rarity": "Uncommon",
+            "amber": 0,
+            "armor": 0,
+            "power": 3,
+            "text": "After Reap: Deal 1 to each creature for each card in your hand.\nFate: Deal 3 to each friendly creature.\n",
+            "locale": {
+                "en": {
+                    "name": "Unstable Dale"
+                }
+            }
+        },
+        {
+            "id": "zeff-punch-yardus",
+            "name": "Zeff “Punch” Yardus",
+            "number": "075",
+            "image": "https://mastervault-storage-prod.s3.amazonaws.com/media/card_front/en/886_075_b07f3094dd83_en.png",
+            "expansion": 886,
+            "house": "logos",
+            "keywords": [],
+            "traits": [
+                "cyborg"
+            ],
+            "type": "creature",
+            "rarity": "Uncommon",
+            "amber": 0,
+            "armor": 0,
+            "power": 4,
+            "text": "After Reap: Archive the top card of your deck and the top card of your discard pile.\n",
+            "locale": {
+                "en": {
+                    "name": "Zeff “Punch” Yardus"
                 }
             }
         },
@@ -985,6 +1100,30 @@
             "locale": {
                 "en": {
                     "name": "Emeritus Darn"
+                }
+            }
+        },
+        {
+            "id": "hazard-zerp",
+            "name": "Hazard Zerp",
+            "number": "081",
+            "image": "https://mastervault-storage-prod.s3.amazonaws.com/media/card_front/en/886_081_572e29d55a84_en.png",
+            "expansion": 886,
+            "house": "logos",
+            "keywords": [],
+            "traits": [
+                "cyborg",
+                "scientist"
+            ],
+            "type": "creature",
+            "rarity": "Common",
+            "amber": 0,
+            "armor": 0,
+            "power": 2,
+            "text": "Play: Deal 3 to a creature. If that creature is destroyed, draw a card. \nScrap: Discard a card. Deal 3 to a creature. \n",
+            "locale": {
+                "en": {
+                    "name": "Hazard Zerp"
                 }
             }
         },
@@ -1283,6 +1422,27 @@
             }
         },
         {
+            "id": "follow-the-leader",
+            "name": "Follow the Leader",
+            "number": "107",
+            "image": "https://mastervault-storage-prod.s3.amazonaws.com/media/card_front/en/886_107_441c62bd2e69_en.png",
+            "expansion": 886,
+            "house": "redemption",
+            "keywords": [],
+            "traits": [],
+            "type": "action",
+            "rarity": "Uncommon",
+            "amber": 0,
+            "armor": null,
+            "power": null,
+            "text": "Play: For the remainder of the turn, each friendly creature may fight.",
+            "locale": {
+                "en": {
+                    "name": "Follow the Leader"
+                }
+            }
+        },
+        {
             "id": "indignant-tone",
             "name": "Indignant Tone",
             "number": "108",
@@ -1300,6 +1460,52 @@
             "locale": {
                 "en": {
                     "name": "Indignant Tone"
+                }
+            }
+        },
+        {
+            "id": "rack-of-redemption",
+            "name": "Rack of Redemption",
+            "number": "110",
+            "image": "https://mastervault-storage-prod.s3.amazonaws.com/media/card_front/en/886_110_ddbf840905d5_en.png",
+            "expansion": 886,
+            "house": "redemption",
+            "keywords": [],
+            "traits": [
+                "item"
+            ],
+            "type": "artifact",
+            "rarity": "Uncommon",
+            "amber": 0,
+            "armor": null,
+            "power": null,
+            "text": "Each turn, after the first Mutant creature is destroyed, its owner gains 1.\n",
+            "locale": {
+                "en": {
+                    "name": "Rack of Redemption"
+                }
+            }
+        },
+        {
+            "id": "redeem-the-crucible",
+            "name": "Redeem the Crucible",
+            "number": "112",
+            "image": "https://mastervault-storage-prod.s3.amazonaws.com/media/card_front/en/886_112_d37c958db8aa_en.png",
+            "expansion": 886,
+            "house": "redemption",
+            "keywords": [
+                "omega"
+            ],
+            "traits": [],
+            "type": "action",
+            "rarity": "Uncommon",
+            "amber": 0,
+            "armor": null,
+            "power": null,
+            "text": "Omega.\nPlay: Destroy each creature. You may forge a key at +6 current cost, reduced by 1 for each Mutant creature destroyed this way. Purge Redeem the Crucible.\n",
+            "locale": {
+                "en": {
+                    "name": "Redeem the Crucible"
                 }
             }
         },
@@ -1468,6 +1674,27 @@
             }
         },
         {
+            "id": "genetic-strain",
+            "name": "Genetic Strain",
+            "number": "123",
+            "image": "https://mastervault-storage-prod.s3.amazonaws.com/media/card_front/en/886_123_ea50c5fc419c_en.png",
+            "expansion": 886,
+            "house": "redemption",
+            "keywords": [],
+            "traits": [],
+            "type": "action",
+            "rarity": "Common",
+            "amber": 1,
+            "armor": null,
+            "power": null,
+            "text": "Play: Each Mutant captures 1.\nFate: If there are any enemy Mutant creatures, your opponent gains 2.\n",
+            "locale": {
+                "en": {
+                    "name": "Genetic Strain"
+                }
+            }
+        },
+        {
             "id": "growland",
             "name": "Growland",
             "number": "124",
@@ -1513,6 +1740,30 @@
             }
         },
         {
+            "id": "oblivion-knight",
+            "name": "Oblivion Knight",
+            "number": "126",
+            "image": "https://mastervault-storage-prod.s3.amazonaws.com/media/card_front/en/886_126_20b3c2b30e84_en.png",
+            "expansion": 886,
+            "house": "redemption",
+            "keywords": [],
+            "traits": [
+                "mutant",
+                "knight"
+            ],
+            "type": "creature",
+            "rarity": "Common",
+            "amber": 0,
+            "armor": 3,
+            "power": 2,
+            "text": "After Fight: Purge the creature Oblivion Knight fights.\nFate: Purge the most powerful friendly creature.\n",
+            "locale": {
+                "en": {
+                    "name": "Oblivion Knight"
+                }
+            }
+        },
+        {
             "id": "salvay",
             "name": "Salvay",
             "number": "127",
@@ -1533,6 +1784,30 @@
             "locale": {
                 "en": {
                     "name": "Salvay"
+                }
+            }
+        },
+        {
+            "id": "even-ivan",
+            "name": "Even Ivan",
+            "number": "129",
+            "image": "https://mastervault-storage-prod.s3.amazonaws.com/media/card_front/en/886_129_f566353450e0_en.png",
+            "expansion": 886,
+            "house": "redemption",
+            "keywords": [],
+            "traits": [
+                "mutant",
+                "scientist"
+            ],
+            "type": "creature",
+            "rarity": "Special",
+            "amber": 0,
+            "armor": 0,
+            "power": 4,
+            "text": "Action: If your opponent has an even amount of , steal 1.\n",
+            "locale": {
+                "en": {
+                    "name": "Even Ivan"
                 }
             }
         },
@@ -2129,6 +2404,30 @@
             "locale": {
                 "en": {
                     "name": "City Gates"
+                }
+            }
+        },
+        {
+            "id": "hadrianus-lorica",
+            "name": "Hadrianus Lorica",
+            "number": "175",
+            "image": "https://mastervault-storage-prod.s3.amazonaws.com/media/card_front/en/886_175_e1d902b947ce_en.png",
+            "expansion": 886,
+            "house": "saurian",
+            "keywords": [],
+            "traits": [
+                "dinosaur",
+                "soldier"
+            ],
+            "type": "creature",
+            "rarity": "Rare",
+            "amber": 0,
+            "armor": 0,
+            "power": 3,
+            "text": "Each friendly creature with  on it gets +3 armor.\nPlay: You may exalt Hadrianus Lorica.\n",
+            "locale": {
+                "en": {
+                    "name": "Hadrianus Lorica"
                 }
             }
         },
@@ -3504,6 +3803,29 @@
             }
         },
         {
+            "id": "psionic-officer-lang",
+            "name": "Psionic Officer Lang",
+            "number": "261",
+            "image": "https://mastervault-storage-prod.s3.amazonaws.com/media/card_front/en/886_261_a6db0ab4d026_en.png",
+            "expansion": 886,
+            "house": "staralliance",
+            "keywords": [],
+            "traits": [
+                "human"
+            ],
+            "type": "creature",
+            "rarity": "Rare",
+            "amber": 0,
+            "armor": 0,
+            "power": 3,
+            "text": "After an enemy creature reaps, archive the top card of your deck.\n",
+            "locale": {
+                "en": {
+                    "name": "Psionic Officer Lang"
+                }
+            }
+        },
+        {
             "id": "shakedown-sullivan",
             "name": "Shakedown Sullivan",
             "number": "263",
@@ -4075,6 +4397,32 @@
             "locale": {
                 "en": {
                     "name": "Flying Broomstick"
+                }
+            }
+        },
+        {
+            "id": "jervi",
+            "name": "Jervi",
+            "number": "299",
+            "image": "https://mastervault-storage-prod.s3.amazonaws.com/media/card_front/en/886_299_0a586cf66a48_en.png",
+            "expansion": 886,
+            "house": "untamed",
+            "keywords": [
+                "elusive"
+            ],
+            "traits": [
+                "human",
+                "witch"
+            ],
+            "type": "creature",
+            "rarity": "Rare",
+            "amber": 0,
+            "armor": 0,
+            "power": 3,
+            "text": "Elusive.\nAfter Reap: Search your deck for a card and put it into your hand.\nScrap: Archive a card from your discard pile.\n",
+            "locale": {
+                "en": {
+                    "name": "Jervi"
                 }
             }
         },
@@ -4846,6 +5194,27 @@
             "locale": {
                 "en": {
                     "name": "Overreach"
+                }
+            }
+        },
+        {
+            "id": "signs-point-to-yes",
+            "name": "Signs Point to Yes",
+            "number": "P12",
+            "image": "https://mastervault-storage-prod.s3.amazonaws.com/media/card_front/en/886_P12_84b73fe87ed5_en.png",
+            "expansion": 886,
+            "house": "prophecy",
+            "keywords": [],
+            "traits": [],
+            "type": "prophecy",
+            "rarity": "Special",
+            "amber": 0,
+            "armor": null,
+            "power": null,
+            "text": "At the end of your opponent’s turn, if they have  in their pool equal to or greater than the current key cost, fulfill Signs Point to Yes.\n",
+            "locale": {
+                "en": {
+                    "name": "Signs Point to Yes"
                 }
             }
         },
