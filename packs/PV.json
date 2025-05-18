@@ -2474,6 +2474,27 @@
             }
         },
         {
+            "id": "plublio-s-decree",
+            "name": "Plublio’s Decree",
+            "number": "180",
+            "image": "https://mastervault-storage-prod.s3.amazonaws.com/media/card_front/en/886_180_d645652fa1e0_en.png",
+            "expansion": 886,
+            "house": "saurian",
+            "keywords": [],
+            "traits": [],
+            "type": "action",
+            "rarity": "Rare",
+            "amber": 1,
+            "armor": null,
+            "power": null,
+            "text": "Play: You may exalt up to 3 friendly creatures. For the remainder of the turn, they belong to house Saurian.\n",
+            "locale": {
+                "en": {
+                    "name": "Plublio’s Decree"
+                }
+            }
+        },
+        {
             "id": "primus-unguis",
             "name": "Primus Unguis",
             "number": "181",
@@ -2670,6 +2691,29 @@
             "locale": {
                 "en": {
                     "name": "Gracchan Reform"
+                }
+            }
+        },
+        {
+            "id": "library-of-polliasaurus",
+            "name": "Library of Polliasaurus",
+            "number": "192",
+            "image": "https://mastervault-storage-prod.s3.amazonaws.com/media/card_front/en/886_192_ba14c7b751e6_en.png",
+            "expansion": 886,
+            "house": "saurian",
+            "keywords": [],
+            "traits": [
+                "location"
+            ],
+            "type": "artifact",
+            "rarity": "Uncommon",
+            "amber": 0,
+            "armor": null,
+            "power": null,
+            "text": "Action: Move 1 from a friendly creature to your pool.\n",
+            "locale": {
+                "en": {
+                    "name": "Library of Polliasaurus"
                 }
             }
         },
@@ -3172,6 +3216,30 @@
             "locale": {
                 "en": {
                     "name": "Finishing Blow"
+                }
+            }
+        },
+        {
+            "id": "manchego",
+            "name": "Manchego",
+            "number": "221",
+            "image": "https://mastervault-storage-prod.s3.amazonaws.com/media/card_front/en/886_221_47fbc148d3a0_en.png",
+            "expansion": 886,
+            "house": "shadows",
+            "keywords": [],
+            "traits": [
+                "human",
+                "thief"
+            ],
+            "type": "creature",
+            "rarity": "Rare",
+            "amber": 0,
+            "armor": 0,
+            "power": 3,
+            "text": "Play: If you have 5 or fewer cards in your deck, steal 2.\nAfter Fight/After Reap: You may shuffle Manchego into your deck.\n",
+            "locale": {
+                "en": {
+                    "name": "Manchego"
                 }
             }
         },
