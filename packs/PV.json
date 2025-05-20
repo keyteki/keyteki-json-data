@@ -188,6 +188,29 @@
             }
         },
         {
+            "id": "lifeward",
+            "name": "Lifeward",
+            "number": "022",
+            "image": "https://mastervault-storage-prod.s3.amazonaws.com/media/card_front/en/886_022_5c5ffb77e4d0_en.png",
+            "expansion": 886,
+            "house": "dis",
+            "keywords": [],
+            "traits": [
+                "power"
+            ],
+            "type": "artifact",
+            "rarity": "Uncommon",
+            "amber": 1,
+            "armor": null,
+            "power": null,
+            "text": "Omni: Destroy Lifeward. Your opponent cannot play creatures during their next turn.",
+            "locale": {
+                "en": {
+                    "name": "Lifeward"
+                }
+            }
+        },
+        {
             "id": "oh-you-shouldn-t-have",
             "name": "Oh, You Shouldn’t Have!",
             "number": "023",
@@ -771,6 +794,27 @@
             }
         },
         {
+            "id": "random-access-archives",
+            "name": "Random Access Archives",
+            "number": "058",
+            "image": "https://mastervault-storage-prod.s3.amazonaws.com/media/card_front/en/886_058_7cdfc83487ab_en.png",
+            "expansion": 886,
+            "house": "logos",
+            "keywords": [],
+            "traits": [],
+            "type": "action",
+            "rarity": "Rare",
+            "amber": 1,
+            "armor": null,
+            "power": null,
+            "text": "Play: Archive the top card of your deck.\n",
+            "locale": {
+                "en": {
+                    "name": "Random Access Archives"
+                }
+            }
+        },
+        {
             "id": "archon-s-callback",
             "name": "Archon’s Callback",
             "number": "064",
@@ -911,6 +955,27 @@
             "locale": {
                 "en": {
                     "name": "Duck, Duck, Superb Duck"
+                }
+            }
+        },
+        {
+            "id": "forgive-or-forget",
+            "name": "Forgive or Forget",
+            "number": "070",
+            "image": "https://mastervault-storage-prod.s3.amazonaws.com/media/card_front/en/886_070_78440daf3c82_en.png",
+            "expansion": 886,
+            "house": "logos",
+            "keywords": [],
+            "traits": [],
+            "type": "action",
+            "rarity": "Uncommon",
+            "amber": 0,
+            "armor": null,
+            "power": null,
+            "text": "Play: Choose one:\nArchive 2 cards of different types from your discard pile.\nPurge up to 2 cards from each discard pile.\n",
+            "locale": {
+                "en": {
+                    "name": "Forgive or Forget"
                 }
             }
         },
@@ -1812,6 +1877,30 @@
             }
         },
         {
+            "id": "book-of-malefaction",
+            "name": "Book of Malefaction",
+            "number": "132",
+            "image": "https://mastervault-storage-prod.s3.amazonaws.com/media/card_front/en/886_132_ccccae65c7c1_en.png",
+            "expansion": 886,
+            "house": "sanctum",
+            "keywords": [],
+            "traits": [
+                "item",
+                "law"
+            ],
+            "type": "artifact",
+            "rarity": "Rare",
+            "amber": 1,
+            "armor": null,
+            "power": null,
+            "text": "After your  is stolen, put a warrant counter on Book of Malefaction for each  stolen. \nOmni: Remove a warrant counter from Book of Malefaction. If you do, purge a creature.\n",
+            "locale": {
+                "en": {
+                    "name": "Book of Malefaction"
+                }
+            }
+        },
+        {
             "id": "collective-calm",
             "name": "Collective Calm",
             "number": "134",
@@ -1899,6 +1988,30 @@
             "locale": {
                 "en": {
                     "name": "Luminous Boom"
+                }
+            }
+        },
+        {
+            "id": "barrister-joya",
+            "name": "Barrister Joya",
+            "number": "147",
+            "image": "https://mastervault-storage-prod.s3.amazonaws.com/media/card_front/en/886_147_43d3b2df04e4_en.png",
+            "expansion": 886,
+            "house": "sanctum",
+            "keywords": [],
+            "traits": [
+                "human",
+                "knight"
+            ],
+            "type": "creature",
+            "rarity": "Uncommon",
+            "amber": 0,
+            "armor": 1,
+            "power": 5,
+            "text": "Enemy creatures cannot reap.\n",
+            "locale": {
+                "en": {
+                    "name": "Barrister Joya"
                 }
             }
         },
@@ -3328,6 +3441,58 @@
             }
         },
         {
+            "id": "scowly-caper",
+            "name": "Scowly Caper",
+            "number": "227",
+            "image": "https://mastervault-storage-prod.s3.amazonaws.com/media/card_front/en/886_227_f601e1948c14_en.png",
+            "expansion": 886,
+            "house": "shadows",
+            "keywords": [
+                "skirmish",
+                "treachery",
+                "versatile"
+            ],
+            "traits": [
+                "elf",
+                "thief"
+            ],
+            "type": "creature",
+            "rarity": "Rare",
+            "amber": 0,
+            "armor": 0,
+            "power": 2,
+            "text": "Skirmish. Treachery. Versatile.\nAt the end of your turn, destroy 1 of Scowly Caper’s neighbors.\n",
+            "locale": {
+                "en": {
+                    "name": "Scowly Caper"
+                }
+            }
+        },
+        {
+            "id": "sleight",
+            "name": "Sleight",
+            "number": "228",
+            "image": "https://mastervault-storage-prod.s3.amazonaws.com/media/card_front/en/886_228_b183e9d8066d_en.png",
+            "expansion": 886,
+            "house": "shadows",
+            "keywords": [],
+            "traits": [
+                "thief",
+                "elf"
+            ],
+            "type": "creature",
+            "rarity": "Rare",
+            "amber": 0,
+            "armor": 0,
+            "power": 3,
+            "text": "Destroyed: Shuffle each creature into its owner’s deck.\nFate: For each enemy Shadows creature, shuffle a friendly creature into its owner’s deck.\n",
+            "locale": {
+                "en": {
+                    "name": "Sleight"
+                }
+            }
+        },
+        {
             "id": "brutal-consequences",
             "name": "Brutal Consequences",
             "number": "230",
@@ -3540,6 +3705,27 @@
             "locale": {
                 "en": {
                     "name": "Ox Sarbane"
+                }
+            }
+        },
+        {
+            "id": "borrow",
+            "name": "“Borrow”",
+            "number": "240",
+            "image": "https://mastervault-storage-prod.s3.amazonaws.com/media/card_front/en/886_240_401d5496d6bc_en.png",
+            "expansion": 886,
+            "house": "shadows",
+            "keywords": [],
+            "traits": [],
+            "type": "action",
+            "rarity": "Uncommon",
+            "amber": 1,
+            "armor": null,
+            "power": null,
+            "text": "Play: Take control of an enemy artifact. While under your control, it belongs to house Shadows. (Instead of its original house.)\n",
+            "locale": {
+                "en": {
+                    "name": "“Borrow”"
                 }
             }
         },
@@ -3917,6 +4103,50 @@
             }
         },
         {
+            "id": "tachyon-pulse",
+            "name": "Tachyon Pulse",
+            "number": "265",
+            "image": "https://mastervault-storage-prod.s3.amazonaws.com/media/card_front/en/886_265_e14fdbbaa7ce_en.png",
+            "expansion": 886,
+            "house": "staralliance",
+            "keywords": [],
+            "traits": [],
+            "type": "action",
+            "rarity": "Rare",
+            "amber": 1,
+            "armor": null,
+            "power": null,
+            "text": "Play: Destroy each artifact. Exhaust each creature with an upgrade.\n",
+            "locale": {
+                "en": {
+                    "name": "Tachyon Pulse"
+                }
+            }
+        },
+        {
+            "id": "uncharted-lands",
+            "name": "Uncharted Lands",
+            "number": "266",
+            "image": "https://mastervault-storage-prod.s3.amazonaws.com/media/card_front/en/886_266_751c32140c9b_en.png",
+            "expansion": 886,
+            "house": "staralliance",
+            "keywords": [],
+            "traits": [
+                "location"
+            ],
+            "type": "artifact",
+            "rarity": "Rare",
+            "amber": 0,
+            "armor": null,
+            "power": null,
+            "text": "Each Star Alliance creature gains, “After Reap: Move 1 from Uncharted Lands to your pool.”\nPlay: Place 6 from the common supply on Uncharted Lands.\n",
+            "locale": {
+                "en": {
+                    "name": "Uncharted Lands"
+                }
+            }
+        },
+        {
             "id": "yondar-s-log",
             "name": "Yondar’s Log",
             "number": "268",
@@ -4020,6 +4250,27 @@
             "locale": {
                 "en": {
                     "name": "Further Investigations"
+                }
+            }
+        },
+        {
+            "id": "galactic-tariff",
+            "name": "Galactic Tariff",
+            "number": "273",
+            "image": "https://mastervault-storage-prod.s3.amazonaws.com/media/card_front/en/886_273_5809677b97f0_en.png",
+            "expansion": 886,
+            "house": "staralliance",
+            "keywords": [],
+            "traits": [],
+            "type": "upgrade",
+            "rarity": "Uncommon",
+            "amber": 1,
+            "armor": null,
+            "power": null,
+            "text": "This creature gains, “After Fight/After Reap: Capture 1 from your own side.”\n",
+            "locale": {
+                "en": {
+                    "name": "Galactic Tariff"
                 }
             }
         },
@@ -4491,6 +4742,27 @@
             "locale": {
                 "en": {
                     "name": "Jervi"
+                }
+            }
+        },
+        {
+            "id": "penance-of-balance",
+            "name": "Penance of Balance",
+            "number": "302",
+            "image": "https://mastervault-storage-prod.s3.amazonaws.com/media/card_front/en/886_302_56fcfc9e61d3_en.png",
+            "expansion": 886,
+            "house": "untamed",
+            "keywords": [],
+            "traits": [],
+            "type": "action",
+            "rarity": "Rare",
+            "amber": 1,
+            "armor": null,
+            "power": null,
+            "text": "Play: If there are more enemy creatures than  in your opponent's pool, X is equal to the difference. Choose one:\nDestroy X enemy creatures.\nYour opponent loses X.\n",
+            "locale": {
+                "en": {
+                    "name": "Penance of Balance"
                 }
             }
         },
