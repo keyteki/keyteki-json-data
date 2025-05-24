@@ -5,7 +5,7 @@
     ],
     "code": "VM25",
     "name": "Vault Masters 2025",
-    "cardCount": "300",
+    "cardCount": "313",
     "releaseDate": "",
     "cards": [
         {
@@ -6650,6 +6650,27 @@
             }
         },
         {
+            "id": "ghostform",
+            "name": "Ghostform",
+            "number": "A01",
+            "image": "https://mastervault-storage-prod.s3.amazonaws.com/media/card_front/en/453_A01_6209d2f06728_en.png",
+            "expansion": 453,
+            "house": "brobnar",
+            "keywords": [],
+            "traits": [],
+            "type": "upgrade",
+            "rarity": "Special",
+            "amber": 1,
+            "armor": null,
+            "power": null,
+            "text": "This creature gains invulnerable. (It cannot be destroyed or dealt damage.)\nThis creature gains, “After Fight/After Reap: Archive Ghostform.”",
+            "locale": {
+                "en": {
+                    "name": "Ghostform"
+                }
+            }
+        },
+        {
             "id": "infomancer",
             "name": "Infomancer",
             "number": "A02",
@@ -6672,6 +6693,29 @@
             "locale": {
                 "en": {
                     "name": "Infomancer"
+                }
+            }
+        },
+        {
+            "id": "memolith",
+            "name": "Memolith",
+            "number": "A04",
+            "image": "https://mastervault-storage-prod.s3.amazonaws.com/media/card_front/en/453_A04_R6G4JX6X4XXP_en.png",
+            "expansion": 453,
+            "house": "brobnar",
+            "keywords": [],
+            "traits": [
+                "location"
+            ],
+            "type": "artifact",
+            "rarity": "Special",
+            "amber": 0,
+            "armor": null,
+            "power": null,
+            "text": "Action: Graft an action card from your hand onto Memolith (place it faceup under this card), or resolve the play effect of an action card grafted onto Memolith.\n",
+            "locale": {
+                "en": {
+                    "name": "Memolith"
                 }
             }
         },
@@ -6717,6 +6761,29 @@
             "locale": {
                 "en": {
                     "name": "Timequake"
+                }
+            }
+        },
+        {
+            "id": "the-constant",
+            "name": "The Constant",
+            "number": "A13",
+            "image": "https://mastervault-storage-prod.s3.amazonaws.com/media/card_front/en/453_A13_cd9f6d73c394_en.png",
+            "expansion": 453,
+            "house": "brobnar",
+            "keywords": [],
+            "traits": [
+                "location"
+            ],
+            "type": "artifact",
+            "rarity": "Special",
+            "amber": 1,
+            "armor": null,
+            "power": null,
+            "text": "Each player skips their ”draw cards” step.\nAt the start of your turn, remove a time counter from The Constant, then destroy it if there are no time counters on it.\nPlay: Put 2 time counters on The Constant.\n\n",
+            "locale": {
+                "en": {
+                    "name": "The Constant"
                 }
             }
         },
