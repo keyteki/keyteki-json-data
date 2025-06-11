@@ -1,10 +1,11 @@
 {
     "ids": [
-        "886"
+        "886",
+        "453"
     ],
     "code": "PV",
     "name": "Prophetic Visions",
-    "cardCount": "355",
+    "cardCount": "369",
     "releaseDate": "",
     "cards": [
         {
@@ -7572,6 +7573,325 @@
             "locale": {
                 "en": {
                     "name": "Windrow Composting"
+                }
+            }
+        },
+        {
+            "id": "ghostform",
+            "name": "Ghostform",
+            "number": "A01",
+            "image": "https://mastervault-storage-prod.s3.amazonaws.com/media/card_front/en/453_A01_P4PRV3X4WJ6M_en.png",
+            "expansion": 453,
+            "house": "brobnar",
+            "keywords": [],
+            "traits": [],
+            "type": "upgrade",
+            "rarity": "Special",
+            "amber": 1,
+            "armor": null,
+            "power": null,
+            "text": "This creature gains invulnerable. (It cannot be destroyed or dealt damage.)\rThis creature gains, “Fight/Reap: Archive Ghostform.”",
+            "locale": {
+                "en": {
+                    "name": "Ghostform"
+                }
+            }
+        },
+        {
+            "id": "infomancer",
+            "name": "Infomancer",
+            "number": "A02",
+            "image": "https://mastervault-storage-prod.s3.amazonaws.com/media/card_front/en/453_A02_C3786V7C8WF6_en.png",
+            "expansion": 453,
+            "house": "brobnar",
+            "keywords": [
+                "elusive"
+            ],
+            "traits": [
+                "human",
+                "cyborg"
+            ],
+            "type": "creature",
+            "rarity": "Special",
+            "amber": 0,
+            "armor": null,
+            "power": 3,
+            "text": "Elusive.\rPlay: Graft an action card from your hand onto Infomancer. (Place it faceup under this card.)\rReap: Trigger the play effect of an action card grafted onto Infomancer.",
+            "locale": {
+                "en": {
+                    "name": "Infomancer"
+                }
+            }
+        },
+        {
+            "id": "lateral-shift",
+            "name": "Lateral Shift",
+            "number": "A03",
+            "image": "https://mastervault-storage-prod.s3.amazonaws.com/media/card_front/en/453_A03_4X22XPH8FHP7_en.png",
+            "expansion": 453,
+            "house": "brobnar",
+            "keywords": [],
+            "traits": [],
+            "type": "action",
+            "rarity": "Special",
+            "amber": 0,
+            "armor": null,
+            "power": null,
+            "text": "Play: Look at your opponent’s hand. Play a card from that hand as if it were yours.\n",
+            "locale": {
+                "en": {
+                    "name": "Lateral Shift"
+                }
+            }
+        },
+        {
+            "id": "memolith",
+            "name": "Memolith",
+            "number": "A04",
+            "image": "https://mastervault-storage-prod.s3.amazonaws.com/media/card_front/en/453_A04_R6G4JX6X4XXP_en.png",
+            "expansion": 453,
+            "house": "brobnar",
+            "keywords": [],
+            "traits": [
+                "location"
+            ],
+            "type": "artifact",
+            "rarity": "Special",
+            "amber": 0,
+            "armor": null,
+            "power": null,
+            "text": "Action: Graft an action card from your hand onto Memolith (place it faceup under this card), or trigger the play effect of an action card grafted onto Memolith.",
+            "locale": {
+                "en": {
+                    "name": "Memolith"
+                }
+            }
+        },
+        {
+            "id": "nizak-the-forgotten",
+            "name": "Nizak, The Forgotten",
+            "number": "A05",
+            "image": "https://mastervault-storage-prod.s3.amazonaws.com/media/card_front/en/453_A05_56d75ce3cc70_en.png",
+            "expansion": 453,
+            "house": "brobnar",
+            "keywords": [],
+            "traits": [
+                "dragon",
+                "psion"
+            ],
+            "type": "creature",
+            "rarity": "Special",
+            "amber": 0,
+            "armor": 0,
+            "power": 6,
+            "text": "While fighting, Nizak, The Forgotten gains invulnerable. (It cannot be destroyed or dealt damage.)\nAfter an enemy creature is destroyed fighting Nizak, The Forgotten, return that creature to its owner’s hand.\n",
+            "locale": {
+                "en": {
+                    "name": "Nizak, The Forgotten"
+                }
+            }
+        },
+        {
+            "id": "timequake",
+            "name": "Timequake",
+            "number": "A09",
+            "image": "https://mastervault-storage-prod.s3.amazonaws.com/media/card_front/en/453_A09_Q8J656PX2X6M_en.png",
+            "expansion": 453,
+            "house": "brobnar",
+            "keywords": [],
+            "traits": [],
+            "type": "action",
+            "rarity": "Special",
+            "amber": 1,
+            "armor": null,
+            "power": null,
+            "text": "Play: Shuffle each friendly card in play into your deck. Draw a card for each card shuffled into your deck this way.\r",
+            "locale": {
+                "en": {
+                    "name": "Timequake"
+                }
+            }
+        },
+        {
+            "id": "the-constant",
+            "name": "The Constant",
+            "number": "A13",
+            "image": "https://mastervault-storage-prod.s3.amazonaws.com/media/card_front/en/453_A13_cd9f6d73c394_en.png",
+            "expansion": 453,
+            "house": "brobnar",
+            "keywords": [],
+            "traits": [
+                "location"
+            ],
+            "type": "artifact",
+            "rarity": "Special",
+            "amber": 1,
+            "armor": null,
+            "power": null,
+            "text": "Each player skips their ”draw cards” step.\nAt the start of your turn, remove a time counter from The Constant, then destroy it if there are no time counters on it.\nPlay: Put 2 time counters on The Constant.\n\n",
+            "locale": {
+                "en": {
+                    "name": "The Constant"
+                }
+            }
+        },
+        {
+            "id": "antanagoge",
+            "name": "Antanagoge",
+            "number": "A15",
+            "image": "https://mastervault-storage-prod.s3.amazonaws.com/media/card_front/en/453_A15_6b6a227ecfc9_en.png",
+            "expansion": 453,
+            "house": "brobnar",
+            "keywords": [],
+            "traits": [
+                "alien",
+                "cyborg"
+            ],
+            "type": "creature",
+            "rarity": "Special",
+            "amber": 0,
+            "armor": 2,
+            "power": 4,
+            "text": "Play: You may graft an enemy creature onto Antanagoge. \nAfter Reap: Deal damage to each creature equal to the power of a creature grafted onto Antanagoge.\n",
+            "locale": {
+                "en": {
+                    "name": "Antanagoge"
+                }
+            }
+        },
+        {
+            "id": "cosmicrux",
+            "name": "Cosmicrux",
+            "number": "A16",
+            "image": "https://mastervault-storage-prod.s3.amazonaws.com/media/card_front/en/453_A16_5781e70fbcae_en.png",
+            "expansion": 453,
+            "house": "brobnar",
+            "keywords": [],
+            "traits": [
+                "dragon"
+            ],
+            "type": "creature",
+            "rarity": "Special",
+            "amber": 0,
+            "armor": 0,
+            "power": 6,
+            "text": "After a player readies a creature, deal 1 to it.\n",
+            "locale": {
+                "en": {
+                    "name": "Cosmicrux"
+                }
+            }
+        },
+        {
+            "id": "help-from-another-self",
+            "name": "Help From Another Self",
+            "number": "A17",
+            "image": "https://mastervault-storage-prod.s3.amazonaws.com/media/card_front/en/453_A17_65b8bbab3cc9_en.png",
+            "expansion": 453,
+            "house": "brobnar",
+            "keywords": [],
+            "traits": [],
+            "type": "action",
+            "rarity": "Special",
+            "amber": 1,
+            "armor": null,
+            "power": null,
+            "text": "Play: Search your deck and discard pile for a Variant creature, reveal it, and put it into your hand.\n",
+            "locale": {
+                "en": {
+                    "name": "Help From Another Self"
+                }
+            }
+        },
+        {
+            "id": "ignitus",
+            "name": "Ignitus",
+            "number": "A18",
+            "image": "https://mastervault-storage-prod.s3.amazonaws.com/media/card_front/en/453_A18_8dec2df120c6_en.png",
+            "expansion": 453,
+            "house": "brobnar",
+            "keywords": [],
+            "traits": [
+                "dragon"
+            ],
+            "type": "creature",
+            "rarity": "Special",
+            "amber": 0,
+            "armor": 1,
+            "power": 4,
+            "text": "Ignitus gains splash-attack X, where X is the number of exhausted creatures.\n",
+            "locale": {
+                "en": {
+                    "name": "Ignitus"
+                }
+            }
+        },
+        {
+            "id": "omega-tt",
+            "name": "Omega TT",
+            "number": "A19",
+            "image": "https://mastervault-storage-prod.s3.amazonaws.com/media/card_front/en/453_A19_eae1a6a14feb_en.png",
+            "expansion": 453,
+            "house": "brobnar",
+            "keywords": [],
+            "traits": [
+                "human",
+                "variant"
+            ],
+            "type": "creature",
+            "rarity": "Special",
+            "amber": 1,
+            "armor": 0,
+            "power": 2,
+            "text": "Play: Purge 2 cards from a discard pile.\nAction: Shuffle Omega TT into its owner’s deck.\n",
+            "locale": {
+                "en": {
+                    "name": "Omega TT"
+                }
+            }
+        },
+        {
+            "id": "thermal-depletion",
+            "name": "Thermal Depletion",
+            "number": "A20",
+            "image": "https://mastervault-storage-prod.s3.amazonaws.com/media/card_front/en/453_A20_315a605f47a3_en.png",
+            "expansion": 453,
+            "house": "brobnar",
+            "keywords": [],
+            "traits": [],
+            "type": "action",
+            "rarity": "Special",
+            "amber": 0,
+            "armor": null,
+            "power": null,
+            "text": "Play: Until the start of your next turn, creatures cannot ready.\n",
+            "locale": {
+                "en": {
+                    "name": "Thermal Depletion"
+                }
+            }
+        },
+        {
+            "id": "treok-the-wise",
+            "name": "Treok, The Wise",
+            "number": "A21",
+            "image": "https://mastervault-storage-prod.s3.amazonaws.com/media/card_front/en/453_A21_715bbf48ee4f_en.png",
+            "expansion": 453,
+            "house": "brobnar",
+            "keywords": [],
+            "traits": [
+                "dragon",
+                "sage"
+            ],
+            "type": "creature",
+            "rarity": "Special",
+            "amber": 0,
+            "armor": 0,
+            "power": 6,
+            "text": "After Reap: Choose a creature. Until the start of your next turn, that creature gains invulnerable. (It cannot be destroyed or dealt damage.)\n",
+            "locale": {
+                "en": {
+                    "name": "Treok, The Wise"
                 }
             }
         },
