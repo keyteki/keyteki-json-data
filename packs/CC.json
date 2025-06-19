@@ -7426,7 +7426,7 @@
             "number": "328",
             "image": "https://mastervault-storage-prod.s3.amazonaws.com/media/card_front/en/918_328_5facb2a90ff3_en.png",
             "expansion": 918,
-            "house": "skyborn",
+            "house": "brobnar",
             "keywords": [],
             "traits": [
                 "leviathan"
@@ -7449,7 +7449,7 @@
             "number": "330",
             "image": "https://mastervault-storage-prod.s3.amazonaws.com/media/card_front/en/918_330_1ce69b074c20_en.png",
             "expansion": 918,
-            "house": "dis",
+            "house": "brobnar",
             "keywords": [],
             "traits": [
                 "experiment"
@@ -7472,7 +7472,7 @@
             "number": "331",
             "image": "https://mastervault-storage-prod.s3.amazonaws.com/media/card_front/en/918_331_e81262ed8a00_en.png",
             "expansion": 918,
-            "house": "dis",
+            "house": "brobnar",
             "keywords": [
                 "poison"
             ],
@@ -7497,7 +7497,7 @@
             "number": "331",
             "image": "https://mastervault-storage-prod.s3.amazonaws.com/media/card_front/en/918_331_e81262ed8a00_en.png",
             "expansion": 918,
-            "house": "saurian",
+            "house": "brobnar",
             "keywords": [
                 "poison"
             ],
@@ -7522,7 +7522,7 @@
             "number": "332",
             "image": "https://mastervault-storage-prod.s3.amazonaws.com/media/card_front/en/918_332_f0973b75f10f_en.png",
             "expansion": 918,
-            "house": "mars",
+            "house": "brobnar",
             "keywords": [],
             "traits": [
                 "dragon"
@@ -7545,7 +7545,7 @@
             "number": "333",
             "image": "https://mastervault-storage-prod.s3.amazonaws.com/media/card_front/en/918_333_908fbe9d7f44_en.png",
             "expansion": 918,
-            "house": "mars",
+            "house": "brobnar",
             "keywords": [],
             "traits": [
                 "insect"
@@ -7568,7 +7568,7 @@
             "number": "334",
             "image": "https://mastervault-storage-prod.s3.amazonaws.com/media/card_front/en/918_334_1746f4e14ced_en.png",
             "expansion": 918,
-            "house": "skyborn",
+            "house": "brobnar",
             "keywords": [],
             "traits": [
                 "beast"
@@ -7591,7 +7591,7 @@
             "number": "335",
             "image": "https://mastervault-storage-prod.s3.amazonaws.com/media/card_front/en/918_335_e81585677480_en.png",
             "expansion": 918,
-            "house": "sanctum",
+            "house": "brobnar",
             "keywords": [],
             "traits": [
                 "cyborg"
@@ -7614,7 +7614,7 @@
             "number": "336",
             "image": "https://mastervault-storage-prod.s3.amazonaws.com/media/card_front/en/918_336_3819f1f7cf9f_en.png",
             "expansion": 918,
-            "house": "sanctum",
+            "house": "brobnar",
             "keywords": [],
             "traits": [
                 "dragon"
@@ -7756,7 +7756,7 @@
             "number": "340",
             "image": "https://mastervault-storage-prod.s3.amazonaws.com/media/card_front/en/918_340_de6ea9fb8138_en.png",
             "expansion": 918,
-            "house": "dis",
+            "house": "brobnar",
             "keywords": [],
             "traits": [
                 "leviathan"
@@ -7779,7 +7779,7 @@
             "number": "341",
             "image": "https://mastervault-storage-prod.s3.amazonaws.com/media/card_front/en/918_341_c573b52dd78e_en.png",
             "expansion": 918,
-            "house": "untamed",
+            "house": "brobnar",
             "keywords": [],
             "traits": [
                 "dragon"
@@ -7802,7 +7802,7 @@
             "number": "343",
             "image": "https://mastervault-storage-prod.s3.amazonaws.com/media/card_front/en/918_343_e936f0f53fee_en.png",
             "expansion": 918,
-            "house": "mars",
+            "house": "brobnar",
             "keywords": [],
             "traits": [
                 "dragon"
@@ -7825,7 +7825,7 @@
             "number": "344",
             "image": "https://mastervault-storage-prod.s3.amazonaws.com/media/card_front/en/918_344_08d3f2365701_en.png",
             "expansion": 918,
-            "house": "untamed",
+            "house": "brobnar",
             "keywords": [],
             "traits": [
                 "leviathan"
@@ -7848,7 +7848,7 @@
             "number": "345",
             "image": "https://mastervault-storage-prod.s3.amazonaws.com/media/card_front/en/918_345_bc4c5e11d10f_en.png",
             "expansion": 918,
-            "house": "saurian",
+            "house": "brobnar",
             "keywords": [],
             "traits": [
                 "leviathan",
@@ -7872,7 +7872,7 @@
             "number": "346",
             "image": "https://mastervault-storage-prod.s3.amazonaws.com/media/card_front/en/918_346_4e49f18a6325_en.png",
             "expansion": 918,
-            "house": "sanctum",
+            "house": "brobnar",
             "keywords": [],
             "traits": [
                 "cloud"
@@ -7895,7 +7895,7 @@
             "number": "347",
             "image": "https://mastervault-storage-prod.s3.amazonaws.com/media/card_front/en/918_347_f031ca604280_en.png",
             "expansion": 918,
-            "house": "untamed",
+            "house": "brobnar",
             "keywords": [
                 "elusive"
             ],
