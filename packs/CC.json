@@ -7492,31 +7492,6 @@
             }
         },
         {
-            "id": "beehemoth",
-            "name": "Beehemoth",
-            "number": "331",
-            "image": "https://mastervault-storage-prod.s3.amazonaws.com/media/card_front/en/918_331_e81262ed8a00_en.png",
-            "expansion": 918,
-            "house": "brobnar",
-            "keywords": [
-                "poison"
-            ],
-            "traits": [
-                "insect"
-            ],
-            "type": "creature",
-            "rarity": "Special",
-            "amber": 0,
-            "armor": 0,
-            "power": 7,
-            "text": "Poison.\nAt the start of your turn, give a creature a +1 power counter. \nAfter Reap: Move Beehemoth anywhere in your battleline. Remove each +1 power counter from Beehemoth’s neighbors. For each +1 power counter removed this way, gain 1.\n",
-            "locale": {
-                "en": {
-                    "name": "Beehemoth"
-                }
-            }
-        },
-        {
             "id": "blue-æmberdrake",
             "name": "Blue Æmberdrake",
             "number": "332",
@@ -7660,29 +7635,6 @@
             "number": "338",
             "image": "https://mastervault-storage-prod.s3.amazonaws.com/media/card_front/en/918_338_612bda6b927a_en.png",
             "expansion": 918,
-            "house": "untamed",
-            "keywords": [],
-            "traits": [
-                "robot"
-            ],
-            "type": "creature",
-            "rarity": "Special",
-            "amber": 0,
-            "armor": 0,
-            "power": 6,
-            "text": "Each friendly creature gains, “Action: Draw a card.”\n",
-            "locale": {
-                "en": {
-                    "name": "Icarus 2.0"
-                }
-            }
-        },
-        {
-            "id": "icarus-20",
-            "name": "Icarus 2.0",
-            "number": "338",
-            "image": "https://mastervault-storage-prod.s3.amazonaws.com/media/card_front/en/918_338_612bda6b927a_en.png",
-            "expansion": 918,
             "house": "brobnar",
             "keywords": [],
             "traits": [
@@ -7697,31 +7649,6 @@
             "locale": {
                 "en": {
                     "name": "Icarus 2.0"
-                }
-            }
-        },
-        {
-            "id": "impzilla",
-            "name": "Impzilla",
-            "number": "339",
-            "image": "https://mastervault-storage-prod.s3.amazonaws.com/media/card_front/en/918_339_e1f498da3082_en.png",
-            "expansion": 918,
-            "house": "skyborn",
-            "keywords": [
-                "skirmish"
-            ],
-            "traits": [
-                "imp"
-            ],
-            "type": "creature",
-            "rarity": "Special",
-            "amber": 0,
-            "armor": 0,
-            "power": 5,
-            "text": "Skirmish.\nAfter Fight: Destroy the most powerful enemy creature.\n",
-            "locale": {
-                "en": {
-                    "name": "Impzilla"
                 }
             }
         },
@@ -7911,29 +7838,6 @@
             "locale": {
                 "en": {
                     "name": "Titanarpon"
-                }
-            }
-        },
-        {
-            "id": "yellow-æmberdrake",
-            "name": "Yellow Æmberdrake",
-            "number": "350",
-            "image": "https://mastervault-storage-prod.s3.amazonaws.com/media/card_front/en/918_350_8211b1f1fce1_en.png",
-            "expansion": 918,
-            "house": "skyborn",
-            "keywords": [],
-            "traits": [
-                "dragon"
-            ],
-            "type": "creature",
-            "rarity": "Special",
-            "amber": 0,
-            "armor": 2,
-            "power": 8,
-            "text": "Destroyed: Gain 4. Forge your yellow key at current cost.\n",
-            "locale": {
-                "en": {
-                    "name": "Yellow Æmberdrake"
                 }
             }
         },
