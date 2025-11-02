@@ -5749,8 +5749,8 @@
             }
         },
         {
-            "id": "behold-its-gradeur",
-            "name": "Behold Its Gradeur",
+            "id": "behold-its-grandeur",
+            "name": "Behold Its Grandeur",
             "number": "249",
             "image": "https://mastervault-storage-prod.s3.amazonaws.com/media/card_front/en/722_249_ba6512b6d87a_en.png",
             "expansion": 722,
@@ -5765,7 +5765,7 @@
             "text": "Play: Gain 1 for each creature you control that shares a house with one or more of its neighbors, to a maximum of 4.\n",
             "locale": {
                 "en": {
-                    "name": "Behold Its Gradeur"
+                    "name": "Behold Its Grandeur"
                 }
             }
         },
