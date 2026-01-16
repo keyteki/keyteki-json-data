@@ -42,6 +42,21 @@
                 },
                 "pl": {
                     "name": "Belcher"
+                },
+                "pt": {
+                    "name": "Belcher"
+                },
+                "th": {
+                    "name": "Belcher"
+                },
+                "vi": {
+                    "name": "Pháo Khạc Lửa"
+                },
+                "zhhans": {
+                    "name": "嗝炮"
+                },
+                "zhhant": {
+                    "name": "貝爾徹炮"
                 }
             }
         },
@@ -78,6 +93,21 @@
                 },
                 "pl": {
                     "name": "Brothers in Battle"
+                },
+                "pt": {
+                    "name": "Brothers in Battle"
+                },
+                "th": {
+                    "name": "Brothers in Battle"
+                },
+                "vi": {
+                    "name": "Tình Đồng Chí"
+                },
+                "zhhans": {
+                    "name": "铁血战友"
+                },
+                "zhhant": {
+                    "name": "鐵血戰友"
                 }
             }
         },
@@ -114,6 +144,21 @@
                 },
                 "pl": {
                     "name": "Cybergiant Rig"
+                },
+                "pt": {
+                    "name": "Cybergiant Rig"
+                },
+                "th": {
+                    "name": "Cybergiant Rig"
+                },
+                "vi": {
+                    "name": "Giáp Máy Khổng Lồ"
+                },
+                "zhhans": {
+                    "name": "机电巨人组件"
+                },
+                "zhhant": {
+                    "name": "機械巨人鑽機"
                 }
             }
         },
@@ -154,6 +199,21 @@
                 },
                 "pl": {
                     "name": "Eruption"
+                },
+                "pt": {
+                    "name": "Eruption"
+                },
+                "th": {
+                    "name": "Eruption"
+                },
+                "vi": {
+                    "name": "Chiến Nộ Hạm"
+                },
+                "zhhans": {
+                    "name": "喷涌号"
+                },
+                "zhhant": {
+                    "name": "爆炎號"
                 }
             }
         },
@@ -190,6 +250,21 @@
                 },
                 "pl": {
                     "name": "Final Refrain"
+                },
+                "pt": {
+                    "name": "Final Refrain"
+                },
+                "th": {
+                    "name": "Final Refrain"
+                },
+                "vi": {
+                    "name": "Điệp Khúc Cuối Cùng"
+                },
+                "zhhans": {
+                    "name": "曲终副歌"
+                },
+                "zhhant": {
+                    "name": "終結之歌"
                 }
             }
         },
@@ -226,6 +301,21 @@
                 },
                 "pl": {
                     "name": "Fling"
+                },
+                "pt": {
+                    "name": "Fling"
+                },
+                "th": {
+                    "name": "Fling"
+                },
+                "vi": {
+                    "name": "Quăng"
+                },
+                "zhhans": {
+                    "name": "抛掷"
+                },
+                "zhhant": {
+                    "name": "開炮"
                 }
             }
         },
@@ -264,6 +354,21 @@
                 },
                 "pl": {
                     "name": "Grat Tattuu"
+                },
+                "pt": {
+                    "name": "Grat Tattuu"
+                },
+                "th": {
+                    "name": "Grat Tattuu"
+                },
+                "vi": {
+                    "name": "Grat Tattuu"
+                },
+                "zhhans": {
+                    "name": "纹身达人"
+                },
+                "zhhant": {
+                    "name": "刺青師格拉特"
                 }
             }
         },
@@ -300,6 +405,21 @@
                 },
                 "pl": {
                     "name": "Improvised Aviation"
+                },
+                "pt": {
+                    "name": "Improvised Aviation"
+                },
+                "th": {
+                    "name": "Improvised Aviation"
+                },
+                "vi": {
+                    "name": "Thiết Bị Bay Tự Chế"
+                },
+                "zhhans": {
+                    "name": "即兴航空"
+                },
+                "zhhant": {
+                    "name": "空中飛人"
                 }
             }
         },
@@ -338,6 +458,21 @@
                 },
                 "pl": {
                     "name": "Kelifi Dragon"
+                },
+                "pt": {
+                    "name": "Kelifi Dragon"
+                },
+                "th": {
+                    "name": "Kelifi Dragon"
+                },
+                "vi": {
+                    "name": "Rồng Kelifi"
+                },
+                "zhhans": {
+                    "name": "凯里菲巨龙"
+                },
+                "zhhant": {
+                    "name": "凱利菲巨龍"
                 }
             }
         },
@@ -374,6 +509,21 @@
                 },
                 "pl": {
                     "name": "Lava Ball"
+                },
+                "pt": {
+                    "name": "Lava Ball"
+                },
+                "th": {
+                    "name": "Lava Ball"
+                },
+                "vi": {
+                    "name": "Cầu Lửa"
+                },
+                "zhhans": {
+                    "name": "熔岩火球"
+                },
+                "zhhant": {
+                    "name": "熔岩火球"
                 }
             }
         },
@@ -414,6 +564,21 @@
                 },
                 "pl": {
                     "name": "Looter Goblin"
+                },
+                "pt": {
+                    "name": "Looter Goblin"
+                },
+                "th": {
+                    "name": "Looter Goblin"
+                },
+                "vi": {
+                    "name": "Yêu Tinh Hốt Xác"
+                },
+                "zhhans": {
+                    "name": "地精搜刮者"
+                },
+                "zhhant": {
+                    "name": "地精搜刮者"
                 }
             }
         },
@@ -452,6 +617,21 @@
                 },
                 "pl": {
                     "name": "Mugwump"
+                },
+                "pt": {
+                    "name": "Mugwump"
+                },
+                "th": {
+                    "name": "Mugwump"
+                },
+                "vi": {
+                    "name": "Mugwump"
+                },
+                "zhhans": {
+                    "name": "大鳄"
+                },
+                "zhhant": {
+                    "name": "大鱷"
                 }
             }
         },
@@ -488,6 +668,21 @@
                 },
                 "pl": {
                     "name": "On the Mark"
+                },
+                "pt": {
+                    "name": "On the Mark"
+                },
+                "th": {
+                    "name": "On the Mark"
+                },
+                "vi": {
+                    "name": "Trúng Mục Tiêu"
+                },
+                "zhhans": {
+                    "name": "正中目标"
+                },
+                "zhhant": {
+                    "name": "討伐標記"
                 }
             }
         },
@@ -526,6 +721,21 @@
                 },
                 "pl": {
                     "name": "Pile of Skulls"
+                },
+                "pt": {
+                    "name": "Pile of Skulls"
+                },
+                "th": {
+                    "name": "Pile of Skulls"
+                },
+                "vi": {
+                    "name": "Núi Đầu Lâu"
+                },
+                "zhhans": {
+                    "name": "颅骨堆"
+                },
+                "zhhant": {
+                    "name": "骷髏堆"
                 }
             }
         },
@@ -564,6 +774,21 @@
                 },
                 "pl": {
                     "name": "Returning Champion"
+                },
+                "pt": {
+                    "name": "Returning Champion"
+                },
+                "th": {
+                    "name": "Returning Champion"
+                },
+                "vi": {
+                    "name": "Quán Quân Trở Lại"
+                },
+                "zhhans": {
+                    "name": "归来的冠军"
+                },
+                "zhhant": {
+                    "name": "復辟君王"
                 }
             }
         },
@@ -602,6 +827,21 @@
                 },
                 "pl": {
                     "name": "Broken Axe Outpost"
+                },
+                "pt": {
+                    "name": "Broken Axe Outpost"
+                },
+                "th": {
+                    "name": "Broken Axe Outpost"
+                },
+                "vi": {
+                    "name": "Tiền Đồn Rìu Gãy"
+                },
+                "zhhans": {
+                    "name": "碎斧前哨"
+                },
+                "zhhant": {
+                    "name": "破斧前哨站"
                 }
             }
         },
@@ -641,6 +881,21 @@
                 },
                 "pl": {
                     "name": "Brunx and Bongle"
+                },
+                "pt": {
+                    "name": "Brunx and Bongle"
+                },
+                "th": {
+                    "name": "Brunx and Bongle"
+                },
+                "vi": {
+                    "name": "Brunx và Bongle"
+                },
+                "zhhans": {
+                    "name": "布伦克斯与邦哥"
+                },
+                "zhhant": {
+                    "name": "布倫斯與邦哥"
                 }
             }
         },
@@ -677,6 +932,21 @@
                 },
                 "pl": {
                     "name": "Burn the Stockpile"
+                },
+                "pt": {
+                    "name": "Burn the Stockpile"
+                },
+                "th": {
+                    "name": "Burn the Stockpile"
+                },
+                "vi": {
+                    "name": "Đốt Kho Lương"
+                },
+                "zhhans": {
+                    "name": "焚毁物资"
+                },
+                "zhhant": {
+                    "name": "焚毀物資"
                 }
             }
         },
@@ -713,6 +983,21 @@
                 },
                 "pl": {
                     "name": "Clap of Thunder"
+                },
+                "pt": {
+                    "name": "Clap of Thunder"
+                },
+                "th": {
+                    "name": "Clap of Thunder"
+                },
+                "vi": {
+                    "name": "Sấm Vỗ"
+                },
+                "zhhans": {
+                    "name": "雷霆万钧"
+                },
+                "zhhant": {
+                    "name": "雷鳴灌頂"
                 }
             }
         },
@@ -751,6 +1036,21 @@
                 },
                 "pl": {
                     "name": "Crunch"
+                },
+                "pt": {
+                    "name": "Crunch"
+                },
+                "th": {
+                    "name": "Crunch"
+                },
+                "vi": {
+                    "name": "Giòn"
+                },
+                "zhhans": {
+                    "name": "嘎吱"
+                },
+                "zhhant": {
+                    "name": "碎牙"
                 }
             }
         },
@@ -789,6 +1089,21 @@
                 },
                 "pl": {
                     "name": "Gravelguts"
+                },
+                "pt": {
+                    "name": "Gravelguts"
+                },
+                "th": {
+                    "name": "Gravelguts"
+                },
+                "vi": {
+                    "name": "Ruột Sỏi"
+                },
+                "zhhans": {
+                    "name": "勇砾"
+                },
+                "zhhant": {
+                    "name": "石腸怪"
                 }
             }
         },
@@ -827,6 +1142,21 @@
                 },
                 "pl": {
                     "name": "Grenade Snib"
+                },
+                "pt": {
+                    "name": "Grenade Snib"
+                },
+                "th": {
+                    "name": "Grenade Snib"
+                },
+                "vi": {
+                    "name": "Lựu Đạn Cười"
+                },
+                "zhhans": {
+                    "name": "榴弹拔销手"
+                },
+                "zhhant": {
+                    "name": "榴彈拔銷手"
                 }
             }
         },
@@ -865,6 +1195,21 @@
                 },
                 "pl": {
                     "name": "Nagoo Yani"
+                },
+                "pt": {
+                    "name": "Nagoo Yani"
+                },
+                "th": {
+                    "name": "Nagoo Yani"
+                },
+                "vi": {
+                    "name": "Nagoo Yani"
+                },
+                "zhhans": {
+                    "name": "娜戈•雅妮"
+                },
+                "zhhant": {
+                    "name": "娜古．雅尼"
                 }
             }
         },
@@ -903,6 +1248,21 @@
                 },
                 "pl": {
                     "name": "Narplet"
+                },
+                "pt": {
+                    "name": "Narplet"
+                },
+                "th": {
+                    "name": "Narplet"
+                },
+                "vi": {
+                    "name": "Bé Narp"
+                },
+                "zhhans": {
+                    "name": "小纳普"
+                },
+                "zhhant": {
+                    "name": "納普之子"
                 }
             }
         },
@@ -939,6 +1299,21 @@
                 },
                 "pl": {
                     "name": "Overrun"
+                },
+                "pt": {
+                    "name": "Overrun"
+                },
+                "th": {
+                    "name": "Overrun"
+                },
+                "vi": {
+                    "name": "Càn Quét"
+                },
+                "zhhans": {
+                    "name": "横行"
+                },
+                "zhhant": {
+                    "name": "橫行"
                 }
             }
         },
@@ -975,6 +1350,21 @@
                 },
                 "pl": {
                     "name": "Smith"
+                },
+                "pt": {
+                    "name": "Smith"
+                },
+                "th": {
+                    "name": "Smith"
+                },
+                "vi": {
+                    "name": "Rèn"
+                },
+                "zhhans": {
+                    "name": "锻制"
+                },
+                "zhhant": {
+                    "name": "鍛製"
                 }
             }
         },
@@ -1011,6 +1401,21 @@
                 },
                 "pl": {
                     "name": "Strength Within"
+                },
+                "pt": {
+                    "name": "Strength Within"
+                },
+                "th": {
+                    "name": "Strength Within"
+                },
+                "vi": {
+                    "name": "Sức Mạnh Tiềm Ẩn"
+                },
+                "zhhans": {
+                    "name": "内在力量"
+                },
+                "zhhant": {
+                    "name": "內在潛力"
                 }
             }
         },
@@ -1047,6 +1452,21 @@
                 },
                 "pl": {
                     "name": "Berserker Slam"
+                },
+                "pt": {
+                    "name": "Berserker Slam"
+                },
+                "th": {
+                    "name": "Berserker Slam"
+                },
+                "vi": {
+                    "name": "Đập Điên Cuồng"
+                },
+                "zhhans": {
+                    "name": "狂暴猛推"
+                },
+                "zhhant": {
+                    "name": "狂暴猛擊"
                 }
             }
         },
@@ -1087,6 +1507,21 @@
                 },
                 "pl": {
                     "name": "Bosch the Unyielding"
+                },
+                "pt": {
+                    "name": "Bosch the Unyielding"
+                },
+                "th": {
+                    "name": "Bosch the Unyielding"
+                },
+                "vi": {
+                    "name": "Bosch Kiên Cường"
+                },
+                "zhhans": {
+                    "name": "不屈者博世"
+                },
+                "zhhant": {
+                    "name": "不屈的博斯"
                 }
             }
         },
@@ -1123,6 +1558,21 @@
                 },
                 "pl": {
                     "name": "Cacophonous Riot"
+                },
+                "pt": {
+                    "name": "Cacophonous Riot"
+                },
+                "th": {
+                    "name": "Cacophonous Riot"
+                },
+                "vi": {
+                    "name": "Náo Loạn Âm Thanh"
+                },
+                "zhhans": {
+                    "name": "刺耳暴动"
+                },
+                "zhhant": {
+                    "name": "喧鬧暴亂"
                 }
             }
         },
@@ -1161,6 +1611,21 @@
                 },
                 "pl": {
                     "name": "Cirrus Mace"
+                },
+                "pt": {
+                    "name": "Cirrus Mace"
+                },
+                "th": {
+                    "name": "Cirrus Mace"
+                },
+                "vi": {
+                    "name": "Chùy Mây"
+                },
+                "zhhans": {
+                    "name": "卷云岛钉锤"
+                },
+                "zhhant": {
+                    "name": "天雲錘"
                 }
             }
         },
@@ -1199,6 +1664,21 @@
                 },
                 "pl": {
                     "name": "D.B. Gobber"
+                },
+                "pt": {
+                    "name": "D.B. Gobber"
+                },
+                "th": {
+                    "name": "D.B. Gobber"
+                },
+                "vi": {
+                    "name": "D.B. Gobber"
+                },
+                "zhhans": {
+                    "name": "D.B.格珀"
+                },
+                "zhhant": {
+                    "name": "劫機哥布林"
                 }
             }
         },
@@ -1237,6 +1717,21 @@
                 },
                 "pl": {
                     "name": "Dreadstarr the Lone"
+                },
+                "pt": {
+                    "name": "Dreadstarr the Lone"
+                },
+                "th": {
+                    "name": "Dreadstarr the Lone"
+                },
+                "vi": {
+                    "name": "Dreadstarr Cô Độc"
+                },
+                "zhhans": {
+                    "name": "孤狼骇星"
+                },
+                "zhhant": {
+                    "name": "獨行的驚懼巨人"
                 }
             }
         },
@@ -1276,6 +1771,21 @@
                 },
                 "pl": {
                     "name": "Fancy Donavon"
+                },
+                "pt": {
+                    "name": "Fancy Donavon"
+                },
+                "th": {
+                    "name": "Fancy Donavon"
+                },
+                "vi": {
+                    "name": "Fancy Donavon"
+                },
+                "zhhans": {
+                    "name": "时髦的唐纳文"
+                },
+                "zhhant": {
+                    "name": "華麗的多納文"
                 }
             }
         },
@@ -1312,6 +1822,21 @@
                 },
                 "pl": {
                     "name": "Incensed"
+                },
+                "pt": {
+                    "name": "Incensed"
+                },
+                "th": {
+                    "name": "Incensed"
+                },
+                "vi": {
+                    "name": "Bốc Hỏa"
+                },
+                "zhhans": {
+                    "name": "动怒"
+                },
+                "zhhant": {
+                    "name": "怒髮衝冠"
                 }
             }
         },
@@ -1352,6 +1877,21 @@
                 },
                 "pl": {
                     "name": "Raince Furyheart"
+                },
+                "pt": {
+                    "name": "Raince Furyheart"
+                },
+                "th": {
+                    "name": "Raince Furyheart"
+                },
+                "vi": {
+                    "name": "Raince Furyheart"
+                },
+                "zhhans": {
+                    "name": "莱恩丝•怒心"
+                },
+                "zhhant": {
+                    "name": "雷恩斯．怒心"
                 }
             }
         },
@@ -1388,6 +1928,21 @@
                 },
                 "pl": {
                     "name": "Raise Your Glass"
+                },
+                "pt": {
+                    "name": "Raise Your Glass"
+                },
+                "th": {
+                    "name": "Raise Your Glass"
+                },
+                "vi": {
+                    "name": "Nâng Cốc"
+                },
+                "zhhans": {
+                    "name": "高举酒杯"
+                },
+                "zhhant": {
+                    "name": "舉杯共飲"
                 }
             }
         },
@@ -1426,6 +1981,21 @@
                 },
                 "pl": {
                     "name": "Rowdy Skald"
+                },
+                "pt": {
+                    "name": "Rowdy Skald"
+                },
+                "th": {
+                    "name": "Rowdy Skald"
+                },
+                "vi": {
+                    "name": "Skald Ồn Ào"
+                },
+                "zhhans": {
+                    "name": "粗野的吟唱诗人"
+                },
+                "zhhant": {
+                    "name": "興奮的斯卡德"
                 }
             }
         },
@@ -1466,6 +2036,21 @@
                 },
                 "pl": {
                     "name": "Terrance Surefoot"
+                },
+                "pt": {
+                    "name": "Terrance Surefoot"
+                },
+                "th": {
+                    "name": "Terrance Surefoot"
+                },
+                "vi": {
+                    "name": "Terrance Vững Vàng"
+                },
+                "zhhans": {
+                    "name": "特伦斯•健步"
+                },
+                "zhhant": {
+                    "name": "穩步的泰倫斯"
                 }
             }
         },
@@ -1502,6 +2087,21 @@
                 },
                 "pl": {
                     "name": "Armored Spikes"
+                },
+                "pt": {
+                    "name": "Armored Spikes"
+                },
+                "th": {
+                    "name": "Armored Spikes"
+                },
+                "vi": {
+                    "name": "Gai Bọc Thép"
+                },
+                "zhhans": {
+                    "name": "铁甲尖刺"
+                },
+                "zhhant": {
+                    "name": "尖刺裝甲"
                 }
             }
         },
@@ -1538,6 +2138,21 @@
                 },
                 "pl": {
                     "name": "Bigger Guns for Everyone"
+                },
+                "pt": {
+                    "name": "Bigger Guns for Everyone"
+                },
+                "th": {
+                    "name": "Bigger Guns for Everyone"
+                },
+                "vi": {
+                    "name": "Súng Lớn Cho Tất Cả"
+                },
+                "zhhans": {
+                    "name": "全员巨炮"
+                },
+                "zhhant": {
+                    "name": "人人配有巨炮"
                 }
             }
         },
@@ -1577,6 +2192,21 @@
                 },
                 "pl": {
                     "name": "Shard of Strength"
+                },
+                "pt": {
+                    "name": "Shard of Strength"
+                },
+                "th": {
+                    "name": "Shard of Strength"
+                },
+                "vi": {
+                    "name": "Tinh Thể Sức Mạnh"
+                },
+                "zhhans": {
+                    "name": "力量碎片"
+                },
+                "zhhant": {
+                    "name": "力量碎片"
                 }
             }
         },
@@ -1613,6 +2243,21 @@
                 },
                 "pl": {
                     "name": "Dance of Doom"
+                },
+                "pt": {
+                    "name": "Dance of Doom"
+                },
+                "th": {
+                    "name": "Dance of Doom"
+                },
+                "vi": {
+                    "name": "Vũ Điệu Diệt Vong"
+                },
+                "zhhans": {
+                    "name": "末日之舞"
+                },
+                "zhhant": {
+                    "name": "末日之舞"
                 }
             }
         },
@@ -1649,6 +2294,21 @@
                 },
                 "pl": {
                     "name": "Delta P"
+                },
+                "pt": {
+                    "name": "Delta P"
+                },
+                "th": {
+                    "name": "Delta P"
+                },
+                "vi": {
+                    "name": "Chênh Lệch Áp Suất"
+                },
+                "zhhans": {
+                    "name": "压力差"
+                },
+                "zhhant": {
+                    "name": "壓差"
                 }
             }
         },
@@ -1687,6 +2347,21 @@
                 },
                 "pl": {
                     "name": "Demonic Shelf"
+                },
+                "pt": {
+                    "name": "Demonic Shelf"
+                },
+                "th": {
+                    "name": "Demonic Shelf"
+                },
+                "vi": {
+                    "name": "Kệ Quỷ"
+                },
+                "zhhans": {
+                    "name": "恶魔架"
+                },
+                "zhhant": {
+                    "name": "惡魔陳列室"
                 }
             }
         },
@@ -1723,6 +2398,21 @@
                 },
                 "pl": {
                     "name": "Fiendish Apprentice"
+                },
+                "pt": {
+                    "name": "Fiendish Apprentice"
+                },
+                "th": {
+                    "name": "Fiendish Apprentice"
+                },
+                "vi": {
+                    "name": "Học Làm Quỷ"
+                },
+                "zhhans": {
+                    "name": "邪魔学徒"
+                },
+                "zhhant": {
+                    "name": "魔性學徒"
                 }
             }
         },
@@ -1759,6 +2449,21 @@
                 },
                 "pl": {
                     "name": "Guilty Hearts"
+                },
+                "pt": {
+                    "name": "Guilty Hearts"
+                },
+                "th": {
+                    "name": "Guilty Hearts"
+                },
+                "vi": {
+                    "name": "Trái Tim Tội Lỗi"
+                },
+                "zhhans": {
+                    "name": "内心罪责"
+                },
+                "zhhant": {
+                    "name": "自責之心"
                 }
             }
         },
@@ -1797,6 +2502,21 @@
                 },
                 "pl": {
                     "name": "Infernal Terran"
+                },
+                "pt": {
+                    "name": "Infernal Terran"
+                },
+                "th": {
+                    "name": "Infernal Terran"
+                },
+                "vi": {
+                    "name": "Người Từ Dis Ngục"
+                },
+                "zhhans": {
+                    "name": "地狱人族"
+                },
+                "zhhant": {
+                    "name": "地獄行者"
                 }
             }
         },
@@ -1838,6 +2558,21 @@
                 },
                 "pl": {
                     "name": "Lord Invidius"
+                },
+                "pt": {
+                    "name": "Lord Invidius"
+                },
+                "th": {
+                    "name": "Lord Invidius"
+                },
+                "vi": {
+                    "name": "Chúa Tể Invidius"
+                },
+                "zhhans": {
+                    "name": "忌恨领主"
+                },
+                "zhhant": {
+                    "name": "忌恨領主"
                 }
             }
         },
@@ -1876,6 +2611,21 @@
                 },
                 "pl": {
                     "name": "Maleficorn"
+                },
+                "pt": {
+                    "name": "Maleficorn"
+                },
+                "th": {
+                    "name": "Maleficorn"
+                },
+                "vi": {
+                    "name": "Ngựa Ác Quỷ"
+                },
+                "zhhans": {
+                    "name": "毒角兽"
+                },
+                "zhhant": {
+                    "name": "毒角獸"
                 }
             }
         },
@@ -1914,6 +2664,21 @@
                 },
                 "pl": {
                     "name": "Neffru"
+                },
+                "pt": {
+                    "name": "Neffru"
+                },
+                "th": {
+                    "name": "Neffru"
+                },
+                "vi": {
+                    "name": "Neffru"
+                },
+                "zhhans": {
+                    "name": "庸容魔"
+                },
+                "zhhant": {
+                    "name": "奈弗"
                 }
             }
         },
@@ -1952,6 +2717,21 @@
                 },
                 "pl": {
                     "name": "Phantasmaquid"
+                },
+                "pt": {
+                    "name": "Phantasmaquid"
+                },
+                "th": {
+                    "name": "Phantasmaquid"
+                },
+                "vi": {
+                    "name": "Mực Ác Ma"
+                },
+                "zhhans": {
+                    "name": "魅影鱿鱼"
+                },
+                "zhhant": {
+                    "name": "幻影魷"
                 }
             }
         },
@@ -1988,6 +2768,21 @@
                 },
                 "pl": {
                     "name": "Ritual of Tognath"
+                },
+                "pt": {
+                    "name": "Ritual of Tognath"
+                },
+                "th": {
+                    "name": "Ritual of Tognath"
+                },
+                "vi": {
+                    "name": "Nghi Lễ Của Tognath"
+                },
+                "zhhans": {
+                    "name": "托格纳斯仪式"
+                },
+                "zhhant": {
+                    "name": "托納斯的儀式"
                 }
             }
         },
@@ -2024,6 +2819,21 @@
                 },
                 "pl": {
                     "name": "Shadow of Dis"
+                },
+                "pt": {
+                    "name": "Shadow of Dis"
+                },
+                "th": {
+                    "name": "Shadow of Dis"
+                },
+                "vi": {
+                    "name": "Bóng Tối Của Dis"
+                },
+                "zhhans": {
+                    "name": "冥府之影"
+                },
+                "zhhant": {
+                    "name": "冥府之影"
                 }
             }
         },
@@ -2062,6 +2872,21 @@
                 },
                 "pl": {
                     "name": "Soul Snatcher"
+                },
+                "pt": {
+                    "name": "Soul Snatcher"
+                },
+                "th": {
+                    "name": "Soul Snatcher"
+                },
+                "vi": {
+                    "name": "Cỗ Máy Bắt Hồn"
+                },
+                "zhhans": {
+                    "name": "攫魂车"
+                },
+                "zhhant": {
+                    "name": "攫魂車"
                 }
             }
         },
@@ -2100,6 +2925,21 @@
                 },
                 "pl": {
                     "name": "Talon of Invidius"
+                },
+                "pt": {
+                    "name": "Talon of Invidius"
+                },
+                "th": {
+                    "name": "Talon of Invidius"
+                },
+                "vi": {
+                    "name": "Móng Vuốt Của Invidius"
+                },
+                "zhhans": {
+                    "name": "忌恨利爪号"
+                },
+                "zhhant": {
+                    "name": "忌爪號"
                 }
             }
         },
@@ -2136,6 +2976,21 @@
                 },
                 "pl": {
                     "name": "Cauterize Vitality"
+                },
+                "pt": {
+                    "name": "Cauterize Vitality"
+                },
+                "th": {
+                    "name": "Cauterize Vitality"
+                },
+                "vi": {
+                    "name": "Bào Mòn Sức Sống"
+                },
+                "zhhans": {
+                    "name": "体力烧灼"
+                },
+                "zhhant": {
+                    "name": "焚燒生靈"
                 }
             }
         },
@@ -2174,6 +3029,21 @@
                 },
                 "pl": {
                     "name": "Chauncey"
+                },
+                "pt": {
+                    "name": "Chauncey"
+                },
+                "th": {
+                    "name": "Chauncey"
+                },
+                "vi": {
+                    "name": "Chauncey"
+                },
+                "zhhans": {
+                    "name": "投机鬼"
+                },
+                "zhhant": {
+                    "name": "機運小鬼"
                 }
             }
         },
@@ -2214,6 +3084,21 @@
                 },
                 "pl": {
                     "name": "Daat"
+                },
+                "pt": {
+                    "name": "Daat"
+                },
+                "th": {
+                    "name": "Daat"
+                },
+                "vi": {
+                    "name": "Daat"
+                },
+                "zhhans": {
+                    "name": "指定魔"
+                },
+                "zhhant": {
+                    "name": "智魔"
                 }
             }
         },
@@ -2250,6 +3135,21 @@
                 },
                 "pl": {
                     "name": "Double Doom"
+                },
+                "pt": {
+                    "name": "Double Doom"
+                },
+                "th": {
+                    "name": "Double Doom"
+                },
+                "vi": {
+                    "name": "Điềm Xấu Nhân Đôi"
+                },
+                "zhhans": {
+                    "name": "双重末日"
+                },
+                "zhhant": {
+                    "name": "雙重毀滅"
                 }
             }
         },
@@ -2290,6 +3190,21 @@
                 },
                 "pl": {
                     "name": "Drumble"
+                },
+                "pt": {
+                    "name": "Drumble"
+                },
+                "th": {
+                    "name": "Drumble"
+                },
+                "vi": {
+                    "name": "Quỷ Lười"
+                },
+                "zhhans": {
+                    "name": "缓行鬼"
+                },
+                "zhhant": {
+                    "name": "緩行鬼"
                 }
             }
         },
@@ -2326,6 +3241,21 @@
                 },
                 "pl": {
                     "name": "Ecstacy Siphon"
+                },
+                "pt": {
+                    "name": "Ecstacy Siphon"
+                },
+                "th": {
+                    "name": "Ecstacy Siphon"
+                },
+                "vi": {
+                    "name": "Hút Khoái Cảm"
+                },
+                "zhhans": {
+                    "name": "迷魂虹吸"
+                },
+                "zhhant": {
+                    "name": "迷幻虹吸"
                 }
             }
         },
@@ -2364,6 +3294,21 @@
                 },
                 "pl": {
                     "name": "Library of the Damned"
+                },
+                "pt": {
+                    "name": "Library of the Damned"
+                },
+                "th": {
+                    "name": "Library of the Damned"
+                },
+                "vi": {
+                    "name": "Thư Viện Vong Linh"
+                },
+                "zhhans": {
+                    "name": "诅咒图书馆"
+                },
+                "zhhant": {
+                    "name": "詛咒圖書館"
                 }
             }
         },
@@ -2400,6 +3345,21 @@
                 },
                 "pl": {
                     "name": "Poltergeist"
+                },
+                "pt": {
+                    "name": "Poltergeist"
+                },
+                "th": {
+                    "name": "Poltergeist"
+                },
+                "vi": {
+                    "name": "Ma Ám"
+                },
+                "zhhans": {
+                    "name": "骚灵作祟"
+                },
+                "zhhant": {
+                    "name": "騷靈作祟"
                 }
             }
         },
@@ -2438,6 +3398,21 @@
                 },
                 "pl": {
                     "name": "Snudge"
+                },
+                "pt": {
+                    "name": "Snudge"
+                },
+                "th": {
+                    "name": "Snudge"
+                },
+                "vi": {
+                    "name": "Quỷ Tung Hứng"
+                },
+                "zhhans": {
+                    "name": "吝啬魔"
+                },
+                "zhhant": {
+                    "name": "貪婪"
                 }
             }
         },
@@ -2474,6 +3449,21 @@
                 },
                 "pl": {
                     "name": "Soulkeeper"
+                },
+                "pt": {
+                    "name": "Soulkeeper"
+                },
+                "th": {
+                    "name": "Soulkeeper"
+                },
+                "vi": {
+                    "name": "Dây Chuyền Giam Hồn"
+                },
+                "zhhans": {
+                    "name": "占魂符"
+                },
+                "zhhant": {
+                    "name": "靈魂守護者"
                 }
             }
         },
@@ -2510,6 +3500,21 @@
                 },
                 "pl": {
                     "name": "They Tell No Tales"
+                },
+                "pt": {
+                    "name": "They Tell No Tales"
+                },
+                "th": {
+                    "name": "They Tell No Tales"
+                },
+                "vi": {
+                    "name": "Giết Người Diệt Khẩu"
+                },
+                "zhhans": {
+                    "name": "死无对证"
+                },
+                "zhhant": {
+                    "name": "死無對證"
                 }
             }
         },
@@ -2548,6 +3553,21 @@
                 },
                 "pl": {
                     "name": "Trihard"
+                },
+                "pt": {
+                    "name": "Trihard"
+                },
+                "th": {
+                    "name": "Trihard"
+                },
+                "vi": {
+                    "name": "Quỷ Ba Sừng"
+                },
+                "zhhans": {
+                    "name": "三一鬼"
+                },
+                "zhhant": {
+                    "name": "三難鬼"
                 }
             }
         },
@@ -2584,6 +3604,21 @@
                 },
                 "pl": {
                     "name": "A Gift of Æmber"
+                },
+                "pt": {
+                    "name": "A Gift of Æmber"
+                },
+                "th": {
+                    "name": "A Gift of Æmber"
+                },
+                "vi": {
+                    "name": "Một Món Quà Nhỏ"
+                },
+                "zhhans": {
+                    "name": "琥魄礼物"
+                },
+                "zhhant": {
+                    "name": "琥魄的饋贈"
                 }
             }
         },
@@ -2620,6 +3655,21 @@
                 },
                 "pl": {
                     "name": "Arise!"
+                },
+                "pt": {
+                    "name": "Arise!"
+                },
+                "th": {
+                    "name": "Arise!"
+                },
+                "vi": {
+                    "name": "Trỗi Dậy!"
+                },
+                "zhhans": {
+                    "name": "亡者复苏"
+                },
+                "zhhant": {
+                    "name": "亡者復蘇"
                 }
             }
         },
@@ -2656,6 +3706,21 @@
                 },
                 "pl": {
                     "name": "Clipped Wings"
+                },
+                "pt": {
+                    "name": "Clipped Wings"
+                },
+                "th": {
+                    "name": "Clipped Wings"
+                },
+                "vi": {
+                    "name": "Cắt Cánh"
+                },
+                "zhhans": {
+                    "name": "截梢机翼"
+                },
+                "zhhant": {
+                    "name": "剪翼"
                 }
             }
         },
@@ -2694,6 +3759,21 @@
                 },
                 "pl": {
                     "name": "Dust Imp"
+                },
+                "pt": {
+                    "name": "Dust Imp"
+                },
+                "th": {
+                    "name": "Dust Imp"
+                },
+                "vi": {
+                    "name": "Bụi Quỷ"
+                },
+                "zhhans": {
+                    "name": "尘埃小鬼"
+                },
+                "zhhant": {
+                    "name": "灰塵小鬼"
                 }
             }
         },
@@ -2730,6 +3810,21 @@
                 },
                 "pl": {
                     "name": "Infinity Strop"
+                },
+                "pt": {
+                    "name": "Infinity Strop"
+                },
+                "th": {
+                    "name": "Infinity Strop"
+                },
+                "vi": {
+                    "name": "Mài Mãi Mãi"
+                },
+                "zhhans": {
+                    "name": "无限磨刀带"
+                },
+                "zhhant": {
+                    "name": "無盡之刑"
                 }
             }
         },
@@ -2766,6 +3861,21 @@
                 },
                 "pl": {
                     "name": "Mindfire"
+                },
+                "pt": {
+                    "name": "Mindfire"
+                },
+                "th": {
+                    "name": "Mindfire"
+                },
+                "vi": {
+                    "name": "Lửa Tâm Linh"
+                },
+                "zhhans": {
+                    "name": "心火"
+                },
+                "zhhant": {
+                    "name": "心靈之炎"
                 }
             }
         },
@@ -2804,6 +3914,21 @@
                 },
                 "pl": {
                     "name": "Monsquito"
+                },
+                "pt": {
+                    "name": "Monsquito"
+                },
+                "th": {
+                    "name": "Monsquito"
+                },
+                "vi": {
+                    "name": "Muỗi Quái"
+                },
+                "zhhans": {
+                    "name": "蚊鬼"
+                },
+                "zhhant": {
+                    "name": "魔鬼蚊"
                 }
             }
         },
@@ -2843,6 +3968,21 @@
                 },
                 "pl": {
                     "name": "Searine"
+                },
+                "pt": {
+                    "name": "Searine"
+                },
+                "th": {
+                    "name": "Searine"
+                },
+                "vi": {
+                    "name": "Quỷ Đóng Dấu"
+                },
+                "zhhans": {
+                    "name": "炙烤魔"
+                },
+                "zhhant": {
+                    "name": "海觸魔"
                 }
             }
         },
@@ -2884,6 +4024,21 @@
                 },
                 "pl": {
                     "name": "Slayer"
+                },
+                "pt": {
+                    "name": "Slayer"
+                },
+                "th": {
+                    "name": "Slayer"
+                },
+                "vi": {
+                    "name": "Sát Thủ"
+                },
+                "zhhans": {
+                    "name": "屠杀魔"
+                },
+                "zhhant": {
+                    "name": "屠魔"
                 }
             }
         },
@@ -2922,6 +4077,21 @@
                 },
                 "pl": {
                     "name": "Suspendamander"
+                },
+                "pt": {
+                    "name": "Suspendamander"
+                },
+                "th": {
+                    "name": "Suspendamander"
+                },
+                "vi": {
+                    "name": "Kỳ Nhông Đình Chỉ"
+                },
+                "zhhans": {
+                    "name": "悬停蝾螈"
+                },
+                "zhhant": {
+                    "name": "懸浮蜥獸"
                 }
             }
         },
@@ -2960,6 +4130,21 @@
                 },
                 "pl": {
                     "name": "Vapor Imp"
+                },
+                "pt": {
+                    "name": "Vapor Imp"
+                },
+                "th": {
+                    "name": "Vapor Imp"
+                },
+                "vi": {
+                    "name": "Tiểu Quỷ Hơi Nước"
+                },
+                "zhhans": {
+                    "name": "水汽小鬼"
+                },
+                "zhhant": {
+                    "name": "蒸氣鬼"
                 }
             }
         },
@@ -3000,6 +4185,21 @@
                 },
                 "pl": {
                     "name": "Ven Omawk"
+                },
+                "pt": {
+                    "name": "Ven Omawk"
+                },
+                "th": {
+                    "name": "Ven Omawk"
+                },
+                "vi": {
+                    "name": "Ven Omawk"
+                },
+                "zhhans": {
+                    "name": "毒鹰兽"
+                },
+                "zhhant": {
+                    "name": "文奧馬克"
                 }
             }
         },
@@ -3036,6 +4236,21 @@
                 },
                 "pl": {
                     "name": "Pendra’s Box"
+                },
+                "pt": {
+                    "name": "Pendra’s Box"
+                },
+                "th": {
+                    "name": "Pendra’s Box"
+                },
+                "vi": {
+                    "name": "Hộp Của Pendra"
+                },
+                "zhhans": {
+                    "name": "潘德拉的魔盒"
+                },
+                "zhhant": {
+                    "name": "潘朵拉之盒"
                 }
             }
         },
@@ -3072,6 +4287,21 @@
                 },
                 "pl": {
                     "name": "Tomb of Agony"
+                },
+                "pt": {
+                    "name": "Tomb of Agony"
+                },
+                "th": {
+                    "name": "Tomb of Agony"
+                },
+                "vi": {
+                    "name": "Lăng Mộ Đau Đớn"
+                },
+                "zhhans": {
+                    "name": "剧痛陵墓"
+                },
+                "zhhant": {
+                    "name": "極苦之墓"
                 }
             }
         },
@@ -3110,6 +4340,21 @@
                 },
                 "pl": {
                     "name": "Dexus"
+                },
+                "pt": {
+                    "name": "Dexus"
+                },
+                "th": {
+                    "name": "Dexus"
+                },
+                "vi": {
+                    "name": "Hữu Quỷ"
+                },
+                "zhhans": {
+                    "name": "右翼魔"
+                },
+                "zhhant": {
+                    "name": "右翼魔"
                 }
             }
         },
@@ -3148,6 +4393,21 @@
                 },
                 "pl": {
                     "name": "Sinestra"
+                },
+                "pt": {
+                    "name": "Sinestra"
+                },
+                "th": {
+                    "name": "Sinestra"
+                },
+                "vi": {
+                    "name": "Tả Quỷ"
+                },
+                "zhhans": {
+                    "name": "左翼魔"
+                },
+                "zhhant": {
+                    "name": "左翼魔"
                 }
             }
         },
@@ -3187,6 +4447,21 @@
                 },
                 "pl": {
                     "name": "Shard of Pain"
+                },
+                "pt": {
+                    "name": "Shard of Pain"
+                },
+                "th": {
+                    "name": "Shard of Pain"
+                },
+                "vi": {
+                    "name": "Tinh Thể Nỗi Đau"
+                },
+                "zhhans": {
+                    "name": "痛苦碎片"
+                },
+                "zhhant": {
+                    "name": "痛苦碎片"
                 }
             }
         },
@@ -3226,6 +4501,21 @@
                 },
                 "pl": {
                     "name": "Azuretooth"
+                },
+                "pt": {
+                    "name": "Azuretooth"
+                },
+                "th": {
+                    "name": "Azuretooth"
+                },
+                "vi": {
+                    "name": "Nanh Xanh"
+                },
+                "zhhans": {
+                    "name": "碧齿"
+                },
+                "zhhant": {
+                    "name": "蒼藍牙"
                 }
             }
         },
@@ -3262,6 +4552,21 @@
                 },
                 "pl": {
                     "name": "Barter and Games"
+                },
+                "pt": {
+                    "name": "Barter and Games"
+                },
+                "th": {
+                    "name": "Barter and Games"
+                },
+                "vi": {
+                    "name": "Chiêu Trò Và Tráo Đổi"
+                },
+                "zhhans": {
+                    "name": "议价游戏"
+                },
+                "zhhant": {
+                    "name": "交易與博弈"
                 }
             }
         },
@@ -3298,6 +4603,21 @@
                 },
                 "pl": {
                     "name": "Corner the Market"
+                },
+                "pt": {
+                    "name": "Corner the Market"
+                },
+                "th": {
+                    "name": "Corner the Market"
+                },
+                "vi": {
+                    "name": "Ép Giá Tối Đa"
+                },
+                "zhhans": {
+                    "name": "围堵垄断"
+                },
+                "zhhant": {
+                    "name": "圍堵壟斷"
                 }
             }
         },
@@ -3336,6 +4656,21 @@
                 },
                 "pl": {
                     "name": "Cursed Relic"
+                },
+                "pt": {
+                    "name": "Cursed Relic"
+                },
+                "th": {
+                    "name": "Cursed Relic"
+                },
+                "vi": {
+                    "name": "Bảo Vật Bị Nguyền Rủa"
+                },
+                "zhhans": {
+                    "name": "诅咒遗器"
+                },
+                "zhhant": {
+                    "name": "詛咒遺器"
                 }
             }
         },
@@ -3377,6 +4712,21 @@
                 },
                 "pl": {
                     "name": "Elenya the Charming"
+                },
+                "pt": {
+                    "name": "Elenya the Charming"
+                },
+                "th": {
+                    "name": "Elenya the Charming"
+                },
+                "vi": {
+                    "name": "Elenya Quyến Rũ"
+                },
+                "zhhans": {
+                    "name": "迷人的爱莲雅"
+                },
+                "zhhant": {
+                    "name": "迷人的艾蓮婭"
                 }
             }
         },
@@ -3416,6 +4766,21 @@
                 },
                 "pl": {
                     "name": "Game Changer"
+                },
+                "pt": {
+                    "name": "Game Changer"
+                },
+                "th": {
+                    "name": "Game Changer"
+                },
+                "vi": {
+                    "name": "Kẻ Lật Bàn"
+                },
+                "zhhans": {
+                    "name": "规则变更者"
+                },
+                "zhhant": {
+                    "name": "翻盤者"
                 }
             }
         },
@@ -3452,6 +4817,21 @@
                 },
                 "pl": {
                     "name": "Grisly Exchange"
+                },
+                "pt": {
+                    "name": "Grisly Exchange"
+                },
+                "th": {
+                    "name": "Grisly Exchange"
+                },
+                "vi": {
+                    "name": "Trao Đổi Đáng Sợ"
+                },
+                "zhhans": {
+                    "name": "可怕的交换"
+                },
+                "zhhant": {
+                    "name": "可疑的交易"
                 }
             }
         },
@@ -3488,6 +4868,21 @@
                 },
                 "pl": {
                     "name": "Insurance Policy"
+                },
+                "pt": {
+                    "name": "Insurance Policy"
+                },
+                "th": {
+                    "name": "Insurance Policy"
+                },
+                "vi": {
+                    "name": "Chính Sách Bảo Hiểm"
+                },
+                "zhhans": {
+                    "name": "保险合同"
+                },
+                "zhhant": {
+                    "name": "保險條款"
                 }
             }
         },
@@ -3524,6 +4919,21 @@
                 },
                 "pl": {
                     "name": "Skreel Swarm"
+                },
+                "pt": {
+                    "name": "Skreel Swarm"
+                },
+                "th": {
+                    "name": "Skreel Swarm"
+                },
+                "vi": {
+                    "name": "Bầy Skreel"
+                },
+                "zhhans": {
+                    "name": "死奇虫群"
+                },
+                "zhhant": {
+                    "name": "斯克雷爾蟲群"
                 }
             }
         },
@@ -3562,6 +4972,21 @@
                 },
                 "pl": {
                     "name": "Skŏllĕnbŭzzz"
+                },
+                "pt": {
+                    "name": "Skŏllĕnbŭzzz"
+                },
+                "th": {
+                    "name": "Skŏllĕnbŭzzz"
+                },
+                "vi": {
+                    "name": "Ruồi Vận Chuyển"
+                },
+                "zhhans": {
+                    "name": "嘶戈伦嗡蝇"
+                },
+                "zhhant": {
+                    "name": "斯科倫蟲巴士"
                 }
             }
         },
@@ -3598,6 +5023,21 @@
                 },
                 "pl": {
                     "name": "Soul Exchange"
+                },
+                "pt": {
+                    "name": "Soul Exchange"
+                },
+                "th": {
+                    "name": "Soul Exchange"
+                },
+                "vi": {
+                    "name": "Hoán Đổi Linh Hồn"
+                },
+                "zhhans": {
+                    "name": "灵魂交换"
+                },
+                "zhhant": {
+                    "name": "靈魂交易"
                 }
             }
         },
@@ -3638,6 +5078,21 @@
                 },
                 "pl": {
                     "name": "Talent Scout"
+                },
+                "pt": {
+                    "name": "Talent Scout"
+                },
+                "th": {
+                    "name": "Talent Scout"
+                },
+                "vi": {
+                    "name": "Giám Khảo Tài Năng"
+                },
+                "zhhans": {
+                    "name": "星探"
+                },
+                "zhhant": {
+                    "name": "天才偵查兵"
                 }
             }
         },
@@ -3674,6 +5129,21 @@
                 },
                 "pl": {
                     "name": "Three Sheets to the Wind"
+                },
+                "pt": {
+                    "name": "Three Sheets to the Wind"
+                },
+                "th": {
+                    "name": "Three Sheets to the Wind"
+                },
+                "vi": {
+                    "name": "Ba Chai Chưa Say"
+                },
+                "zhhans": {
+                    "name": "三碗不过港"
+                },
+                "zhhant": {
+                    "name": "爛醉如泥"
                 }
             }
         },
@@ -3713,6 +5183,21 @@
                 },
                 "pl": {
                     "name": "Transitory Philosopher"
+                },
+                "pt": {
+                    "name": "Transitory Philosopher"
+                },
+                "th": {
+                    "name": "Transitory Philosopher"
+                },
+                "vi": {
+                    "name": "Triết Gia Tạm Bợ"
+                },
+                "zhhans": {
+                    "name": "瞬息哲学家"
+                },
+                "zhhant": {
+                    "name": "偽哲學家"
                 }
             }
         },
@@ -3754,6 +5239,21 @@
                 },
                 "pl": {
                     "name": "Æmberwind"
+                },
+                "pt": {
+                    "name": "Æmberwind"
+                },
+                "th": {
+                    "name": "Æmberwind"
+                },
+                "vi": {
+                    "name": "Ngọn Gió Æmber"
+                },
+                "zhhans": {
+                    "name": "琥魄之风号"
+                },
+                "zhhant": {
+                    "name": "魄風號"
                 }
             }
         },
@@ -3793,6 +5293,21 @@
                 },
                 "pl": {
                     "name": "Change Agent"
+                },
+                "pt": {
+                    "name": "Change Agent"
+                },
+                "th": {
+                    "name": "Change Agent"
+                },
+                "vi": {
+                    "name": "Đặc Vụ Trao Đổi"
+                },
+                "zhhans": {
+                    "name": "变革代理人"
+                },
+                "zhhant": {
+                    "name": "改革者"
                 }
             }
         },
@@ -3831,6 +5346,21 @@
                 },
                 "pl": {
                     "name": "Cogg Miller"
+                },
+                "pt": {
+                    "name": "Cogg Miller"
+                },
+                "th": {
+                    "name": "Cogg Miller"
+                },
+                "vi": {
+                    "name": "Cogg Miller"
+                },
+                "zhhans": {
+                    "name": "齿轮碾磨工"
+                },
+                "zhhant": {
+                    "name": "齒輪匠米勒"
                 }
             }
         },
@@ -3867,6 +5397,21 @@
                 },
                 "pl": {
                     "name": "Fortune Reverser"
+                },
+                "pt": {
+                    "name": "Fortune Reverser"
+                },
+                "th": {
+                    "name": "Fortune Reverser"
+                },
+                "vi": {
+                    "name": "Bộ Chuyển May Rủi"
+                },
+                "zhhans": {
+                    "name": "财富逆转器"
+                },
+                "zhhant": {
+                    "name": "改運師"
                 }
             }
         },
@@ -3903,6 +5448,21 @@
                 },
                 "pl": {
                     "name": "High Street Churn"
+                },
+                "pt": {
+                    "name": "High Street Churn"
+                },
+                "th": {
+                    "name": "High Street Churn"
+                },
+                "vi": {
+                    "name": "Biến Động Kinh Tế"
+                },
+                "zhhans": {
+                    "name": "金融街风暴"
+                },
+                "zhhant": {
+                    "name": "都市更新"
                 }
             }
         },
@@ -3939,6 +5499,21 @@
                 },
                 "pl": {
                     "name": "Moon Light Special"
+                },
+                "pt": {
+                    "name": "Moon Light Special"
+                },
+                "th": {
+                    "name": "Moon Light Special"
+                },
+                "vi": {
+                    "name": "Khuyến Mãi Đêm Trăng"
+                },
+                "zhhans": {
+                    "name": "月光特卖会"
+                },
+                "zhhant": {
+                    "name": "月光特賣會"
                 }
             }
         },
@@ -3977,6 +5552,21 @@
                 },
                 "pl": {
                     "name": "Niche Market"
+                },
+                "pt": {
+                    "name": "Niche Market"
+                },
+                "th": {
+                    "name": "Niche Market"
+                },
+                "vi": {
+                    "name": "Chợ Khuất"
+                },
+                "zhhans": {
+                    "name": "缝隙市场"
+                },
+                "zhhant": {
+                    "name": "利基市場"
                 }
             }
         },
@@ -4013,6 +5603,21 @@
                 },
                 "pl": {
                     "name": "Outnegotiate"
+                },
+                "pt": {
+                    "name": "Outnegotiate"
+                },
+                "th": {
+                    "name": "Outnegotiate"
+                },
+                "vi": {
+                    "name": "Ép Giá"
+                },
+                "zhhans": {
+                    "name": "谈判完胜"
+                },
+                "zhhant": {
+                    "name": "談判優勢"
                 }
             }
         },
@@ -4049,6 +5654,21 @@
                 },
                 "pl": {
                     "name": "Reap the Wild Wind"
+                },
+                "pt": {
+                    "name": "Reap the Wild Wind"
+                },
+                "th": {
+                    "name": "Reap the Wild Wind"
+                },
+                "vi": {
+                    "name": "Chế Ngự Cơn Gió Dữ"
+                },
+                "zhhans": {
+                    "name": "野风收获"
+                },
+                "zhhant": {
+                    "name": "狂風裡收割"
                 }
             }
         },
@@ -4087,6 +5707,21 @@
                 },
                 "pl": {
                     "name": "Sandwyrm"
+                },
+                "pt": {
+                    "name": "Sandwyrm"
+                },
+                "th": {
+                    "name": "Sandwyrm"
+                },
+                "vi": {
+                    "name": "Sâu Cát"
+                },
+                "zhhans": {
+                    "name": "沙尘蠕龙"
+                },
+                "zhhant": {
+                    "name": "巨沙蟲"
                 }
             }
         },
@@ -4126,6 +5761,21 @@
                 },
                 "pl": {
                     "name": "Scrapscrounger"
+                },
+                "pt": {
+                    "name": "Scrapscrounger"
+                },
+                "th": {
+                    "name": "Scrapscrounger"
+                },
+                "vi": {
+                    "name": "Kẻ Móc Phế Liệu"
+                },
+                "zhhans": {
+                    "name": "废料搜寻者"
+                },
+                "zhhant": {
+                    "name": "廢品竊賊"
                 }
             }
         },
@@ -4164,6 +5814,21 @@
                 },
                 "pl": {
                     "name": "Shĭzyokŭ Swopper"
+                },
+                "pt": {
+                    "name": "Shĭzyokŭ Swopper"
+                },
+                "th": {
+                    "name": "Shĭzyokŭ Swopper"
+                },
+                "vi": {
+                    "name": "Shizyoku Đổi Chác"
+                },
+                "zhhans": {
+                    "name": "虱兹蝣库互换者"
+                },
+                "zhhant": {
+                    "name": "掉包者席秋可"
                 }
             }
         },
@@ -4200,6 +5865,21 @@
                 },
                 "pl": {
                     "name": "Trade Secrets"
+                },
+                "pt": {
+                    "name": "Trade Secrets"
+                },
+                "th": {
+                    "name": "Trade Secrets"
+                },
+                "vi": {
+                    "name": "Bí Mật Gia Truyền"
+                },
+                "zhhans": {
+                    "name": "秘密交易"
+                },
+                "zhhant": {
+                    "name": "秘密交易"
                 }
             }
         },
@@ -4239,6 +5919,21 @@
                 },
                 "pl": {
                     "name": "Ace Jonavan"
+                },
+                "pt": {
+                    "name": "Ace Jonavan"
+                },
+                "th": {
+                    "name": "Ace Jonavan"
+                },
+                "vi": {
+                    "name": "Jonavan Xuất Sắc"
+                },
+                "zhhans": {
+                    "name": "艾斯•乔纳梵"
+                },
+                "zhhant": {
+                    "name": "王牌喬納文"
                 }
             }
         },
@@ -4278,6 +5973,21 @@
                 },
                 "pl": {
                     "name": "Aerial Pedlar"
+                },
+                "pt": {
+                    "name": "Aerial Pedlar"
+                },
+                "th": {
+                    "name": "Aerial Pedlar"
+                },
+                "vi": {
+                    "name": "Hàng Rong Trên Không"
+                },
+                "zhhans": {
+                    "name": "空行小贩"
+                },
+                "zhhant": {
+                    "name": "飛天商販"
                 }
             }
         },
@@ -4314,6 +6024,21 @@
                 },
                 "pl": {
                     "name": "Contract Execution"
+                },
+                "pt": {
+                    "name": "Contract Execution"
+                },
+                "th": {
+                    "name": "Contract Execution"
+                },
+                "vi": {
+                    "name": "Thực Hiện Hợp Đồng"
+                },
+                "zhhans": {
+                    "name": "履行合同"
+                },
+                "zhhant": {
+                    "name": "履行合約"
                 }
             }
         },
@@ -4350,6 +6075,21 @@
                 },
                 "pl": {
                     "name": "De-escalation"
+                },
+                "pt": {
+                    "name": "De-escalation"
+                },
+                "th": {
+                    "name": "De-escalation"
+                },
+                "vi": {
+                    "name": "Phòng Chống Bạo Lực"
+                },
+                "zhhans": {
+                    "name": "事态降级"
+                },
+                "zhhant": {
+                    "name": "降級處分"
                 }
             }
         },
@@ -4388,6 +6128,21 @@
                 },
                 "pl": {
                     "name": "Distributor Janŏŏnt"
+                },
+                "pt": {
+                    "name": "Distributor Janŏŏnt"
+                },
+                "th": {
+                    "name": "Distributor Janŏŏnt"
+                },
+                "vi": {
+                    "name": "Người Phân Phối Janŏŏnt"
+                },
+                "zhhans": {
+                    "name": "分销商嘉诺特"
+                },
+                "zhhant": {
+                    "name": "經銷商賈努恩特"
                 }
             }
         },
@@ -4427,6 +6182,21 @@
                 },
                 "pl": {
                     "name": "Gemcoat Vendor"
+                },
+                "pt": {
+                    "name": "Gemcoat Vendor"
+                },
+                "th": {
+                    "name": "Gemcoat Vendor"
+                },
+                "vi": {
+                    "name": "Treo Đầu Dê"
+                },
+                "zhhans": {
+                    "name": "宝石大衣商贩"
+                },
+                "zhhant": {
+                    "name": "寶石攤商"
                 }
             }
         },
@@ -4463,6 +6233,21 @@
                 },
                 "pl": {
                     "name": "Hoist Operations"
+                },
+                "pt": {
+                    "name": "Hoist Operations"
+                },
+                "th": {
+                    "name": "Hoist Operations"
+                },
+                "vi": {
+                    "name": "Vận Hành Cần Trục"
+                },
+                "zhhans": {
+                    "name": "起重机作业"
+                },
+                "zhhant": {
+                    "name": "吊車作業"
                 }
             }
         },
@@ -4499,6 +6284,21 @@
                 },
                 "pl": {
                     "name": "Security Detail"
+                },
+                "pt": {
+                    "name": "Security Detail"
+                },
+                "th": {
+                    "name": "Security Detail"
+                },
+                "vi": {
+                    "name": "Bảo Vệ An Ninh"
+                },
+                "zhhans": {
+                    "name": "安保支队"
+                },
+                "zhhant": {
+                    "name": "護衛小組"
                 }
             }
         },
@@ -4538,6 +6338,21 @@
                 },
                 "pl": {
                     "name": "Skipper Hukŏ"
+                },
+                "pt": {
+                    "name": "Skipper Hukŏ"
+                },
+                "th": {
+                    "name": "Skipper Hukŏ"
+                },
+                "vi": {
+                    "name": "Phi Công Trưởng Hukŏ"
+                },
+                "zhhans": {
+                    "name": "商船长胡蛞"
+                },
+                "zhhant": {
+                    "name": "機長虎克"
                 }
             }
         },
@@ -4574,6 +6389,21 @@
                 },
                 "pl": {
                     "name": "Transparency Report"
+                },
+                "pt": {
+                    "name": "Transparency Report"
+                },
+                "th": {
+                    "name": "Transparency Report"
+                },
+                "vi": {
+                    "name": "Báo Cáo Minh Bạch"
+                },
+                "zhhans": {
+                    "name": "透明度报告"
+                },
+                "zhhant": {
+                    "name": "透明度報告"
                 }
             }
         },
@@ -4613,6 +6443,21 @@
                 },
                 "pl": {
                     "name": "Vendor Hyertula"
+                },
+                "pt": {
+                    "name": "Vendor Hyertula"
+                },
+                "th": {
+                    "name": "Vendor Hyertula"
+                },
+                "vi": {
+                    "name": "Nhà Cung Cấp Hyertula"
+                },
+                "zhhans": {
+                    "name": "商贩海蚜图拉"
+                },
+                "zhhant": {
+                    "name": "商販海爾圖拉"
                 }
             }
         },
@@ -4652,6 +6497,21 @@
                 },
                 "pl": {
                     "name": "Vĕsted Harŏld"
+                },
+                "pt": {
+                    "name": "Vĕsted Harŏld"
+                },
+                "th": {
+                    "name": "Vĕsted Harŏld"
+                },
+                "vi": {
+                    "name": "Vĕsted Harŏld"
+                },
+                "zhhans": {
+                    "name": "维嘶特德•蛤洛德"
+                },
+                "zhhant": {
+                    "name": "託管的哈羅德"
                 }
             }
         },
@@ -4688,6 +6548,21 @@
                 },
                 "pl": {
                     "name": "Requisition Writ"
+                },
+                "pt": {
+                    "name": "Requisition Writ"
+                },
+                "th": {
+                    "name": "Requisition Writ"
+                },
+                "vi": {
+                    "name": "Yêu Cầu Trưng Dụng"
+                },
+                "zhhans": {
+                    "name": "征用令状"
+                },
+                "zhhant": {
+                    "name": "請願書"
                 }
             }
         },
@@ -4724,6 +6599,21 @@
                 },
                 "pl": {
                     "name": "Suggestion Box"
+                },
+                "pt": {
+                    "name": "Suggestion Box"
+                },
+                "th": {
+                    "name": "Suggestion Box"
+                },
+                "vi": {
+                    "name": "Hộp Thư Góp Ý"
+                },
+                "zhhans": {
+                    "name": "意见箱"
+                },
+                "zhhant": {
+                    "name": "意見箱"
                 }
             }
         },
@@ -4763,6 +6653,21 @@
                 },
                 "pl": {
                     "name": "Shard of Change"
+                },
+                "pt": {
+                    "name": "Shard of Change"
+                },
+                "th": {
+                    "name": "Shard of Change"
+                },
+                "vi": {
+                    "name": "Tinh Thế Biến Chuyển"
+                },
+                "zhhans": {
+                    "name": "交易碎片"
+                },
+                "zhhant": {
+                    "name": "置換碎片"
                 }
             }
         },
@@ -4799,6 +6704,21 @@
                 },
                 "pl": {
                     "name": "A Strong Feeling"
+                },
+                "pt": {
+                    "name": "A Strong Feeling"
+                },
+                "th": {
+                    "name": "A Strong Feeling"
+                },
+                "vi": {
+                    "name": "Linh Cảm Mạnh Mẽ"
+                },
+                "zhhans": {
+                    "name": "激情冲动"
+                },
+                "zhhant": {
+                    "name": "強烈預感"
                 }
             }
         },
@@ -4835,6 +6755,21 @@
                 },
                 "pl": {
                     "name": "Animating Force"
+                },
+                "pt": {
+                    "name": "Animating Force"
+                },
+                "th": {
+                    "name": "Animating Force"
+                },
+                "vi": {
+                    "name": "Thế Lực Vô Hình"
+                },
+                "zhhans": {
+                    "name": "活化之力"
+                },
+                "zhhant": {
+                    "name": "活化力場"
                 }
             }
         },
@@ -4873,6 +6808,21 @@
                 },
                 "pl": {
                     "name": "Aurascope"
+                },
+                "pt": {
+                    "name": "Aurascope"
+                },
+                "th": {
+                    "name": "Aurascope"
+                },
+                "vi": {
+                    "name": "Kính Soi Hào Quang"
+                },
+                "zhhans": {
+                    "name": "灵氛望远镜"
+                },
+                "zhhant": {
+                    "name": "望靈鏡"
                 }
             }
         },
@@ -4909,6 +6859,21 @@
                 },
                 "pl": {
                     "name": "Call of Need"
+                },
+                "pt": {
+                    "name": "Call of Need"
+                },
+                "th": {
+                    "name": "Call of Need"
+                },
+                "vi": {
+                    "name": "Kêu Gọi Cứu Trợ"
+                },
+                "zhhans": {
+                    "name": "有求必应"
+                },
+                "zhhant": {
+                    "name": "需求的召喚"
                 }
             }
         },
@@ -4945,6 +6910,21 @@
                 },
                 "pl": {
                     "name": "Empathic Malice"
+                },
+                "pt": {
+                    "name": "Empathic Malice"
+                },
+                "th": {
+                    "name": "Empathic Malice"
+                },
+                "vi": {
+                    "name": "Đồng Cảm Với Cái Ác"
+                },
+                "zhhans": {
+                    "name": "移情恶意"
+                },
+                "zhhant": {
+                    "name": "共感惡意"
                 }
             }
         },
@@ -4981,6 +6961,21 @@
                 },
                 "pl": {
                     "name": "Future is Past"
+                },
+                "pt": {
+                    "name": "Future is Past"
+                },
+                "th": {
+                    "name": "Future is Past"
+                },
+                "vi": {
+                    "name": "Tương Lai Là Quá Khứ"
+                },
+                "zhhans": {
+                    "name": "时序倒错"
+                },
+                "zhhant": {
+                    "name": "未來即過去"
                 }
             }
         },
@@ -5017,6 +7012,21 @@
                 },
                 "pl": {
                     "name": "Ghoul-keeping"
+                },
+                "pt": {
+                    "name": "Ghoul-keeping"
+                },
+                "th": {
+                    "name": "Ghoul-keeping"
+                },
+                "vi": {
+                    "name": "Quản Hồn"
+                },
+                "zhhans": {
+                    "name": "尸鬼守门"
+                },
+                "zhhant": {
+                    "name": "幽靈看護"
                 }
             }
         },
@@ -5055,6 +7065,21 @@
                 },
                 "pl": {
                     "name": "Helichopper"
+                },
+                "pt": {
+                    "name": "Helichopper"
+                },
+                "th": {
+                    "name": "Helichopper"
+                },
+                "vi": {
+                    "name": "Trực Thăng Bổ Củi"
+                },
+                "zhhans": {
+                    "name": "直升鬼机"
+                },
+                "zhhant": {
+                    "name": "旋翼號"
                 }
             }
         },
@@ -5094,6 +7119,21 @@
                 },
                 "pl": {
                     "name": "Jahneerie"
+                },
+                "pt": {
+                    "name": "Jahneerie"
+                },
+                "th": {
+                    "name": "Jahneerie"
+                },
+                "vi": {
+                    "name": "Jahneerie"
+                },
+                "zhhans": {
+                    "name": "怪诞简娜"
+                },
+                "zhhant": {
+                    "name": "詹尼莉"
                 }
             }
         },
@@ -5133,6 +7173,21 @@
                 },
                 "pl": {
                     "name": "Kaspara"
+                },
+                "pt": {
+                    "name": "Kaspara"
+                },
+                "th": {
+                    "name": "Kaspara"
+                },
+                "vi": {
+                    "name": "Kaspara"
+                },
+                "zhhans": {
+                    "name": "卡斯帕拉"
+                },
+                "zhhant": {
+                    "name": "卡斯巴拉"
                 }
             }
         },
@@ -5171,6 +7226,21 @@
                 },
                 "pl": {
                     "name": "P.K.E. Syphonator"
+                },
+                "pt": {
+                    "name": "P.K.E. Syphonator"
+                },
+                "th": {
+                    "name": "P.K.E. Syphonator"
+                },
+                "vi": {
+                    "name": "P.K.E Kẻ Truyền Điện"
+                },
+                "zhhans": {
+                    "name": "P.K.E.虹吸器"
+                },
+                "zhhant": {
+                    "name": "P.K.E.抽取裝置"
                 }
             }
         },
@@ -5210,6 +7280,21 @@
                 },
                 "pl": {
                     "name": "Shadys"
+                },
+                "pt": {
+                    "name": "Shadys"
+                },
+                "th": {
+                    "name": "Shadys"
+                },
+                "vi": {
+                    "name": "Shadys"
+                },
+                "zhhans": {
+                    "name": "影迪斯"
+                },
+                "zhhant": {
+                    "name": "魂帝斯"
                 }
             }
         },
@@ -5246,6 +7331,21 @@
                 },
                 "pl": {
                     "name": "Shell of a Ghost"
+                },
+                "pt": {
+                    "name": "Shell of a Ghost"
+                },
+                "th": {
+                    "name": "Shell of a Ghost"
+                },
+                "vi": {
+                    "name": "Vỏ Linh Hồn"
+                },
+                "zhhans": {
+                    "name": "废弃的攻壳"
+                },
+                "zhhant": {
+                    "name": "鬼靈之殼"
                 }
             }
         },
@@ -5285,6 +7385,21 @@
                 },
                 "pl": {
                     "name": "Varad the Indulgent"
+                },
+                "pt": {
+                    "name": "Varad the Indulgent"
+                },
+                "th": {
+                    "name": "Varad the Indulgent"
+                },
+                "vi": {
+                    "name": "Varad Công Tử Bột"
+                },
+                "zhhans": {
+                    "name": "放纵者瓦拉德"
+                },
+                "zhhant": {
+                    "name": "寬容的瓦拉德"
                 }
             }
         },
@@ -5321,6 +7436,21 @@
                 },
                 "pl": {
                     "name": "A Ghost in the Sun"
+                },
+                "pt": {
+                    "name": "A Ghost in the Sun"
+                },
+                "th": {
+                    "name": "A Ghost in the Sun"
+                },
+                "vi": {
+                    "name": "Bóng Ma Dưới Nắng"
+                },
+                "zhhans": {
+                    "name": "阳光下的幽灵"
+                },
+                "zhhant": {
+                    "name": "日光下的鬼影"
                 }
             }
         },
@@ -5357,6 +7487,21 @@
                 },
                 "pl": {
                     "name": "Atomic Destabilizer"
+                },
+                "pt": {
+                    "name": "Atomic Destabilizer"
+                },
+                "th": {
+                    "name": "Atomic Destabilizer"
+                },
+                "vi": {
+                    "name": "Máy Phá Nguyên Tử"
+                },
+                "zhhans": {
+                    "name": "原子稳定破坏器"
+                },
+                "zhhant": {
+                    "name": "原子解構器"
                 }
             }
         },
@@ -5393,6 +7538,21 @@
                 },
                 "pl": {
                     "name": "Crepuscular Rays"
+                },
+                "pt": {
+                    "name": "Crepuscular Rays"
+                },
+                "th": {
+                    "name": "Crepuscular Rays"
+                },
+                "vi": {
+                    "name": "Tia Hoàng Hôn"
+                },
+                "zhhans": {
+                    "name": "晨昏蒙影"
+                },
+                "zhhant": {
+                    "name": "晨昏光束"
                 }
             }
         },
@@ -5432,6 +7592,21 @@
                 },
                 "pl": {
                     "name": "Doppelganger"
+                },
+                "pt": {
+                    "name": "Doppelganger"
+                },
+                "th": {
+                    "name": "Doppelganger"
+                },
+                "vi": {
+                    "name": "Song Trùng"
+                },
+                "zhhans": {
+                    "name": "二重身"
+                },
+                "zhhant": {
+                    "name": "變形怪"
                 }
             }
         },
@@ -5471,6 +7646,21 @@
                 },
                 "pl": {
                     "name": "Echofly"
+                },
+                "pt": {
+                    "name": "Echofly"
+                },
+                "th": {
+                    "name": "Echofly"
+                },
+                "vi": {
+                    "name": "Đom Đóm Tiếng Vang"
+                },
+                "zhhans": {
+                    "name": "回声蜓"
+                },
+                "zhhant": {
+                    "name": "回音翅蟲"
                 }
             }
         },
@@ -5507,6 +7697,21 @@
                 },
                 "pl": {
                     "name": "Energy Vampirism"
+                },
+                "pt": {
+                    "name": "Energy Vampirism"
+                },
+                "th": {
+                    "name": "Energy Vampirism"
+                },
+                "vi": {
+                    "name": "Hút Năng Lượng"
+                },
+                "zhhans": {
+                    "name": "能量吸取"
+                },
+                "zhhant": {
+                    "name": "能量吸取術"
                 }
             }
         },
@@ -5546,6 +7751,21 @@
                 },
                 "pl": {
                     "name": "Paradrone"
+                },
+                "pt": {
+                    "name": "Paradrone"
+                },
+                "th": {
+                    "name": "Paradrone"
+                },
+                "vi": {
+                    "name": "Trinh Sát Trên Cao"
+                },
+                "zhhans": {
+                    "name": "伞降无人机"
+                },
+                "zhhant": {
+                    "name": "仿生機"
                 }
             }
         },
@@ -5582,6 +7802,21 @@
                 },
                 "pl": {
                     "name": "Return to Rubble"
+                },
+                "pt": {
+                    "name": "Return to Rubble"
+                },
+                "th": {
+                    "name": "Return to Rubble"
+                },
+                "vi": {
+                    "name": "Trở Về Cát Bụi"
+                },
+                "zhhans": {
+                    "name": "归墟"
+                },
+                "zhhant": {
+                    "name": "回歸塵土"
                 }
             }
         },
@@ -5621,6 +7856,21 @@
                 },
                 "pl": {
                     "name": "Thoughtcatcher"
+                },
+                "pt": {
+                    "name": "Thoughtcatcher"
+                },
+                "th": {
+                    "name": "Thoughtcatcher"
+                },
+                "vi": {
+                    "name": "Kẻ Bắt Suy Tư"
+                },
+                "zhhans": {
+                    "name": "思想捕捉者"
+                },
+                "zhhant": {
+                    "name": "思想捕捉者"
                 }
             }
         },
@@ -5662,6 +7912,21 @@
                 },
                 "pl": {
                     "name": "Titan Apparition"
+                },
+                "pt": {
+                    "name": "Titan Apparition"
+                },
+                "th": {
+                    "name": "Titan Apparition"
+                },
+                "vi": {
+                    "name": "Ma Khổng Lồ"
+                },
+                "zhhans": {
+                    "name": "泰坦型鬼影"
+                },
+                "zhhant": {
+                    "name": "泰坦鬼影"
                 }
             }
         },
@@ -5703,6 +7968,21 @@
                 },
                 "pl": {
                     "name": "Tribute Collector"
+                },
+                "pt": {
+                    "name": "Tribute Collector"
+                },
+                "th": {
+                    "name": "Tribute Collector"
+                },
+                "vi": {
+                    "name": "Người Thu Cống Phẩm"
+                },
+                "zhhans": {
+                    "name": "贡品采集者"
+                },
+                "zhhant": {
+                    "name": "貢品收藏家"
                 }
             }
         },
@@ -5739,6 +8019,21 @@
                 },
                 "pl": {
                     "name": "Veil of Ectoplasm"
+                },
+                "pt": {
+                    "name": "Veil of Ectoplasm"
+                },
+                "th": {
+                    "name": "Veil of Ectoplasm"
+                },
+                "vi": {
+                    "name": "Bức Màn Thế Giới Bên Kia"
+                },
+                "zhhans": {
+                    "name": "灵质帷幕"
+                },
+                "zhhant": {
+                    "name": "靈質面紗"
                 }
             }
         },
@@ -5775,6 +8070,21 @@
                 },
                 "pl": {
                     "name": "All Hands on Deck"
+                },
+                "pt": {
+                    "name": "All Hands on Deck"
+                },
+                "th": {
+                    "name": "All Hands on Deck"
+                },
+                "vi": {
+                    "name": "Đồng Lòng Hợp Sức"
+                },
+                "zhhans": {
+                    "name": "全员集合"
+                },
+                "zhhant": {
+                    "name": "傾巢而出"
                 }
             }
         },
@@ -5814,6 +8124,21 @@
                 },
                 "pl": {
                     "name": "Colonel Slime"
+                },
+                "pt": {
+                    "name": "Colonel Slime"
+                },
+                "th": {
+                    "name": "Colonel Slime"
+                },
+                "vi": {
+                    "name": "Đại Tá Chất Nhờn"
+                },
+                "zhhans": {
+                    "name": "黏液上校"
+                },
+                "zhhant": {
+                    "name": "軟泥上校"
                 }
             }
         },
@@ -5853,6 +8178,21 @@
                 },
                 "pl": {
                     "name": "Harvest Skimmer"
+                },
+                "pt": {
+                    "name": "Harvest Skimmer"
+                },
+                "th": {
+                    "name": "Harvest Skimmer"
+                },
+                "vi": {
+                    "name": "Máy Rút Mùa Màng"
+                },
+                "zhhans": {
+                    "name": "废货捡漏者"
+                },
+                "zhhant": {
+                    "name": "收割捕手"
                 }
             }
         },
@@ -5889,6 +8229,21 @@
                 },
                 "pl": {
                     "name": "Haunting Deck"
+                },
+                "pt": {
+                    "name": "Haunting Deck"
+                },
+                "th": {
+                    "name": "Haunting Deck"
+                },
+                "vi": {
+                    "name": "Khoang Tàu Ma"
+                },
+                "zhhans": {
+                    "name": "甲板闹鬼"
+                },
+                "zhhant": {
+                    "name": "鬧鬼甲板"
                 }
             }
         },
@@ -5925,6 +8280,21 @@
                 },
                 "pl": {
                     "name": "In Here Somewhere…"
+                },
+                "pt": {
+                    "name": "In Here Somewhere…"
+                },
+                "th": {
+                    "name": "In Here Somewhere…"
+                },
+                "vi": {
+                    "name": "Đâu Đó Quanh Đây..."
+                },
+                "zhhans": {
+                    "name": "在某处……"
+                },
+                "zhhant": {
+                    "name": "在這裡某處…"
                 }
             }
         },
@@ -5961,6 +8331,21 @@
                 },
                 "pl": {
                     "name": "Junk Restoration"
+                },
+                "pt": {
+                    "name": "Junk Restoration"
+                },
+                "th": {
+                    "name": "Junk Restoration"
+                },
+                "vi": {
+                    "name": "Phục Hồi Phế Liệu"
+                },
+                "zhhans": {
+                    "name": "垃圾复原"
+                },
+                "zhhant": {
+                    "name": "修復廢品"
                 }
             }
         },
@@ -5997,6 +8382,21 @@
                 },
                 "pl": {
                     "name": "Manifestation"
+                },
+                "pt": {
+                    "name": "Manifestation"
+                },
+                "th": {
+                    "name": "Manifestation"
+                },
+                "vi": {
+                    "name": "Thức Tỉnh"
+                },
+                "zhhans": {
+                    "name": "显灵"
+                },
+                "zhhant": {
+                    "name": "顯靈化"
                 }
             }
         },
@@ -6036,6 +8436,21 @@
                 },
                 "pl": {
                     "name": "Parabyte"
+                },
+                "pt": {
+                    "name": "Parabyte"
+                },
+                "th": {
+                    "name": "Parabyte"
+                },
+                "vi": {
+                    "name": "Parabyte"
+                },
+                "zhhans": {
+                    "name": "超常字节"
+                },
+                "zhhant": {
+                    "name": "寄生位元"
                 }
             }
         },
@@ -6077,6 +8492,21 @@
                 },
                 "pl": {
                     "name": "Portal Guardian"
+                },
+                "pt": {
+                    "name": "Portal Guardian"
+                },
+                "th": {
+                    "name": "Portal Guardian"
+                },
+                "vi": {
+                    "name": "Bảo Hộ Cổng"
+                },
+                "zhhans": {
+                    "name": "传送门守护者"
+                },
+                "zhhant": {
+                    "name": "傳送門守護者"
                 }
             }
         },
@@ -6116,6 +8546,21 @@
                 },
                 "pl": {
                     "name": "Stratowise"
+                },
+                "pt": {
+                    "name": "Stratowise"
+                },
+                "th": {
+                    "name": "Stratowise"
+                },
+                "vi": {
+                    "name": "Không Quyển Thú"
+                },
+                "zhhans": {
+                    "name": "平流机"
+                },
+                "zhhant": {
+                    "name": "高空行者"
                 }
             }
         },
@@ -6154,6 +8599,21 @@
                 },
                 "pl": {
                     "name": "Summoned Counsel"
+                },
+                "pt": {
+                    "name": "Summoned Counsel"
+                },
+                "th": {
+                    "name": "Summoned Counsel"
+                },
+                "vi": {
+                    "name": "Tư Vấn Viên Hiện Trường"
+                },
+                "zhhans": {
+                    "name": "受召的顾问"
+                },
+                "zhhant": {
+                    "name": "召喚仲介"
                 }
             }
         },
@@ -6193,6 +8653,21 @@
                 },
                 "pl": {
                     "name": "Wellstring"
+                },
+                "pt": {
+                    "name": "Wellstring"
+                },
+                "th": {
+                    "name": "Wellstring"
+                },
+                "vi": {
+                    "name": "Xạ Thủ"
+                },
+                "zhhans": {
+                    "name": "劲弦"
+                },
+                "zhhant": {
+                    "name": "長弦"
                 }
             }
         },
@@ -6229,6 +8704,21 @@
                 },
                 "pl": {
                     "name": "Banshee Suit"
+                },
+                "pt": {
+                    "name": "Banshee Suit"
+                },
+                "th": {
+                    "name": "Banshee Suit"
+                },
+                "vi": {
+                    "name": "Đồ Báo Tử"
+                },
+                "zhhans": {
+                    "name": "女妖服"
+                },
+                "zhhant": {
+                    "name": "妖精套裝"
                 }
             }
         },
@@ -6265,6 +8755,21 @@
                 },
                 "pl": {
                     "name": "Ethereal Adaptor"
+                },
+                "pt": {
+                    "name": "Ethereal Adaptor"
+                },
+                "th": {
+                    "name": "Ethereal Adaptor"
+                },
+                "vi": {
+                    "name": "Bộ Chuyển Thoát Tục"
+                },
+                "zhhans": {
+                    "name": "无形适配器"
+                },
+                "zhhant": {
+                    "name": "虛靈轉接器"
                 }
             }
         },
@@ -6304,6 +8809,21 @@
                 },
                 "pl": {
                     "name": "Precocious Fragment"
+                },
+                "pt": {
+                    "name": "Precocious Fragment"
+                },
+                "th": {
+                    "name": "Precocious Fragment"
+                },
+                "vi": {
+                    "name": "Mảnh Vỡ Đầu Tiên"
+                },
+                "zhhans": {
+                    "name": "早熟的碎块"
+                },
+                "zhhant": {
+                    "name": "智能幼體"
                 }
             }
         },
@@ -6343,6 +8863,21 @@
                 },
                 "pl": {
                     "name": "Purse-a-phone"
+                },
+                "pt": {
+                    "name": "Purse-a-phone"
+                },
+                "th": {
+                    "name": "Purse-a-phone"
+                },
+                "vi": {
+                    "name": "Purse-a-phone"
+                },
+                "zhhans": {
+                    "name": "魄耳塞福涅"
+                },
+                "zhhant": {
+                    "name": "撥號芬妮"
                 }
             }
         },
@@ -6382,6 +8917,21 @@
                 },
                 "pl": {
                     "name": "Mender"
+                },
+                "pt": {
+                    "name": "Mender"
+                },
+                "th": {
+                    "name": "Mender"
+                },
+                "vi": {
+                    "name": "Thợ Sửa Chữa"
+                },
+                "zhhans": {
+                    "name": "修缮者"
+                },
+                "zhhant": {
+                    "name": "維修工"
                 }
             }
         },
@@ -6421,6 +8971,21 @@
                 },
                 "pl": {
                     "name": "Soultender"
+                },
+                "pt": {
+                    "name": "Soultender"
+                },
+                "th": {
+                    "name": "Soultender"
+                },
+                "vi": {
+                    "name": "Kẻ Nối Hồn"
+                },
+                "zhhans": {
+                    "name": "灵魂照料员"
+                },
+                "zhhant": {
+                    "name": "護魂者"
                 }
             }
         },
@@ -6460,6 +9025,21 @@
                 },
                 "pl": {
                     "name": "Shard of Resurgence"
+                },
+                "pt": {
+                    "name": "Shard of Resurgence"
+                },
+                "th": {
+                    "name": "Shard of Resurgence"
+                },
+                "vi": {
+                    "name": "Tinh Thể Tái Sinh"
+                },
+                "zhhans": {
+                    "name": "复苏碎片"
+                },
+                "zhhant": {
+                    "name": "歸魂碎片"
                 }
             }
         },
@@ -6498,6 +9078,21 @@
                 },
                 "pl": {
                     "name": "Arcenomometer"
+                },
+                "pt": {
+                    "name": "Arcenomometer"
+                },
+                "th": {
+                    "name": "Arcenomometer"
+                },
+                "vi": {
+                    "name": "Máy Đo Toàn Năng"
+                },
+                "zhhans": {
+                    "name": "电弧计量器"
+                },
+                "zhhant": {
+                    "name": "秘能探測儀"
                 }
             }
         },
@@ -6534,6 +9129,21 @@
                 },
                 "pl": {
                     "name": "Backup Plan"
+                },
+                "pt": {
+                    "name": "Backup Plan"
+                },
+                "th": {
+                    "name": "Backup Plan"
+                },
+                "vi": {
+                    "name": "Kế Hoạch Dự Phòng"
+                },
+                "zhhans": {
+                    "name": "后备计划"
+                },
+                "zhhant": {
+                    "name": "後備計畫"
                 }
             }
         },
@@ -6573,6 +9183,21 @@
                 },
                 "pl": {
                     "name": "Captain Nemo"
+                },
+                "pt": {
+                    "name": "Captain Nemo"
+                },
+                "th": {
+                    "name": "Captain Nemo"
+                },
+                "vi": {
+                    "name": "Thuyền Trưởng Nemo"
+                },
+                "zhhans": {
+                    "name": "尼莫船长"
+                },
+                "zhhant": {
+                    "name": "尼莫將軍"
                 }
             }
         },
@@ -6609,6 +9234,21 @@
                 },
                 "pl": {
                     "name": "Empyrean Charge"
+                },
+                "pt": {
+                    "name": "Empyrean Charge"
+                },
+                "th": {
+                    "name": "Empyrean Charge"
+                },
+                "vi": {
+                    "name": "Trời Phạt"
+                },
+                "zhhans": {
+                    "name": "九天充电"
+                },
+                "zhhant": {
+                    "name": "天界充電"
                 }
             }
         },
@@ -6645,6 +9285,21 @@
                 },
                 "pl": {
                     "name": "Entropic Swirl"
+                },
+                "pt": {
+                    "name": "Entropic Swirl"
+                },
+                "th": {
+                    "name": "Entropic Swirl"
+                },
+                "vi": {
+                    "name": "Vòng Xoáy Khó Lường"
+                },
+                "zhhans": {
+                    "name": "熵力漩涡"
+                },
+                "zhhant": {
+                    "name": "熵力漩渦"
                 }
             }
         },
@@ -6684,6 +9339,21 @@
                 },
                 "pl": {
                     "name": "Harland Mindlock"
+                },
+                "pt": {
+                    "name": "Harland Mindlock"
+                },
+                "th": {
+                    "name": "Harland Mindlock"
+                },
+                "vi": {
+                    "name": "Harland Khóa Não"
+                },
+                "zhhans": {
+                    "name": "哈兰•心锁"
+                },
+                "zhhant": {
+                    "name": "哈蘭．心鎖"
                 }
             }
         },
@@ -6720,6 +9390,21 @@
                 },
                 "pl": {
                     "name": "Mind Over Matter"
+                },
+                "pt": {
+                    "name": "Mind Over Matter"
+                },
+                "th": {
+                    "name": "Mind Over Matter"
+                },
+                "vi": {
+                    "name": "Ý Thức Quyết Định Vật Chất"
+                },
+                "zhhans": {
+                    "name": "心胜于物"
+                },
+                "zhhant": {
+                    "name": "心勝於物"
                 }
             }
         },
@@ -6756,6 +9441,21 @@
                 },
                 "pl": {
                     "name": "Minerva’s Wings"
+                },
+                "pt": {
+                    "name": "Minerva’s Wings"
+                },
+                "th": {
+                    "name": "Minerva’s Wings"
+                },
+                "vi": {
+                    "name": "Đôi Cánh Minerva"
+                },
+                "zhhans": {
+                    "name": "密涅瓦之翼"
+                },
+                "zhhant": {
+                    "name": "密涅瓦之翼"
                 }
             }
         },
@@ -6794,6 +9494,21 @@
                 },
                 "pl": {
                     "name": "Nautilus"
+                },
+                "pt": {
+                    "name": "Nautilus"
+                },
+                "th": {
+                    "name": "Nautilus"
+                },
+                "vi": {
+                    "name": "Nautilus"
+                },
+                "zhhans": {
+                    "name": "鹦鹉螺号"
+                },
+                "zhhant": {
+                    "name": "海邏號"
                 }
             }
         },
@@ -6833,6 +9548,21 @@
                 },
                 "pl": {
                     "name": "Neutron Shark"
+                },
+                "pt": {
+                    "name": "Neutron Shark"
+                },
+                "th": {
+                    "name": "Neutron Shark"
+                },
+                "vi": {
+                    "name": "Cá Mập Nguyên Tử"
+                },
+                "zhhans": {
+                    "name": "中子鲨鱼"
+                },
+                "zhhant": {
+                    "name": "中子鯊魚"
                 }
             }
         },
@@ -6871,6 +9601,21 @@
                 },
                 "pl": {
                     "name": "Strange Gizmo"
+                },
+                "pt": {
+                    "name": "Strange Gizmo"
+                },
+                "th": {
+                    "name": "Strange Gizmo"
+                },
+                "vi": {
+                    "name": "Thiết Bị Kỳ Lạ"
+                },
+                "zhhans": {
+                    "name": "奇怪的小发明"
+                },
+                "zhhant": {
+                    "name": "奇怪的小發明"
                 }
             }
         },
@@ -6910,6 +9655,21 @@
                 },
                 "pl": {
                     "name": "Timetraveller"
+                },
+                "pt": {
+                    "name": "Timetraveller"
+                },
+                "th": {
+                    "name": "Timetraveller"
+                },
+                "vi": {
+                    "name": "Người Du Hành Thời Gian"
+                },
+                "zhhans": {
+                    "name": "时间旅行者"
+                },
+                "zhhant": {
+                    "name": "時間旅行者"
                 }
             }
         },
@@ -6946,6 +9706,21 @@
                 },
                 "pl": {
                     "name": "Transposition Sandals"
+                },
+                "pt": {
+                    "name": "Transposition Sandals"
+                },
+                "th": {
+                    "name": "Transposition Sandals"
+                },
+                "vi": {
+                    "name": "Dép Chuyển Chỗ"
+                },
+                "zhhans": {
+                    "name": "易位便鞋"
+                },
+                "zhhant": {
+                    "name": "易位拖鞋"
                 }
             }
         },
@@ -6987,6 +9762,21 @@
                 },
                 "pl": {
                     "name": "Vespilon Theorist"
+                },
+                "pt": {
+                    "name": "Vespilon Theorist"
+                },
+                "th": {
+                    "name": "Vespilon Theorist"
+                },
+                "vi": {
+                    "name": "Vespilon Lý Thuyết"
+                },
+                "zhhans": {
+                    "name": "窥窃理论家"
+                },
+                "zhhant": {
+                    "name": "胡蜂理論家"
                 }
             }
         },
@@ -7023,6 +9813,21 @@
                 },
                 "pl": {
                     "name": "Weigh the Anchor"
+                },
+                "pt": {
+                    "name": "Weigh the Anchor"
+                },
+                "th": {
+                    "name": "Weigh the Anchor"
+                },
+                "vi": {
+                    "name": "Cân Mỏ Neo"
+                },
+                "zhhans": {
+                    "name": "起锚"
+                },
+                "zhhant": {
+                    "name": "起錨出航"
                 }
             }
         },
@@ -7061,6 +9866,21 @@
                 },
                 "pl": {
                     "name": "C.Æ.N.D.L.E. Unit"
+                },
+                "pt": {
+                    "name": "C.Æ.N.D.L.E. Unit"
+                },
+                "th": {
+                    "name": "C.Æ.N.D.L.E. Unit"
+                },
+                "vi": {
+                    "name": "Đơn vị Đ.È.N.C.Æ.Y."
+                },
+                "zhhans": {
+                    "name": "烛型单元"
+                },
+                "zhhant": {
+                    "name": "燭型單位"
                 }
             }
         },
@@ -7100,6 +9920,21 @@
                 },
                 "pl": {
                     "name": "Cmd. Prompt"
+                },
+                "pt": {
+                    "name": "Cmd. Prompt"
+                },
+                "th": {
+                    "name": "Cmd. Prompt"
+                },
+                "vi": {
+                    "name": "Cmd. Prompt"
+                },
+                "zhhans": {
+                    "name": "命令提示官"
+                },
+                "zhhant": {
+                    "name": "命令提示字員"
                 }
             }
         },
@@ -7141,6 +9976,21 @@
                 },
                 "pl": {
                     "name": "Code Monkey"
+                },
+                "pt": {
+                    "name": "Code Monkey"
+                },
+                "th": {
+                    "name": "Code Monkey"
+                },
+                "vi": {
+                    "name": "Khỉ Số Hóa"
+                },
+                "zhhans": {
+                    "name": "代码猴"
+                },
+                "zhhant": {
+                    "name": "代碼猴"
                 }
             }
         },
@@ -7182,6 +10032,21 @@
                 },
                 "pl": {
                     "name": "De-Animator"
+                },
+                "pt": {
+                    "name": "De-Animator"
+                },
+                "th": {
+                    "name": "De-Animator"
+                },
+                "vi": {
+                    "name": "Người Khử Sự Sống"
+                },
+                "zhhans": {
+                    "name": "反活化者"
+                },
+                "zhhant": {
+                    "name": "反活化員"
                 }
             }
         },
@@ -7218,6 +10083,21 @@
                 },
                 "pl": {
                     "name": "De-Doss"
+                },
+                "pt": {
+                    "name": "De-Doss"
+                },
+                "th": {
+                    "name": "De-Doss"
+                },
+                "vi": {
+                    "name": "Từ-Chối-Phục-Vụ"
+                },
+                "zhhans": {
+                    "name": "分布式阻断"
+                },
+                "zhhant": {
+                    "name": "反攻擊器"
                 }
             }
         },
@@ -7256,6 +10136,21 @@
                 },
                 "pl": {
                     "name": "Eureka!"
+                },
+                "pt": {
+                    "name": "Eureka!"
+                },
+                "th": {
+                    "name": "Eureka!"
+                },
+                "vi": {
+                    "name": "Eureka!"
+                },
+                "zhhans": {
+                    "name": "重大发现！"
+                },
+                "zhhant": {
+                    "name": "重大發現！"
                 }
             }
         },
@@ -7294,6 +10189,21 @@
                 },
                 "pl": {
                     "name": "Quantum Compass"
+                },
+                "pt": {
+                    "name": "Quantum Compass"
+                },
+                "th": {
+                    "name": "Quantum Compass"
+                },
+                "vi": {
+                    "name": "La Bàn Lượng Tử"
+                },
+                "zhhans": {
+                    "name": "量子罗盘"
+                },
+                "zhhant": {
+                    "name": "量子羅盤"
                 }
             }
         },
@@ -7332,6 +10242,21 @@
                 },
                 "pl": {
                     "name": "Quantum Fingertrap"
+                },
+                "pt": {
+                    "name": "Quantum Fingertrap"
+                },
+                "th": {
+                    "name": "Quantum Fingertrap"
+                },
+                "vi": {
+                    "name": "Bẫy Lượng Tử"
+                },
+                "zhhans": {
+                    "name": "量子指套"
+                },
+                "zhhant": {
+                    "name": "量子指套"
                 }
             }
         },
@@ -7368,6 +10293,21 @@
                 },
                 "pl": {
                     "name": "Remote Access"
+                },
+                "pt": {
+                    "name": "Remote Access"
+                },
+                "th": {
+                    "name": "Remote Access"
+                },
+                "vi": {
+                    "name": "Truy Cập Từ Xa"
+                },
+                "zhhans": {
+                    "name": "远程连接"
+                },
+                "zhhant": {
+                    "name": "遠端存取"
                 }
             }
         },
@@ -7407,6 +10347,21 @@
                 },
                 "pl": {
                     "name": "Rm-Foler"
+                },
+                "pt": {
+                    "name": "Rm-Foler"
+                },
+                "th": {
+                    "name": "Rm-Foler"
+                },
+                "vi": {
+                    "name": "Rm-Foler"
+                },
+                "zhhans": {
+                    "name": "rm删虫"
+                },
+                "zhhant": {
+                    "name": "刪匣蟲"
                 }
             }
         },
@@ -7443,6 +10398,21 @@
                 },
                 "pl": {
                     "name": "Root Access"
+                },
+                "pt": {
+                    "name": "Root Access"
+                },
+                "th": {
+                    "name": "Root Access"
+                },
+                "vi": {
+                    "name": "Truy Cập Mã Nguồn"
+                },
+                "zhhans": {
+                    "name": "根访问权限"
+                },
+                "zhhant": {
+                    "name": "根源存取"
                 }
             }
         },
@@ -7479,6 +10449,21 @@
                 },
                 "pl": {
                     "name": "Sloppy Labwork"
+                },
+                "pt": {
+                    "name": "Sloppy Labwork"
+                },
+                "th": {
+                    "name": "Sloppy Labwork"
+                },
+                "vi": {
+                    "name": "Nghiên Cứu Vụng Về"
+                },
+                "zhhans": {
+                    "name": "马虎的实验工作"
+                },
+                "zhhant": {
+                    "name": "馬虎的實驗工作"
                 }
             }
         },
@@ -7520,6 +10505,21 @@
                 },
                 "pl": {
                     "name": "Articulated Ren"
+                },
+                "pt": {
+                    "name": "Articulated Ren"
+                },
+                "th": {
+                    "name": "Articulated Ren"
+                },
+                "vi": {
+                    "name": "Ren Khớp Nối"
+                },
+                "zhhans": {
+                    "name": "铰链勒恩"
+                },
+                "zhhant": {
+                    "name": "精密機體"
                 }
             }
         },
@@ -7559,6 +10559,21 @@
                 },
                 "pl": {
                     "name": "Brillix Ponder"
+                },
+                "pt": {
+                    "name": "Brillix Ponder"
+                },
+                "th": {
+                    "name": "Brillix Ponder"
+                },
+                "vi": {
+                    "name": "Brillix Ponder"
+                },
+                "zhhans": {
+                    "name": "比利克斯•庞德"
+                },
+                "zhhant": {
+                    "name": "光輝深思者"
                 }
             }
         },
@@ -7595,6 +10610,21 @@
                 },
                 "pl": {
                     "name": "Connectome Transfer"
+                },
+                "pt": {
+                    "name": "Connectome Transfer"
+                },
+                "th": {
+                    "name": "Connectome Transfer"
+                },
+                "vi": {
+                    "name": "Chuyển Giao Tiềm Thức"
+                },
+                "zhhans": {
+                    "name": "连接组传输"
+                },
+                "zhhant": {
+                    "name": "神經轉移"
                 }
             }
         },
@@ -7636,6 +10666,21 @@
                 },
                 "pl": {
                     "name": "Daughter"
+                },
+                "pt": {
+                    "name": "Daughter"
+                },
+                "th": {
+                    "name": "Daughter"
+                },
+                "vi": {
+                    "name": "Con Gái"
+                },
+                "zhhans": {
+                    "name": "嫒机"
+                },
+                "zhhant": {
+                    "name": "女機"
                 }
             }
         },
@@ -7672,6 +10717,21 @@
                 },
                 "pl": {
                     "name": "Effervescent Principle"
+                },
+                "pt": {
+                    "name": "Effervescent Principle"
+                },
+                "th": {
+                    "name": "Effervescent Principle"
+                },
+                "vi": {
+                    "name": "Nguyên Lý Sủi Bọt"
+                },
+                "zhhans": {
+                    "name": "泡腾原则"
+                },
+                "zhhant": {
+                    "name": "泡騰原則"
                 }
             }
         },
@@ -7710,6 +10770,21 @@
                 },
                 "pl": {
                     "name": "Ezra Paws"
+                },
+                "pt": {
+                    "name": "Ezra Paws"
+                },
+                "th": {
+                    "name": "Ezra Paws"
+                },
+                "vi": {
+                    "name": "Móng Vuốt Ezra"
+                },
+                "zhhans": {
+                    "name": "以斯拉•犬爪"
+                },
+                "zhhant": {
+                    "name": "小爪艾茲拉"
                 }
             }
         },
@@ -7748,6 +10823,21 @@
                 },
                 "pl": {
                     "name": "Hologrammophone"
+                },
+                "pt": {
+                    "name": "Hologrammophone"
+                },
+                "th": {
+                    "name": "Hologrammophone"
+                },
+                "vi": {
+                    "name": "Điện Thoại Ba Chiều"
+                },
+                "zhhans": {
+                    "name": "全息唱机"
+                },
+                "zhhant": {
+                    "name": "全息唱機"
                 }
             }
         },
@@ -7784,6 +10874,21 @@
                 },
                 "pl": {
                     "name": "Information Exchange"
+                },
+                "pt": {
+                    "name": "Information Exchange"
+                },
+                "th": {
+                    "name": "Information Exchange"
+                },
+                "vi": {
+                    "name": "Trao Đổi Thông Tin"
+                },
+                "zhhans": {
+                    "name": "信息交换"
+                },
+                "zhhant": {
+                    "name": "資訊交換"
                 }
             }
         },
@@ -7820,6 +10925,21 @@
                 },
                 "pl": {
                     "name": "Placeholder"
+                },
+                "pt": {
+                    "name": "Placeholder"
+                },
+                "th": {
+                    "name": "Placeholder"
+                },
+                "vi": {
+                    "name": "Vật Thế Thân"
+                },
+                "zhhans": {
+                    "name": "占位符"
+                },
+                "zhhant": {
+                    "name": "替身攻擊"
                 }
             }
         },
@@ -7858,6 +10978,21 @@
                 },
                 "pl": {
                     "name": "Quantum Mouse"
+                },
+                "pt": {
+                    "name": "Quantum Mouse"
+                },
+                "th": {
+                    "name": "Quantum Mouse"
+                },
+                "vi": {
+                    "name": "Chuột Lượng Tử"
+                },
+                "zhhans": {
+                    "name": "量子标鼠"
+                },
+                "zhhant": {
+                    "name": "量子老鼠"
                 }
             }
         },
@@ -7896,6 +11031,21 @@
                 },
                 "pl": {
                     "name": "Skippy the Glorious"
+                },
+                "pt": {
+                    "name": "Skippy the Glorious"
+                },
+                "th": {
+                    "name": "Skippy the Glorious"
+                },
+                "vi": {
+                    "name": "Skippy Vinh Quang"
+                },
+                "zhhans": {
+                    "name": "辉煌的斯基皮"
+                },
+                "zhhant": {
+                    "name": "光榮的史奇皮"
                 }
             }
         },
@@ -7932,6 +11082,21 @@
                 },
                 "pl": {
                     "name": "Wurm Tunnel"
+                },
+                "pt": {
+                    "name": "Wurm Tunnel"
+                },
+                "th": {
+                    "name": "Wurm Tunnel"
+                },
+                "vi": {
+                    "name": "Đường Hầm Sâu"
+                },
+                "zhhans": {
+                    "name": "地虫隧道"
+                },
+                "zhhant": {
+                    "name": "蠕蟲隧道"
                 }
             }
         },
@@ -7968,6 +11133,21 @@
                 },
                 "pl": {
                     "name": "Holo-Camo"
+                },
+                "pt": {
+                    "name": "Holo-Camo"
+                },
+                "th": {
+                    "name": "Holo-Camo"
+                },
+                "vi": {
+                    "name": "Ảnh Ảo Ngụy Trang"
+                },
+                "zhhans": {
+                    "name": "全息迷彩"
+                },
+                "zhhant": {
+                    "name": "全息迷彩"
                 }
             }
         },
@@ -8004,6 +11184,21 @@
                 },
                 "pl": {
                     "name": "Reallocation Accessory"
+                },
+                "pt": {
+                    "name": "Reallocation Accessory"
+                },
+                "th": {
+                    "name": "Reallocation Accessory"
+                },
+                "vi": {
+                    "name": "Phụ Kiến Phân Bổ"
+                },
+                "zhhans": {
+                    "name": "再配置附件"
+                },
+                "zhhant": {
+                    "name": "資源調配器"
                 }
             }
         },
@@ -8040,6 +11235,21 @@
                 },
                 "pl": {
                     "name": "Void Shields"
+                },
+                "pt": {
+                    "name": "Void Shields"
+                },
+                "th": {
+                    "name": "Void Shields"
+                },
+                "vi": {
+                    "name": "Lá Chắn Hư Không"
+                },
+                "zhhans": {
+                    "name": "虚空护盾"
+                },
+                "zhhant": {
+                    "name": "虛空護盾"
                 }
             }
         },
@@ -8076,6 +11286,21 @@
                 },
                 "pl": {
                     "name": "Help from Future Self"
+                },
+                "pt": {
+                    "name": "Help from Future Self"
+                },
+                "th": {
+                    "name": "Help from Future Self"
+                },
+                "vi": {
+                    "name": "Trợ Giúp Từ Tương Lai"
+                },
+                "zhhans": {
+                    "name": "穿越自助"
+                },
+                "zhhant": {
+                    "name": "來自未來的幫助"
                 }
             }
         },
@@ -8115,6 +11340,21 @@
                 },
                 "pl": {
                     "name": "Titan Sentry"
+                },
+                "pt": {
+                    "name": "Titan Sentry"
+                },
+                "th": {
+                    "name": "Titan Sentry"
+                },
+                "vi": {
+                    "name": "Lính Canh Khổng Lồ"
+                },
+                "zhhans": {
+                    "name": "泰坦型哨卫"
+                },
+                "zhhant": {
+                    "name": "泰坦哨戒"
                 }
             }
         },
@@ -8154,6 +11394,21 @@
                 },
                 "pl": {
                     "name": "Shard of Knowledge"
+                },
+                "pt": {
+                    "name": "Shard of Knowledge"
+                },
+                "th": {
+                    "name": "Shard of Knowledge"
+                },
+                "vi": {
+                    "name": "Tinh Thể Kiến Thức"
+                },
+                "zhhans": {
+                    "name": "知识碎片"
+                },
+                "zhhant": {
+                    "name": "知識碎片"
                 }
             }
         },
@@ -8190,6 +11445,21 @@
                 },
                 "pl": {
                     "name": "Aberrant Warp Event"
+                },
+                "pt": {
+                    "name": "Aberrant Warp Event"
+                },
+                "th": {
+                    "name": "Aberrant Warp Event"
+                },
+                "vi": {
+                    "name": "Biến Cố Dị Thường"
+                },
+                "zhhans": {
+                    "name": "反常曲折事件"
+                },
+                "zhhant": {
+                    "name": "異常時空扭曲"
                 }
             }
         },
@@ -8229,6 +11499,21 @@
                 },
                 "pl": {
                     "name": "Bartos the Ruiner"
+                },
+                "pt": {
+                    "name": "Bartos the Ruiner"
+                },
+                "th": {
+                    "name": "Bartos the Ruiner"
+                },
+                "vi": {
+                    "name": "Bartos Kẻ Phá Hoại"
+                },
+                "zhhans": {
+                    "name": "毁坏者巴托斯"
+                },
+                "zhhant": {
+                    "name": "毀滅者巴托斯"
                 }
             }
         },
@@ -8265,6 +11550,21 @@
                 },
                 "pl": {
                     "name": "Brain Stem Antenna"
+                },
+                "pt": {
+                    "name": "Brain Stem Antenna"
+                },
+                "th": {
+                    "name": "Brain Stem Antenna"
+                },
+                "vi": {
+                    "name": "Ăng-ten Thân Não"
+                },
+                "zhhans": {
+                    "name": "脑干天线"
+                },
+                "zhhant": {
+                    "name": "腦幹天線"
                 }
             }
         },
@@ -8301,6 +11601,21 @@
                 },
                 "pl": {
                     "name": "Deimos Burst"
+                },
+                "pt": {
+                    "name": "Deimos Burst"
+                },
+                "th": {
+                    "name": "Deimos Burst"
+                },
+                "vi": {
+                    "name": "Bùng Nổ Vệ Tinh"
+                },
+                "zhhans": {
+                    "name": "火卫二号爆破"
+                },
+                "zhhant": {
+                    "name": "火衛二爆裂"
                 }
             }
         },
@@ -8340,6 +11655,21 @@
                 },
                 "pl": {
                     "name": "Eldest Batchminder"
+                },
+                "pt": {
+                    "name": "Eldest Batchminder"
+                },
+                "th": {
+                    "name": "Eldest Batchminder"
+                },
+                "vi": {
+                    "name": "Trưởng Lão Hộ Sinh"
+                },
+                "zhhans": {
+                    "name": "长老群组照料者"
+                },
+                "zhhant": {
+                    "name": "長老批管員"
                 }
             }
         },
@@ -8378,6 +11708,21 @@
                 },
                 "pl": {
                     "name": "Elite Disruptzord"
+                },
+                "pt": {
+                    "name": "Elite Disruptzord"
+                },
+                "th": {
+                    "name": "Elite Disruptzord"
+                },
+                "vi": {
+                    "name": "Disruptzord Ưu Tú"
+                },
+                "zhhans": {
+                    "name": "精英干扰座机"
+                },
+                "zhhant": {
+                    "name": "精英阻隔器"
                 }
             }
         },
@@ -8414,6 +11759,21 @@
                 },
                 "pl": {
                     "name": "Entropic Manipulator"
+                },
+                "pt": {
+                    "name": "Entropic Manipulator"
+                },
+                "th": {
+                    "name": "Entropic Manipulator"
+                },
+                "vi": {
+                    "name": "Máy Điều Khiển Entropy"
+                },
+                "zhhans": {
+                    "name": "熵力操纵器"
+                },
+                "zhhant": {
+                    "name": "熵力操縱器"
                 }
             }
         },
@@ -8453,6 +11813,21 @@
                 },
                 "pl": {
                     "name": "Ilxid Avenger"
+                },
+                "pt": {
+                    "name": "Ilxid Avenger"
+                },
+                "th": {
+                    "name": "Ilxid Avenger"
+                },
+                "vi": {
+                    "name": "Ilxid Phục Thù"
+                },
+                "zhhans": {
+                    "name": "伊尔克西德复仇者"
+                },
+                "zhhant": {
+                    "name": "伊爾克西德復仇者"
                 }
             }
         },
@@ -8489,6 +11864,21 @@
                 },
                 "pl": {
                     "name": "Nice to Greet You"
+                },
+                "pt": {
+                    "name": "Nice to Greet You"
+                },
+                "th": {
+                    "name": "Nice to Greet You"
+                },
+                "vi": {
+                    "name": "Sẵn Lòng Đón Tiếp"
+                },
+                "zhhans": {
+                    "name": "幸会"
+                },
+                "zhhant": {
+                    "name": "很高興見到你"
                 }
             }
         },
@@ -8529,6 +11919,21 @@
                 },
                 "pl": {
                     "name": "Saucer 149"
+                },
+                "pt": {
+                    "name": "Saucer 149"
+                },
+                "th": {
+                    "name": "Saucer 149"
+                },
+                "vi": {
+                    "name": "Đĩa Bay 149"
+                },
+                "zhhans": {
+                    "name": "149号飞盘"
+                },
+                "zhhant": {
+                    "name": "飛碟149號"
                 }
             }
         },
@@ -8567,6 +11972,21 @@
                 },
                 "pl": {
                     "name": "Swap Widget"
+                },
+                "pt": {
+                    "name": "Swap Widget"
+                },
+                "th": {
+                    "name": "Swap Widget"
+                },
+                "vi": {
+                    "name": "Máy Hoán Đổi"
+                },
+                "zhhans": {
+                    "name": "交换部件"
+                },
+                "zhhant": {
+                    "name": "交換按鈕"
                 }
             }
         },
@@ -8605,6 +12025,21 @@
                 },
                 "pl": {
                     "name": "Tangrant"
+                },
+                "pt": {
+                    "name": "Tangrant"
+                },
+                "th": {
+                    "name": "Tangrant"
+                },
+                "vi": {
+                    "name": "Tangrant"
+                },
+                "zhhans": {
+                    "name": "黝肤格兰特"
+                },
+                "zhhant": {
+                    "name": "坦格蘭特"
                 }
             }
         },
@@ -8641,6 +12076,21 @@
                 },
                 "pl": {
                     "name": "The Body Snatchers"
+                },
+                "pt": {
+                    "name": "The Body Snatchers"
+                },
+                "th": {
+                    "name": "The Body Snatchers"
+                },
+                "vi": {
+                    "name": "Kẻ Cướp Xác"
+                },
+                "zhhans": {
+                    "name": "天外魔团"
+                },
+                "zhhant": {
+                    "name": "異型掠奪"
                 }
             }
         },
@@ -8677,6 +12127,21 @@
                 },
                 "pl": {
                     "name": "Total Recall"
+                },
+                "pt": {
+                    "name": "Total Recall"
+                },
+                "th": {
+                    "name": "Total Recall"
+                },
+                "vi": {
+                    "name": "Thu Hồi Toàn Bộ"
+                },
+                "zhhans": {
+                    "name": "全面召回"
+                },
+                "zhhant": {
+                    "name": "全面召回"
                 }
             }
         },
@@ -8716,6 +12181,21 @@
                 },
                 "pl": {
                     "name": "Yxlyx Stimrager"
+                },
+                "pt": {
+                    "name": "Yxlyx Stimrager"
+                },
+                "th": {
+                    "name": "Yxlyx Stimrager"
+                },
+                "vi": {
+                    "name": "Yxlyx Điên"
+                },
+                "zhhans": {
+                    "name": "伊佐利克斯激素怪"
+                },
+                "zhhant": {
+                    "name": "伊佐利克斯．激素狂怒"
                 }
             }
         },
@@ -8755,6 +12235,21 @@
                 },
                 "pl": {
                     "name": "Blypyp"
+                },
+                "pt": {
+                    "name": "Blypyp"
+                },
+                "th": {
+                    "name": "Blypyp"
+                },
+                "vi": {
+                    "name": "Blypyp"
+                },
+                "zhhans": {
+                    "name": "比利匹普"
+                },
+                "zhhant": {
+                    "name": "比利匹普"
                 }
             }
         },
@@ -8793,6 +12288,21 @@
                 },
                 "pl": {
                     "name": "Crystal Hive"
+                },
+                "pt": {
+                    "name": "Crystal Hive"
+                },
+                "th": {
+                    "name": "Crystal Hive"
+                },
+                "vi": {
+                    "name": "Động Pha Lê"
+                },
+                "zhhans": {
+                    "name": "水晶蜂城"
+                },
+                "zhhant": {
+                    "name": "水晶蜂城"
                 }
             }
         },
@@ -8829,6 +12339,21 @@
                 },
                 "pl": {
                     "name": "Destroy Them All!"
+                },
+                "pt": {
+                    "name": "Destroy Them All!"
+                },
+                "th": {
+                    "name": "Destroy Them All!"
+                },
+                "vi": {
+                    "name": "Giết Hết Không Tha!"
+                },
+                "zhhans": {
+                    "name": "全部摧毁！"
+                },
+                "zhhant": {
+                    "name": "全部摧毀！"
                 }
             }
         },
@@ -8868,6 +12393,21 @@
                 },
                 "pl": {
                     "name": "Envyx Glider"
+                },
+                "pt": {
+                    "name": "Envyx Glider"
+                },
+                "th": {
+                    "name": "Envyx Glider"
+                },
+                "vi": {
+                    "name": "Tàu Lượn Envyx"
+                },
+                "zhhans": {
+                    "name": "嫉妒号滑翔机"
+                },
+                "zhhant": {
+                    "name": "恩維斯滑翔者"
                 }
             }
         },
@@ -8908,6 +12448,21 @@
                 },
                 "pl": {
                     "name": "Iyxrenu the Clever"
+                },
+                "pt": {
+                    "name": "Iyxrenu the Clever"
+                },
+                "th": {
+                    "name": "Iyxrenu the Clever"
+                },
+                "vi": {
+                    "name": "Iyxrenu Ranh Mãnh"
+                },
+                "zhhans": {
+                    "name": "聪明的伊克斯蓝纽"
+                },
+                "zhhant": {
+                    "name": "狡猾的伊克斯倫努"
                 }
             }
         },
@@ -8948,6 +12503,21 @@
                 },
                 "pl": {
                     "name": "Kyypax Encapsulator"
+                },
+                "pt": {
+                    "name": "Kyypax Encapsulator"
+                },
+                "th": {
+                    "name": "Kyypax Encapsulator"
+                },
+                "vi": {
+                    "name": "Kyypax Đóng Gói"
+                },
+                "zhhans": {
+                    "name": "凯帕克斯缠封兽"
+                },
+                "zhhant": {
+                    "name": "凱帕克斯封裝獸"
                 }
             }
         },
@@ -8984,6 +12554,21 @@
                 },
                 "pl": {
                     "name": "Phloxem Spike"
+                },
+                "pt": {
+                    "name": "Phloxem Spike"
+                },
+                "th": {
+                    "name": "Phloxem Spike"
+                },
+                "vi": {
+                    "name": "Lựu Đạn Trexhet"
+                },
+                "zhhans": {
+                    "name": "炸开花长钉飞弹"
+                },
+                "zhhant": {
+                    "name": "炸花長釘飛彈"
                 }
             }
         },
@@ -9020,6 +12605,21 @@
                 },
                 "pl": {
                     "name": "Phosphorus Blast"
+                },
+                "pt": {
+                    "name": "Phosphorus Blast"
+                },
+                "th": {
+                    "name": "Phosphorus Blast"
+                },
+                "vi": {
+                    "name": "Vụ Nổ Phốt Pho"
+                },
+                "zhhans": {
+                    "name": "磷光爆流"
+                },
+                "zhhant": {
+                    "name": "磷光轟炸"
                 }
             }
         },
@@ -9056,6 +12656,21 @@
                 },
                 "pl": {
                     "name": "Shark Bait"
+                },
+                "pt": {
+                    "name": "Shark Bait"
+                },
+                "th": {
+                    "name": "Shark Bait"
+                },
+                "vi": {
+                    "name": "Mồi Cá Mập"
+                },
+                "zhhans": {
+                    "name": "鲨口大冒险"
+                },
+                "zhhant": {
+                    "name": "深入誘敵"
                 }
             }
         },
@@ -9092,6 +12707,21 @@
                 },
                 "pl": {
                     "name": "Wind Shield"
+                },
+                "pt": {
+                    "name": "Wind Shield"
+                },
+                "th": {
+                    "name": "Wind Shield"
+                },
+                "vi": {
+                    "name": "Khiên Gió"
+                },
+                "zhhans": {
+                    "name": "风力护盾"
+                },
+                "zhhant": {
+                    "name": "疾風護盾"
                 }
             }
         },
@@ -9133,6 +12763,21 @@
                 },
                 "pl": {
                     "name": "Xyp the Implanter"
+                },
+                "pt": {
+                    "name": "Xyp the Implanter"
+                },
+                "th": {
+                    "name": "Xyp the Implanter"
+                },
+                "vi": {
+                    "name": "Xyp Cấy Ghép"
+                },
+                "zhhans": {
+                    "name": "植入者席普"
+                },
+                "zhhant": {
+                    "name": "植入者克希普"
                 }
             }
         },
@@ -9175,6 +12820,21 @@
                 },
                 "pl": {
                     "name": "Zizok"
+                },
+                "pt": {
+                    "name": "Zizok"
+                },
+                "th": {
+                    "name": "Zizok"
+                },
+                "vi": {
+                    "name": "Zizok"
+                },
+                "zhhans": {
+                    "name": "兹佐克"
+                },
+                "zhhant": {
+                    "name": "基札克"
                 }
             }
         },
@@ -9211,6 +12871,21 @@
                 },
                 "pl": {
                     "name": "Braindart"
+                },
+                "pt": {
+                    "name": "Braindart"
+                },
+                "th": {
+                    "name": "Braindart"
+                },
+                "vi": {
+                    "name": "Phi Tiêu Sóng Não"
+                },
+                "zhhans": {
+                    "name": "脑部飞镖"
+                },
+                "zhhant": {
+                    "name": "腦部飛鏢"
                 }
             }
         },
@@ -9250,6 +12925,21 @@
                 },
                 "pl": {
                     "name": "Cobalt Kapulet"
+                },
+                "pt": {
+                    "name": "Cobalt Kapulet"
+                },
+                "th": {
+                    "name": "Cobalt Kapulet"
+                },
+                "vi": {
+                    "name": "Cobalt Kapulet"
+                },
+                "zhhans": {
+                    "name": "钴蓝军卡普莱特"
+                },
+                "zhhant": {
+                    "name": "鈷藍卡普萊特"
                 }
             }
         },
@@ -9289,6 +12979,21 @@
                 },
                 "pl": {
                     "name": "Crimson Dax"
+                },
+                "pt": {
+                    "name": "Crimson Dax"
+                },
+                "th": {
+                    "name": "Crimson Dax"
+                },
+                "vi": {
+                    "name": "Dax Đẫm Máu"
+                },
+                "zhhans": {
+                    "name": "猩红军达克斯"
+                },
+                "zhhant": {
+                    "name": "猩紅達克斯"
                 }
             }
         },
@@ -9328,6 +13033,21 @@
                 },
                 "pl": {
                     "name": "Donor Vox"
+                },
+                "pt": {
+                    "name": "Donor Vox"
+                },
+                "th": {
+                    "name": "Donor Vox"
+                },
+                "vi": {
+                    "name": "Vox Hảo Tâm"
+                },
+                "zhhans": {
+                    "name": "捐赠者沃克斯"
+                },
+                "zhhant": {
+                    "name": "捐贈者沃克斯"
                 }
             }
         },
@@ -9369,6 +13089,21 @@
                 },
                 "pl": {
                     "name": "Dr. Xyloxxzlphrex"
+                },
+                "pt": {
+                    "name": "Dr. Xyloxxzlphrex"
+                },
+                "th": {
+                    "name": "Dr. Xyloxxzlphrex"
+                },
+                "vi": {
+                    "name": "Tiến Sĩ Xyloxxzlphrex"
+                },
+                "zhhans": {
+                    "name": "伊洛西兹弗雷克斯博士"
+                },
+                "zhhant": {
+                    "name": "西洛斯弗雷斯博士"
                 }
             }
         },
@@ -9405,6 +13140,21 @@
                 },
                 "pl": {
                     "name": "Harmonic Pack"
+                },
+                "pt": {
+                    "name": "Harmonic Pack"
+                },
+                "th": {
+                    "name": "Harmonic Pack"
+                },
+                "vi": {
+                    "name": "Bầy Đàn Hòa Hợp"
+                },
+                "zhhans": {
+                    "name": "合声兽群"
+                },
+                "zhhant": {
+                    "name": "共鳴族群"
                 }
             }
         },
@@ -9441,6 +13191,21 @@
                 },
                 "pl": {
                     "name": "Intentional Discharge"
+                },
+                "pt": {
+                    "name": "Intentional Discharge"
+                },
+                "th": {
+                    "name": "Intentional Discharge"
+                },
+                "vi": {
+                    "name": "Cố Ý Khai Hỏa"
+                },
+                "zhhans": {
+                    "name": "蓄意走火"
+                },
+                "zhhant": {
+                    "name": "蓄意放電"
                 }
             }
         },
@@ -9477,6 +13242,21 @@
                 },
                 "pl": {
                     "name": "Kaboom!"
+                },
+                "pt": {
+                    "name": "Kaboom!"
+                },
+                "th": {
+                    "name": "Kaboom!"
+                },
+                "vi": {
+                    "name": "BÙMM!"
+                },
+                "zhhans": {
+                    "name": "大爆炸！"
+                },
+                "zhhant": {
+                    "name": "砰！"
                 }
             }
         },
@@ -9518,6 +13298,21 @@
                 },
                 "pl": {
                     "name": "Number 612"
+                },
+                "pt": {
+                    "name": "Number 612"
+                },
+                "th": {
+                    "name": "Number 612"
+                },
+                "vi": {
+                    "name": "612"
+                },
+                "zhhans": {
+                    "name": "编号612"
+                },
+                "zhhant": {
+                    "name": "第612號"
                 }
             }
         },
@@ -9557,6 +13352,21 @@
                 },
                 "pl": {
                     "name": "Synwyx the Bold"
+                },
+                "pt": {
+                    "name": "Synwyx the Bold"
+                },
+                "th": {
+                    "name": "Synwyx the Bold"
+                },
+                "vi": {
+                    "name": "Synwyx Táo Bạo"
+                },
+                "zhhans": {
+                    "name": "勇者辛威克斯"
+                },
+                "zhhant": {
+                    "name": "豪邁的辛威克斯"
                 }
             }
         },
@@ -9593,6 +13403,21 @@
                 },
                 "pl": {
                     "name": "Watney’s Calculation"
+                },
+                "pt": {
+                    "name": "Watney’s Calculation"
+                },
+                "th": {
+                    "name": "Watney’s Calculation"
+                },
+                "vi": {
+                    "name": "Tính Toán Của Watney"
+                },
+                "zhhans": {
+                    "name": "沃特尼的计算"
+                },
+                "zhhant": {
+                    "name": "沃特尼的精算"
                 }
             }
         },
@@ -9631,6 +13456,21 @@
                 },
                 "pl": {
                     "name": "Yandylinx"
+                },
+                "pt": {
+                    "name": "Yandylinx"
+                },
+                "th": {
+                    "name": "Yandylinx"
+                },
+                "vi": {
+                    "name": "Yandylinx"
+                },
+                "zhhans": {
+                    "name": "杨迪林克斯"
+                },
+                "zhhant": {
+                    "name": "楊迪林克斯"
                 }
             }
         },
@@ -9667,6 +13507,21 @@
                 },
                 "pl": {
                     "name": "Gamma Blaster"
+                },
+                "pt": {
+                    "name": "Gamma Blaster"
+                },
+                "th": {
+                    "name": "Gamma Blaster"
+                },
+                "vi": {
+                    "name": "Súng Gamma"
+                },
+                "zhhans": {
+                    "name": "伽玛爆流枪"
+                },
+                "zhhant": {
+                    "name": "伽瑪爆流槍"
                 }
             }
         },
@@ -9703,6 +13558,21 @@
                 },
                 "pl": {
                     "name": "Stealth Modifications"
+                },
+                "pt": {
+                    "name": "Stealth Modifications"
+                },
+                "th": {
+                    "name": "Stealth Modifications"
+                },
+                "vi": {
+                    "name": "Nâng Cấp Tàng Hình"
+                },
+                "zhhans": {
+                    "name": "潜行改装"
+                },
+                "zhhant": {
+                    "name": "潛行模組"
                 }
             }
         },
@@ -9742,6 +13612,21 @@
                 },
                 "pl": {
                     "name": "Shard of Hate"
+                },
+                "pt": {
+                    "name": "Shard of Hate"
+                },
+                "th": {
+                    "name": "Shard of Hate"
+                },
+                "vi": {
+                    "name": "Tinh Thể Hận Thù"
+                },
+                "zhhans": {
+                    "name": "憎恨碎片"
+                },
+                "zhhant": {
+                    "name": "憎恨碎片"
                 }
             }
         },
@@ -9781,6 +13666,21 @@
                 },
                 "pl": {
                     "name": "Aero O’Fore"
+                },
+                "pt": {
+                    "name": "Aero O’Fore"
+                },
+                "th": {
+                    "name": "Aero O’Fore"
+                },
+                "vi": {
+                    "name": "Aero O'Fore"
+                },
+                "zhhans": {
+                    "name": "司令使"
+                },
+                "zhhant": {
+                    "name": "獵空者奧佛爾"
                 }
             }
         },
@@ -9821,6 +13721,21 @@
                 },
                 "pl": {
                     "name": "Black Tempest"
+                },
+                "pt": {
+                    "name": "Black Tempest"
+                },
+                "th": {
+                    "name": "Black Tempest"
+                },
+                "vi": {
+                    "name": "Hắc Toàn Phong"
+                },
+                "zhhans": {
+                    "name": "黑色暴风雨号"
+                },
+                "zhhant": {
+                    "name": "漆黑風暴號"
                 }
             }
         },
@@ -9859,6 +13774,21 @@
                 },
                 "pl": {
                     "name": "Cloudburst Command"
+                },
+                "pt": {
+                    "name": "Cloudburst Command"
+                },
+                "th": {
+                    "name": "Cloudburst Command"
+                },
+                "vi": {
+                    "name": "Phá Vân Hạm"
+                },
+                "zhhans": {
+                    "name": "破云指挥部"
+                },
+                "zhhant": {
+                    "name": "雷雲指揮站"
                 }
             }
         },
@@ -9897,6 +13827,21 @@
                 },
                 "pl": {
                     "name": "Flip Stallard"
+                },
+                "pt": {
+                    "name": "Flip Stallard"
+                },
+                "th": {
+                    "name": "Flip Stallard"
+                },
+                "vi": {
+                    "name": "Flip Stallard"
+                },
+                "zhhans": {
+                    "name": "甫立扑•斯托拉德"
+                },
+                "zhhant": {
+                    "name": "翻轉的史達拉德"
                 }
             }
         },
@@ -9936,6 +13881,21 @@
                 },
                 "pl": {
                     "name": "Han Peregrine"
+                },
+                "pt": {
+                    "name": "Han Peregrine"
+                },
+                "th": {
+                    "name": "Han Peregrine"
+                },
+                "vi": {
+                    "name": "Han Peregrine"
+                },
+                "zhhans": {
+                    "name": "汉•佩勒格林"
+                },
+                "zhhant": {
+                    "name": "旅者韓"
                 }
             }
         },
@@ -9975,6 +13935,21 @@
                 },
                 "pl": {
                     "name": "Ley, Earl of Hurl"
+                },
+                "pt": {
+                    "name": "Ley, Earl of Hurl"
+                },
+                "th": {
+                    "name": "Ley, Earl of Hurl"
+                },
+                "vi": {
+                    "name": "Ley, Bá Tước Xứ Quăng"
+                },
+                "zhhans": {
+                    "name": "疾冲伯爵勒"
+                },
+                "zhhant": {
+                    "name": "赫爾伯爵雷"
                 }
             }
         },
@@ -10011,6 +13986,21 @@
                 },
                 "pl": {
                     "name": "Maqui Expedition"
+                },
+                "pt": {
+                    "name": "Maqui Expedition"
+                },
+                "th": {
+                    "name": "Maqui Expedition"
+                },
+                "vi": {
+                    "name": "Hành Trình Kỳ Diệu"
+                },
+                "zhhans": {
+                    "name": "玛奇的探险"
+                },
+                "zhhant": {
+                    "name": "馬奎遠征隊"
                 }
             }
         },
@@ -10051,6 +14041,21 @@
                 },
                 "pl": {
                     "name": "Nantucket"
+                },
+                "pt": {
+                    "name": "Nantucket"
+                },
+                "th": {
+                    "name": "Nantucket"
+                },
+                "vi": {
+                    "name": "Nantucket"
+                },
+                "zhhans": {
+                    "name": "南塔克特号"
+                },
+                "zhhant": {
+                    "name": "遠島號"
                 }
             }
         },
@@ -10087,6 +14092,21 @@
                 },
                 "pl": {
                     "name": "Nomadic Insight"
+                },
+                "pt": {
+                    "name": "Nomadic Insight"
+                },
+                "th": {
+                    "name": "Nomadic Insight"
+                },
+                "vi": {
+                    "name": "Trực Giác Vô Định"
+                },
+                "zhhans": {
+                    "name": "游牧观"
+                },
+                "zhhant": {
+                    "name": "浪人的智慧"
                 }
             }
         },
@@ -10125,6 +14145,21 @@
                 },
                 "pl": {
                     "name": "Razor’s Gambit"
+                },
+                "pt": {
+                    "name": "Razor’s Gambit"
+                },
+                "th": {
+                    "name": "Razor’s Gambit"
+                },
+                "vi": {
+                    "name": "Đao Mở Đường"
+                },
+                "zhhans": {
+                    "name": "孤注之刃"
+                },
+                "zhhant": {
+                    "name": "破局者之刃"
                 }
             }
         },
@@ -10161,6 +14196,21 @@
                 },
                 "pl": {
                     "name": "Recreational Jettison"
+                },
+                "pt": {
+                    "name": "Recreational Jettison"
+                },
+                "th": {
+                    "name": "Recreational Jettison"
+                },
+                "vi": {
+                    "name": "Vui Thì Vứt"
+                },
+                "zhhans": {
+                    "name": "休闲抛物"
+                },
+                "zhhant": {
+                    "name": "隨意拋棄"
                 }
             }
         },
@@ -10197,6 +14247,21 @@
                 },
                 "pl": {
                     "name": "Refined Adhesive"
+                },
+                "pt": {
+                    "name": "Refined Adhesive"
+                },
+                "th": {
+                    "name": "Refined Adhesive"
+                },
+                "vi": {
+                    "name": "Keo Tinh Chế"
+                },
+                "zhhans": {
+                    "name": "精炼粘合剂"
+                },
+                "zhhant": {
+                    "name": "精製黏著劑"
                 }
             }
         },
@@ -10235,6 +14300,21 @@
                 },
                 "pl": {
                     "name": "Treasure Island"
+                },
+                "pt": {
+                    "name": "Treasure Island"
+                },
+                "th": {
+                    "name": "Treasure Island"
+                },
+                "vi": {
+                    "name": "Đảo Kho Báu"
+                },
+                "zhhans": {
+                    "name": "金银岛"
+                },
+                "zhhant": {
+                    "name": "寶藏島"
                 }
             }
         },
@@ -10271,6 +14351,21 @@
                 },
                 "pl": {
                     "name": "Universal Welcome"
+                },
+                "pt": {
+                    "name": "Universal Welcome"
+                },
+                "th": {
+                    "name": "Universal Welcome"
+                },
+                "vi": {
+                    "name": "Chào Đón Tất Cả"
+                },
+                "zhhans": {
+                    "name": "全体欢迎"
+                },
+                "zhhant": {
+                    "name": "四海皆兄弟"
                 }
             }
         },
@@ -10310,6 +14405,21 @@
                 },
                 "pl": {
                     "name": "Viscount of Aerys"
+                },
+                "pt": {
+                    "name": "Viscount of Aerys"
+                },
+                "th": {
+                    "name": "Viscount of Aerys"
+                },
+                "vi": {
+                    "name": "Tử Tước Xứ Aerys"
+                },
+                "zhhans": {
+                    "name": "天堡子爵"
+                },
+                "zhhant": {
+                    "name": "艾瑞斯子爵"
                 }
             }
         },
@@ -10349,6 +14459,21 @@
                 },
                 "pl": {
                     "name": "Æmber Airhart"
+                },
+                "pt": {
+                    "name": "Æmber Airhart"
+                },
+                "th": {
+                    "name": "Æmber Airhart"
+                },
+                "vi": {
+                    "name": "Æmber Airhart"
+                },
+                "zhhans": {
+                    "name": "琥魄•埃尔哈特"
+                },
+                "zhhant": {
+                    "name": "琥魄之雄"
                 }
             }
         },
@@ -10385,6 +14510,21 @@
                 },
                 "pl": {
                     "name": "Edge of the World"
+                },
+                "pt": {
+                    "name": "Edge of the World"
+                },
+                "th": {
+                    "name": "Edge of the World"
+                },
+                "vi": {
+                    "name": "Tận Cùng Thế Giới"
+                },
+                "zhhans": {
+                    "name": "世界尽头"
+                },
+                "zhhant": {
+                    "name": "世界盡頭"
                 }
             }
         },
@@ -10421,6 +14561,21 @@
                 },
                 "pl": {
                     "name": "Freedom to Be"
+                },
+                "pt": {
+                    "name": "Freedom to Be"
+                },
+                "th": {
+                    "name": "Freedom to Be"
+                },
+                "vi": {
+                    "name": "Tự Do Tự Tại"
+                },
+                "zhhans": {
+                    "name": "自由的真谛"
+                },
+                "zhhant": {
+                    "name": "自由自在"
                 }
             }
         },
@@ -10459,6 +14614,21 @@
                 },
                 "pl": {
                     "name": "Navigator Ketarr"
+                },
+                "pt": {
+                    "name": "Navigator Ketarr"
+                },
+                "th": {
+                    "name": "Navigator Ketarr"
+                },
+                "vi": {
+                    "name": "Hoa Tiêu Ketarr"
+                },
+                "zhhans": {
+                    "name": "领航员柯塔尔"
+                },
+                "zhhant": {
+                    "name": "導航家凱塔爾"
                 }
             }
         },
@@ -10499,6 +14669,21 @@
                 },
                 "pl": {
                     "name": "Pirate Champion"
+                },
+                "pt": {
+                    "name": "Pirate Champion"
+                },
+                "th": {
+                    "name": "Pirate Champion"
+                },
+                "vi": {
+                    "name": "Quán Quân Không Tặc"
+                },
+                "zhhans": {
+                    "name": "海盗冠军"
+                },
+                "zhhant": {
+                    "name": "海盜冠軍"
                 }
             }
         },
@@ -10535,6 +14720,21 @@
                 },
                 "pl": {
                     "name": "Red Skies"
+                },
+                "pt": {
+                    "name": "Red Skies"
+                },
+                "th": {
+                    "name": "Red Skies"
+                },
+                "vi": {
+                    "name": "Bầu Trời Đỏ"
+                },
+                "zhhans": {
+                    "name": "红霞"
+                },
+                "zhhant": {
+                    "name": "赤紅天際"
                 }
             }
         },
@@ -10571,6 +14771,21 @@
                 },
                 "pl": {
                     "name": "Redline Rotation"
+                },
+                "pt": {
+                    "name": "Redline Rotation"
+                },
+                "th": {
+                    "name": "Redline Rotation"
+                },
+                "vi": {
+                    "name": "Mức Báo Động"
+                },
+                "zhhans": {
+                    "name": "红线旋转"
+                },
+                "zhhant": {
+                    "name": "極限迴轉"
                 }
             }
         },
@@ -10612,6 +14827,21 @@
                 },
                 "pl": {
                     "name": "Rose of Sharon"
+                },
+                "pt": {
+                    "name": "Rose of Sharon"
+                },
+                "th": {
+                    "name": "Rose of Sharon"
+                },
+                "vi": {
+                    "name": "Bóng Hồng Xứ Sharon"
+                },
+                "zhhans": {
+                    "name": "木槿号"
+                },
+                "zhhant": {
+                    "name": "沙漠玫瑰號"
                 }
             }
         },
@@ -10650,6 +14880,21 @@
                 },
                 "pl": {
                     "name": "Shae “Cloudkicker”"
+                },
+                "pt": {
+                    "name": "Shae “Cloudkicker”"
+                },
+                "th": {
+                    "name": "Shae “Cloudkicker”"
+                },
+                "vi": {
+                    "name": "Shae \"Lướt Mây\""
+                },
+                "zhhans": {
+                    "name": "“踏云者”夏埃"
+                },
+                "zhhant": {
+                    "name": "“步雲者”沙伊"
                 }
             }
         },
@@ -10686,6 +14931,21 @@
                 },
                 "pl": {
                     "name": "Silver Linings"
+                },
+                "pt": {
+                    "name": "Silver Linings"
+                },
+                "th": {
+                    "name": "Silver Linings"
+                },
+                "vi": {
+                    "name": "Đường Kẻ Bạc"
+                },
+                "zhhans": {
+                    "name": "拨云见日"
+                },
+                "zhhant": {
+                    "name": "美好前景"
                 }
             }
         },
@@ -10725,6 +14985,21 @@
                 },
                 "pl": {
                     "name": "The Red Baron"
+                },
+                "pt": {
+                    "name": "The Red Baron"
+                },
+                "th": {
+                    "name": "The Red Baron"
+                },
+                "vi": {
+                    "name": "Nam Tước Đẫm Máu"
+                },
+                "zhhans": {
+                    "name": "红色男爵"
+                },
+                "zhhant": {
+                    "name": "紅色男爵"
                 }
             }
         },
@@ -10766,6 +15041,21 @@
                 },
                 "pl": {
                     "name": "Third of Cliff"
+                },
+                "pt": {
+                    "name": "Third of Cliff"
+                },
+                "th": {
+                    "name": "Third of Cliff"
+                },
+                "vi": {
+                    "name": "Cậu Ba Nhà Cliff"
+                },
+                "zhhans": {
+                    "name": "三崖"
+                },
+                "zhhant": {
+                    "name": "懸崖三子"
                 }
             }
         },
@@ -10802,6 +15092,21 @@
                 },
                 "pl": {
                     "name": "Transmuting Lift"
+                },
+                "pt": {
+                    "name": "Transmuting Lift"
+                },
+                "th": {
+                    "name": "Transmuting Lift"
+                },
+                "vi": {
+                    "name": "Bay Ké"
+                },
+                "zhhans": {
+                    "name": "变形飞翼"
+                },
+                "zhhant": {
+                    "name": "轉化升空"
                 }
             }
         },
@@ -10838,6 +15143,21 @@
                 },
                 "pl": {
                     "name": "Against All Flags"
+                },
+                "pt": {
+                    "name": "Against All Flags"
+                },
+                "th": {
+                    "name": "Against All Flags"
+                },
+                "vi": {
+                    "name": "Cân Cả Thế Giới"
+                },
+                "zhhans": {
+                    "name": "天宫艳盗"
+                },
+                "zhhant": {
+                    "name": "征戰四方"
                 }
             }
         },
@@ -10874,6 +15194,21 @@
                 },
                 "pl": {
                     "name": "Bomb-arang"
+                },
+                "pt": {
+                    "name": "Bomb-arang"
+                },
+                "th": {
+                    "name": "Bomb-arang"
+                },
+                "vi": {
+                    "name": "Bom-ê-răng"
+                },
+                "zhhans": {
+                    "name": "回旋炸弹"
+                },
+                "zhhant": {
+                    "name": "迴力炮"
                 }
             }
         },
@@ -10913,6 +15248,21 @@
                 },
                 "pl": {
                     "name": "Bosun Creen"
+                },
+                "pt": {
+                    "name": "Bosun Creen"
+                },
+                "th": {
+                    "name": "Bosun Creen"
+                },
+                "vi": {
+                    "name": "Bosun Creen"
+                },
+                "zhhans": {
+                    "name": "水手长柯林"
+                },
+                "zhhant": {
+                    "name": "水手長克林"
                 }
             }
         },
@@ -10952,6 +15302,21 @@
                 },
                 "pl": {
                     "name": "Bux Bastian"
+                },
+                "pt": {
+                    "name": "Bux Bastian"
+                },
+                "th": {
+                    "name": "Bux Bastian"
+                },
+                "vi": {
+                    "name": "Bux Bastian"
+                },
+                "zhhans": {
+                    "name": "巴克丝•巴斯蒂安"
+                },
+                "zhhant": {
+                    "name": "巴克斯．巴斯蒂安"
                 }
             }
         },
@@ -10991,6 +15356,21 @@
                 },
                 "pl": {
                     "name": "Chandler Anouk"
+                },
+                "pt": {
+                    "name": "Chandler Anouk"
+                },
+                "th": {
+                    "name": "Chandler Anouk"
+                },
+                "vi": {
+                    "name": "Chủ Tiệm Anouk"
+                },
+                "zhhans": {
+                    "name": "船用杂货商阿诺克"
+                },
+                "zhhant": {
+                    "name": "雜貨商阿努克"
                 }
             }
         },
@@ -11030,6 +15410,21 @@
                 },
                 "pl": {
                     "name": "Indigo Halyard"
+                },
+                "pt": {
+                    "name": "Indigo Halyard"
+                },
+                "th": {
+                    "name": "Indigo Halyard"
+                },
+                "vi": {
+                    "name": "Halyard Xanh Chàm"
+                },
+                "zhhans": {
+                    "name": "靛蓝吊索"
+                },
+                "zhhant": {
+                    "name": "靛藍．哈利亞德"
                 }
             }
         },
@@ -11066,6 +15461,21 @@
                 },
                 "pl": {
                     "name": "Prop Dusting"
+                },
+                "pt": {
+                    "name": "Prop Dusting"
+                },
+                "th": {
+                    "name": "Prop Dusting"
+                },
+                "vi": {
+                    "name": "Rải Thảm"
+                },
+                "zhhans": {
+                    "name": "螺旋桨除尘"
+                },
+                "zhhant": {
+                    "name": "螺旋擴散"
                 }
             }
         },
@@ -11104,6 +15514,21 @@
                 },
                 "pl": {
                     "name": "Raiding Party"
+                },
+                "pt": {
+                    "name": "Raiding Party"
+                },
+                "th": {
+                    "name": "Raiding Party"
+                },
+                "vi": {
+                    "name": "Tiểu Đội Đột Kích"
+                },
+                "zhhans": {
+                    "name": "奇袭小队"
+                },
+                "zhhant": {
+                    "name": "劫掠小隊"
                 }
             }
         },
@@ -11140,6 +15565,21 @@
                 },
                 "pl": {
                     "name": "Safe Port"
+                },
+                "pt": {
+                    "name": "Safe Port"
+                },
+                "th": {
+                    "name": "Safe Port"
+                },
+                "vi": {
+                    "name": "Cảng An Toàn"
+                },
+                "zhhans": {
+                    "name": "安全港"
+                },
+                "zhhant": {
+                    "name": "避風港"
                 }
             }
         },
@@ -11179,6 +15619,21 @@
                 },
                 "pl": {
                     "name": "Scalawag Finn"
+                },
+                "pt": {
+                    "name": "Scalawag Finn"
+                },
+                "th": {
+                    "name": "Scalawag Finn"
+                },
+                "vi": {
+                    "name": "Finn Bất Lương"
+                },
+                "zhhans": {
+                    "name": "海贼菲恩"
+                },
+                "zhhant": {
+                    "name": "無賴芬恩"
                 }
             }
         },
@@ -11215,6 +15670,21 @@
                 },
                 "pl": {
                     "name": "Seeker Missiles"
+                },
+                "pt": {
+                    "name": "Seeker Missiles"
+                },
+                "th": {
+                    "name": "Seeker Missiles"
+                },
+                "vi": {
+                    "name": "Tên Lửa Dò Tìm"
+                },
+                "zhhans": {
+                    "name": "追踪导弹"
+                },
+                "zhhant": {
+                    "name": "追擊導彈"
                 }
             }
         },
@@ -11255,6 +15725,21 @@
                 },
                 "pl": {
                     "name": "Skulking Saboteurs"
+                },
+                "pt": {
+                    "name": "Skulking Saboteurs"
+                },
+                "th": {
+                    "name": "Skulking Saboteurs"
+                },
+                "vi": {
+                    "name": "Kẻ Phá Hoại Lẩn Khuất"
+                },
+                "zhhans": {
+                    "name": "偷行破坏团"
+                },
+                "zhhant": {
+                    "name": "鬼鬼祟祟的破壞者"
                 }
             }
         },
@@ -11291,6 +15776,21 @@
                 },
                 "pl": {
                     "name": "Efficient Æmber Burner"
+                },
+                "pt": {
+                    "name": "Efficient Æmber Burner"
+                },
+                "th": {
+                    "name": "Efficient Æmber Burner"
+                },
+                "vi": {
+                    "name": "Lò Đốt Hiệu Suất Cao"
+                },
+                "zhhans": {
+                    "name": "高效琥魄燃烧炉"
+                },
+                "zhhant": {
+                    "name": "高效琥魄焚燒器"
                 }
             }
         },
@@ -11327,6 +15827,21 @@
                 },
                 "pl": {
                     "name": "Flint’s Legend"
+                },
+                "pt": {
+                    "name": "Flint’s Legend"
+                },
+                "th": {
+                    "name": "Flint’s Legend"
+                },
+                "vi": {
+                    "name": "Huyền Thoại Về Flint"
+                },
+                "zhhans": {
+                    "name": "弗林特的传说"
+                },
+                "zhhant": {
+                    "name": "弗林特的劫掠"
                 }
             }
         },
@@ -11365,6 +15880,21 @@
                 },
                 "pl": {
                     "name": "Flint’s Map"
+                },
+                "pt": {
+                    "name": "Flint’s Map"
+                },
+                "th": {
+                    "name": "Flint’s Map"
+                },
+                "vi": {
+                    "name": "Bản Đồ Của Flint"
+                },
+                "zhhans": {
+                    "name": "弗林特的地图"
+                },
+                "zhhant": {
+                    "name": "弗林特的藏寶圖"
                 }
             }
         },
@@ -11403,6 +15933,21 @@
                 },
                 "pl": {
                     "name": "Flint’s Stash"
+                },
+                "pt": {
+                    "name": "Flint’s Stash"
+                },
+                "th": {
+                    "name": "Flint’s Stash"
+                },
+                "vi": {
+                    "name": "Kho Báu Của Flint"
+                },
+                "zhhans": {
+                    "name": "弗林特的宝箱"
+                },
+                "zhhant": {
+                    "name": "弗林特的寶藏堆"
                 }
             }
         },
@@ -11439,6 +15984,21 @@
                 },
                 "pl": {
                     "name": "Lateral Thrusters"
+                },
+                "pt": {
+                    "name": "Lateral Thrusters"
+                },
+                "th": {
+                    "name": "Lateral Thrusters"
+                },
+                "vi": {
+                    "name": "Bộ Đẩy Hông"
+                },
+                "zhhans": {
+                    "name": "侧向推进器"
+                },
+                "zhhant": {
+                    "name": "側向推進器"
                 }
             }
         },
@@ -11475,6 +16035,21 @@
                 },
                 "pl": {
                     "name": "Torpefying Harpoon"
+                },
+                "pt": {
+                    "name": "Torpefying Harpoon"
+                },
+                "th": {
+                    "name": "Torpefying Harpoon"
+                },
+                "vi": {
+                    "name": "Lao Ngư Lôi"
+                },
+                "zhhans": {
+                    "name": "麻痹渔叉"
+                },
+                "zhhant": {
+                    "name": "麻痹魚叉"
                 }
             }
         },
@@ -11514,6 +16089,21 @@
                 },
                 "pl": {
                     "name": "Shard of Courage"
+                },
+                "pt": {
+                    "name": "Shard of Courage"
+                },
+                "th": {
+                    "name": "Shard of Courage"
+                },
+                "vi": {
+                    "name": "Tinh Thể Gan Dạ"
+                },
+                "zhhans": {
+                    "name": "勇气碎片"
+                },
+                "zhhant": {
+                    "name": "無畏碎片"
                 }
             }
         },
@@ -11551,6 +16141,21 @@
                     "name": "Akugyo"
                 },
                 "pl": {
+                    "name": "Akugyo"
+                },
+                "pt": {
+                    "name": "Akugyo"
+                },
+                "th": {
+                    "name": "Akugyo"
+                },
+                "vi": {
+                    "name": "Akugyo"
+                },
+                "zhhans": {
+                    "name": "Akugyo"
+                },
+                "zhhant": {
                     "name": "Akugyo"
                 }
             }
@@ -11592,6 +16197,21 @@
                 },
                 "pl": {
                     "name": "Alien Puffer"
+                },
+                "pt": {
+                    "name": "Alien Puffer"
+                },
+                "th": {
+                    "name": "Alien Puffer"
+                },
+                "vi": {
+                    "name": "Alien Puffer"
+                },
+                "zhhans": {
+                    "name": "Alien Puffer"
+                },
+                "zhhant": {
+                    "name": "Alien Puffer"
                 }
             }
         },
@@ -11629,6 +16249,21 @@
                     "name": "Anvil Crawler"
                 },
                 "pl": {
+                    "name": "Anvil Crawler"
+                },
+                "pt": {
+                    "name": "Anvil Crawler"
+                },
+                "th": {
+                    "name": "Anvil Crawler"
+                },
+                "vi": {
+                    "name": "Anvil Crawler"
+                },
+                "zhhans": {
+                    "name": "Anvil Crawler"
+                },
+                "zhhant": {
                     "name": "Anvil Crawler"
                 }
             }
@@ -11670,6 +16305,21 @@
                 },
                 "pl": {
                     "name": "Beehemoth"
+                },
+                "pt": {
+                    "name": "Beehemoth"
+                },
+                "th": {
+                    "name": "Beehemoth"
+                },
+                "vi": {
+                    "name": "Beehemoth"
+                },
+                "zhhans": {
+                    "name": "Beehemoth"
+                },
+                "zhhant": {
+                    "name": "Beehemoth"
                 }
             }
         },
@@ -11707,6 +16357,21 @@
                     "name": "Blue Æmberdrake"
                 },
                 "pl": {
+                    "name": "Blue Æmberdrake"
+                },
+                "pt": {
+                    "name": "Blue Æmberdrake"
+                },
+                "th": {
+                    "name": "Blue Æmberdrake"
+                },
+                "vi": {
+                    "name": "Blue Æmberdrake"
+                },
+                "zhhans": {
+                    "name": "Blue Æmberdrake"
+                },
+                "zhhant": {
                     "name": "Blue Æmberdrake"
                 }
             }
@@ -11746,6 +16411,21 @@
                 },
                 "pl": {
                     "name": "Colossipede"
+                },
+                "pt": {
+                    "name": "Colossipede"
+                },
+                "th": {
+                    "name": "Colossipede"
+                },
+                "vi": {
+                    "name": "Colossipede"
+                },
+                "zhhans": {
+                    "name": "Colossipede"
+                },
+                "zhhant": {
+                    "name": "Colossipede"
                 }
             }
         },
@@ -11783,6 +16463,21 @@
                     "name": "Falcron"
                 },
                 "pl": {
+                    "name": "Falcron"
+                },
+                "pt": {
+                    "name": "Falcron"
+                },
+                "th": {
+                    "name": "Falcron"
+                },
+                "vi": {
+                    "name": "Falcron"
+                },
+                "zhhans": {
+                    "name": "Falcron"
+                },
+                "zhhant": {
                     "name": "Falcron"
                 }
             }
@@ -11822,6 +16517,21 @@
                 },
                 "pl": {
                     "name": "Grinder Swarm"
+                },
+                "pt": {
+                    "name": "Grinder Swarm"
+                },
+                "th": {
+                    "name": "Grinder Swarm"
+                },
+                "vi": {
+                    "name": "Grinder Swarm"
+                },
+                "zhhans": {
+                    "name": "Grinder Swarm"
+                },
+                "zhhant": {
+                    "name": "Grinder Swarm"
                 }
             }
         },
@@ -11859,6 +16569,21 @@
                     "name": "Grizzled Wyvern"
                 },
                 "pl": {
+                    "name": "Grizzled Wyvern"
+                },
+                "pt": {
+                    "name": "Grizzled Wyvern"
+                },
+                "th": {
+                    "name": "Grizzled Wyvern"
+                },
+                "vi": {
+                    "name": "Grizzled Wyvern"
+                },
+                "zhhans": {
+                    "name": "Grizzled Wyvern"
+                },
+                "zhhant": {
                     "name": "Grizzled Wyvern"
                 }
             }
@@ -11898,6 +16623,21 @@
                 },
                 "pl": {
                     "name": "Hungry Hippogriff"
+                },
+                "pt": {
+                    "name": "Hungry Hippogriff"
+                },
+                "th": {
+                    "name": "Hungry Hippogriff"
+                },
+                "vi": {
+                    "name": "Hungry Hippogriff"
+                },
+                "zhhans": {
+                    "name": "Hungry Hippogriff"
+                },
+                "zhhant": {
+                    "name": "Hungry Hippogriff"
                 }
             }
         },
@@ -11935,6 +16675,21 @@
                     "name": "Icarus 2.0"
                 },
                 "pl": {
+                    "name": "Icarus 2.0"
+                },
+                "pt": {
+                    "name": "Icarus 2.0"
+                },
+                "th": {
+                    "name": "Icarus 2.0"
+                },
+                "vi": {
+                    "name": "Icarus 2.0"
+                },
+                "zhhans": {
+                    "name": "Icarus 2.0"
+                },
+                "zhhant": {
                     "name": "Icarus 2.0"
                 }
             }
@@ -11976,6 +16731,21 @@
                 },
                 "pl": {
                     "name": "Impzilla"
+                },
+                "pt": {
+                    "name": "Impzilla"
+                },
+                "th": {
+                    "name": "Impzilla"
+                },
+                "vi": {
+                    "name": "Impzilla"
+                },
+                "zhhans": {
+                    "name": "Impzilla"
+                },
+                "zhhant": {
+                    "name": "Impzilla"
                 }
             }
         },
@@ -12013,6 +16783,21 @@
                     "name": "Lancet"
                 },
                 "pl": {
+                    "name": "Lancet"
+                },
+                "pt": {
+                    "name": "Lancet"
+                },
+                "th": {
+                    "name": "Lancet"
+                },
+                "vi": {
+                    "name": "Lancet"
+                },
+                "zhhans": {
+                    "name": "Lancet"
+                },
+                "zhhant": {
                     "name": "Lancet"
                 }
             }
@@ -12052,6 +16837,21 @@
                 },
                 "pl": {
                     "name": "Malifi Dragon"
+                },
+                "pt": {
+                    "name": "Malifi Dragon"
+                },
+                "th": {
+                    "name": "Malifi Dragon"
+                },
+                "vi": {
+                    "name": "Malifi Dragon"
+                },
+                "zhhans": {
+                    "name": "Malifi Dragon"
+                },
+                "zhhant": {
+                    "name": "Malifi Dragon"
                 }
             }
         },
@@ -12089,6 +16889,21 @@
                     "name": "Naja"
                 },
                 "pl": {
+                    "name": "Naja"
+                },
+                "pt": {
+                    "name": "Naja"
+                },
+                "th": {
+                    "name": "Naja"
+                },
+                "vi": {
+                    "name": "Naja"
+                },
+                "zhhans": {
+                    "name": "Naja"
+                },
+                "zhhant": {
                     "name": "Naja"
                 }
             }
@@ -12128,6 +16943,21 @@
                 },
                 "pl": {
                     "name": "Red Æmberdrake"
+                },
+                "pt": {
+                    "name": "Red Æmberdrake"
+                },
+                "th": {
+                    "name": "Red Æmberdrake"
+                },
+                "vi": {
+                    "name": "Red Æmberdrake"
+                },
+                "zhhans": {
+                    "name": "Red Æmberdrake"
+                },
+                "zhhant": {
+                    "name": "Red Æmberdrake"
                 }
             }
         },
@@ -12165,6 +16995,21 @@
                     "name": "Rorqual"
                 },
                 "pl": {
+                    "name": "Rorqual"
+                },
+                "pt": {
+                    "name": "Rorqual"
+                },
+                "th": {
+                    "name": "Rorqual"
+                },
+                "vi": {
+                    "name": "Rorqual"
+                },
+                "zhhans": {
+                    "name": "Rorqual"
+                },
+                "zhhant": {
                     "name": "Rorqual"
                 }
             }
@@ -12205,6 +17050,21 @@
                 },
                 "pl": {
                     "name": "Screeyan"
+                },
+                "pt": {
+                    "name": "Screeyan"
+                },
+                "th": {
+                    "name": "Screeyan"
+                },
+                "vi": {
+                    "name": "Screeyan"
+                },
+                "zhhans": {
+                    "name": "Screeyan"
+                },
+                "zhhant": {
+                    "name": "Screeyan"
                 }
             }
         },
@@ -12242,6 +17102,21 @@
                     "name": "Sentient Cloud"
                 },
                 "pl": {
+                    "name": "Sentient Cloud"
+                },
+                "pt": {
+                    "name": "Sentient Cloud"
+                },
+                "th": {
+                    "name": "Sentient Cloud"
+                },
+                "vi": {
+                    "name": "Sentient Cloud"
+                },
+                "zhhans": {
+                    "name": "Sentient Cloud"
+                },
+                "zhhant": {
                     "name": "Sentient Cloud"
                 }
             }
@@ -12283,6 +17158,21 @@
                 },
                 "pl": {
                     "name": "Titanarpon"
+                },
+                "pt": {
+                    "name": "Titanarpon"
+                },
+                "th": {
+                    "name": "Titanarpon"
+                },
+                "vi": {
+                    "name": "Titanarpon"
+                },
+                "zhhans": {
+                    "name": "Titanarpon"
+                },
+                "zhhant": {
+                    "name": "Titanarpon"
                 }
             }
         },
@@ -12320,6 +17210,21 @@
                     "name": "Tyrannus Aquilae"
                 },
                 "pl": {
+                    "name": "Tyrannus Aquilae"
+                },
+                "pt": {
+                    "name": "Tyrannus Aquilae"
+                },
+                "th": {
+                    "name": "Tyrannus Aquilae"
+                },
+                "vi": {
+                    "name": "Tyrannus Aquilae"
+                },
+                "zhhans": {
+                    "name": "Tyrannus Aquilae"
+                },
+                "zhhant": {
                     "name": "Tyrannus Aquilae"
                 }
             }
@@ -12360,6 +17265,21 @@
                 },
                 "pl": {
                     "name": "Volax"
+                },
+                "pt": {
+                    "name": "Volax"
+                },
+                "th": {
+                    "name": "Volax"
+                },
+                "vi": {
+                    "name": "Volax"
+                },
+                "zhhans": {
+                    "name": "Volax"
+                },
+                "zhhant": {
+                    "name": "Volax"
                 }
             }
         },
@@ -12397,6 +17317,21 @@
                     "name": "Yellow Æmberdrake"
                 },
                 "pl": {
+                    "name": "Yellow Æmberdrake"
+                },
+                "pt": {
+                    "name": "Yellow Æmberdrake"
+                },
+                "th": {
+                    "name": "Yellow Æmberdrake"
+                },
+                "vi": {
+                    "name": "Yellow Æmberdrake"
+                },
+                "zhhans": {
+                    "name": "Yellow Æmberdrake"
+                },
+                "zhhant": {
                     "name": "Yellow Æmberdrake"
                 }
             }
