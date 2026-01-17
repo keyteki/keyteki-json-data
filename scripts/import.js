@@ -3,7 +3,7 @@ const KeyforgeApiToKeytekiConverter = require('../src/KeyforgeApiToKeytekiConver
 
 let converter = new KeyforgeApiToKeytekiConverter();
 
-const Languages = ['en', 'de', 'es', 'fr', 'it', 'pl', 'pt', 'th', 'vi', 'zhhans', 'zhhant'];
+const Languages = ['en', 'de', 'es', 'fr', 'it', 'pl', 'pt', 'ru', 'th', 'vi', 'zhhans', 'zhhant'];
 
 const doImport = async () => {
     if (process.argv[4] === 'all') {

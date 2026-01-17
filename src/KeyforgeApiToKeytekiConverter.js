@@ -10,6 +10,7 @@ const LANGUAGE_TO_API_LOCALE = {
     it: 'it-it',
     pl: 'pl-pl',
     pt: 'pt-pt',
+    ru: 'ru-ru',
     th: 'th-th',
     vi: 'vi-vi',
     ko: 'ko-ko',
