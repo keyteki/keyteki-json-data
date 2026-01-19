@@ -4,7 +4,7 @@
     ],
     "code": "MoMu",
     "name": "More Mutation",
-    "cardCount": "484",
+    "cardCount": "485",
     "releaseDate": "",
     "cards": [
         {
@@ -2365,20 +2365,22 @@
             }
         },
         {
-            "id": "tormax",
+            "id": "tormax2",
             "name": "Tormax",
             "number": "020",
             "image": "https://mastervault-storage-prod.s3.amazonaws.com/media/card_front/en/874_020_f3f51a7a10b6_en.png",
             "expansion": 874,
             "house": "dis",
             "keywords": [],
-            "traits": [],
-            "type": "gigantic creature art",
+            "traits": [
+                "demon"
+            ],
+            "type": "creature",
             "rarity": "Rare",
             "amber": 0,
-            "armor": null,
-            "power": null,
-            "text": "",
+            "armor": 0,
+            "power": 8,
+            "text": "(Play only with the other half of Tormax.) \nPlay/After Fight/After Reap: Discard your hand. Purge 2 random cards from your opponent’s hand.\n",
             "locale": {
                 "de": {
                     "name": "Tormax"
@@ -2429,10 +2431,10 @@
             "traits": [
                 "demon"
             ],
-            "type": "gigantic creature base",
+            "type": "creature",
             "rarity": "Special",
             "amber": 0,
-            "armor": null,
+            "armor": 0,
             "power": 8,
             "text": "(Play only with the other half of Tormax.) \nPlay/After Fight/After Reap: Discard your hand. Purge 2 random cards from your opponent’s hand.\n",
             "locale": {
@@ -2599,10 +2601,10 @@
             "traits": [
                 "demon"
             ],
-            "type": "gigantic creature base",
+            "type": "creature",
             "rarity": "Special",
             "amber": 0,
-            "armor": null,
+            "armor": 0,
             "power": 10,
             "text": "(Play only with the other half of Wretched Anathema.)\nIf there are no other friendly creatures in play, Wretched Anathema gains, “Action: Gain 4.”\nPlay/After Reap: Destroy 2 other creatures.\n",
             "locale": {
@@ -2645,20 +2647,22 @@
             }
         },
         {
-            "id": "wretched-anathema",
+            "id": "wretched-anathema2",
             "name": "Wretched Anathema",
             "number": "023",
             "image": "https://mastervault-storage-prod.s3.amazonaws.com/media/card_front/en/874_023_26e13028e385_en.png",
             "expansion": 874,
             "house": "dis",
             "keywords": [],
-            "traits": [],
-            "type": "gigantic creature art",
+            "traits": [
+                "demon"
+            ],
+            "type": "creature",
             "rarity": "Rare",
             "amber": 0,
-            "armor": null,
-            "power": null,
-            "text": "",
+            "armor": 0,
+            "power": 10,
+            "text": "(Play only with the other half of Wretched Anathema.)\nIf there are no other friendly creatures in play, Wretched Anathema gains, “Action: Gain 4.”\nPlay/After Reap: Destroy 2 other creatures.\n",
             "locale": {
                 "de": {
                     "name": "Wretched Anathema"
@@ -5729,10 +5733,10 @@
             "traits": [
                 "robot"
             ],
-            "type": "gigantic creature base",
+            "type": "creature",
             "rarity": "Special",
             "amber": 0,
-            "armor": null,
+            "armor": 2,
             "power": 11,
             "text": "(Play only with the other half of Horizon Saber.)\nPlay/After Fight/After Reap: Search your deck and discard pile for a card, reveal it, and put it into your archives. Shuffle your discard pile into your deck.\n",
             "locale": {
@@ -5775,20 +5779,22 @@
             }
         },
         {
-            "id": "horizon-saber",
+            "id": "horizon-saber2",
             "name": "Horizon Saber",
             "number": "078",
             "image": "https://mastervault-storage-prod.s3.amazonaws.com/media/card_front/en/874_078_109abae5af15_en.png",
             "expansion": 874,
             "house": "logos",
             "keywords": [],
-            "traits": [],
-            "type": "gigantic creature art",
+            "traits": [
+                "robot"
+            ],
+            "type": "creature",
             "rarity": "Rare",
             "amber": 0,
-            "armor": null,
-            "power": null,
-            "text": "",
+            "armor": 2,
+            "power": 11,
+            "text": "(Play only with the other half of Horizon Saber.)\nPlay/After Fight/After Reap: Search your deck and discard pile for a card, reveal it, and put it into your archives. Shuffle your discard pile into your deck.\n",
             "locale": {
                 "de": {
                     "name": "Horizon Saber"
@@ -6387,20 +6393,22 @@
             }
         },
         {
-            "id": "ultra-gravitron",
+            "id": "ultra-gravitron2",
             "name": "Ultra Gravitron",
             "number": "089",
             "image": "https://mastervault-storage-prod.s3.amazonaws.com/media/card_front/en/874_089_9784f272a2d2_en.png",
             "expansion": 874,
             "house": "logos",
             "keywords": [],
-            "traits": [],
-            "type": "gigantic creature art",
+            "traits": [
+                "robot"
+            ],
+            "type": "creature",
             "rarity": "Rare",
             "amber": 0,
-            "armor": null,
-            "power": null,
-            "text": "",
+            "armor": 3,
+            "power": 10,
+            "text": "(Play only with the other half of Ultra Gravitron.)\nPlay: Archive the top 5 cards of your deck.\nAfter Fight/After Reap: Discard a card from your archives. If you do, purge a creature and resolve each of its bonus icons as if you had played it.\n",
             "locale": {
                 "de": {
                     "name": "Ultra Gravitron"
@@ -6451,10 +6459,10 @@
             "traits": [
                 "robot"
             ],
-            "type": "gigantic creature base",
+            "type": "creature",
             "rarity": "Special",
             "amber": 0,
-            "armor": null,
+            "armor": 3,
             "power": 10,
             "text": "(Play only with the other half of Ultra Gravitron.)\nPlay: Archive the top 5 cards of your deck.\nAfter Fight/After Reap: Discard a card from your archives. If you do, purge a creature and resolve each of its bonus icons as if you had played it.\n",
             "locale": {
@@ -8969,10 +8977,10 @@
                 "knight",
                 "spirit"
             ],
-            "type": "gigantic creature base",
+            "type": "creature",
             "rarity": "Special",
             "amber": 0,
-            "armor": null,
+            "armor": 0,
             "power": 8,
             "text": "(Play only with the other half of Ascendant Hester.) \nEach other friendly creature gets +2 armor for each  on it.\nPlay/After Fight: Each friendly creature captures 1.\n",
             "locale": {
@@ -9015,20 +9023,23 @@
             }
         },
         {
-            "id": "ascendant-hester",
+            "id": "ascendant-hester2",
             "name": "Ascendant Hester",
             "number": "134",
             "image": "https://mastervault-storage-prod.s3.amazonaws.com/media/card_front/en/874_134_bb528cf57a59_en.png",
             "expansion": 874,
             "house": "sanctum",
             "keywords": [],
-            "traits": [],
-            "type": "gigantic creature art",
+            "traits": [
+                "knight",
+                "spirit"
+            ],
+            "type": "creature",
             "rarity": "Rare",
             "amber": 0,
-            "armor": null,
-            "power": null,
-            "text": "",
+            "armor": 0,
+            "power": 8,
+            "text": "(Play only with the other half of Ascendant Hester.) \nEach other friendly creature gets +2 armor for each  on it.\nPlay/After Fight: Each friendly creature captures 1.\n",
             "locale": {
                 "de": {
                     "name": "Ascendant Hester"
@@ -10014,20 +10025,23 @@
             }
         },
         {
-            "id": "sirs-colossus",
+            "id": "sirs-colossus2",
             "name": "Sirs Colossus",
             "number": "152",
             "image": "https://mastervault-storage-prod.s3.amazonaws.com/media/card_front/en/874_152_826bc7d53fe8_en.png",
             "expansion": 874,
             "house": "sanctum",
             "keywords": [],
-            "traits": [],
-            "type": "gigantic creature art",
+            "traits": [
+                "knight",
+                "spirit"
+            ],
+            "type": "creature",
             "rarity": "Rare",
             "amber": 0,
-            "armor": null,
-            "power": null,
-            "text": " ",
+            "armor": 3,
+            "power": 10,
+            "text": "(Play only with the other half of Sirs Colossus.) \nTaunt.\nPlay: Capture all your opponent’s , distributed among any number of friendly creatures.\nAfter Fight: Move all  from a friendly creature to the common supply.\n",
             "locale": {
                 "de": {
                     "name": "Sirs Colossus"
@@ -10081,10 +10095,10 @@
                 "knight",
                 "spirit"
             ],
-            "type": "gigantic creature base",
+            "type": "creature",
             "rarity": "Special",
             "amber": 0,
-            "armor": null,
+            "armor": 3,
             "power": 10,
             "text": "(Play only with the other half of Sirs Colossus.) \nTaunt.\nPlay: Capture all your opponent’s , distributed among any number of friendly creatures.\nAfter Fight: Move all  from a friendly creature to the common supply.\n",
             "locale": {
@@ -12382,10 +12396,10 @@
             "house": "saurian",
             "keywords": [],
             "traits": [],
-            "type": "gigantic creature base",
+            "type": "creature",
             "rarity": "Special",
             "amber": 0,
-            "armor": null,
+            "armor": 0,
             "power": 14,
             "text": "(Play only with the other half of Bawretchadontius.)\nEach friendly creature with  on it gains, ”After Reap: Deal 4 to a creature.”\nPlay/After Fight/After Reap: Exalt a friendly creature and 2 enemy creatures. \n\n",
             "locale": {
@@ -12428,7 +12442,7 @@
             }
         },
         {
-            "id": "bawretchadontius",
+            "id": "bawretchadontius2",
             "name": "Bawretchadontius",
             "number": "194",
             "image": "https://mastervault-storage-prod.s3.amazonaws.com/media/card_front/en/874_194_db133949fd3a_en.png",
@@ -12436,12 +12450,12 @@
             "house": "saurian",
             "keywords": [],
             "traits": [],
-            "type": "gigantic creature art",
+            "type": "creature",
             "rarity": "Rare",
             "amber": 0,
-            "armor": null,
-            "power": null,
-            "text": "",
+            "armor": 0,
+            "power": 14,
+            "text": "(Play only with the other half of Bawretchadontius.)\nEach friendly creature with  on it gains, ”After Reap: Deal 4 to a creature.”\nPlay/After Fight/After Reap: Exalt a friendly creature and 2 enemy creatures. \n\n",
             "locale": {
                 "de": {
                     "name": "Bawretchadontius"
@@ -12602,10 +12616,10 @@
             "traits": [
                 "mutant"
             ],
-            "type": "gigantic creature base",
+            "type": "creature",
             "rarity": "Special",
             "amber": 0,
-            "armor": null,
+            "armor": 0,
             "power": 20,
             "text": "(Play only with the other half of Deusillus.)\nPlay: Capture all of your opponent’s . Deal 5 to an enemy creature. \nAfter Fight/After Reap: Move 1 from Deusillus to the common supply. Deal 2 to each enemy creature.\n",
             "locale": {
@@ -12648,20 +12662,22 @@
             }
         },
         {
-            "id": "deusillus",
+            "id": "deusillus2",
             "name": "Deusillus",
             "number": "197",
             "image": "https://mastervault-storage-prod.s3.amazonaws.com/media/card_front/en/874_197_82a9ca6cdaa4_en.png",
             "expansion": 874,
             "house": "saurian",
             "keywords": [],
-            "traits": [],
-            "type": "gigantic creature art",
+            "traits": [
+                "mutant"
+            ],
+            "type": "creature",
             "rarity": "Rare",
             "amber": 0,
-            "armor": null,
-            "power": null,
-            "text": "",
+            "armor": 0,
+            "power": 20,
+            "text": "(Play only with the other half of Deusillus.)\nPlay: Capture all of your opponent’s . Deal 5 to an enemy creature. \nAfter Fight/After Reap: Move 1 from Deusillus to the common supply. Deal 2 to each enemy creature.\n",
             "locale": {
                 "de": {
                     "name": "Deusillus"
@@ -16004,10 +16020,10 @@
             "traits": [
                 "robot"
             ],
-            "type": "gigantic creature base",
+            "type": "creature",
             "rarity": "Special",
             "amber": 0,
-            "armor": null,
+            "armor": 2,
             "power": 7,
             "text": "(Play only with the other half of Boosted B4-RRY.)\nPlay/After Fight/After Reap: Choose one:\nTake control of an enemy artifact. While under your control, it belongs to house Shadows (instead of its original house).\nPlay a random card from your opponent’s archives as if it were yours.\n",
             "locale": {
@@ -16050,20 +16066,22 @@
             }
         },
         {
-            "id": "boosted-b4-rry",
+            "id": "boosted-b4-rry2",
             "name": "Boosted B4-RRY",
             "number": "257",
             "image": "https://mastervault-storage-prod.s3.amazonaws.com/media/card_front/en/874_257_67897e890546_en.png",
             "expansion": 874,
             "house": "shadows",
             "keywords": [],
-            "traits": [],
-            "type": "gigantic creature art",
+            "traits": [
+                "robot"
+            ],
+            "type": "creature",
             "rarity": "Rare",
             "amber": 0,
-            "armor": null,
-            "power": null,
-            "text": "",
+            "armor": 2,
+            "power": 7,
+            "text": "(Play only with the other half of Boosted B4-RRY.)\nPlay/After Fight/After Reap: Choose one:\nTake control of an enemy artifact. While under your control, it belongs to house Shadows (instead of its original house).\nPlay a random card from your opponent’s archives as if it were yours.\n",
             "locale": {
                 "de": {
                     "name": "Boosted B4-RRY"
@@ -16104,20 +16122,23 @@
             }
         },
         {
-            "id": "dodger-s-10",
+            "id": "dodger-s-102",
             "name": "Dodger’s 10",
             "number": "258",
             "image": "https://mastervault-storage-prod.s3.amazonaws.com/media/card_front/en/874_258_eda5811236a5_en.png",
             "expansion": 874,
             "house": "shadows",
             "keywords": [],
-            "traits": [],
-            "type": "gigantic creature art",
+            "traits": [
+                "elf",
+                "thief"
+            ],
+            "type": "creature",
             "rarity": "Rare",
             "amber": 0,
-            "armor": null,
-            "power": null,
-            "text": "",
+            "armor": 0,
+            "power": 11,
+            "text": "(Play only with the other half of Dodger’s 10.)\nPlay/After Fight/After Reap: Steal half of your opponent’s  (rounding down).\n",
             "locale": {
                 "de": {
                     "name": "Dodger’s 10"
@@ -16169,10 +16190,10 @@
                 "elf",
                 "thief"
             ],
-            "type": "gigantic creature base",
+            "type": "creature",
             "rarity": "Special",
             "amber": 0,
-            "armor": null,
+            "armor": 0,
             "power": 11,
             "text": "(Play only with the other half of Dodger’s 10.)\nPlay/After Fight/After Reap: Steal half of your opponent’s  (rounding down).\n",
             "locale": {
@@ -19550,20 +19571,22 @@
             }
         },
         {
-            "id": "cadet-allison",
+            "id": "cadet-allison2",
             "name": "Cadet Allison",
             "number": "318",
             "image": "https://mastervault-storage-prod.s3.amazonaws.com/media/card_front/en/874_318_e317160512a8_en.png",
             "expansion": 874,
             "house": "staralliance",
             "keywords": [],
-            "traits": [],
-            "type": "gigantic creature art",
+            "traits": [
+                "human"
+            ],
+            "type": "creature",
             "rarity": "Rare",
             "amber": 0,
-            "armor": null,
-            "power": null,
-            "text": "",
+            "armor": 0,
+            "power": 8,
+            "text": "(Play only with the other half of Cadet Allison.) \nPlay/After Reap: Discard a random card from your hand. If you do, the discarded card’s house becomes your active house.\n",
             "locale": {
                 "de": {
                     "name": "Cadet Allison"
@@ -19614,10 +19637,10 @@
             "traits": [
                 "human"
             ],
-            "type": "gigantic creature base",
+            "type": "creature",
             "rarity": "Special",
             "amber": 0,
-            "armor": null,
+            "armor": 0,
             "power": 8,
             "text": "(Play only with the other half of Cadet Allison.) \nPlay/After Reap: Discard a random card from your hand. If you do, the discarded card’s house becomes your active house.\n",
             "locale": {
@@ -20605,20 +20628,22 @@
             }
         },
         {
-            "id": "j43g3r-v",
+            "id": "j43g3r-v2",
             "name": "J43G3R V",
             "number": "331",
             "image": "https://mastervault-storage-prod.s3.amazonaws.com/media/card_front/en/874_331_18c90ddc9f0e_en.png",
             "expansion": 874,
             "house": "staralliance",
             "keywords": [],
-            "traits": [],
-            "type": "gigantic creature art",
+            "traits": [
+                "robot"
+            ],
+            "type": "creature",
             "rarity": "Rare",
             "amber": 0,
-            "armor": null,
-            "power": null,
-            "text": "",
+            "armor": 2,
+            "power": 8,
+            "text": "(Play only with the other half of J43G3R V.) \nAfter Reap: You may reap with up to 2 non-Star Alliance creatures this turn.\nAfter Fight: You may fight with up to 2 non-Star Alliance creatures this turn.\n",
             "locale": {
                 "de": {
                     "name": "J43G3R V"
@@ -20669,10 +20694,10 @@
             "traits": [
                 "robot"
             ],
-            "type": "gigantic creature base",
+            "type": "creature",
             "rarity": "Special",
             "amber": 0,
-            "armor": null,
+            "armor": 2,
             "power": 8,
             "text": "(Play only with the other half of J43G3R V.) \nAfter Reap: You may reap with up to 2 non-Star Alliance creatures this turn.\nAfter Fight: You may fight with up to 2 non-Star Alliance creatures this turn.\n",
             "locale": {
@@ -23908,10 +23933,10 @@
                 "mutant",
                 "niffle"
             ],
-            "type": "gigantic creature base",
+            "type": "creature",
             "rarity": "Special",
             "amber": 0,
-            "armor": null,
+            "armor": 2,
             "power": 12,
             "text": "(Play only with the other half of Niffle Kong.)\nPlay: Search your deck and discard pile for any number of Niffle creatures, reveal them, and put them into your hand. Shuffle your deck. \nAfter Fight/After Reap: You may destroy a friendly Niffle creature. If you do, deal 3 to a creature, steal 1, and destroy an enemy artifact.",
             "locale": {
@@ -23954,20 +23979,23 @@
             }
         },
         {
-            "id": "niffle-kong",
+            "id": "niffle-kong2",
             "name": "Niffle Kong",
             "number": "389",
             "image": "https://mastervault-storage-prod.s3.amazonaws.com/media/card_front/en/874_389_0afcc190acd3_en.png",
             "expansion": 874,
             "house": "untamed",
             "keywords": [],
-            "traits": [],
-            "type": "gigantic creature art",
+            "traits": [
+                "mutant",
+                "niffle"
+            ],
+            "type": "creature",
             "rarity": "Rare",
             "amber": 0,
-            "armor": null,
-            "power": null,
-            "text": "",
+            "armor": 2,
+            "power": 12,
+            "text": "(Play only with the other half of Niffle Kong.)\nPlay: Search your deck and discard pile for any number of Niffle creatures, reveal them, and put them into your hand. Shuffle your deck. \nAfter Fight/After Reap: You may destroy a friendly Niffle creature. If you do, deal 3 to a creature, steal 1, and destroy an enemy artifact.",
             "locale": {
                 "de": {
                     "name": "Niffle Kong"
@@ -24284,20 +24312,23 @@
             }
         },
         {
-            "id": "titanic-bumblebird",
+            "id": "titanic-bumblebird2",
             "name": "Titanic Bumblebird",
             "number": "395",
             "image": "https://mastervault-storage-prod.s3.amazonaws.com/media/card_front/en/874_395_753047ccdefc_en.png",
             "expansion": 874,
             "house": "untamed",
             "keywords": [],
-            "traits": [],
-            "type": "gigantic creature art",
+            "traits": [
+                "beast",
+                "insect"
+            ],
+            "type": "creature",
             "rarity": "Rare",
             "amber": 0,
-            "armor": null,
-            "power": null,
-            "text": "",
+            "armor": 0,
+            "power": 8,
+            "text": "(Play only with the other half of Titanic Bumblebird.) \nPlay/After Reap: Destroy an enemy creature. If you do, give +1 power counters equal to the destroyed creatures power to a friendly creature.\n",
             "locale": {
                 "de": {
                     "name": "Titanic Bumblebird"
@@ -24349,10 +24380,10 @@
                 "beast",
                 "insect"
             ],
-            "type": "gigantic creature base",
+            "type": "creature",
             "rarity": "Special",
             "amber": 0,
-            "armor": null,
+            "armor": 0,
             "power": 8,
             "text": "(Play only with the other half of Titanic Bumblebird.) \nPlay/After Reap: Destroy an enemy creature. If you do, give +1 power counters equal to the destroyed creatures power to a friendly creature.\n",
             "locale": {
