@@ -253,6 +253,15 @@ class KeyforgeApiToKeytekiConverter {
 
                 let newCard = null;
 
+                // Normalize gigantic creature types to "creature" for MoMu
+                let normalizedCardType = card.card_type.toLowerCase();
+                if (
+                    normalizedCardType === 'gigantic creature art' ||
+                    normalizedCardType === 'gigantic creature base'
+                ) {
+                    normalizedCardType = 'creature';
+                }
+
                 if (language === 'en') {
                     newCard = {
                         id: card.card_title
@@ -268,10 +277,10 @@ class KeyforgeApiToKeytekiConverter {
                         traits: !card.traits
                             ? []
                             : card.traits.split(' • ').map((trait) => trait.toLowerCase()),
-                        type: card.card_type.toLowerCase(),
+                        type: normalizedCardType,
                         rarity: card.rarity,
                         amber: card.amber === '' ? 0 : parseInt(card.amber),
-                        armor: card.card_type.toLowerCase().startsWith('creature')
+                        armor: normalizedCardType.startsWith('creature')
                             ? card.armor !== ''
                                 ? parseInt(card.armor)
                                 : 0
@@ -293,6 +302,11 @@ class KeyforgeApiToKeytekiConverter {
                     let type = card.card_type;
                     if (card.card_type === 'Creature1' || card.card_type === 'Creature2') {
                         card.card_type = card.card_type.toLowerCase();
+                        type = 'Creature';
+                    } else if (
+                        card.card_type === 'Gigantic Creature Art' ||
+                        card.card_type === 'Gigantic Creature Base'
+                    ) {
                         type = 'Creature';
                     }
 
