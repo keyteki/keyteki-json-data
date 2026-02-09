@@ -315,6 +315,11 @@ class KeyforgeApiToKeytekiConverter {
                         .replace(' ', '')}/${card.rarity.toLowerCase()}`;
                     newCard = packCardMap[cardKey];
 
+                    if (!newCard) {
+                        // Card doesn't exist in pack map for this locale, skip it
+                        continue;
+                    }
+
                     if (!newCard.locale) {
                         // Just a safe check, but since 'en' is supposed to be loaded first, locale
                         // will already exist
@@ -375,17 +380,21 @@ class KeyforgeApiToKeytekiConverter {
                 card.power = cards[cardKey].power;
                 card.amber = cards[cardKey].amber;
                 card.armor = cards[cardKey].armor;
-            } else if (card.text.includes('Play only with the other half') && card.type === 'creature' && card.rarity === 'Special') {
+            } else if (
+                card.text.includes('Play only with the other half') &&
+                card.type === 'creature' &&
+                card.rarity === 'Special'
+            ) {
                 // Gigantics in More Mutation don't have the
                 // "creature1"/"creature2" types.  Card text is the only way to
                 // distinguish them.
 
-                let h = card.house.charAt(0).toUpperCase() + card.house.slice(1)
+                let h = card.house.charAt(0).toUpperCase() + card.house.slice(1);
                 if (h === 'Staralliance') {
-                    h = "Star Alliance"
+                    h = 'Star Alliance';
                 }
 
-                let cardKey = `${card.number}/Creature/${h}/rare`
+                let cardKey = `${card.number}/Creature/${h}/rare`;
                 let topHalf = cards[cardKey];
                 if (!topHalf) {
                     console.info('No card found', cardKey);
