@@ -9702,7 +9702,7 @@
             "type": "token creature",
             "rarity": "Token",
             "amber": 0,
-            "armor": null,
+            "armor": 2,
             "power": 1,
             "text": " \n",
             "locale": {
@@ -9755,7 +9755,7 @@
             "type": "token creature",
             "rarity": "Token",
             "amber": 0,
-            "armor": null,
+            "armor": 1,
             "power": 5,
             "text": "If there is a Mutant creature in play, Paragon enters play enraged.\n",
             "locale": {
