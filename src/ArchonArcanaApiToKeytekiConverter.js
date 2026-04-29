@@ -11,7 +11,10 @@ const ValidKeywords = [
     'hazardous',
     'assault',
     'poison',
-    'splash-attack'
+    'splash-attack',
+    'treachery',
+    'versatile',
+    'entrench'
 ];
 
 function httpRequest(url, options = {}) {
@@ -73,10 +76,10 @@ class DecksOfKeyforgeApiToKeytekiConverter {
             'fields=CardData.Power,CardData.Rarity,CardData.Name,CardData.House,CardData.Type,CardData.Image,' +
             'CardData.House,SetData.CardNumber,SetData.Meta,CardData.Text,CardData.SearchText,CardData.SearchFlavorText,' +
             'CardData.Traits,CardData.Armor,CardData.Source,CardData.Amber,CardData._rowID=RowID&' +
-            'where=((SetName="Winds of Exchange") AND (Meta="SpoilerNew" AND Name IS NOT NULL))&' + 
-            'join_on=CardData._pageName=SetData._pageName&group_by=CardData.Power,CardData.Rarity,CardData.Name,' + 
-            'CardData.House,CardData.Type,CardData.Image,CardData.House,SetData.CardNumber,SetData.Meta,CardData.Text,' + 
-            'CardData.SearchText,CardData.SearchFlavorText,CardData.Traits,CardData.Armor,CardData.Source,CardData.Amber,' + 
+            'where=((SetName="Winds of Exchange") AND (Meta="SpoilerNew" AND Name IS NOT NULL))&' +
+            'join_on=CardData._pageName=SetData._pageName&group_by=CardData.Power,CardData.Rarity,CardData.Name,' +
+            'CardData.House,CardData.Type,CardData.Image,CardData.House,SetData.CardNumber,SetData.Meta,CardData.Text,' +
+            'CardData.SearchText,CardData.SearchFlavorText,CardData.Traits,CardData.Armor,CardData.Source,CardData.Amber,' +
             'CardData._rowID&limit=300&offset=0&order_by=CardNumber';
 
         let packCardMap = pack.cards.reduce(function (map, obj) {
@@ -103,9 +106,9 @@ class DecksOfKeyforgeApiToKeytekiConverter {
         let generatedNumber = 900;
         let generatedNumberCards = {
         };
-        
+
         console.log(`Loading ${response.cargoquery.length} cards`);
-        
+
         for (let el of response.cargoquery) {
             let card = el.title;
 
@@ -131,7 +134,7 @@ class DecksOfKeyforgeApiToKeytekiConverter {
             if(card.Name === '') {
                 continue;
             }
-            
+
             // Fix the house of an anomaly to brobnar so that we can test them until they get a real house
             if (card.anomaly) { // TODO
                 card.house = 'brobnar';
@@ -141,11 +144,11 @@ class DecksOfKeyforgeApiToKeytekiConverter {
             while (cardId.endsWith(' ') || cardId.endsWith('?')) {
                 cardId = cardId.substring(0, cardId.length - 1);
             }
-            
+
             while (card.CardNumber.endsWith(' ') || card.CardNumber.endsWith('?')) {
                 card.CardNumber = card.CardNumber.substring(0, card.length - 1);
             }
-    
+
             if (cardId === '') {
                 cardId = 'card-' + card.CardNumber;
             }
@@ -245,7 +248,7 @@ class DecksOfKeyforgeApiToKeytekiConverter {
         let printedKeywords = potentialKeywords.filter(potentialKeyword => {
             return ValidKeywords.some(keyword => potentialKeyword.indexOf(keyword) === 0);
         });
-        
+
         console.log('printedKeywords: ', printedKeywords);
 
         return printedKeywords;

@@ -13,7 +13,8 @@ const ValidKeywords = [
     'poison',
     'splash-attack',
     'treachery',
-    'versatile'
+    'versatile',
+    'entrench'
 ];
 
 function httpRequest(url, options = {}) {
