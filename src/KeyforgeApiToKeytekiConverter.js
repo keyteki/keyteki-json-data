@@ -299,6 +299,11 @@ class KeyforgeApiToKeytekiConverter {
                 card.power = cards[cardKey].power;
                 card.amber = cards[cardKey].amber;
                 card.armor = cards[cardKey].armor;
+            } else if (card.type === 'gigantic creature base') {
+                card.type = 'creature';
+            } else if (card.type === 'gigantic creature art') {
+                card.type = 'creature';
+                card.id += '2';
             } else if (card.text.includes('Play only with the other half') && card.type === 'creature' && card.rarity === 'Special') {
                 // Gigantics in More Mutation don't have the
                 // "creature1"/"creature2" types.  Card text is the only way to
