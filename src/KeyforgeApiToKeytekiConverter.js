@@ -323,12 +323,6 @@ class KeyforgeApiToKeytekiConverter {
                     `${card.number}/Gigantic Creature Art/${card.house}/rare`,
                     `${card.number}/gigantic creature art/${card.house}/rare`
                 ];
-                if (card.house === 'staralliance') {
-                    keys.push(
-                        `${card.number}/Creature/Star Alliance/rare`,
-                        `${card.number}/Gigantic Creature Art/Star Alliance/rare`
-                    );
-                }
 
                 let topHalf = null;
                 for (let k of keys) {
