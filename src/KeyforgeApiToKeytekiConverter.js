@@ -311,23 +311,37 @@ class KeyforgeApiToKeytekiConverter {
                 // "creature1"/"creature2" types.  Card text is the only way to
                 // distinguish them.
 
-                let h = card.house.charAt(0).toUpperCase() + card.house.slice(1)
+                let h = card.house.charAt(0).toUpperCase() + card.house.slice(1);
                 if (h === 'Staralliance') {
-                    h = "Star Alliance"
+                    h = 'Star Alliance';
                 }
 
-                let cardKey = `${card.number}/Creature/${h}/rare`
-                let topHalf = cards[cardKey];
-                if (!topHalf) {
-                    console.info('No card found', cardKey);
+                let keys = [
+                    `${card.number}/creature/${card.house}/rare`,
+                    `${card.number}/Creature/${h}/rare`,
+                    `${card.number}/Gigantic Creature Art/${h}/rare`,
+                    `${card.number}/Gigantic Creature Art/${card.house}/rare`,
+                    `${card.number}/gigantic creature art/${card.house}/rare`
+                ];
+
+                let topHalf = null;
+                for (let k of keys) {
+                    if (cards[k]) {
+                        topHalf = cards[k];
+                        break;
+                    }
                 }
 
-                topHalf.text = card.text;
-                topHalf.power = card.power;
-                topHalf.amber = card.amber;
-                topHalf.armor = card.armor;
-                topHalf.traits = card.traits;
-                topHalf.id += '2';
+                if (topHalf) {
+                    topHalf.text = card.text;
+                    topHalf.power = card.power;
+                    topHalf.amber = card.amber;
+                    topHalf.armor = card.armor;
+                    topHalf.traits = card.traits;
+                    topHalf.id += '2';
+                } else {
+                    console.info('No card found', keys[0]);
+                }
             }
         }
 
