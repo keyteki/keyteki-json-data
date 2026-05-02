@@ -234,7 +234,9 @@ class KeyforgeApiToKeytekiConverter {
                 } else {
                     // Append locale information
                     let type = card.card_type;
-                    if (card.card_type === 'Creature1' || card.card_type === 'Creature2') {
+                    if (card.card_type === 'Creature1' || card.card_type === 'Creature2' ||
+                        card.card_type == 'Gigantic Creature Base' ||
+                        card.card_type == 'Gigantic Creature Art') {
                         card.card_type = card.card_type.toLowerCase();
                         type = 'Creature';
                     }
@@ -299,6 +301,11 @@ class KeyforgeApiToKeytekiConverter {
                 card.power = cards[cardKey].power;
                 card.amber = cards[cardKey].amber;
                 card.armor = cards[cardKey].armor;
+            } else if (card.type === 'gigantic creature base') {
+                card.type = 'creature';
+            } else if (card.type === 'gigantic creature art') {
+                card.type = 'creature';
+                card.id += '2';
             } else if (card.text.includes('Play only with the other half') && card.type === 'creature' && card.rarity === 'Special') {
                 // Gigantics in More Mutation don't have the
                 // "creature1"/"creature2" types.  Card text is the only way to
