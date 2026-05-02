@@ -234,7 +234,9 @@ class KeyforgeApiToKeytekiConverter {
                 } else {
                     // Append locale information
                     let type = card.card_type;
-                    if (card.card_type === 'Creature1' || card.card_type === 'Creature2') {
+                    if (card.card_type === 'Creature1' || card.card_type === 'Creature2' ||
+                        card.card_type == 'Gigantic Creature Base' ||
+                        card.card_type == 'Gigantic Creature Art') {
                         card.card_type = card.card_type.toLowerCase();
                         type = 'Creature';
                     }
