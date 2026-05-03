@@ -288,7 +288,9 @@ class KeyforgeApiToKeytekiConverter {
                 card.type = 'creature';
             } else if (card.type === 'creature2') {
                 card.type = 'creature';
-                card.id += '2';
+                if (!card.id.endsWith('2')) {
+                    card.id += '2';
+                }
 
                 let cardKey = `${card.number}/Creature1/${
                     card.house.charAt(0).toUpperCase() + card.house.slice(1)
@@ -305,7 +307,9 @@ class KeyforgeApiToKeytekiConverter {
                 card.type = 'creature';
             } else if (card.type === 'gigantic creature art') {
                 card.type = 'creature';
-                card.id += '2';
+                if (!card.id.endsWith('2')) {
+                    card.id += '2';
+                }
             } else if (card.text.includes('Play only with the other half') && card.type === 'creature' && card.rarity === 'Special') {
                 // Gigantics in More Mutation don't have the
                 // "creature1"/"creature2" types.  Card text is the only way to
@@ -338,7 +342,9 @@ class KeyforgeApiToKeytekiConverter {
                     topHalf.amber = card.amber;
                     topHalf.armor = card.armor;
                     topHalf.traits = card.traits;
-                    topHalf.id += '2';
+                    if (!topHalf.id.endsWith('2')) {
+                        topHalf.id += '2';
+                    }
                 } else {
                     console.info('No card found', keys[0]);
                 }
