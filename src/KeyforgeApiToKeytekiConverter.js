@@ -1,6 +1,35 @@
 const fs = require('fs');
 const request = require('request');
 
+// KeyForge API requires full BCP 47 locales (e.g. 'de-de'), not short codes
+const LANGUAGE_TO_API_LOCALE = {
+    en: 'en-us',
+    de: 'de-de',
+    es: 'es-es',
+    fr: 'fr-fr',
+    it: 'it-it',
+    pl: 'pl-pl',
+    pt: 'pt-pt',
+    ru: 'ru-ru',
+    th: 'th-th',
+    vi: 'vi-vi',
+    ko: 'ko-ko',
+    zhhans: 'zh-hans',
+    zhhant: 'zh-hant',
+    'zh-hans': 'zh-hans',
+    'zh-hant': 'zh-hant'
+};
+
+function toApiLocale(language) {
+    if (LANGUAGE_TO_API_LOCALE[language]) {
+        return LANGUAGE_TO_API_LOCALE[language];
+    }
+    if (language.includes('-')) {
+        return language;
+    }
+    return `${language}-${language}`;
+}
+
 const ValidKeywords = [
     'elusive',
     'skirmish',
@@ -48,24 +77,26 @@ function sleep(ms) {
 }
 
 class KeyforgeApiToKeytekiConverter {
-    async convert({ pathToPackFile, language, cyclePrefix }) {
+    async convert({ pathToPackFile, language, cyclePrefix, pagesToFetch }) {
         console.log('Loading ' + language + ' cards...');
 
         let pack = JSON.parse(fs.readFileSync(pathToPackFile));
 
         this.cyclePrefix = cyclePrefix;
 
-        let cards;
+        let result;
         try {
-            cards = await this.getCards(pack, language);
+            result = await this.getCards(pack, language, { pagesToFetch });
         } catch (err) {
             console.info(err);
             return;
         }
 
-        if (!cards) {
+        if (!result || !result.cards) {
             return;
         }
+
+        const cards = result.cards;
 
         cards.sort((a, b) => (a.number < b.number ? -1 : 1));
 
@@ -80,13 +111,17 @@ class KeyforgeApiToKeytekiConverter {
 
         fs.writeFileSync(pathToPackFile, JSON.stringify(pack, null, 4) + '\n');
         console.log('Import of cards for', pack.name, 'has been completed.');
+
+        if (result.pagesWithNewCards) {
+            return { pagesWithNewCards: result.pagesWithNewCards };
+        }
     }
 
-    async getCards(pack, language) {
+    async getCards(pack, language, options = {}) {
+        const { pagesToFetch } = options;
         const pageSize = 10;
         const apiUrl = 'https://www.keyforgegame.com/api/decks';
-
-        console.info('Fetching the deck list...');
+        const apiLocale = toApiLocale(language);
 
         let packCardMap = pack.cards.reduce(function (map, obj) {
             let cardKey = `${obj.number}/${obj.type}/${obj.house}/${obj.rarity.toLowerCase()}`;
@@ -98,49 +133,72 @@ class KeyforgeApiToKeytekiConverter {
         let response;
         let cards = {};
         let pageErrors = [];
+        let pagesWithNewCards = null;
+        let pageIteration;
 
-        let responseReceived = false;
+        if (pagesToFetch && pagesToFetch.length > 0) {
+            const pagesSorted = [...new Set(pagesToFetch)].sort((a, b) => a - b);
+            pageIteration = { type: 'partial', pages: pagesSorted };
+            console.info(
+                `Fetching ${pagesSorted.length} pages that contained new cards (from previous language run)`
+            );
+        } else {
+            console.info('Fetching the deck list...');
+            let responseReceived = false;
 
-        while (!responseReceived) {
-            try {
-                response = await httpRequest(`${apiUrl}/?expansion=${pack.ids[0]}`, {
-                    json: true,
-                    headers: { 'Accept-Language': language }
-                });
-                responseReceived = true;
-            } catch (err) {
-                let res = err.res;
+            while (!responseReceived) {
+                try {
+                    response = await httpRequest(`${apiUrl}/?expansion=${pack.ids[0]}`, {
+                        json: true,
+                        headers: { 'Accept-Language': apiLocale }
+                    });
+                    responseReceived = true;
+                } catch (err) {
+                    let res = err.res;
 
-                if (res && res.statusCode === 429) {
-                    let timeoutMatch = res.body.detail.match(/(\d+)/);
-                    let timeout = timeoutMatch[1] * 2;
+                    if (res && res.statusCode === 429) {
+                        let timeoutMatch = res.body.detail.match(/(\d+)/);
+                        let timeout = timeoutMatch[1] * 2;
 
-                    console.info(`API calls being throttled, sleeping for ${timeout} seconds`);
+                        console.info(`API calls being throttled, sleeping for ${timeout} seconds`);
 
-                    await sleep(timeout * 1000);
+                        await sleep(timeout * 1000);
 
-                    continue;
-                } else {
-                    console.info(err.res.body);
-                    return;
+                        continue;
+                    } else {
+                        console.info(err.res.body);
+                        return;
+                    }
                 }
             }
+
+            let deckCount = response.count;
+            let totalPages = Math.ceil(deckCount / pageSize);
+            pageIteration = { type: 'full', totalPages };
+            pagesWithNewCards = new Set();
+
+            console.info(`Fetching all ${deckCount} decks, which is ${totalPages} pages`);
+            console.info(`Looking for ${pack.cardCount} cards`);
         }
-
-        let deckCount = response.count;
-        let totalPages = Math.ceil(deckCount / pageSize);
-
-        console.info(`Fetching all ${deckCount} decks, which is ${totalPages} pages`);
-
-        console.info(`Looking for ${pack.cardCount} cards`);
 
         let stupidCards = { MM341: true, MoMu324: true };
 
-        for (let i = 1; i <= totalPages; i++) {
+        let pageNumbers;
+        if (pageIteration.type === 'partial') {
+            pageNumbers = pageIteration.pages;
+        } else {
+            const totalPages = pageIteration.totalPages;
+            pageNumbers = Array.from({ length: totalPages }, (_, idx) => idx + 1);
+        }
+
+        for (let idx = 0; idx < pageNumbers.length; idx++) {
+            const i = pageNumbers[idx];
+            let pageContributed = false;
+
             try {
                 response = await httpRequest(
                     `${apiUrl}/?page=${i}&links=cards&page_size=${pageSize}&expansion=${pack.ids[0]}&ordering=date`,
-                    { json: true, headers: { 'Accept-Language': language } }
+                    { json: true, headers: { 'Accept-Language': apiLocale } }
                 );
             } catch (err) {
                 let res = err.res;
@@ -153,7 +211,7 @@ class KeyforgeApiToKeytekiConverter {
 
                     await sleep(timeout * 1000);
 
-                    i--;
+                    idx--;
                     continue;
                 } else {
                     pageErrors.push(i);
@@ -196,6 +254,15 @@ class KeyforgeApiToKeytekiConverter {
 
                 let newCard = null;
 
+                // Normalize gigantic creature types to "creature" for MoMu
+                let normalizedCardType = card.card_type.toLowerCase();
+                if (
+                    normalizedCardType === 'gigantic creature art' ||
+                    normalizedCardType === 'gigantic creature base'
+                ) {
+                    normalizedCardType = 'creature';
+                }
+
                 if (language === 'en') {
                     newCard = {
                         id: card.card_title
@@ -211,10 +278,10 @@ class KeyforgeApiToKeytekiConverter {
                         traits: !card.traits
                             ? []
                             : card.traits.split(' • ').map((trait) => trait.toLowerCase()),
-                        type: card.card_type.toLowerCase(),
+                        type: normalizedCardType,
                         rarity: card.rarity,
                         amber: card.amber === '' ? 0 : parseInt(card.amber),
-                        armor: card.card_type.toLowerCase().startsWith('creature')
+                        armor: normalizedCardType.startsWith('creature')
                             ? card.armor !== ''
                                 ? parseInt(card.armor)
                                 : 0
@@ -234,10 +301,12 @@ class KeyforgeApiToKeytekiConverter {
                 } else {
                     // Append locale information
                     let type = card.card_type;
-                    if (card.card_type === 'Creature1' || card.card_type === 'Creature2' ||
-                        card.card_type == 'Gigantic Creature Base' ||
-                        card.card_type == 'Gigantic Creature Art') {
-                        card.card_type = card.card_type.toLowerCase();
+                    if (
+                        card.card_type === 'Creature1' ||
+                        card.card_type === 'Creature2' ||
+                        card.card_type === 'Gigantic Creature Art' ||
+                        card.card_type === 'Gigantic Creature Base'
+                    ) {
                         type = 'Creature';
                     }
 
@@ -245,6 +314,11 @@ class KeyforgeApiToKeytekiConverter {
                         .toLowerCase()
                         .replace(' ', '')}/${card.rarity.toLowerCase()}`;
                     newCard = packCardMap[cardKey];
+
+                    if (!newCard) {
+                        // Card doesn't exist in pack map for this locale, skip it
+                        continue;
+                    }
 
                     if (!newCard.locale) {
                         // Just a safe check, but since 'en' is supposed to be loaded first, locale
@@ -266,6 +340,11 @@ class KeyforgeApiToKeytekiConverter {
                     }, {});
 
                 cards[cardKey] = newCard;
+                pageContributed = true;
+            }
+
+            if (pageContributed && pagesWithNewCards) {
+                pagesWithNewCards.add(i);
             }
 
             if (Object.values(cards).length == pack.cardCount) {
@@ -274,9 +353,9 @@ class KeyforgeApiToKeytekiConverter {
                 break;
             }
 
-            if (i % 10 === 0) {
+            if ((idx + 1) % 10 === 0) {
                 console.info(
-                    `Processed ${i} pages, ${totalPages - i} to go. Have ${
+                    `Processed ${idx + 1} of ${pageNumbers.length} pages. Have ${
                         Object.values(cards).length
                     } cards so far, expecting ${pack.cardCount}`
                 );
@@ -310,7 +389,11 @@ class KeyforgeApiToKeytekiConverter {
                 if (!card.id.endsWith('2')) {
                     card.id += '2';
                 }
-            } else if (card.text.includes('Play only with the other half') && card.type === 'creature' && card.rarity === 'Special') {
+            } else if (
+                card.text.includes('Play only with the other half') &&
+                card.type === 'creature' &&
+                card.rarity === 'Special'
+            ) {
                 // Gigantics in More Mutation don't have the
                 // "creature1"/"creature2" types.  Card text is the only way to
                 // distinguish them.
@@ -351,7 +434,12 @@ class KeyforgeApiToKeytekiConverter {
             }
         }
 
-        return Object.values(cards);
+        return {
+            cards: Object.values(cards),
+            pagesWithNewCards: pagesWithNewCards
+                ? Array.from(pagesWithNewCards).sort((a, b) => a - b)
+                : undefined
+        };
     }
 
     parseKeywords(text) {
