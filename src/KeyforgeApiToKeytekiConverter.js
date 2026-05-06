@@ -42,7 +42,8 @@ const ValidKeywords = [
     'poison',
     'splash-attack',
     'treachery',
-    'versatile'
+    'versatile',
+    'entrench'
 ];
 
 function httpRequest(url, options = {}) {
@@ -300,10 +301,9 @@ class KeyforgeApiToKeytekiConverter {
                 } else {
                     // Append locale information
                     let type = card.card_type;
-                    if (card.card_type === 'Creature1' || card.card_type === 'Creature2') {
-                        card.card_type = card.card_type.toLowerCase();
-                        type = 'Creature';
-                    } else if (
+                    if (
+                        card.card_type === 'Creature1' ||
+                        card.card_type === 'Creature2' ||
                         card.card_type === 'Gigantic Creature Art' ||
                         card.card_type === 'Gigantic Creature Base'
                     ) {
@@ -367,7 +367,9 @@ class KeyforgeApiToKeytekiConverter {
                 card.type = 'creature';
             } else if (card.type === 'creature2') {
                 card.type = 'creature';
-                card.id += '2';
+                if (!card.id.endsWith('2')) {
+                    card.id += '2';
+                }
 
                 let cardKey = `${card.number}/Creature1/${
                     card.house.charAt(0).toUpperCase() + card.house.slice(1)
@@ -380,6 +382,13 @@ class KeyforgeApiToKeytekiConverter {
                 card.power = cards[cardKey].power;
                 card.amber = cards[cardKey].amber;
                 card.armor = cards[cardKey].armor;
+            } else if (card.type === 'gigantic creature base') {
+                card.type = 'creature';
+            } else if (card.type === 'gigantic creature art') {
+                card.type = 'creature';
+                if (!card.id.endsWith('2')) {
+                    card.id += '2';
+                }
             } else if (
                 card.text.includes('Play only with the other half') &&
                 card.type === 'creature' &&
@@ -394,18 +403,34 @@ class KeyforgeApiToKeytekiConverter {
                     h = 'Star Alliance';
                 }
 
-                let cardKey = `${card.number}/Creature/${h}/rare`;
-                let topHalf = cards[cardKey];
-                if (!topHalf) {
-                    console.info('No card found', cardKey);
+                let keys = [
+                    `${card.number}/creature/${card.house}/rare`,
+                    `${card.number}/Creature/${h}/rare`,
+                    `${card.number}/Gigantic Creature Art/${h}/rare`,
+                    `${card.number}/Gigantic Creature Art/${card.house}/rare`,
+                    `${card.number}/gigantic creature art/${card.house}/rare`
+                ];
+
+                let topHalf = null;
+                for (let k of keys) {
+                    if (cards[k]) {
+                        topHalf = cards[k];
+                        break;
+                    }
                 }
 
-                topHalf.text = card.text;
-                topHalf.power = card.power;
-                topHalf.amber = card.amber;
-                topHalf.armor = card.armor;
-                topHalf.traits = card.traits;
-                topHalf.id += '2';
+                if (topHalf) {
+                    topHalf.text = card.text;
+                    topHalf.power = card.power;
+                    topHalf.amber = card.amber;
+                    topHalf.armor = card.armor;
+                    topHalf.traits = card.traits;
+                    if (!topHalf.id.endsWith('2')) {
+                        topHalf.id += '2';
+                    }
+                } else {
+                    console.info('No card found', keys[0]);
+                }
             }
         }
 
