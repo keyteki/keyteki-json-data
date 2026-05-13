@@ -77,6 +77,306 @@ function sleep(ms) {
 }
 
 class KeyforgeApiToKeytekiConverter {
+    processApiCard(card, language, packCardMap) {
+        if (card.is_anomaly || card.card_number.startsWith('S')) {
+            card.house = 'brobnar';
+        }
+
+        if (card.rarity === 'FIXED') {
+            card.rarity = 'Special';
+        }
+
+        let normalizedCardType = card.card_type.toLowerCase();
+        if (
+            normalizedCardType === 'gigantic creature art' ||
+            normalizedCardType === 'gigantic creature base'
+        ) {
+            normalizedCardType = 'creature';
+        }
+
+        let newCard;
+        if (language === 'en') {
+            newCard = {
+                id: card.card_title
+                    .toLowerCase()
+                    .replace(/[?.!",\u201c\u201d]/gi, '')
+                    .replace(/[ \u2018\u2019]/gi, '-'),
+                name: card.card_title,
+                number: card.card_number,
+                image: card.front_image,
+                expansion: card.expansion,
+                house: card.house.toLowerCase().replace(' ', ''),
+                keywords: this.parseKeywords(card.card_text),
+                traits: !card.traits
+                    ? []
+                    : card.traits.split(' \u2022 ').map((trait) => trait.toLowerCase()),
+                type: normalizedCardType,
+                rarity: card.rarity,
+                amber: card.amber === '' || card.amber == null ? 0 : parseInt(card.amber),
+                armor: normalizedCardType.startsWith('creature')
+                    ? card.armor != null && card.armor !== ''
+                        ? parseInt(card.armor)
+                        : 0
+                    : null,
+                power: card.power === '' || card.power == null ? null : parseInt(card.power),
+                text: card.card_text,
+                locale: {
+                    en: {
+                        name: card.card_title
+                    }
+                }
+            };
+
+            if (newCard.rarity === 'Evil Twin') {
+                newCard.id = newCard.id + '-evil-twin';
+            }
+        } else {
+            let type = card.card_type;
+            if (
+                type === 'Creature1' ||
+                type === 'Creature2' ||
+                type === 'Gigantic Creature Art' ||
+                type === 'Gigantic Creature Base'
+            ) {
+                type = 'Creature';
+            }
+
+            let cardKey = `${card.card_number}/${type.toLowerCase()}/${card.house
+                .toLowerCase()
+                .replace(' ', '')}/${card.rarity.toLowerCase()}`;
+            newCard = packCardMap[cardKey] || packCardMap[card.card_number];
+
+            if (!newCard) {
+                return null;
+            }
+
+            if (!newCard.locale) {
+                newCard.locale = {};
+            }
+
+            newCard.locale[language.replace('-', '')] = {
+                name: card.card_title
+            };
+        }
+
+        // Sort locale by key
+        newCard.locale = Object.keys(newCard.locale)
+            .sort()
+            .reduce((newLocale, currentValue) => {
+                newLocale[currentValue] = newCard.locale[currentValue];
+                return newLocale;
+            }, {});
+
+        return newCard;
+    }
+
+    mergeCard(existing, incoming) {
+        // Update card data fields from incoming, preserving existing locale
+        let existingLocale = existing.locale || {};
+        let incomingLocale = incoming.locale || {};
+
+        // Merge all fields from incoming
+        for (let key of Object.keys(incoming)) {
+            if (key === 'locale') {
+                continue;
+            }
+            existing[key] = incoming[key];
+        }
+
+        // Merge locales: incoming wins for same language, existing preserved for others
+        existing.locale = Object.assign({}, existingLocale, incomingLocale);
+
+        // Sort locale by key
+        existing.locale = Object.keys(existing.locale)
+            .sort()
+            .reduce((sorted, key) => {
+                sorted[key] = existing.locale[key];
+                return sorted;
+            }, {});
+    }
+
+    async convertDeck({ pathToPackFile, language, cyclePrefix, deckId, clear = false }) {
+        console.log(`Loading cards from deck ${deckId} (${language})...`);
+
+        let pack = JSON.parse(fs.readFileSync(pathToPackFile));
+
+        this.cyclePrefix = cyclePrefix;
+
+        const apiUrl = `https://www.keyforgegame.com/api/decks/${deckId}/?links=cards`;
+        const apiLocale = toApiLocale(language);
+
+        let response;
+        let responseReceived = false;
+
+        while (!responseReceived) {
+            try {
+                response = await httpRequest(apiUrl, {
+                    json: true,
+                    headers: { 'Accept-Language': apiLocale }
+                });
+                responseReceived = true;
+            } catch (err) {
+                if (err.res && err.res.statusCode === 429) {
+                    let timeoutMatch = err.res.body.detail.match(/(\d+)/);
+                    let timeout = timeoutMatch[1] * 2;
+                    console.info(`API calls being throttled, sleeping for ${timeout} seconds`);
+                    await sleep(timeout * 1000);
+                    continue;
+                } else {
+                    console.info('Failed to fetch deck:', err.message || err);
+                    return;
+                }
+            }
+        }
+
+        if (!response || !response._linked || !response._linked.cards) {
+            console.info('No cards found in deck response');
+            return;
+        }
+
+        console.info(`Deck contains ${response._linked.cards.length} cards`);
+
+        let packCardMap = {};
+        for (let card of pack.cards) {
+            packCardMap[card.number] = card;
+        }
+
+        let updatedCount = 0;
+        let addedCount = 0;
+
+        // Group gigantic creature halves by card_number
+        let giganticPairs = {};
+
+        for (let card of response._linked.cards) {
+            if (!pack.ids.includes('' + card.expansion)) {
+                continue;
+            }
+
+            if (card.is_maverick) {
+                continue;
+            }
+
+            let cardTypeLower = card.card_type.toLowerCase();
+            if (
+                cardTypeLower === 'gigantic creature base' ||
+                cardTypeLower === 'gigantic creature art'
+            ) {
+                if (!giganticPairs[card.card_number]) {
+                    giganticPairs[card.card_number] = {};
+                }
+                giganticPairs[card.card_number][cardTypeLower] = card;
+                continue;
+            }
+
+            let newCard = this.processApiCard(card, language, packCardMap);
+            if (!newCard) {
+                continue;
+            }
+
+            if (language !== 'en') {
+                updatedCount++;
+                continue;
+            }
+
+            if (packCardMap[card.card_number]) {
+                let idx = pack.cards.findIndex((c) => c.number === card.card_number);
+                if (idx !== -1) {
+                    if (clear) {
+                        pack.cards[idx] = newCard;
+                    } else {
+                        this.mergeCard(pack.cards[idx], newCard);
+                    }
+                    updatedCount++;
+                }
+            } else {
+                pack.cards.push(newCard);
+                addedCount++;
+            }
+        }
+
+        // Process gigantic creature pairs
+        for (let [cardNumber, pair] of Object.entries(giganticPairs)) {
+            let base = pair['gigantic creature base'];
+            let art = pair['gigantic creature art'];
+
+            if (language !== 'en') {
+                // For non-en, just update locale on existing cards
+                if (base) {
+                    this.processApiCard(base, language, packCardMap);
+                    updatedCount++;
+                }
+                if (art) {
+                    this.processApiCard(art, language, packCardMap);
+                    updatedCount++;
+                }
+                continue;
+            }
+
+            // Art half (the "top" card in pack, gets rarity from art card)
+            if (art) {
+                let artCard = this.processApiCard(art, language, packCardMap);
+                if (artCard) {
+                    // Art half has no real data, copy from base if available
+                    if (base) {
+                        artCard.power =
+                            base.power === '' || base.power == null ? null : parseInt(base.power);
+                        artCard.armor =
+                            base.armor != null && base.armor !== '' ? parseInt(base.armor) : 0;
+                        artCard.text = base.card_text;
+                        artCard.traits = !base.traits
+                            ? []
+                            : base.traits.split(' \u2022 ').map((trait) => trait.toLowerCase());
+                        artCard.keywords = this.parseKeywords(base.card_text);
+                        artCard.amber =
+                            base.amber === '' || base.amber == null ? 0 : parseInt(base.amber);
+                    }
+                    let existingIdx = pack.cards.findIndex(
+                        (c) => c.number === cardNumber && c.rarity === artCard.rarity
+                    );
+                    if (existingIdx !== -1) {
+                        if (clear) {
+                            pack.cards[existingIdx] = artCard;
+                        } else {
+                            this.mergeCard(pack.cards[existingIdx], artCard);
+                        }
+                        updatedCount++;
+                    } else {
+                        pack.cards.push(artCard);
+                        addedCount++;
+                    }
+                }
+            }
+
+            // Base half (the "bottom" card, gets id + '2')
+            if (base) {
+                let baseCard = this.processApiCard(base, language, packCardMap);
+                if (baseCard) {
+                    if (!baseCard.id.endsWith('2')) {
+                        baseCard.id += '2';
+                    }
+                    let existingIdx = pack.cards.findIndex(
+                        (c) => c.number === cardNumber && c.rarity === baseCard.rarity
+                    );
+                    if (existingIdx !== -1) {
+                        if (clear) {
+                            pack.cards[existingIdx] = baseCard;
+                        } else {
+                            this.mergeCard(pack.cards[existingIdx], baseCard);
+                        }
+                        updatedCount++;
+                    } else {
+                        pack.cards.push(baseCard);
+                        addedCount++;
+                    }
+                }
+            }
+        }
+
+        pack.cards.sort((a, b) => (a.number < b.number ? -1 : 1));
+        fs.writeFileSync(pathToPackFile, JSON.stringify(pack, null, 4) + '\n');
+        console.info(`Done. Updated ${updatedCount} cards, added ${addedCount} new cards.`);
+    }
+
     async convert({ pathToPackFile, language, cyclePrefix, pagesToFetch }) {
         console.log('Loading ' + language + ' cards...');
 
