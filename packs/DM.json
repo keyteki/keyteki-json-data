@@ -9530,7 +9530,7 @@
             }
         },
         {
-            "id": "boosted-b4-rry",
+            "id": "boosted-b4-rry2",
             "name": "Boosted B4-RRY",
             "number": "160",
             "image": "https://mastervault-storage-prod.s3.amazonaws.com/media/card_front/en/928_160_49980c56307d_en.png",
@@ -9543,7 +9543,7 @@
             "type": "creature",
             "rarity": "Special",
             "amber": 0,
-            "armor": null,
+            "armor": 2,
             "power": 7,
             "text": "(Play only with the other half of Boosted B4-RRY.)\nPlay/After Fight/After Reap: Choose one:\nTake control of an enemy artifact. While under your control, it belongs to house Shadows (instead of its original house).\nPlay a random card from your opponent’s archives as if it were yours.\n",
             "locale": {
@@ -9583,7 +9583,7 @@
             }
         },
         {
-            "id": "boosted-b4-rry2",
+            "id": "boosted-b4-rry",
             "name": "Boosted B4-RRY",
             "number": "160",
             "image": "https://mastervault-storage-prod.s3.amazonaws.com/media/card_front/en/928_160_67897e890546_en.png",
@@ -9596,7 +9596,7 @@
             "type": "creature",
             "rarity": "Rare",
             "amber": 0,
-            "armor": null,
+            "armor": 2,
             "power": 7,
             "text": "(Play only with the other half of Boosted B4-RRY.)\nPlay/After Fight/After Reap: Choose one:\nTake control of an enemy artifact. While under your control, it belongs to house Shadows (instead of its original house).\nPlay a random card from your opponent’s archives as if it were yours.\n",
             "locale": {
@@ -12385,7 +12385,7 @@
             }
         },
         {
-            "id": "zomok2",
+            "id": "zomok",
             "name": "Zomok",
             "number": "213",
             "image": "https://mastervault-storage-prod.s3.amazonaws.com/media/card_front/en/928_213_02de64b9d6a8_en.png",
@@ -12399,7 +12399,7 @@
             "type": "creature",
             "rarity": "Rare",
             "amber": 0,
-            "armor": null,
+            "armor": 2,
             "power": 16,
             "text": "(Play only with the other half of Zomok.)\nWhile Zomok is attacking, ignore taunt, elusive, poison, hazardous, and invulnerable.\nAfter Fight: Deal 2 to a creature for each forged key.\n",
             "locale": {
@@ -12439,7 +12439,7 @@
             }
         },
         {
-            "id": "zomok",
+            "id": "zomok2",
             "name": "Zomok",
             "number": "213",
             "image": "https://mastervault-storage-prod.s3.amazonaws.com/media/card_front/en/928_213_c95fcac8441d_en.png",
@@ -12453,7 +12453,7 @@
             "type": "creature",
             "rarity": "Special",
             "amber": 0,
-            "armor": null,
+            "armor": 2,
             "power": 16,
             "text": "(Play only with the other half of Zomok.)\nWhile Zomok is attacking, ignore taunt, elusive, poison, hazardous, and invulnerable.\nAfter Fight: Deal 2 to a creature for each forged key.\n",
             "locale": {
