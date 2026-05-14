@@ -9543,7 +9543,7 @@
             "type": "creature",
             "rarity": "Special",
             "amber": 0,
-            "armor": null,
+            "armor": 2,
             "power": 7,
             "text": "(Play only with the other half of Boosted B4-RRY.)\nPlay/After Fight/After Reap: Choose one:\nTake control of an enemy artifact. While under your control, it belongs to house Shadows (instead of its original house).\nPlay a random card from your opponent’s archives as if it were yours.\n",
             "locale": {
@@ -9596,7 +9596,7 @@
             "type": "creature",
             "rarity": "Rare",
             "amber": 0,
-            "armor": null,
+            "armor": 2,
             "power": 7,
             "text": "(Play only with the other half of Boosted B4-RRY.)\nPlay/After Fight/After Reap: Choose one:\nTake control of an enemy artifact. While under your control, it belongs to house Shadows (instead of its original house).\nPlay a random card from your opponent’s archives as if it were yours.\n",
             "locale": {
@@ -12399,7 +12399,7 @@
             "type": "creature",
             "rarity": "Rare",
             "amber": 0,
-            "armor": null,
+            "armor": 2,
             "power": 16,
             "text": "(Play only with the other half of Zomok.)\nWhile Zomok is attacking, ignore taunt, elusive, poison, hazardous, and invulnerable.\nAfter Fight: Deal 2 to a creature for each forged key.\n",
             "locale": {
@@ -12453,7 +12453,7 @@
             "type": "creature",
             "rarity": "Special",
             "amber": 0,
-            "armor": null,
+            "armor": 2,
             "power": 16,
             "text": "(Play only with the other half of Zomok.)\nWhile Zomok is attacking, ignore taunt, elusive, poison, hazardous, and invulnerable.\nAfter Fight: Deal 2 to a creature for each forged key.\n",
             "locale": {
